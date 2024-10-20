@@ -5,4 +5,4 @@ sites:
     description_css: ".splunk-body.shorter-height"  # 在父元素内部的描述选择器
     link_css: "a.headline"  # 在父元素内部的链接选择器
     time_css: ".time"  # 时间选择器
-    use_headless_browser: false
+    use_headless_browser: true
