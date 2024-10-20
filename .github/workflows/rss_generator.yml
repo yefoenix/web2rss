@@ -3,7 +3,8 @@ name: Generate RSS Feed
 on:
   push:
     branches:
-      - master
+      - main  # 或你想要的分支
+  workflow_dispatch:  # 允许手动触发
 
 jobs:
   build:
