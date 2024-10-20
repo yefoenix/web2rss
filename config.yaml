@@ -13,3 +13,10 @@ sites:
     link_css: a
     time_css: ".time"
     use_headless_browser: true
+  - url: https://www.rapid7.com/blog/tag/research/
+    block_css: a.blog-all-posts__wrapper--item
+    title_css: h3
+    description_css: p
+    link_css: a
+    time_css: ".time"
+    use_headless_browser: true
