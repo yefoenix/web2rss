@@ -6,3 +6,10 @@ sites:
     link_css: "a.headline"  # 在父元素内部的链接选择器
     time_css: ".time"  # 时间选择器
     use_headless_browser: true
+  - url: https://www.sonarsource.com/blog/tag/security/
+    block_css: a.css-w2zjnb.e1yv2nyc5
+    title_css: h3
+    description_css: .css-k9llvm.e1yv2nyc3
+    link_css: a
+    time_css: ".time"
+    use_headless_browser: true
