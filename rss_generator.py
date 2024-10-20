@@ -69,7 +69,7 @@ def fetch_blog_posts(config):
 def generate_rss(posts, site_url):
     feed = FeedGenerator()
     feed.id(site_url)
-    feed.title("RSS Feed for " + site_url)
+    feed.title(site_url)
     feed.link(href=site_url)
     feed.description("Latest posts from " + site_url)
 
