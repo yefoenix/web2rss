@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import time as time_module
 from soupsieve.util import SelectorSyntaxError
+from datetime import datetime
 
 def load_config(config_path='config.yaml'):
     with open(config_path, 'r', encoding='utf-8') as file:
@@ -15,16 +16,17 @@ def load_config(config_path='config.yaml'):
 
 def fetch_blog_posts(config):
     print(f"Fetching posts from: {config['url']}")
-    print(f"Using selectors: title={config['title_css']}, description={config['description_css']}, time={config['time_css']}, link={config['link_css']}")
+    print(f"Using selectors: block={config['block_css']}, title={config['title_css']}, description={config['description_css']}, time={config['time_css']}, link={config['link_css']}")
 
     if config['use_headless_browser']:
-        # Set up headless browser
         chrome_options = Options()
         chrome_options.add_argument("--headless")
         chrome_options.add_argument("--no-sandbox")
         chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.binary_location = "/usr/bin/chromium-browser"
+
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
-        
+
         driver.get(config['url'])
         time_module.sleep(3)
         soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -33,29 +35,35 @@ def fetch_blog_posts(config):
         response = requests.get(config['url'])
         soup = BeautifulSoup(response.content, 'html.parser')
 
-    titles = soup.select(config['title_css'])
-    descriptions = soup.select(config['description_css'])
-
-    # 尝试获取时间
-    try:
-        times = soup.select(config['time_css'])
-    except SelectorSyntaxError as e:
-        print(f"CSS Selector error for time: {e}")
-        times = []
+    # 基于文本块选择器获取所有相关块
+    blocks = soup.select(config['block_css'])
 
     posts = []
-    for title, description in zip(titles, descriptions):
-        post_time = times[0].get_text(strip=True) if times else "Unknown Time"
-        
-        # 获取链接
-        link = title.select_one(config['link_css'])['href'] if title.select_one(config['link_css']) else "No Link"
-        
-        posts.append({
-            'title': title.get_text(strip=True),
-            'description': description.get_text(strip=True),
-            'pub_date': post_time,
-            'link': link
-        })
+    post_time = None
+    if config['time_css']:
+        try:
+            times = soup.select(config['time_css'])
+            post_time = times[0].get_text(strip=True) if times else None
+        except SelectorSyntaxError as e:
+            print(f"CSS Selector error for time: {e}")
+
+    for block in blocks:
+        title = block.select_one(config['title_css'])
+        description = block.select_one(config['description_css'])
+        link = block.select_one(config['link_css'])
+
+        if title and description and link:
+            # 如果没有获取到有效时间，则使用今天的日期
+            if post_time is None:
+                post_time = datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ')
+
+            posts.append({
+                'title': title.get_text(strip=True),
+                'description': description.get_text(strip=True),
+                'pub_date': post_time,
+                'link': link['href']
+            })
+
     return posts
 
 def generate_rss(posts, site_url):
@@ -71,8 +79,8 @@ def generate_rss(posts, site_url):
         entry.link(href=post['link'])
         entry.description(post['description'])
         entry.pubDate(post['pub_date'])
-    
-    return feed.rss_str(pretty=True)
+
+    return feed.rss_str(pretty=True).decode('utf-8')  # 确保返回字符串
 
 def main():
     config = load_config()
@@ -84,9 +92,9 @@ def main():
             
         rss_feed = generate_rss(posts, site['url'])
         
-        file_name = f"rss_feed_{site['url'].replace('https://', '').replace('/', '_')}.xml"
+        file_name = f"rss/rss_feed_{site['url'].replace('https://', '').replace('/', '_')}.xml"
         with open(file_name, 'w', encoding='utf-8') as file:
-            file.write(rss_feed)
+            file.write(rss_feed)  # 确保写入的是字符串
         print(f"Generated RSS feed for {site['url']} -> {file_name}")
 
 if __name__ == '__main__':

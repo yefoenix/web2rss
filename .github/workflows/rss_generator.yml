@@ -3,31 +3,35 @@ name: Generate RSS Feed
 on:
   push:
     branches:
-      - main  # 或你想要的分支
-  workflow_dispatch:  # 允许手动触发
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.9'  # 你可以选择合适的版本
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'  # 或其他你需要的版本
 
-      - name: Install dependencies
-        run: |
-          pip install requests beautifulsoup4 feedgen pyyaml selenium webdriver-manager
+    - name: Install dependencies
+      run: |
+        sudo apt-get install -y chromium-browser
+        pip install -r requirements.txt  # 确保requirements.txt包含selenium和其他依赖
 
-      - name: Run RSS generator
-        run: python rss_generator.py
+    - name: Run RSS generator
+      env:
+        DISPLAY: ':99'  # 设置无头浏览器显示
+      run: |
+        Xvfb :99 -ac &
+        python rss_generator.py  # 运行你的Python脚本
 
-      - name: Upload RSS feed
-        uses: actions/upload-artifact@v3
-        with:
-          name: rss_feed
-          path: rss_feed_*.xml  # 上传所有生成的 RSS 文件
+    - name: Upload RSS feed
+      uses: actions/upload-artifact@v3
+      with:
+        name: rss-feed
+        path: rss_feed_*.xml  # 上传生成的RSS文件
