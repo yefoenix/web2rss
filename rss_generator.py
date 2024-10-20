@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import time as time_module
-from soupsieve.util import SelectorSyntaxError  # 导入 SelectorSyntaxError
+from soupsieve.util import SelectorSyntaxError
 
 def load_config(config_path='config.yaml'):
     with open(config_path, 'r', encoding='utf-8') as file:
@@ -15,7 +15,7 @@ def load_config(config_path='config.yaml'):
 
 def fetch_blog_posts(config):
     print(f"Fetching posts from: {config['url']}")
-    print(f"Using selectors: title={config['title_css']}, description={config['description_css']}, time={config['time_css']}")
+    print(f"Using selectors: title={config['title_css']}, description={config['description_css']}, time={config['time_css']}, link={config['link_css']}")
 
     if config['use_headless_browser']:
         # Set up headless browser
@@ -26,32 +26,35 @@ def fetch_blog_posts(config):
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
         
         driver.get(config['url'])
-        time_module.sleep(3)  # 等待页面加载
+        time_module.sleep(3)
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         driver.quit()
     else:
         response = requests.get(config['url'])
         soup = BeautifulSoup(response.content, 'html.parser')
 
-    # 获取标题和描述
     titles = soup.select(config['title_css'])
     descriptions = soup.select(config['description_css'])
 
-    # 尝试获取时间，处理可能的异常
+    # 尝试获取时间
     try:
         times = soup.select(config['time_css'])
     except SelectorSyntaxError as e:
         print(f"CSS Selector error for time: {e}")
-        times = []  # 如果发生错误，返回空列表
+        times = []
 
     posts = []
     for title, description in zip(titles, descriptions):
-        post_time = times[0].get_text(strip=True) if times else "Unknown Time"  # 如果没有时间，设置为 "Unknown Time"
+        post_time = times[0].get_text(strip=True) if times else "Unknown Time"
+        
+        # 获取链接
+        link = title.select_one(config['link_css'])['href'] if title.select_one(config['link_css']) else "No Link"
+        
         posts.append({
             'title': title.get_text(strip=True),
             'description': description.get_text(strip=True),
             'pub_date': post_time,
-            'link': title.find('a')['href']
+            'link': link
         })
     return posts
 
@@ -75,7 +78,7 @@ def main():
     config = load_config()
     for site in config['sites']:
         posts = fetch_blog_posts(site)
-        if not posts:  # 如果没有文章，跳过生成 RSS
+        if not posts:
             print(f"No posts found for {site['url']}, skipping RSS generation.")
             continue
             
