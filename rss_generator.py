@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
-import time
+from webdriver_manager.chrome import ChromeDriverManager
+import time as time_module  # 修改这里
 
 def load_config(config_path='config.yaml'):
     with open(config_path, 'r', encoding='utf-8') as file:
@@ -22,7 +22,7 @@ def fetch_blog_posts(config):
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
         
         driver.get(config['url'])
-        time.sleep(3)  # 等待页面加载
+        time_module.sleep(3)  # 修改为 time_module.sleep
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         driver.quit()
     else:
