@@ -10,6 +10,25 @@ import time as time_module
 from soupsieve.util import SelectorSyntaxError
 from datetime import datetime
 
+
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
+
+def create_webdriver():
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # 启用无头模式
+    chrome_options.add_argument("--no-sandbox")  # 解决 DevToolsActivePort 文件错误
+    chrome_options.add_argument("--disable-dev-shm-usage")  # 解决资源限制
+    chrome_options.add_argument("--disable-gpu")  # 如果不需要 GPU 加速，禁用它
+    chrome_options.add_argument("--window-size=1920x1080")  # 设置窗口大小
+
+    # 创建 Chrome 驱动
+    driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
+    return driver
+
+
 def load_config(config_path='config.yaml'):
     with open(config_path, 'r', encoding='utf-8') as file:
         return yaml.safe_load(file)
@@ -19,13 +38,7 @@ def fetch_blog_posts(config):
     print(f"Using selectors: block={config['block_css']}, title={config['title_css']}, description={config['description_css']}, time={config['time_css']}, link={config['link_css']}")
 
     if config['use_headless_browser']:
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.binary_location = "/usr/bin/chromium-browser"
-
-        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
+        driver = create_webdriver()
 
         driver.get(config['url'])
         time_module.sleep(3)
