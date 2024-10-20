@@ -6,13 +6,17 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-import time as time_module  # 修改这里
+import time as time_module
+from soupsieve.util import SelectorSyntaxError  # 导入 SelectorSyntaxError
 
 def load_config(config_path='config.yaml'):
     with open(config_path, 'r', encoding='utf-8') as file:
         return yaml.safe_load(file)
 
 def fetch_blog_posts(config):
+    print(f"Fetching posts from: {config['url']}")
+    print(f"Using selectors: title={config['title_css']}, description={config['description_css']}, time={config['time_css']}")
+
     if config['use_headless_browser']:
         # Set up headless browser
         chrome_options = Options()
@@ -22,23 +26,31 @@ def fetch_blog_posts(config):
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
         
         driver.get(config['url'])
-        time_module.sleep(3)  # 修改为 time_module.sleep
+        time_module.sleep(3)  # 等待页面加载
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         driver.quit()
     else:
         response = requests.get(config['url'])
         soup = BeautifulSoup(response.content, 'html.parser')
 
+    # 获取标题和描述
     titles = soup.select(config['title_css'])
     descriptions = soup.select(config['description_css'])
-    times = soup.select(config['time_css'])
+
+    # 尝试获取时间，处理可能的异常
+    try:
+        times = soup.select(config['time_css'])
+    except SelectorSyntaxError as e:
+        print(f"CSS Selector error for time: {e}")
+        times = []  # 如果发生错误，返回空列表
 
     posts = []
-    for title, description, time in zip(titles, descriptions, times):
+    for title, description in zip(titles, descriptions):
+        post_time = times[0].get_text(strip=True) if times else "Unknown Time"  # 如果没有时间，设置为 "Unknown Time"
         posts.append({
             'title': title.get_text(strip=True),
             'description': description.get_text(strip=True),
-            'pub_date': time.get_text(strip=True),
+            'pub_date': post_time,
             'link': title.find('a')['href']
         })
     return posts
@@ -63,6 +75,10 @@ def main():
     config = load_config()
     for site in config['sites']:
         posts = fetch_blog_posts(site)
+        if not posts:  # 如果没有文章，跳过生成 RSS
+            print(f"No posts found for {site['url']}, skipping RSS generation.")
+            continue
+            
         rss_feed = generate_rss(posts, site['url'])
         
         file_name = f"rss_feed_{site['url'].replace('https://', '').replace('/', '_')}.xml"
