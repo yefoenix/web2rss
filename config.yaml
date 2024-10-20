@@ -1,0 +1,6 @@
+sites:
+  - url: https://www.splunk.com/en_us/blog
+    title_css: ".splunk2-h4"
+    description_css: ".splunk-body.shorter-height"
+    time_css: ""
+    use_headless_browser: true
