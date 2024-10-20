@@ -35,4 +35,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: rss-feed
-        path: rss_feed_*.xml  # 上传生成的RSS文件
+        path: rss/rss_feed_*.xml  # 上传生成的RSS文件
