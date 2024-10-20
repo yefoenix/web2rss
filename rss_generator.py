@@ -50,15 +50,16 @@ def fetch_blog_posts(config):
 
     # 基于文本块选择器获取所有相关块
     blocks = soup.select(config['block_css'])
+    print(blocks)
 
     posts = []
     post_time = None
-    if config['time_css']:
-        try:
-            times = soup.select(config['time_css'])
-            post_time = times[0].get_text(strip=True) if times else None
-        except SelectorSyntaxError as e:
-            print(f"CSS Selector error for time: {e}")
+    # if config['time_css']:
+    #     try:
+    #         times = soup.select(config['time_css'])
+    #         post_time = times[0].get_text(strip=True) if times else None
+    #     except SelectorSyntaxError as e:
+    #         print(f"CSS Selector error for time: {e}")
 
     for block in blocks:
         title = block.select_one(config['title_css'])
