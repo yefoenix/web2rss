@@ -27,7 +27,7 @@ jobs:
         run: python rss_generator.py
 
       - name: Upload RSS feed
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: rss_feed
           path: rss_feed_*.xml  # 上传所有生成的 RSS 文件
