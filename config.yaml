@@ -6,13 +6,13 @@ sites:
     description_css: ".splunk-body.shorter-height"  # 在父元素内部的描述选择器
     link_css: "a.headline"  # 在父元素内部的链接选择器
     use_headless_browser: true
-  # - url: https://www.sonarsource.com/blog/tag/security/
-  #   block_css: a.css-w2zjnb.e1yv2nyc5
-  #   title_css: h3
-  #   description_css: .css-k9llvm.e1yv2nyc3
-  #   link_css: a
-  #   use_headless_browser: true
-  
+  - name: sonarsource_blog
+    url: https://www.sonarsource.com/blog/tag/security/
+    block_css: a.css-w2zjnb.e1yv2nyc5
+    title_css: h3
+    description_css: p.css-k9llvm.e1yv2nyc3
+    link_css: 
+    use_headless_browser: true
   - name: rapid7_blog
     url: https://www.rapid7.com/blog/tag/research/
     block_css: a.blog-all-posts__wrapper--item
@@ -20,3 +20,4 @@ sites:
     description_css: p
     link_css: 
     use_headless_browser: false
+  - name: 

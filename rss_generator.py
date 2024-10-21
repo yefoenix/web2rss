@@ -79,16 +79,19 @@ def generate_rss(posts, site):
 def main():
     config = load_config()
     for site in config['sites']:
-        posts = fetch_blog_posts(site)
-        if not posts:
-            print(f"No posts found for {site['url']}, skipping RSS generation.")
-            continue
-            
-        rss_feed = generate_rss(posts, site)
-        file_name = f"rss/{site['name']}.xml"
-        with open(file_name, 'w', encoding='utf-8') as file:
-            file.write(rss_feed)  # 确保写入的是字符串
-        print(f"Generated RSS feed for {site['url']} -> {file_name}")
+        try:
+            posts = fetch_blog_posts(site)
+            if not posts:
+                print(f"No posts found for {site['url']}, skipping RSS generation.")
+                continue
+                
+            rss_feed = generate_rss(posts, site)
+            file_name = f"rss/{site['name']}.xml"
+            with open(file_name, 'w', encoding='utf-8') as file:
+                file.write(rss_feed)  # 确保写入的是字符串
+            print(f"Generated RSS feed for {site['url']} -> {file_name}")
+        except Exception as e:
+            print(f"Error generating RSS feed for {site['url']}: {e}")
 
 if __name__ == '__main__':
     main()
