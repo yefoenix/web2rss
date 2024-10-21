@@ -5,7 +5,7 @@ sites:
     title_css: "a h3.splunk2-h4"  # 在父元素内部的标题选择器
     description_css: ".splunk-body.shorter-height"  # 在父元素内部的描述选择器
     link_css: "a.headline"  # 在父元素内部的链接选择器
-    use_headless_browser: false
+    use_headless_browser: true
   # - url: https://www.sonarsource.com/blog/tag/security/
   #   block_css: a.css-w2zjnb.e1yv2nyc5
   #   title_css: h3
