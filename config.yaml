@@ -1,5 +1,6 @@
 sites:
-  - url: "https://www.splunk.com/en_us/blog"
+  - name: splunk_blog
+    url: "https://www.splunk.com/en_us/blog"
     block_css: ".card"  # 父元素的 CSS 选择器
     title_css: "a h3.splunk2-h4"  # 在父元素内部的标题选择器
     description_css: ".splunk-body.shorter-height"  # 在父元素内部的描述选择器
@@ -11,7 +12,9 @@ sites:
   #   description_css: .css-k9llvm.e1yv2nyc3
   #   link_css: a
   #   use_headless_browser: true
-  - url: https://www.rapid7.com/blog/tag/research/
+  
+  - name: rapid7_blog
+    url: https://www.rapid7.com/blog/tag/research/
     block_css: a.blog-all-posts__wrapper--item
     title_css: h3
     description_css: p

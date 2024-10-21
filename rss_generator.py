@@ -50,12 +50,12 @@ def fetch_blog_posts(config):
 
     return posts
 
-def generate_rss(posts, site_url):
+def generate_rss(posts, site):
     feed = FeedGenerator()
-    feed.id(site_url)
-    feed.title(site_url)
-    feed.link(href=site_url)
-    feed.description("Latest posts from " + site_url)
+    feed.id(site['url'])
+    feed.title(site['name'])
+    feed.link(href=site['url'])
+    feed.description("Latest posts from " + site['url'])
 
     for post in posts:
         entry = feed.add_entry()
@@ -73,9 +73,8 @@ def main():
             print(f"No posts found for {site['url']}, skipping RSS generation.")
             continue
             
-        rss_feed = generate_rss(posts, site['url'])
-        
-        file_name = f"rss/rss_feed_{site['url'].replace('https://', '').replace('/', '_')}.xml"
+        rss_feed = generate_rss(posts, site)
+        file_name = f"rss/{site['name']}.xml"
         with open(file_name, 'w', encoding='utf-8') as file:
             file.write(rss_feed)  # 确保写入的是字符串
         print(f"Generated RSS feed for {site['url']} -> {file_name}")
