@@ -20,4 +20,3 @@ sites:
     description_css: p
     link_css: 
     use_headless_browser: false
-  - name: 
