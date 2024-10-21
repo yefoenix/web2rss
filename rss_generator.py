@@ -2,15 +2,27 @@ import yaml
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
-from playwright.sync_api import sync_playwright
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 import time as time_module
+from soupsieve.util import SelectorSyntaxError
 from datetime import datetime
 from urllib.parse import urljoin
 
-def create_playwright_browser():
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        return browser
+
+def create_webdriver():
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # 启用无头模式
+    chrome_options.add_argument("--no-sandbox")  # 解决 DevToolsActivePort 文件错误
+    chrome_options.add_argument("--disable-dev-shm-usage")  # 解决资源限制
+    chrome_options.add_argument("--disable-gpu")  # 如果不需要 GPU 加速，禁用它
+    chrome_options.add_argument("--window-size=1920x1080")  # 设置窗口大小
+
+    # 创建 Chrome 驱动
+    driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=chrome_options)
+    return driver
 
 def load_config(config_path='config.yaml'):
     with open(config_path, 'r', encoding='utf-8') as file:
@@ -21,13 +33,12 @@ def fetch_blog_posts(config):
     print(f"Using selectors: block={config['block_css']}, title={config['title_css']}, description={config['description_css']}, link={config['link_css']}")
 
     if config['use_headless_browser']:
-        browser = create_playwright_browser()
-        page = browser.new_page()
-        page.goto(config['url'])
-        page.wait_for_timeout(10000)
-        content = page.content()
-        soup = BeautifulSoup(content, 'html.parser')
-        browser.close()
+        driver = create_webdriver()
+
+        driver.get(config['url'])
+        time_module.sleep(3)
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        driver.quit()
     else:
         response = requests.get(config['url'])
         soup = BeautifulSoup(response.content, 'html.parser')
