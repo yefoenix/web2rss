@@ -47,4 +47,5 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add rss/rss_feed_*.xml
         git commit -m "Update RSS feeds"
+        git remote set-url --push origin https://xxcdd:$GITHUB_TOKEN@github.com/xxcdd/web2rss
         git push origin master
