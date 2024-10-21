@@ -25,5 +25,5 @@ sites:
     block_css: article.Box-row
     title_css: h2
     description_css: p
-    link_css: h2.a
+    link_css: h2 a
     use_headless_browser: false
