@@ -40,9 +40,11 @@ jobs:
         name: rss-feed
         path: rss/rss_feed_*.xml  # 上传生成的RSS文件
     - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用GITHUB_TOKEN
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add rss/rss_feed_*.xml
         git commit -m "Update RSS feeds"
-        git push
+        git push origin master
