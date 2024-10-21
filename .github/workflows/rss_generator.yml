@@ -12,17 +12,20 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4  # 更新到v4
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4  # 更新到v4
       with:
-        python-version: '3.9'  # 或其他你需要的版本
+        python-version: '3.11'  # 更新到3.11
 
     - name: Install dependencies
       run: |
-        sudo apt-get install -y chromium-browser
+        python -m pip install --upgrade pip  # 更新pip
         pip install -r requirements.txt  # 确保requirements.txt包含selenium和其他依赖
+
+    - name: Ensure browsers are installed
+      run: python -m playwright install --with-deps  # 添加Playwright安装步骤
 
     - name: Run RSS generator
       env:
@@ -32,7 +35,14 @@ jobs:
         python rss_generator.py  # 运行你的Python脚本
 
     - name: Upload RSS feed
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4  # 更新到v4
       with:
         name: rss-feed
         path: rss/rss_feed_*.xml  # 上传生成的RSS文件
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add rss/rss_feed_*.xml
+        git commit -m "Update RSS feeds"
+        git push
