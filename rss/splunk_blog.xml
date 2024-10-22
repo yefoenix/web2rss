@@ -6,27 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Oct 2024 08:45:43 +0000</lastBuildDate>
-    <item>
-      <title>Splunk SOAR Moves Closer to IRAP Assessment for Australian Customers</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-soar-moves-closer-to-irap-assessment-for-australian-customers.html</link>
-      <description>We're pleased to announce that Splunk SOAR is currently undergoing the IRAP assessment process.</description>
-    </item>
-    <item>
-      <title>Duke Cyberwalker and Black Hat Bot</title>
-      <link>https://www.splunk.com/en_us/blog/leadership/duke-cyberwalker-and-black-hat-bot.html</link>
-      <description>Splunker Eric Fusilero shows you what the hero’s journey might look like for one of our users using a parable for Splunk Education and Certification.</description>
-    </item>
-    <item>
-      <title>What are CASBs? Cloud Access Security Brokers Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-access-security-brokers-casbs.html</link>
-      <description>Discover the role of Cloud Access Security Brokers (CASBs) in securing cloud environments, ensuring data protection, and maintaining compliance for businesses.</description>
-    </item>
-    <item>
-      <title>Leading with Purpose: Navigating Challenges and Inspiring Leadership in Splunk</title>
-      <link>https://www.splunk.com/en_us/blog/splunklife/leading-with-purpose-navigating-challenges-and-inspiring-leadership-in-splunk.html</link>
-      <description>Edwin Seo, AVP, Asia Solutions Engineering, shares his strategy for successfully leading his team through change at Splunk.</description>
-    </item>
+    <lastBuildDate>Tue, 22 Oct 2024 01:28:12 +0000</lastBuildDate>
     <item>
       <title>PowerShell Web Access: Your Network's Backdoor in Plain Sight</title>
       <link>https://www.splunk.com/en_us/blog/security/powershell-web-access-your-network-s-backdoor-in-plain-sight.html</link>
@@ -51,6 +31,26 @@
       <title>Introducing Splunk Attack Range v3.1</title>
       <link>https://www.splunk.com/en_us/blog/security/introducing-splunk-attack-range-v3-1.html</link>
       <description>The Splunk Threat Research Team is happy to release v3.1 of Splunk Attack Range.</description>
+    </item>
+    <item>
+      <title>What Is Network Configuration?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/network-configuration.html</link>
+      <description>In this post, we'll do a deep dive into network configuration and include best practices for keeping networks up and running</description>
+    </item>
+    <item>
+      <title>CI/CD Automation for Splunk Apps using Github Actions</title>
+      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/ci-cd-automation-for-splunk-apps-using-github-actions.html</link>
+      <description>Splunker Patrick King explains how to replace local, by-hand app development with a fully source-controlled, CI/CD-automated workflow.</description>
+    </item>
+    <item>
+      <title>Macro ATT&amp;CK for a TTP Snack</title>
+      <link>https://www.splunk.com/en_us/blog/security/macro-att-ck-for-a-ttp-snack.html</link>
+      <description>Splunk's Mick Baccio and Ryan Fetterman explore 2024's macro-level cyber incident trends through the lens of the MITRE ATT&amp;CK framework.</description>
+    </item>
+    <item>
+      <title>User Acceptance Testing (UAT): Definition, Types &amp; Best Practices</title>
+      <link>https://www.splunk.com/en_us/blog/learn/user-acceptance-testing-uat.html</link>
+      <description>User acceptance testing, or UAT, is an important part of finalizing any new feature or product. Learn why to do it, and then learn how, all in this article.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
