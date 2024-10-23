@@ -99,7 +99,7 @@ def main():
             
             # 更新readme.md文件
             with open(readme_path, 'a', encoding='utf-8') as readme_file:
-                readme_file.write(f"## {site['name']}\n- 原网址：{site['url']}\n- 订阅源: https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/{file_name}\n\n")
+                readme_file.write(f"## {site['name']}\n- 原网址：{site['url']}\n- 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/{file_name}\n\n")
                 
         except Exception as e:
             print(f"Error generating RSS feed for {site['url']}: {e}")
