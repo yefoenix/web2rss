@@ -1,6 +1,6 @@
 # web2rss
 
-通过GitHub Action 自动生成 RSS 订阅。
+通过GitHub Action 自动生成网页的 RSS 订阅。
 已有的RSS订阅：[点击查看](rss/readme.md)
 
 ## 站点配置
