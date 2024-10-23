@@ -38,6 +38,6 @@ sites:
     url: https://www.cve.org/Media/News/AllNews
     block_css: article
     title_css: h2
-    description_css: div > div > div
+    description_css: .content
     link_css: a
     use_headless_browser: true
