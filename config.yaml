@@ -27,10 +27,10 @@ sites:
     description_css: p
     link_css: h2 a
     use_headless_browser: false
-  - name: openai_news
-    url: https://openai.com/news/
-    block_css: a.transition.ease-curve-a.duration-250.bg-gray-200.mr-3
-    title_css: div
-    description_css: div
+  - name: anthropic_news
+    url: https://www.anthropic.com/news
+    block_css: a.PostCard_post-card___tQ6w
+    title_css: h3
+    description_css: .PostCard_post-info__gybiy
     link_css: 
     use_headless_browser: true
