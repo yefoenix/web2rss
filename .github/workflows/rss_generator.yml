@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - master  # 或你想要的分支
+    paths:
+      - '.github/workflows/rss_generator.yml'
+      - 'rss_generator.py'
+      - 'config.yaml'
   schedule:
     - cron: '0 0 * * *'  # 每天运行一次
   workflow_dispatch:  # 允许手动触发
