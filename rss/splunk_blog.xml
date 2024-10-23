@@ -6,51 +6,51 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Oct 2024 01:28:12 +0000</lastBuildDate>
-    <item>
-      <title>PowerShell Web Access: Your Network's Backdoor in Plain Sight</title>
-      <link>https://www.splunk.com/en_us/blog/security/powershell-web-access-your-network-s-backdoor-in-plain-sight.html</link>
-      <description>The Splunk Threat Research Teams dives deep into PowerShell Web Access (PSWA) exploring its functionality within the context of cyber threats.</description>
-    </item>
-    <item>
-      <title>Top 11 Cloud Certifications: A Buyer's Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-certifications.html</link>
-      <description>Cloud certifications are now essential for software professionals to stay updated with the latest technologies and showcase their expertise.</description>
-    </item>
-    <item>
-      <title>Encryption Methods &amp; Types: A Beginner’s Guide To Data Encryption</title>
-      <link>https://www.splunk.com/en_us/blog/learn/data-encryption-methods-types.html</link>
-      <description>In this article, we'll discuss data encryption methods including symmetric and asymmetric encryption, common algorithms, and best practices.</description>
-    </item>
-    <item>
-      <title>Vulnerability Prioritization Is a Treat for Defenders</title>
-      <link>https://www.splunk.com/en_us/blog/security/vulnerability-prioritization-is-a-treat-for-defenders.html</link>
-      <description>There have been numerous high-profile cybersecurity incidents where vulnerability management had an impact on severe breaches – here are some notable examples.</description>
-    </item>
-    <item>
-      <title>Introducing Splunk Attack Range v3.1</title>
-      <link>https://www.splunk.com/en_us/blog/security/introducing-splunk-attack-range-v3-1.html</link>
-      <description>The Splunk Threat Research Team is happy to release v3.1 of Splunk Attack Range.</description>
-    </item>
-    <item>
-      <title>What Is Network Configuration?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/network-configuration.html</link>
-      <description>In this post, we'll do a deep dive into network configuration and include best practices for keeping networks up and running</description>
-    </item>
-    <item>
-      <title>CI/CD Automation for Splunk Apps using Github Actions</title>
-      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/ci-cd-automation-for-splunk-apps-using-github-actions.html</link>
-      <description>Splunker Patrick King explains how to replace local, by-hand app development with a fully source-controlled, CI/CD-automated workflow.</description>
-    </item>
+    <lastBuildDate>Wed, 23 Oct 2024 01:26:23 +0000</lastBuildDate>
     <item>
       <title>Macro ATT&amp;CK for a TTP Snack</title>
       <link>https://www.splunk.com/en_us/blog/security/macro-att-ck-for-a-ttp-snack.html</link>
       <description>Splunk's Mick Baccio and Ryan Fetterman explore 2024's macro-level cyber incident trends through the lens of the MITRE ATT&amp;CK framework.</description>
     </item>
     <item>
+      <title>What Is CX? Customer Experience, Defined</title>
+      <link>https://www.splunk.com/en_us/blog/learn/customer-experience-cx.html</link>
+      <description>Customer experience (CX) is integral to every business today. Learn what CX means, why it matters, and how to improve CX for your customers here.</description>
+    </item>
+    <item>
       <title>User Acceptance Testing (UAT): Definition, Types &amp; Best Practices</title>
       <link>https://www.splunk.com/en_us/blog/learn/user-acceptance-testing-uat.html</link>
       <description>User acceptance testing, or UAT, is an important part of finalizing any new feature or product. Learn why to do it, and then learn how, all in this article.</description>
+    </item>
+    <item>
+      <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
+      <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
+      <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
+    </item>
+    <item>
+      <title>Becoming Santa Claus</title>
+      <link>https://www.splunk.com/en_us/blog/splunklife/becoming-santa-claus.html</link>
+      <description>Bonnie Rosensteel, Director of Professional Services Contract Operations at Splunk, shares how she's giving back and helping Splunkers grow.</description>
+    </item>
+    <item>
+      <title>What Is APM? Application Performance Monitoring, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/apm-application-performance-monitoring.html</link>
+      <description>In this post, we're going to learn what application performance monitoring is, how it works, and how it benefits businesses.</description>
+    </item>
+    <item>
+      <title>Data Integrity: What It Is &amp; Why It Matters</title>
+      <link>https://www.splunk.com/en_us/blog/learn/data-integrity.html</link>
+      <description>In this post, we'll cover what data integrity is, how to identify and prevent data integrity issues, and why data integrity matters.</description>
+    </item>
+    <item>
+      <title>Cybersecurity Jobs: Roles, Responsibilities, and Skills</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-jobs-skills-responsibilities.html</link>
+      <description>In this post, we'll look at roles and responsibilities in the cybersecurity domain including skills required and average annual salary.</description>
+    </item>
+    <item>
+      <title>What is Infrastructure Monitoring?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/infrastructure-monitoring.html</link>
+      <description>Monitoring your infrastructure starts long before systems go live. Let’s look at approaches, tools, challenges &amp; future trends of infrastructure monitoring.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

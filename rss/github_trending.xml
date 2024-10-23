@@ -6,56 +6,11 @@
     <description>Latest posts from https://github.com/trending</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Oct 2024 01:28:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 01:26:29 +0000</lastBuildDate>
     <item>
-      <title>ranaroussi /yfinance</title>
-      <link>https://github.com/ranaroussi/yfinance</link>
-      <description>Download market data from Yahoo! Finance's API</description>
-    </item>
-    <item>
-      <title>godotengine /godot</title>
-      <link>https://github.com/godotengine/godot</link>
-      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-    </item>
-    <item>
-      <title>facebookresearch /co-tracker</title>
-      <link>https://github.com/facebookresearch/co-tracker</link>
-      <description>CoTracker is a model for tracking any point (pixel) on a video.</description>
-    </item>
-    <item>
-      <title>EricLBuehler /mistral.rs</title>
-      <link>https://github.com/EricLBuehler/mistral.rs</link>
-      <description>Blazingly fast LLM inference.</description>
-    </item>
-    <item>
-      <title>norvig /pytudes</title>
-      <link>https://github.com/norvig/pytudes</link>
-      <description>Python programs, usually short, of considerable difficulty, to perfect particular skills.</description>
-    </item>
-    <item>
-      <title>DrKLO /Telegram</title>
-      <link>https://github.com/DrKLO/Telegram</link>
-      <description>Telegram for Android source</description>
-    </item>
-    <item>
-      <title>TheAlgorithms /Python</title>
-      <link>https://github.com/TheAlgorithms/Python</link>
-      <description>All Algorithms implemented in Python</description>
-    </item>
-    <item>
-      <title>getomni-ai /zerox</title>
-      <link>https://github.com/getomni-ai/zerox</link>
-      <description>Zero shot pdf OCR with gpt-4o-mini</description>
-    </item>
-    <item>
-      <title>solana-developers /program-examples</title>
-      <link>https://github.com/solana-developers/program-examples</link>
-      <description>A repository of Solana program examples</description>
-    </item>
-    <item>
-      <title>bluesky-social /social-app</title>
-      <link>https://github.com/bluesky-social/social-app</link>
-      <description>The Bluesky Social application for Web, iOS, and Android</description>
+      <title>OJ /gobuster</title>
+      <link>https://github.com/OJ/gobuster</link>
+      <description>Directory/File, DNS and VHost busting tool written in Go</description>
     </item>
     <item>
       <title>CleverRaven /Cataclysm-DDA</title>
@@ -63,14 +18,79 @@
       <description>Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.</description>
     </item>
     <item>
-      <title>yt-dlp /yt-dlp</title>
-      <link>https://github.com/yt-dlp/yt-dlp</link>
-      <description>A feature-rich command-line audio/video downloader</description>
+      <title>pointfreeco /swift-composable-architecture</title>
+      <link>https://github.com/pointfreeco/swift-composable-architecture</link>
+      <description>A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</description>
+    </item>
+    <item>
+      <title>ollama /ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.</description>
+    </item>
+    <item>
+      <title>rany2 /edge-tts</title>
+      <link>https://github.com/rany2/edge-tts</link>
+      <description>Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key</description>
+    </item>
+    <item>
+      <title>astral-sh /uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>An extremely fast Python package and project manager, written in Rust.</description>
+    </item>
+    <item>
+      <title>labring /FastGPT</title>
+      <link>https://github.com/labring/FastGPT</link>
+      <description>FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.</description>
+    </item>
+    <item>
+      <title>chrislgarry /Apollo-11</title>
+      <link>https://github.com/chrislgarry/Apollo-11</link>
+      <description>Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</description>
+    </item>
+    <item>
+      <title>comfyanonymous /ComfyUI</title>
+      <link>https://github.com/comfyanonymous/ComfyUI</link>
+      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
+    </item>
+    <item>
+      <title>langgenius /dify</title>
+      <link>https://github.com/langgenius/dify</link>
+      <description>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</description>
+    </item>
+    <item>
+      <title>jaywcjlove /awesome-mac</title>
+      <link>https://github.com/jaywcjlove/awesome-mac</link>
+      <description> Now we have become very big, Different from the original idea. Collect premium software in various categories.</description>
+    </item>
+    <item>
+      <title>ranaroussi /yfinance</title>
+      <link>https://github.com/ranaroussi/yfinance</link>
+      <description>Download market data from Yahoo! Finance's API</description>
+    </item>
+    <item>
+      <title>serengil /deepface</title>
+      <link>https://github.com/serengil/deepface</link>
+      <description>A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python</description>
     </item>
     <item>
       <title>phidatahq /phidata</title>
       <link>https://github.com/phidatahq/phidata</link>
-      <description>Build AI Agents with memory, knowledge, tools and reasoning</description>
+      <description>Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.</description>
+    </item>
+    <item>
+      <title>EricLBuehler /mistral.rs</title>
+      <link>https://github.com/EricLBuehler/mistral.rs</link>
+      <description>Blazingly fast LLM inference.</description>
+    </item>
+    <item>
+      <title>sveltejs /svelte</title>
+      <link>https://github.com/sveltejs/svelte</link>
+      <description>Cybernetically enhanced web apps</description>
+    </item>
+    <item>
+      <title>hiteshchoudhary /apihub</title>
+      <link>https://github.com/hiteshchoudhary/apihub</link>
+      <description>Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.</description>
     </item>
   </channel>
 </rss>

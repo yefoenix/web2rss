@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.sonarsource.com/blog/tag/security/</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Oct 2024 01:28:19 +0000</lastBuildDate>
-    <item>
-      <title>Find Deeply Hidden Security Vulnerabilities with Deeper SAST by Sonar</title>
-      <link>https://www.sonarsource.com/blog/sonar-power-of-deeper-sast/</link>
-      <description>This post delves into an actual Jenkins vulnerability to understand the intricacies of deeper SAST for detecting deeply hidden code vulnerabilities. It illustrates how deeper SAST works and explains its impact on keeping your code clean and free of these serious issues.</description>
-    </item>
+    <lastBuildDate>Wed, 23 Oct 2024 01:26:27 +0000</lastBuildDate>
     <item>
       <title>mXSS: The Vulnerability Hiding in Your Code</title>
       <link>https://www.sonarsource.com/blog/mxss-the-vulnerability-hiding-in-your-code/</link>
@@ -66,6 +61,11 @@
       <title>Why Code Security Matters - Even in Hardened Environments</title>
       <link>https://www.sonarsource.com/blog/why-code-security-matters-even-in-hardened-environments/</link>
       <description>This blog post showcases why fundamental code security is essential for an application despite all hardening measures applied in the underlying infrastructure.</description>
+    </item>
+    <item>
+      <title>The Power of Taint Analysis: Uncovering Critical Code Vulnerability in OpenAPI Generator</title>
+      <link>https://www.sonarsource.com/blog/the-power-of-taint-analysis-uncovering-critical-code-vulnerability-in-openapi-generator/</link>
+      <description>This blog post explains how taint analysis tracks all data flows in an application’s source code to unveil deeply hidden vulnerabilities and showcases a critical vulnerability in the OpenAPI Generator discovered by SonarCloud.</description>
     </item>
   </channel>
 </rss>
