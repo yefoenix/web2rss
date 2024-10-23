@@ -78,6 +78,12 @@ def generate_rss(posts, site):
 
 def main():
     config = load_config()
+    
+    # 创建readme.md文件
+    readme_path = "rss/readme.md"
+    with open(readme_path, 'w', encoding='utf-8') as readme_file:
+        readme_file.write("# RSS订阅\n\n")
+    
     for site in config['sites']:
         try:
             posts = fetch_blog_posts(site)
@@ -90,6 +96,11 @@ def main():
             with open(file_name, 'w', encoding='utf-8') as file:
                 file.write(rss_feed)  # 确保写入的是字符串
             print(f"Generated RSS feed for {site['url']} -> {file_name}")
+            
+            # 更新readme.md文件
+            with open(readme_path, 'a', encoding='utf-8') as readme_file:
+                readme_file.write(f"## {site['name']}\n原网址：{site['url']}\n订阅源: https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/{file_name}\n\n")
+                
         except Exception as e:
             print(f"Error generating RSS feed for {site['url']}: {e}")
 
