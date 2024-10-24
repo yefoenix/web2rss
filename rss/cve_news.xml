@@ -3,10 +3,10 @@
   <channel>
     <title>cve_news</title>
     <link>https://www.cve.org/Media/News/AllNews</link>
-    <description>Latest posts from https://www.cve.org/Media/News/AllNews. follow.is: None</description>
+    <description>Latest posts from https://www.cve.org/Media/News/AllNews. follow.is: feedId:72158581942748160+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 06:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 07:18:19 +0000</lastBuildDate>
     <item>
       <title>Vulnerability Data Enrichment for CVE Records: 217 CNAs on the Enrichment Recognition List for October 7, 2024</title>
       <link>https://www.cve.org/Media/News/item/blog/2024/10/08/CNA-Enrichment-Recognition-List-Update</link>
