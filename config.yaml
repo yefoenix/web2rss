@@ -1,6 +1,6 @@
 sites:
   - name: splunk_blog
-    follow_desc: 
+    follow_desc: feedId:71371191432910867+userId:71370844472670208
     url: "https://www.splunk.com/en_us/blog"
     block_css: ".card"  # 父元素的 CSS 选择器
     title_css: "a h3.splunk2-h4"  # 在父元素内部的标题选择器
@@ -36,7 +36,7 @@ sites:
     use_headless_browser: false
 
   - name: anthropic_news
-    follow_desc:
+    follow_desc: feedId:71805759203098624+userId:71370844472670208
     url: https://www.anthropic.com/news
     block_css: a.PostCard_post-card___tQ6w
     title_css: h3
@@ -45,7 +45,7 @@ sites:
     use_headless_browser: true
 
   - name: cve_news
-    follow_desc:
+    follow_desc: feedId:72158581942748160+userId:71370844472670208
     url: https://www.cve.org/Media/News/AllNews
     block_css: article
     title_css: h2
