@@ -6,42 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 10:33:21 +0000</lastBuildDate>
-    <item>
-      <title>Macro ATT&amp;CK for a TTP Snack</title>
-      <link>https://www.splunk.com/en_us/blog/security/macro-att-ck-for-a-ttp-snack.html</link>
-      <description>Splunk's Mick Baccio and Ryan Fetterman explore 2024's macro-level cyber incident trends through the lens of the MITRE ATT&amp;CK framework.</description>
-    </item>
-    <item>
-      <title>What Is CX? Customer Experience, Defined</title>
-      <link>https://www.splunk.com/en_us/blog/learn/customer-experience-cx.html</link>
-      <description>Customer experience (CX) is integral to every business today. Learn what CX means, why it matters, and how to improve CX for your customers here.</description>
-    </item>
-    <item>
-      <title>User Acceptance Testing (UAT): Definition, Types &amp; Best Practices</title>
-      <link>https://www.splunk.com/en_us/blog/learn/user-acceptance-testing-uat.html</link>
-      <description>User acceptance testing, or UAT, is an important part of finalizing any new feature or product. Learn why to do it, and then learn how, all in this article.</description>
-    </item>
-    <item>
-      <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
-      <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
-      <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
-    </item>
-    <item>
-      <title>Becoming Santa Claus</title>
-      <link>https://www.splunk.com/en_us/blog/splunklife/becoming-santa-claus.html</link>
-      <description>Bonnie Rosensteel, Director of Professional Services Contract Operations at Splunk, shares how she's giving back and helping Splunkers grow.</description>
-    </item>
-    <item>
-      <title>What Is APM? Application Performance Monitoring, Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/apm-application-performance-monitoring.html</link>
-      <description>In this post, we're going to learn what application performance monitoring is, how it works, and how it benefits businesses.</description>
-    </item>
-    <item>
-      <title>Data Integrity: What It Is &amp; Why It Matters</title>
-      <link>https://www.splunk.com/en_us/blog/learn/data-integrity.html</link>
-      <description>In this post, we'll cover what data integrity is, how to identify and prevent data integrity issues, and why data integrity matters.</description>
-    </item>
+    <lastBuildDate>Thu, 24 Oct 2024 01:26:37 +0000</lastBuildDate>
     <item>
       <title>Cybersecurity Jobs: Roles, Responsibilities, and Skills</title>
       <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-jobs-skills-responsibilities.html</link>
@@ -51,6 +16,41 @@
       <title>What is Infrastructure Monitoring?</title>
       <link>https://www.splunk.com/en_us/blog/learn/infrastructure-monitoring.html</link>
       <description>Monitoring your infrastructure starts long before systems go live. Let’s look at approaches, tools, challenges &amp; future trends of infrastructure monitoring.</description>
+    </item>
+    <item>
+      <title>Fueling the SOC of the Future with Built-in Threat Research and Detections in Splunk Enterprise Security</title>
+      <link>https://www.splunk.com/en_us/blog/security/fueling-the-soc-of-the-future-with-built-in-threat-research-and-detections-in-splunk-enterprise-security.html</link>
+      <description>The Splunk Threat Research Team develops security resources and content that helps enhance your ability to detect and respond to advanced threats.</description>
+    </item>
+    <item>
+      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
+      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
+      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
+    </item>
+    <item>
+      <title>What Is DFIR? Digital Forensics &amp; Incident Response</title>
+      <link>https://www.splunk.com/en_us/blog/learn/digital-forensics-incident-response-dfir.html</link>
+      <description>Learn what is digital forensics &amp; incident response (DFIR) and how it works to address cyber threats.</description>
+    </item>
+    <item>
+      <title>The Forensic Investigator Role: Skills and Responsibilities</title>
+      <link>https://www.splunk.com/en_us/blog/learn/forensic-investigator-role.html</link>
+      <description>Uncover how forensic investigators interpret and assess crimes and frauds to help companies strengthen their security.</description>
+    </item>
+    <item>
+      <title>What Is Root Cause Analysis? The Complete RCA Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/root-cause-analysis.html</link>
+      <description>In this article, we'll explore how to conduct RCA, its core principles, best practices, and the tools available to facilitate this process.</description>
+    </item>
+    <item>
+      <title>Security Event Logs: A Complete Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/security-event-logs.html</link>
+      <description>See why security event logs are so important: they provide real-time insights to protect your online data from threats or breaches.</description>
+    </item>
+    <item>
+      <title>Offensive Vs. Defensive Security: How They Work</title>
+      <link>https://www.splunk.com/en_us/blog/learn/offensive-vs-defensive-security.html</link>
+      <description>Learn the difference between offensive and defensive security and explore their challenges.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

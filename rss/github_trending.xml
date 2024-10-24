@@ -6,71 +6,36 @@
     <description>Latest posts from https://github.com/trending</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 10:33:27 +0000</lastBuildDate>
-    <item>
-      <title>OJ /gobuster</title>
-      <link>https://github.com/OJ/gobuster</link>
-      <description>Directory/File, DNS and VHost busting tool written in Go</description>
-    </item>
-    <item>
-      <title>CleverRaven /Cataclysm-DDA</title>
-      <link>https://github.com/CleverRaven/Cataclysm-DDA</link>
-      <description>Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.</description>
-    </item>
+    <lastBuildDate>Thu, 24 Oct 2024 01:26:43 +0000</lastBuildDate>
     <item>
       <title>pointfreeco /swift-composable-architecture</title>
       <link>https://github.com/pointfreeco/swift-composable-architecture</link>
       <description>A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</description>
     </item>
     <item>
-      <title>ollama /ollama</title>
-      <link>https://github.com/ollama/ollama</link>
-      <description>Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.</description>
+      <title>sveltejs /svelte</title>
+      <link>https://github.com/sveltejs/svelte</link>
+      <description>web development for the rest of us</description>
     </item>
     <item>
-      <title>rany2 /edge-tts</title>
-      <link>https://github.com/rany2/edge-tts</link>
-      <description>Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key</description>
+      <title>vercel /next.js</title>
+      <link>https://github.com/vercel/next.js</link>
+      <description>The React Framework</description>
     </item>
     <item>
-      <title>astral-sh /uv</title>
-      <link>https://github.com/astral-sh/uv</link>
-      <description>An extremely fast Python package and project manager, written in Rust.</description>
+      <title>goldbergyoni /nodebestpractices</title>
+      <link>https://github.com/goldbergyoni/nodebestpractices</link>
+      <description>✅ The Node.js best practices list (July 2024)</description>
     </item>
     <item>
-      <title>labring /FastGPT</title>
-      <link>https://github.com/labring/FastGPT</link>
-      <description>FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.</description>
+      <title>drawdb-io /drawdb</title>
+      <link>https://github.com/drawdb-io/drawdb</link>
+      <description>Free, simple, and intuitive online database diagram editor and SQL generator.</description>
     </item>
     <item>
-      <title>chrislgarry /Apollo-11</title>
-      <link>https://github.com/chrislgarry/Apollo-11</link>
-      <description>Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</description>
-    </item>
-    <item>
-      <title>comfyanonymous /ComfyUI</title>
-      <link>https://github.com/comfyanonymous/ComfyUI</link>
-      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
-    </item>
-    <item>
-      <title>langgenius /dify</title>
-      <link>https://github.com/langgenius/dify</link>
-      <description>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</description>
-    </item>
-    <item>
-      <title>jaywcjlove /awesome-mac</title>
-      <link>https://github.com/jaywcjlove/awesome-mac</link>
-      <description> Now we have become very big, Different from the original idea. Collect premium software in various categories.</description>
-    </item>
-    <item>
-      <title>ranaroussi /yfinance</title>
-      <link>https://github.com/ranaroussi/yfinance</link>
-      <description>Download market data from Yahoo! Finance's API</description>
-    </item>
-    <item>
-      <title>serengil /deepface</title>
-      <link>https://github.com/serengil/deepface</link>
-      <description>A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python</description>
+      <title>axios /axios</title>
+      <link>https://github.com/axios/axios</link>
+      <description>Promise based HTTP client for the browser and node.js</description>
     </item>
     <item>
       <title>phidatahq /phidata</title>
@@ -78,14 +43,24 @@
       <description>Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.</description>
     </item>
     <item>
-      <title>EricLBuehler /mistral.rs</title>
-      <link>https://github.com/EricLBuehler/mistral.rs</link>
-      <description>Blazingly fast LLM inference.</description>
+      <title>mealie-recipes /mealie</title>
+      <link>https://github.com/mealie-recipes/mealie</link>
+      <description>Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor</description>
     </item>
     <item>
-      <title>sveltejs /svelte</title>
-      <link>https://github.com/sveltejs/svelte</link>
-      <description>Cybernetically enhanced web apps</description>
+      <title>facebookresearch /co-tracker</title>
+      <link>https://github.com/facebookresearch/co-tracker</link>
+      <description>CoTracker is a model for tracking any point (pixel) on a video.</description>
+    </item>
+    <item>
+      <title>Guovin /TV</title>
+      <link>https://github.com/Guovin/TV</link>
+      <description>📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | IPTV live TV source update tool</description>
+    </item>
+    <item>
+      <title>ranaroussi /yfinance</title>
+      <link>https://github.com/ranaroussi/yfinance</link>
+      <description>Download market data from Yahoo! Finance's API</description>
     </item>
     <item>
       <title>hiteshchoudhary /apihub</title>
