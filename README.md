@@ -22,9 +22,11 @@
 ```yaml
 sites:
   - name: splunk_blog
+    follow_desc: 
     url: "https://www.splunk.com/en_us/blog"
     block_css: ".card"  # 父元素的 CSS 选择器
     title_css: "a h3.splunk2-h4"  # 在父元素内部的标题选择器
     description_css: ".splunk-body.shorter-height"  # 在父元素内部的描述选择器
     link_css: "a.headline"  # 在父元素内部的链接选择器
     use_headless_browser: true
+```
