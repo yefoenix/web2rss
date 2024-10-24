@@ -66,7 +66,7 @@ def generate_rss(posts, site):
     feed.id(site['url'])
     feed.title(site['name'])
     feed.link(href=site['url'])
-    feed.description("Latest posts from " + site['url'])
+    feed.description(f"Latest posts from {site['url']}. follow.is: {site['follow_desc']}")
 
     for post in posts:
         entry = feed.add_entry()
