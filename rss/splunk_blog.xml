@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 08:01:24 +0000</lastBuildDate>
-    <item>
-      <title>Cybersecurity Jobs: Roles, Responsibilities, and Skills</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-jobs-skills-responsibilities.html</link>
-      <description>In this post, we'll look at roles and responsibilities in the cybersecurity domain including skills required and average annual salary.</description>
-    </item>
-    <item>
-      <title>What is Infrastructure Monitoring?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/infrastructure-monitoring.html</link>
-      <description>Monitoring your infrastructure starts long before systems go live. Let’s look at approaches, tools, challenges &amp; future trends of infrastructure monitoring.</description>
-    </item>
+    <lastBuildDate>Fri, 25 Oct 2024 01:27:19 +0000</lastBuildDate>
     <item>
       <title>Fueling the SOC of the Future with Built-in Threat Research and Detections in Splunk Enterprise Security</title>
       <link>https://www.splunk.com/en_us/blog/security/fueling-the-soc-of-the-future-with-built-in-threat-research-and-detections-in-splunk-enterprise-security.html</link>
@@ -51,6 +41,16 @@
       <title>Offensive Vs. Defensive Security: How They Work</title>
       <link>https://www.splunk.com/en_us/blog/learn/offensive-vs-defensive-security.html</link>
       <description>Learn the difference between offensive and defensive security and explore their challenges.</description>
+    </item>
+    <item>
+      <title>Cybersecurity Threats: What They Are &amp; How They Work Today</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-threats.html</link>
+      <description>In this article, we discuss cybersecurity threats including how they've evolved, common threats, and the best practices to deal with them.</description>
+    </item>
+    <item>
+      <title>ValleyRAT Insights: Tactics, Techniques, and Detection Methods</title>
+      <link>https://www.splunk.com/en_us/blog/security/valleyrat-insights-tactics-techniques-and-detection-methods.html</link>
+      <description>The Splunk Threat Research Team conducts an analysis for several variants of ValleyRAT’s malware samples to extract its MITRE ATT&amp;CK tactics, techniques, and procedures (TTPs).</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
