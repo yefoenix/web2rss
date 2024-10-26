@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Oct 2024 01:27:19 +0000</lastBuildDate>
-    <item>
-      <title>Fueling the SOC of the Future with Built-in Threat Research and Detections in Splunk Enterprise Security</title>
-      <link>https://www.splunk.com/en_us/blog/security/fueling-the-soc-of-the-future-with-built-in-threat-research-and-detections-in-splunk-enterprise-security.html</link>
-      <description>The Splunk Threat Research Team develops security resources and content that helps enhance your ability to detect and respond to advanced threats.</description>
-    </item>
-    <item>
-      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
-      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
-      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
-    </item>
+    <lastBuildDate>Sat, 26 Oct 2024 01:24:36 +0000</lastBuildDate>
     <item>
       <title>What Is DFIR? Digital Forensics &amp; Incident Response</title>
       <link>https://www.splunk.com/en_us/blog/learn/digital-forensics-incident-response-dfir.html</link>
@@ -53,6 +43,16 @@
       <description>The Splunk Threat Research Team conducts an analysis for several variants of ValleyRAT’s malware samples to extract its MITRE ATT&amp;CK tactics, techniques, and procedures (TTPs).</description>
     </item>
     <item>
+      <title>What Is Incident Response?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/incident-response.html</link>
+      <description>In this post, we'll cover what incident response is and why it's essential for organizations to protect themselves from digital threats.</description>
+    </item>
+    <item>
+      <title>Hacking 101: Black Hat vs. White Hat vs. Gray Hat Hacking</title>
+      <link>https://www.splunk.com/en_us/blog/learn/hacking-black-hat-vs-white-hat-vs-gray-hat.html</link>
+      <description>What's the difference between black hat, white hat, and gray hat? Read on to learn about these hacking categories.</description>
+    </item>
+    <item>
       <title>What is Observability? An Introduction</title>
       <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
       <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
@@ -203,9 +203,34 @@
       <description>After a successful launch of BOTS at .conf24, we’re ready to take it to the masses with two worldwide BOTSv9 competitions.</description>
     </item>
     <item>
-      <title>What’s Next For Splunk App Developers</title>
-      <link>https://www.splunk.com/en_us/blog/platform/what-is-next-for-splunk-app-developers.html</link>
-      <description>A sneak peak of what’s on our radar for Splunk app developers.</description>
+      <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
+      <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
+      <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
+    </item>
+    <item>
+      <title>The Incredible Impact of Splunk’s HBCU Academic Scholarship</title>
+      <link>https://www.splunk.com/en_us/blog/splunklife/the-incredible-impact-of-splunks-hbcu-academic-scholarship.html</link>
+      <description>Five past recipients of the Splunk HBCU Academic Scholarship share how the award has helped them manage their academic expenses, so they can focus on studying and contributing to their community.</description>
+    </item>
+    <item>
+      <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
+      <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
+      <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
+    </item>
+    <item>
+      <title>Fueling the SOC of the Future with Built-in Threat Research and Detections in Splunk Enterprise Security</title>
+      <link>https://www.splunk.com/en_us/blog/security/fueling-the-soc-of-the-future-with-built-in-threat-research-and-detections-in-splunk-enterprise-security.html</link>
+      <description>The Splunk Threat Research Team develops security resources and content that helps enhance your ability to detect and respond to advanced threats.</description>
+    </item>
+    <item>
+      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
+      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
+      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
+    </item>
+    <item>
+      <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
+      <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
+      <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
     </item>
     <item>
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
@@ -223,19 +248,19 @@
       <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
     </item>
     <item>
-      <title>Introducing Splunk Cloud App Export</title>
-      <link>https://www.splunk.com/en_us/blog/platform/introducing-splunk-cloud-app-export.html</link>
-      <description>Splunker Spencer Baker introduces Splunk Cloud App Export, a game-changer for cloud admins and app developers.</description>
+      <title>Fueling the SOC of the Future with Built-in Threat Research and Detections in Splunk Enterprise Security</title>
+      <link>https://www.splunk.com/en_us/blog/security/fueling-the-soc-of-the-future-with-built-in-threat-research-and-detections-in-splunk-enterprise-security.html</link>
+      <description>The Splunk Threat Research Team develops security resources and content that helps enhance your ability to detect and respond to advanced threats.</description>
     </item>
     <item>
-      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
-      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
+      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
+      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
+      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
     </item>
     <item>
-      <title>What’s Next For Splunk App Developers</title>
-      <link>https://www.splunk.com/en_us/blog/platform/what-is-next-for-splunk-app-developers.html</link>
-      <description>A sneak peak of what’s on our radar for Splunk app developers.</description>
+      <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
+      <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
+      <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
     </item>
     <item>
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
@@ -251,31 +276,6 @@
       <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
       <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
       <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
-    </item>
-    <item>
-      <title>Introducing Splunk Cloud App Export</title>
-      <link>https://www.splunk.com/en_us/blog/platform/introducing-splunk-cloud-app-export.html</link>
-      <description>Splunker Spencer Baker introduces Splunk Cloud App Export, a game-changer for cloud admins and app developers.</description>
-    </item>
-    <item>
-      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
-      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
-    </item>
-    <item>
-      <title>What’s Next For Splunk App Developers</title>
-      <link>https://www.splunk.com/en_us/blog/platform/what-is-next-for-splunk-app-developers.html</link>
-      <description>A sneak peak of what’s on our radar for Splunk app developers.</description>
-    </item>
-    <item>
-      <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
-      <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
-      <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
-    </item>
-    <item>
-      <title>The Incredible Impact of Splunk’s HBCU Academic Scholarship</title>
-      <link>https://www.splunk.com/en_us/blog/splunklife/the-incredible-impact-of-splunks-hbcu-academic-scholarship.html</link>
-      <description>Five past recipients of the Splunk HBCU Academic Scholarship share how the award has helped them manage their academic expenses, so they can focus on studying and contributing to their community.</description>
     </item>
   </channel>
 </rss>
