@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Oct 2024 01:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 01:38:05 +0000</lastBuildDate>
     <item>
       <title>What Is DFIR? Digital Forensics &amp; Incident Response</title>
       <link>https://www.splunk.com/en_us/blog/learn/digital-forensics-incident-response-dfir.html</link>

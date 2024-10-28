@@ -6,51 +6,21 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Oct 2024 01:39:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 01:38:11 +0000</lastBuildDate>
     <item>
-      <title>langgenius /dify</title>
-      <link>https://github.com/langgenius/dify</link>
-      <description>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</description>
+      <title>vfsfitvnm /ViMusic</title>
+      <link>https://github.com/vfsfitvnm/ViMusic</link>
+      <description>An Android application for streaming music from YouTube Music.</description>
     </item>
     <item>
-      <title>Azure /azure-sdk-for-net</title>
-      <link>https://github.com/Azure/azure-sdk-for-net</link>
-      <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.</description>
+      <title>junegunn /fzf</title>
+      <link>https://github.com/junegunn/fzf</link>
+      <description>🌸 A command-line fuzzy finder</description>
     </item>
     <item>
-      <title>vercel /next.js</title>
-      <link>https://github.com/vercel/next.js</link>
-      <description>The React Framework</description>
-    </item>
-    <item>
-      <title>ToolJet /ToolJet</title>
-      <link>https://github.com/ToolJet/ToolJet</link>
-      <description>Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀</description>
-    </item>
-    <item>
-      <title>xtekky /gpt4free</title>
-      <link>https://github.com/xtekky/gpt4free</link>
-      <description>The official gpt4free repository | various collection of powerful language models</description>
-    </item>
-    <item>
-      <title>PowerShell /PowerShell</title>
-      <link>https://github.com/PowerShell/PowerShell</link>
-      <description>PowerShell for every system!</description>
-    </item>
-    <item>
-      <title>medusajs /medusa</title>
-      <link>https://github.com/medusajs/medusa</link>
-      <description>The world's most flexible commerce platform.</description>
-    </item>
-    <item>
-      <title>anthropics /courses</title>
-      <link>https://github.com/anthropics/courses</link>
-      <description>Anthropic's educational courses</description>
-    </item>
-    <item>
-      <title>Guovin /TV</title>
-      <link>https://github.com/Guovin/TV</link>
-      <description>📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
+      <title>qbittorrent /qBittorrent</title>
+      <link>https://github.com/qbittorrent/qBittorrent</link>
+      <description>qBittorrent BitTorrent client</description>
     </item>
     <item>
       <title>lobehub /lobe-chat</title>
@@ -58,14 +28,34 @@
       <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.</description>
     </item>
     <item>
+      <title>NaiboWang /EasySpider</title>
+      <link>https://github.com/NaiboWang/EasySpider</link>
+      <description>A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。</description>
+    </item>
+    <item>
+      <title>DioxusLabs /dioxus</title>
+      <link>https://github.com/DioxusLabs/dioxus</link>
+      <description>Fullstack app framework for web, desktop, mobile, and more.</description>
+    </item>
+    <item>
+      <title>PowerShell /PowerShell</title>
+      <link>https://github.com/PowerShell/PowerShell</link>
+      <description>PowerShell for every system!</description>
+    </item>
+    <item>
+      <title>ToolJet /ToolJet</title>
+      <link>https://github.com/ToolJet/ToolJet</link>
+      <description>Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀</description>
+    </item>
+    <item>
       <title>OpenInterpreter /open-interpreter</title>
       <link>https://github.com/OpenInterpreter/open-interpreter</link>
       <description>A natural language interface for computers</description>
     </item>
     <item>
-      <title>asterinas /asterinas</title>
-      <link>https://github.com/asterinas/asterinas</link>
-      <description>Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.</description>
+      <title>anthropics /courses</title>
+      <link>https://github.com/anthropics/courses</link>
+      <description>Anthropic's educational courses</description>
     </item>
     <item>
       <title>Skyvern-AI /skyvern</title>
