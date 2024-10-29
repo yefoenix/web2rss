@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 01:38:05 +0000</lastBuildDate>
-    <item>
-      <title>What Is DFIR? Digital Forensics &amp; Incident Response</title>
-      <link>https://www.splunk.com/en_us/blog/learn/digital-forensics-incident-response-dfir.html</link>
-      <description>Learn what is digital forensics &amp; incident response (DFIR) and how it works to address cyber threats.</description>
-    </item>
-    <item>
-      <title>The Forensic Investigator Role: Skills and Responsibilities</title>
-      <link>https://www.splunk.com/en_us/blog/learn/forensic-investigator-role.html</link>
-      <description>Uncover how forensic investigators interpret and assess crimes and frauds to help companies strengthen their security.</description>
-    </item>
+    <lastBuildDate>Tue, 29 Oct 2024 01:33:12 +0000</lastBuildDate>
     <item>
       <title>What Is Root Cause Analysis? The Complete RCA Guide</title>
       <link>https://www.splunk.com/en_us/blog/learn/root-cause-analysis.html</link>
@@ -51,6 +41,16 @@
       <title>Hacking 101: Black Hat vs. White Hat vs. Gray Hat Hacking</title>
       <link>https://www.splunk.com/en_us/blog/learn/hacking-black-hat-vs-white-hat-vs-gray-hat.html</link>
       <description>What's the difference between black hat, white hat, and gray hat? Read on to learn about these hacking categories.</description>
+    </item>
+    <item>
+      <title>What Is Predictive Modeling? An Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/predictive-modeling.html</link>
+      <description>Predictive modeling uses known results to create a statistical model that we can use to forecast future behaviors. Read on to learn more.</description>
+    </item>
+    <item>
+      <title>Life as a Product Management Intern: Austin Wilson</title>
+      <link>https://www.splunk.com/en_us/blog/splunklife/life-as-a-product-management-intern-austin-wilson.html</link>
+      <description>Product Management Intern Austin Wilson shares his experience at Splunk, working remotely from Boulder, CO while giving back and using Splunk for good.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
