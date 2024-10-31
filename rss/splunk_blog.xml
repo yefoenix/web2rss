@@ -6,27 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 01:27:11 +0000</lastBuildDate>
-    <item>
-      <title>ValleyRAT Insights: Tactics, Techniques, and Detection Methods</title>
-      <link>https://www.splunk.com/en_us/blog/security/valleyrat-insights-tactics-techniques-and-detection-methods.html</link>
-      <description>The Splunk Threat Research Team conducts an analysis for several variants of ValleyRAT’s malware samples to extract its MITRE ATT&amp;CK tactics, techniques, and procedures (TTPs).</description>
-    </item>
-    <item>
-      <title>What Is Incident Response?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/incident-response.html</link>
-      <description>In this post, we'll cover what incident response is and why it's essential for organizations to protect themselves from digital threats.</description>
-    </item>
-    <item>
-      <title>Hacking 101: Black Hat vs. White Hat vs. Gray Hat Hacking</title>
-      <link>https://www.splunk.com/en_us/blog/learn/hacking-black-hat-vs-white-hat-vs-gray-hat.html</link>
-      <description>What's the difference between black hat, white hat, and gray hat? Read on to learn about these hacking categories.</description>
-    </item>
-    <item>
-      <title>What Is Predictive Modeling? An Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/predictive-modeling.html</link>
-      <description>Predictive modeling uses known results to create a statistical model that we can use to forecast future behaviors. Read on to learn more.</description>
-    </item>
+    <lastBuildDate>Thu, 31 Oct 2024 01:36:21 +0000</lastBuildDate>
     <item>
       <title>Life as a Product Management Intern: Austin Wilson</title>
       <link>https://www.splunk.com/en_us/blog/splunklife/life-as-a-product-management-intern-austin-wilson.html</link>
@@ -51,6 +31,26 @@
       <title>What are Attack Surfaces?</title>
       <link>https://www.splunk.com/en_us/blog/learn/attack-surfaces.html</link>
       <description>Discover how attack surfaces impact cybersecurity, the risks they pose, and effective strategies for minimizing vulnerabilities in your organization.</description>
+    </item>
+    <item>
+      <title>The Observability Center of Excellence, Part II: From Pitch to Formation</title>
+      <link>https://www.splunk.com/en_us/blog/devops/the-observability-center-of-excellence-part-ii-from-pitch-to-formation.html</link>
+      <description>Dive into the steps to form your very own Observability Center of Excellence (CoE) team.</description>
+    </item>
+    <item>
+      <title>Cybersecurity Policies: Types &amp; Best Practices</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-policies.html</link>
+      <description>Learn how to structure effective cybersecurity policies to protect critical systems, address evolving threats, and meet regulatory obligations.</description>
+    </item>
+    <item>
+      <title>What’s Reliability? Reliability Metrics To Know</title>
+      <link>https://www.splunk.com/en_us/blog/learn/reliability-metrics.html</link>
+      <description>These top reliability metrics indicate where organizations should focus in order to support reliability requirements for uptime and performance.</description>
+    </item>
+    <item>
+      <title>Meet the Splunktern: Alexander De Laine</title>
+      <link>https://www.splunk.com/en_us/blog/splunklife/meet-the-splunktern-alexander-de-laine.html</link>
+      <description>Alexander De Laine, a Digital Sales Intern from Sydney, AU, shares a peek into his day and his projects in our Meet the Splunktern series.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

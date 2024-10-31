@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.anthropic.com/news. follow.is: feedId:71805759203098624+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 01:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 01:36:31 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -391,6 +391,11 @@
       <title>Claude 3.5 Sonnet on GitHub Copilot</title>
       <link>https://www.anthropic.com/news/github-copilot</link>
       <description>AnnouncementsClaude 3.5 Sonnet on GitHub CopilotOct 29, 2024</description>
+    </item>
+    <item>
+      <title>Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet</title>
+      <link>https://www.anthropic.com/research/swe-bench-sonnet</link>
+      <description>ProductRaising the bar on SWE-bench Verified with Claude 3.5 SonnetOct 30, 2024</description>
     </item>
   </channel>
 </rss>
