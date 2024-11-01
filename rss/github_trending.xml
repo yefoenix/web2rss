@@ -6,56 +6,86 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 01:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 01:41:13 +0000</lastBuildDate>
     <item>
-      <title>dgtlmoon /changedetection.io</title>
-      <link>https://github.com/dgtlmoon/changedetection.io</link>
-      <description>The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification</description>
+      <title>Azure /azure-rest-api-specs</title>
+      <link>https://github.com/Azure/azure-rest-api-specs</link>
+      <description>The source for REST API specifications for Microsoft Azure.</description>
     </item>
     <item>
-      <title>paperless-ngx /paperless-ngx</title>
-      <link>https://github.com/paperless-ngx/paperless-ngx</link>
-      <description>A community-supported supercharged version of paperless: scan, index and archive all your physical documents</description>
+      <title>jackc /pgx</title>
+      <link>https://github.com/jackc/pgx</link>
+      <description>PostgreSQL driver and toolkit for Go</description>
     </item>
     <item>
-      <title>AppFlowy-IO /AppFlowy</title>
-      <link>https://github.com/AppFlowy-IO/AppFlowy</link>
-      <description>Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.</description>
+      <title>avelino /awesome-go</title>
+      <link>https://github.com/avelino/awesome-go</link>
+      <description>A curated list of awesome Go frameworks, libraries and software</description>
     </item>
     <item>
-      <title>rustdesk /rustdesk</title>
-      <link>https://github.com/rustdesk/rustdesk</link>
-      <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+      <title>Azure-Samples /azure-search-openai-demo</title>
+      <link>https://github.com/Azure-Samples/azure-search-openai-demo</link>
+      <description>A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&amp;A experiences.</description>
     </item>
     <item>
-      <title>blackmatrix7 /ios_rule_script</title>
-      <link>https://github.com/blackmatrix7/ios_rule_script</link>
-      <description>分流规则、重写写规则及脚本。</description>
+      <title>mui /mui-x</title>
+      <link>https://github.com/mui/mui-x</link>
+      <description>MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!</description>
     </item>
     <item>
-      <title>Spooks4576 /Ghost_ESP</title>
-      <link>https://github.com/Spooks4576/Ghost_ESP</link>
-      <description>Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect</description>
+      <title>type-challenges /type-challenges</title>
+      <link>https://github.com/type-challenges/type-challenges</link>
+      <description>Collection of TypeScript type challenges with online judge</description>
     </item>
     <item>
-      <title>novuhq /novu</title>
-      <link>https://github.com/novuhq/novu</link>
-      <description>Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.</description>
+      <title>renovatebot /renovate</title>
+      <link>https://github.com/renovatebot/renovate</link>
+      <description>Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io</description>
     </item>
     <item>
-      <title>omnivore-app /omnivore</title>
-      <link>https://github.com/omnivore-app/omnivore</link>
-      <description>Omnivore is a complete, open source read-it-later solution for people who like reading.</description>
-    </item>
-    <item>
-      <title>meta-llama /llama-recipes</title>
-      <link>https://github.com/meta-llama/llama-recipes</link>
-      <description>Scripts for fine-tuning Meta Llama with composable FSDP &amp; PEFT methods to cover single/multi-node GPUs. Supports default &amp; custom datasets for applications such as summarization and Q&amp;A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp &amp; Messenger.</description>
+      <title>udecode /plate</title>
+      <link>https://github.com/udecode/plate</link>
+      <description>A rich-text editor powered by AI</description>
     </item>
     <item>
       <title>usememos /memos</title>
       <link>https://github.com/usememos/memos</link>
       <description>An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</description>
+    </item>
+    <item>
+      <title>elastic /elasticsearch</title>
+      <link>https://github.com/elastic/elasticsearch</link>
+      <description>Free and Open Source, Distributed, RESTful Search Engine</description>
+    </item>
+    <item>
+      <title>trufflesecurity /trufflehog</title>
+      <link>https://github.com/trufflesecurity/trufflehog</link>
+      <description>Find, verify, and analyze leaked credentials</description>
+    </item>
+    <item>
+      <title>stanford-oval /storm</title>
+      <link>https://github.com/stanford-oval/storm</link>
+      <description>An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</description>
+    </item>
+    <item>
+      <title>anthropics /courses</title>
+      <link>https://github.com/anthropics/courses</link>
+      <description>Anthropic's educational courses</description>
+    </item>
+    <item>
+      <title>cline /cline</title>
+      <link>https://github.com/cline/cline</link>
+      <description>Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.</description>
+    </item>
+    <item>
+      <title>soimort /you-get</title>
+      <link>https://github.com/soimort/you-get</link>
+      <description>⏬ Dumb downloader that scrapes the web</description>
+    </item>
+    <item>
+      <title>omnivore-app /omnivore</title>
+      <link>https://github.com/omnivore-app/omnivore</link>
+      <description>Omnivore is a complete, open source read-it-later solution for people who like reading.</description>
     </item>
     <item>
       <title>open-mmlab /Amphion</title>
