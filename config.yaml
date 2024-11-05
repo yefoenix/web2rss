@@ -54,7 +54,7 @@ sites:
     use_headless_browser: true
 
   - name: GoogleCloudBlog
-    follow_desc: 
+    follow_desc: feedId:76529357699500032+userId:71370844472670208
     url: https://cloud.google.com/blog
     block_css: .u2M0Kb
     title_css: h5
