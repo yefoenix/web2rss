@@ -35,3 +35,8 @@
 - 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/GoogleCloudBlog.xml
 - Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/GoogleCloudBlog.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/GoogleCloudBlog.xml)
 
+## XbowBlog
+- 原网址：https://xbow.com/blog/
+- 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/XbowBlog.xml
+- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/XbowBlog.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/XbowBlog.xml)
+
