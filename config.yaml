@@ -70,3 +70,12 @@ sites:
     description_css: .font-medium
     link_css: a
     use_headless_browser: false
+
+  - name: deeplearning
+    follow_desc: 
+    url: https://www.deeplearning.ai/the-batch/
+    block_css: article
+    title_css: h2
+    description_css: .text-sm
+    link_css: a
+    use_headless_browser: true
