@@ -52,3 +52,12 @@ sites:
     description_css: .content
     link_css: a
     use_headless_browser: true
+
+  - name: Google Cloud Blog
+    follow_desc: 
+    url: https://cloud.google.com/blog
+    block_css: .u2M0Kb
+    title_css: h5
+    description_css: a
+    link_css: a
+    use_headless_browser: true
