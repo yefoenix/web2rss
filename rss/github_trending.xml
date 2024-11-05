@@ -6,21 +6,11 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Nov 2024 01:28:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 01:25:52 +0000</lastBuildDate>
     <item>
-      <title>meta-llama /llama-stack</title>
-      <link>https://github.com/meta-llama/llama-stack</link>
-      <description>Model components of the Llama Stack APIs</description>
-    </item>
-    <item>
-      <title>daytonaio /daytona</title>
-      <link>https://github.com/daytonaio/daytona</link>
-      <description>The Open Source Dev Environment Manager.</description>
-    </item>
-    <item>
-      <title>tiann /KernelSU</title>
-      <link>https://github.com/tiann/KernelSU</link>
-      <description>A Kernel based root solution for Android</description>
+      <title>donnemartin /system-design-primer</title>
+      <link>https://github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
     </item>
     <item>
       <title>kamranahmedse /developer-roadmap</title>
@@ -28,39 +18,9 @@
       <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
     </item>
     <item>
-      <title>getmaxun /maxun</title>
-      <link>https://github.com/getmaxun/maxun</link>
-      <description>Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]</description>
-    </item>
-    <item>
-      <title>3b1b /videos</title>
-      <link>https://github.com/3b1b/videos</link>
-      <description>Code for the manim-generated scenes used in 3blue1brown videos</description>
-    </item>
-    <item>
-      <title>usememos /memos</title>
-      <link>https://github.com/usememos/memos</link>
-      <description>An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</description>
-    </item>
-    <item>
-      <title>mingrammer /diagrams</title>
-      <link>https://github.com/mingrammer/diagrams</link>
-      <description>🎨 Diagram as Code for prototyping cloud system architectures</description>
-    </item>
-    <item>
-      <title>AUTOMATIC1111 /stable-diffusion-webui</title>
-      <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
-      <description>Stable Diffusion web UI</description>
-    </item>
-    <item>
-      <title>trufflesecurity /trufflehog</title>
-      <link>https://github.com/trufflesecurity/trufflehog</link>
-      <description>Find, verify, and analyze leaked credentials</description>
-    </item>
-    <item>
-      <title>bluesky-social /social-app</title>
-      <link>https://github.com/bluesky-social/social-app</link>
-      <description>The Bluesky Social application for Web, iOS, and Android</description>
+      <title>2dust /v2rayNG</title>
+      <link>https://github.com/2dust/v2rayNG</link>
+      <description>A V2Ray client for Android, support Xray core and v2fly core</description>
     </item>
     <item>
       <title>microsoft /genaiscript</title>
@@ -68,24 +28,14 @@
       <description>Automatable GenAI Scripting</description>
     </item>
     <item>
-      <title>Cinnamon /kotaemon</title>
-      <link>https://github.com/Cinnamon/kotaemon</link>
-      <description>An open-source RAG-based tool for chatting with your documents.</description>
+      <title>AykutSarac /jsoncrack.com</title>
+      <link>https://github.com/AykutSarac/jsoncrack.com</link>
+      <description>✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.</description>
     </item>
     <item>
-      <title>kestra-io /kestra</title>
-      <link>https://github.com/kestra-io/kestra</link>
-      <description>⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...</description>
-    </item>
-    <item>
-      <title>All-Hands-AI /OpenHands</title>
-      <link>https://github.com/All-Hands-AI/OpenHands</link>
-      <description>🙌 OpenHands: Code Less, Make More</description>
-    </item>
-    <item>
-      <title>tw93 /Pake</title>
-      <link>https://github.com/tw93/Pake</link>
-      <description>🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</description>
+      <title>bluesky-social /social-app</title>
+      <link>https://github.com/bluesky-social/social-app</link>
+      <description>The Bluesky Social application for Web, iOS, and Android</description>
     </item>
     <item>
       <title>abi /screenshot-to-code</title>
@@ -93,9 +43,74 @@
       <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
     </item>
     <item>
+      <title>mingrammer /diagrams</title>
+      <link>https://github.com/mingrammer/diagrams</link>
+      <description>🎨 Diagram as Code for prototyping cloud system architectures</description>
+    </item>
+    <item>
+      <title>wg-easy /wg-easy</title>
+      <link>https://github.com/wg-easy/wg-easy</link>
+      <description>The easiest way to run WireGuard VPN + Web-based Admin UI.</description>
+    </item>
+    <item>
+      <title>tw93 /Pake</title>
+      <link>https://github.com/tw93/Pake</link>
+      <description>🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</description>
+    </item>
+    <item>
+      <title>All-Hands-AI /OpenHands</title>
+      <link>https://github.com/All-Hands-AI/OpenHands</link>
+      <description>🙌 OpenHands: Code Less, Make More</description>
+    </item>
+    <item>
+      <title>maybe-finance /maybe</title>
+      <link>https://github.com/maybe-finance/maybe</link>
+      <description>The OS for your personal finances</description>
+    </item>
+    <item>
+      <title>getmaxun /maxun</title>
+      <link>https://github.com/getmaxun/maxun</link>
+      <description>Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]</description>
+    </item>
+    <item>
+      <title>Mintplex-Labs /anything-llm</title>
+      <link>https://github.com/Mintplex-Labs/anything-llm</link>
+      <description>The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more.</description>
+    </item>
+    <item>
       <title>DS4SD /docling</title>
       <link>https://github.com/DS4SD/docling</link>
-      <description>Get your docs ready for gen AI</description>
+      <description>Get your documents ready for gen AI</description>
+    </item>
+    <item>
+      <title>meta-llama /llama-stack</title>
+      <link>https://github.com/meta-llama/llama-stack</link>
+      <description>Model components of the Llama Stack APIs</description>
+    </item>
+    <item>
+      <title>kestra-io /kestra</title>
+      <link>https://github.com/kestra-io/kestra</link>
+      <description>⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...</description>
+    </item>
+    <item>
+      <title>localsend /localsend</title>
+      <link>https://github.com/localsend/localsend</link>
+      <description>An open-source cross-platform alternative to AirDrop</description>
+    </item>
+    <item>
+      <title>Cinnamon /kotaemon</title>
+      <link>https://github.com/Cinnamon/kotaemon</link>
+      <description>An open-source RAG-based tool for chatting with your documents.</description>
+    </item>
+    <item>
+      <title>Stirling-Tools /Stirling-PDF</title>
+      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
+      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
+    </item>
+    <item>
+      <title>twentyhq /twenty</title>
+      <link>https://github.com/twentyhq/twenty</link>
+      <description>Building a modern alternative to Salesforce, powered by the community.</description>
     </item>
   </channel>
 </rss>
