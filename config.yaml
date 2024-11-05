@@ -61,3 +61,12 @@ sites:
     description_css: a
     link_css: a
     use_headless_browser: true
+
+  - name: XbowBlog
+    follow_desc: feedId:76529357699500032+userId:71370844472670208
+    url: https://xbow.com/blog/
+    block_css: article
+    title_css: h3
+    description_css: .font-medium
+    link_css: a
+    use_headless_browser: false
