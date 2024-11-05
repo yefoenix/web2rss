@@ -6,66 +6,111 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 08:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 01:25:52 +0000</lastBuildDate>
     <item>
-      <title>pointfreeco /swift-composable-architecture</title>
-      <link>https://github.com/pointfreeco/swift-composable-architecture</link>
-      <description>A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</description>
+      <title>donnemartin /system-design-primer</title>
+      <link>https://github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
     </item>
     <item>
-      <title>sveltejs /svelte</title>
-      <link>https://github.com/sveltejs/svelte</link>
-      <description>web development for the rest of us</description>
+      <title>kamranahmedse /developer-roadmap</title>
+      <link>https://github.com/kamranahmedse/developer-roadmap</link>
+      <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
     </item>
     <item>
-      <title>vercel /next.js</title>
-      <link>https://github.com/vercel/next.js</link>
-      <description>The React Framework</description>
+      <title>2dust /v2rayNG</title>
+      <link>https://github.com/2dust/v2rayNG</link>
+      <description>A V2Ray client for Android, support Xray core and v2fly core</description>
     </item>
     <item>
-      <title>goldbergyoni /nodebestpractices</title>
-      <link>https://github.com/goldbergyoni/nodebestpractices</link>
-      <description>✅ The Node.js best practices list (July 2024)</description>
+      <title>microsoft /genaiscript</title>
+      <link>https://github.com/microsoft/genaiscript</link>
+      <description>Automatable GenAI Scripting</description>
     </item>
     <item>
-      <title>drawdb-io /drawdb</title>
-      <link>https://github.com/drawdb-io/drawdb</link>
-      <description>Free, simple, and intuitive online database diagram editor and SQL generator.</description>
+      <title>AykutSarac /jsoncrack.com</title>
+      <link>https://github.com/AykutSarac/jsoncrack.com</link>
+      <description>✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.</description>
     </item>
     <item>
-      <title>axios /axios</title>
-      <link>https://github.com/axios/axios</link>
-      <description>Promise based HTTP client for the browser and node.js</description>
+      <title>bluesky-social /social-app</title>
+      <link>https://github.com/bluesky-social/social-app</link>
+      <description>The Bluesky Social application for Web, iOS, and Android</description>
     </item>
     <item>
-      <title>phidatahq /phidata</title>
-      <link>https://github.com/phidatahq/phidata</link>
-      <description>Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.</description>
+      <title>abi /screenshot-to-code</title>
+      <link>https://github.com/abi/screenshot-to-code</link>
+      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
     </item>
     <item>
-      <title>mealie-recipes /mealie</title>
-      <link>https://github.com/mealie-recipes/mealie</link>
-      <description>Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor</description>
+      <title>mingrammer /diagrams</title>
+      <link>https://github.com/mingrammer/diagrams</link>
+      <description>🎨 Diagram as Code for prototyping cloud system architectures</description>
     </item>
     <item>
-      <title>facebookresearch /co-tracker</title>
-      <link>https://github.com/facebookresearch/co-tracker</link>
-      <description>CoTracker is a model for tracking any point (pixel) on a video.</description>
+      <title>wg-easy /wg-easy</title>
+      <link>https://github.com/wg-easy/wg-easy</link>
+      <description>The easiest way to run WireGuard VPN + Web-based Admin UI.</description>
     </item>
     <item>
-      <title>Guovin /TV</title>
-      <link>https://github.com/Guovin/TV</link>
-      <description>📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | IPTV live TV source update tool</description>
+      <title>tw93 /Pake</title>
+      <link>https://github.com/tw93/Pake</link>
+      <description>🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</description>
     </item>
     <item>
-      <title>ranaroussi /yfinance</title>
-      <link>https://github.com/ranaroussi/yfinance</link>
-      <description>Download market data from Yahoo! Finance's API</description>
+      <title>All-Hands-AI /OpenHands</title>
+      <link>https://github.com/All-Hands-AI/OpenHands</link>
+      <description>🙌 OpenHands: Code Less, Make More</description>
     </item>
     <item>
-      <title>hiteshchoudhary /apihub</title>
-      <link>https://github.com/hiteshchoudhary/apihub</link>
-      <description>Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.</description>
+      <title>maybe-finance /maybe</title>
+      <link>https://github.com/maybe-finance/maybe</link>
+      <description>The OS for your personal finances</description>
+    </item>
+    <item>
+      <title>getmaxun /maxun</title>
+      <link>https://github.com/getmaxun/maxun</link>
+      <description>Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]</description>
+    </item>
+    <item>
+      <title>Mintplex-Labs /anything-llm</title>
+      <link>https://github.com/Mintplex-Labs/anything-llm</link>
+      <description>The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more.</description>
+    </item>
+    <item>
+      <title>DS4SD /docling</title>
+      <link>https://github.com/DS4SD/docling</link>
+      <description>Get your documents ready for gen AI</description>
+    </item>
+    <item>
+      <title>meta-llama /llama-stack</title>
+      <link>https://github.com/meta-llama/llama-stack</link>
+      <description>Model components of the Llama Stack APIs</description>
+    </item>
+    <item>
+      <title>kestra-io /kestra</title>
+      <link>https://github.com/kestra-io/kestra</link>
+      <description>⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...</description>
+    </item>
+    <item>
+      <title>localsend /localsend</title>
+      <link>https://github.com/localsend/localsend</link>
+      <description>An open-source cross-platform alternative to AirDrop</description>
+    </item>
+    <item>
+      <title>Cinnamon /kotaemon</title>
+      <link>https://github.com/Cinnamon/kotaemon</link>
+      <description>An open-source RAG-based tool for chatting with your documents.</description>
+    </item>
+    <item>
+      <title>Stirling-Tools /Stirling-PDF</title>
+      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
+      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
+    </item>
+    <item>
+      <title>twentyhq /twenty</title>
+      <link>https://github.com/twentyhq/twenty</link>
+      <description>Building a modern alternative to Salesforce, powered by the community.</description>
     </item>
   </channel>
 </rss>

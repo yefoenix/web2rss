@@ -6,16 +6,216 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 08:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 01:25:44 +0000</lastBuildDate>
     <item>
-      <title>Cybersecurity Jobs: Roles, Responsibilities, and Skills</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-jobs-skills-responsibilities.html</link>
-      <description>In this post, we'll look at roles and responsibilities in the cybersecurity domain including skills required and average annual salary.</description>
+      <title>What are Attack Surfaces?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/attack-surfaces.html</link>
+      <description>Discover how attack surfaces impact cybersecurity, the risks they pose, and effective strategies for minimizing vulnerabilities in your organization.</description>
     </item>
     <item>
-      <title>What is Infrastructure Monitoring?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/infrastructure-monitoring.html</link>
-      <description>Monitoring your infrastructure starts long before systems go live. Let’s look at approaches, tools, challenges &amp; future trends of infrastructure monitoring.</description>
+      <title>The Observability Center of Excellence, Part II: From Pitch to Formation</title>
+      <link>https://www.splunk.com/en_us/blog/devops/the-observability-center-of-excellence-part-ii-from-pitch-to-formation.html</link>
+      <description>Dive into the steps to form your very own Observability Center of Excellence (CoE) team.</description>
+    </item>
+    <item>
+      <title>Cybersecurity Policies: Types &amp; Best Practices</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-policies.html</link>
+      <description>Learn how to structure effective cybersecurity policies to protect critical systems, address evolving threats, and meet regulatory obligations.</description>
+    </item>
+    <item>
+      <title>What’s Reliability? Reliability Metrics To Know</title>
+      <link>https://www.splunk.com/en_us/blog/learn/reliability-metrics.html</link>
+      <description>These top reliability metrics indicate where organizations should focus in order to support reliability requirements for uptime and performance.</description>
+    </item>
+    <item>
+      <title>Meet the Splunktern: Alexander De Laine</title>
+      <link>https://www.splunk.com/en_us/blog/splunklife/meet-the-splunktern-alexander-de-laine.html</link>
+      <description>Alexander De Laine, a Digital Sales Intern from Sydney, AU, shares a peek into his day and his projects in our Meet the Splunktern series.</description>
+    </item>
+    <item>
+      <title>Impact Bytes: Bolstering Democracy Through Data</title>
+      <link>https://www.splunk.com/en_us/blog/splunk-for-good/impact-bytes-bolstering-democracy-through-data.html</link>
+      <description>Meet three nonprofits using data to empower citizens and strengthen accountability.</description>
+    </item>
+    <item>
+      <title>Cybersecurity Awareness Month Spotlight: Insights from the Cisco Talos &amp; SURGe Teams</title>
+      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-awareness-month-spotlight-insights-from-the-cisco-talos-surge-teams.html</link>
+      <description>The Cisco Talos and SURGe by Splunk teams gathered for a special episode of Talos Takes filled with engaging cybersecurity discussions and candid opinions.</description>
+    </item>
+    <item>
+      <title>How To Write SMART Goals: The SMART Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/smart-goals.html</link>
+      <description>You’ve heard of SMART goals, but how do you write them? Learn how in this in-depth article, useful for both workplace and personal goalsetting.</description>
+    </item>
+    <item>
+      <title>Announcing the General Availability of Splunk® Enterprise Security 8.0</title>
+      <link>https://www.splunk.com/en_us/blog/security/announcing-the-general-availability-of-splunk-enterprise-security-8-0.html</link>
+      <description>We are thrilled to announce Splunk Enterprise Security 8.0 is now generally available.</description>
+    </item>
+    <item>
+      <title>What is Observability? An Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
+      <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
+    </item>
+    <item>
+      <title>What is Cloud Analytics?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
+      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
+    </item>
+    <item>
+      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
+      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
+      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
+    </item>
+    <item>
+      <title>Top Cybersecurity Certifications To Earn Today</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-certifications.html</link>
+      <description>Take the next step in your cybersecurity career! Check out these security certifications to earn today, from beginner to advanced, covering all aspects of cyber.</description>
+    </item>
+    <item>
+      <title>Telemetry 101: An Introduction To Telemetry</title>
+      <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
+      <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
+    </item>
+    <item>
+      <title>SIEM: Security Information &amp; Event Management Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/siem-security-information-event-management.html</link>
+      <description>SIEM is a cybersecurity game-changer, especially for large organizations. Learn key SIEM features and functions &amp; how to choose the right SIEM tool.</description>
+    </item>
+    <item>
+      <title>What is Observability? An Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
+      <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
+    </item>
+    <item>
+      <title>What is Cloud Analytics?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
+      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
+    </item>
+    <item>
+      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
+      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
+      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
+    </item>
+    <item>
+      <title>Top Cybersecurity Certifications To Earn Today</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-certifications.html</link>
+      <description>Take the next step in your cybersecurity career! Check out these security certifications to earn today, from beginner to advanced, covering all aspects of cyber.</description>
+    </item>
+    <item>
+      <title>Telemetry 101: An Introduction To Telemetry</title>
+      <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
+      <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
+    </item>
+    <item>
+      <title>SIEM: Security Information &amp; Event Management Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/siem-security-information-event-management.html</link>
+      <description>SIEM is a cybersecurity game-changer, especially for large organizations. Learn key SIEM features and functions &amp; how to choose the right SIEM tool.</description>
+    </item>
+    <item>
+      <title>What is Observability? An Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
+      <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
+    </item>
+    <item>
+      <title>What is Cloud Analytics?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
+      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
+    </item>
+    <item>
+      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
+      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
+      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
+    </item>
+    <item>
+      <title>Splunk SOAR Evolved: A Unified TDIR Approach to Automation</title>
+      <link>https://www.splunk.com/en_us/blog/security/splunk-soar-evolved-a-unified-tdir-approach-to-automation.html</link>
+      <description>Splunk SOAR 6.3.0 and 6.3.1 constitute a significant evolution in how security practitioners can implement, use, and leverage security automation in the SOC more efficiently.</description>
+    </item>
+    <item>
+      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
+      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
+      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
+    </item>
+    <item>
+      <title>Celebrating 2024 Worldwide BOTS Day</title>
+      <link>https://www.splunk.com/en_us/blog/security/celebrating-2024-worldwide-bots-day.html</link>
+      <description>After a successful launch of BOTS at .conf24, we’re ready to take it to the masses with two worldwide BOTSv9 competitions.</description>
+    </item>
+    <item>
+      <title>A Case Study in Vulnerability Prioritization: Lessons Learned from Large-Scale Incidents</title>
+      <link>https://www.splunk.com/en_us/blog/security/a-case-study-in-vulnerability-prioritization-the-lessons-learned-from-large-scale-incidents.html</link>
+      <description>Splunker Audra Streetman provides an overview of the lessons learned from previous large-scale security incidents to help inform vulnerability prioritization.</description>
+    </item>
+    <item>
+      <title>Cybersecurity Awareness Is Not Just for Spooky Season</title>
+      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-awareness-is-not-just-for-spooky-season.html</link>
+      <description>As October marks Cybersecurity Awareness Month, Splunker Mick Baccio reflects on the progress made over the past two decades.</description>
+    </item>
+    <item>
+      <title>Security Staff Picks To Read This Month, Handpicked by Splunk Experts</title>
+      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-recent-articles.html</link>
+      <description>Every month, our Splunk staff of security experts share their favorite reads of the month — this way, you can follow the most interesting, news-worthy, and innovative stories coming from the wide world of cybersecurity.</description>
+    </item>
+    <item>
+      <title>Splunk SOAR Evolved: A Unified TDIR Approach to Automation</title>
+      <link>https://www.splunk.com/en_us/blog/security/splunk-soar-evolved-a-unified-tdir-approach-to-automation.html</link>
+      <description>Splunk SOAR 6.3.0 and 6.3.1 constitute a significant evolution in how security practitioners can implement, use, and leverage security automation in the SOC more efficiently.</description>
+    </item>
+    <item>
+      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
+      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
+      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
+    </item>
+    <item>
+      <title>Celebrating 2024 Worldwide BOTS Day</title>
+      <link>https://www.splunk.com/en_us/blog/security/celebrating-2024-worldwide-bots-day.html</link>
+      <description>After a successful launch of BOTS at .conf24, we’re ready to take it to the masses with two worldwide BOTSv9 competitions.</description>
+    </item>
+    <item>
+      <title>A Case Study in Vulnerability Prioritization: Lessons Learned from Large-Scale Incidents</title>
+      <link>https://www.splunk.com/en_us/blog/security/a-case-study-in-vulnerability-prioritization-the-lessons-learned-from-large-scale-incidents.html</link>
+      <description>Splunker Audra Streetman provides an overview of the lessons learned from previous large-scale security incidents to help inform vulnerability prioritization.</description>
+    </item>
+    <item>
+      <title>Cybersecurity Awareness Is Not Just for Spooky Season</title>
+      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-awareness-is-not-just-for-spooky-season.html</link>
+      <description>As October marks Cybersecurity Awareness Month, Splunker Mick Baccio reflects on the progress made over the past two decades.</description>
+    </item>
+    <item>
+      <title>Security Staff Picks To Read This Month, Handpicked by Splunk Experts</title>
+      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-recent-articles.html</link>
+      <description>Every month, our Splunk staff of security experts share their favorite reads of the month — this way, you can follow the most interesting, news-worthy, and innovative stories coming from the wide world of cybersecurity.</description>
+    </item>
+    <item>
+      <title>Splunk SOAR Evolved: A Unified TDIR Approach to Automation</title>
+      <link>https://www.splunk.com/en_us/blog/security/splunk-soar-evolved-a-unified-tdir-approach-to-automation.html</link>
+      <description>Splunk SOAR 6.3.0 and 6.3.1 constitute a significant evolution in how security practitioners can implement, use, and leverage security automation in the SOC more efficiently.</description>
+    </item>
+    <item>
+      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
+      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
+      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
+    </item>
+    <item>
+      <title>Celebrating 2024 Worldwide BOTS Day</title>
+      <link>https://www.splunk.com/en_us/blog/security/celebrating-2024-worldwide-bots-day.html</link>
+      <description>After a successful launch of BOTS at .conf24, we’re ready to take it to the masses with two worldwide BOTSv9 competitions.</description>
+    </item>
+    <item>
+      <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
+      <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
+      <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
+    </item>
+    <item>
+      <title>The Incredible Impact of Splunk’s HBCU Academic Scholarship</title>
+      <link>https://www.splunk.com/en_us/blog/splunklife/the-incredible-impact-of-splunks-hbcu-academic-scholarship.html</link>
+      <description>Five past recipients of the Splunk HBCU Academic Scholarship share how the award has helped them manage their academic expenses, so they can focus on studying and contributing to their community.</description>
+    </item>
+    <item>
+      <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
+      <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
+      <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
     </item>
     <item>
       <title>Fueling the SOC of the Future with Built-in Threat Research and Detections in Splunk Enterprise Security</title>
@@ -28,184 +228,9 @@
       <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
     </item>
     <item>
-      <title>What Is DFIR? Digital Forensics &amp; Incident Response</title>
-      <link>https://www.splunk.com/en_us/blog/learn/digital-forensics-incident-response-dfir.html</link>
-      <description>Learn what is digital forensics &amp; incident response (DFIR) and how it works to address cyber threats.</description>
-    </item>
-    <item>
-      <title>The Forensic Investigator Role: Skills and Responsibilities</title>
-      <link>https://www.splunk.com/en_us/blog/learn/forensic-investigator-role.html</link>
-      <description>Uncover how forensic investigators interpret and assess crimes and frauds to help companies strengthen their security.</description>
-    </item>
-    <item>
-      <title>What Is Root Cause Analysis? The Complete RCA Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/root-cause-analysis.html</link>
-      <description>In this article, we'll explore how to conduct RCA, its core principles, best practices, and the tools available to facilitate this process.</description>
-    </item>
-    <item>
-      <title>Security Event Logs: A Complete Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-event-logs.html</link>
-      <description>See why security event logs are so important: they provide real-time insights to protect your online data from threats or breaches.</description>
-    </item>
-    <item>
-      <title>Offensive Vs. Defensive Security: How They Work</title>
-      <link>https://www.splunk.com/en_us/blog/learn/offensive-vs-defensive-security.html</link>
-      <description>Learn the difference between offensive and defensive security and explore their challenges.</description>
-    </item>
-    <item>
-      <title>What is Observability? An Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
-      <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
-    </item>
-    <item>
-      <title>What is Cloud Analytics?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
-      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
-    </item>
-    <item>
-      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
-      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
-    </item>
-    <item>
-      <title>Top Cybersecurity Certifications To Earn Today</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-certifications.html</link>
-      <description>Take the next step in your cybersecurity career! Check out these security certifications to earn today, from beginner to advanced, covering all aspects of cyber.</description>
-    </item>
-    <item>
-      <title>Telemetry 101: An Introduction To Telemetry</title>
-      <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
-      <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
-    </item>
-    <item>
-      <title>SIEM: Security Information &amp; Event Management Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/siem-security-information-event-management.html</link>
-      <description>SIEM is a cybersecurity game-changer, especially for large organizations. Learn key SIEM features and functions &amp; how to choose the right SIEM tool.</description>
-    </item>
-    <item>
-      <title>What is Observability? An Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
-      <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
-    </item>
-    <item>
-      <title>What is Cloud Analytics?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
-      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
-    </item>
-    <item>
-      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
-      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
-    </item>
-    <item>
-      <title>Top Cybersecurity Certifications To Earn Today</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-certifications.html</link>
-      <description>Take the next step in your cybersecurity career! Check out these security certifications to earn today, from beginner to advanced, covering all aspects of cyber.</description>
-    </item>
-    <item>
-      <title>Telemetry 101: An Introduction To Telemetry</title>
-      <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
-      <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
-    </item>
-    <item>
-      <title>SIEM: Security Information &amp; Event Management Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/siem-security-information-event-management.html</link>
-      <description>SIEM is a cybersecurity game-changer, especially for large organizations. Learn key SIEM features and functions &amp; how to choose the right SIEM tool.</description>
-    </item>
-    <item>
-      <title>What is Observability? An Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
-      <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
-    </item>
-    <item>
-      <title>What is Cloud Analytics?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
-      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
-    </item>
-    <item>
-      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
-      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
-    </item>
-    <item>
-      <title>Splunk SOAR Evolved: A Unified TDIR Approach to Automation</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-soar-evolved-a-unified-tdir-approach-to-automation.html</link>
-      <description>Splunk SOAR 6.3.0 and 6.3.1 constitute a significant evolution in how security practitioners can implement, use, and leverage security automation in the SOC more efficiently.</description>
-    </item>
-    <item>
-      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
-      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
-    </item>
-    <item>
-      <title>Celebrating 2024 Worldwide BOTS Day</title>
-      <link>https://www.splunk.com/en_us/blog/security/celebrating-2024-worldwide-bots-day.html</link>
-      <description>After a successful launch of BOTS at .conf24, we’re ready to take it to the masses with two worldwide BOTSv9 competitions.</description>
-    </item>
-    <item>
-      <title>A Case Study in Vulnerability Prioritization: Lessons Learned from Large-Scale Incidents</title>
-      <link>https://www.splunk.com/en_us/blog/security/a-case-study-in-vulnerability-prioritization-the-lessons-learned-from-large-scale-incidents.html</link>
-      <description>Splunker Audra Streetman provides an overview of the lessons learned from previous large-scale security incidents to help inform vulnerability prioritization.</description>
-    </item>
-    <item>
-      <title>Cybersecurity Awareness Is Not Just for Spooky Season</title>
-      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-awareness-is-not-just-for-spooky-season.html</link>
-      <description>As October marks Cybersecurity Awareness Month, Splunker Mick Baccio reflects on the progress made over the past two decades.</description>
-    </item>
-    <item>
-      <title>Security Staff Picks To Read This Month, Handpicked by Splunk Experts</title>
-      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-recent-articles.html</link>
-      <description>Every month, our Splunk staff of security experts share their favorite reads of the month — this way, you can follow the most interesting, news-worthy, and innovative stories coming from the wide world of cybersecurity.</description>
-    </item>
-    <item>
-      <title>Splunk SOAR Evolved: A Unified TDIR Approach to Automation</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-soar-evolved-a-unified-tdir-approach-to-automation.html</link>
-      <description>Splunk SOAR 6.3.0 and 6.3.1 constitute a significant evolution in how security practitioners can implement, use, and leverage security automation in the SOC more efficiently.</description>
-    </item>
-    <item>
-      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
-      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
-    </item>
-    <item>
-      <title>Celebrating 2024 Worldwide BOTS Day</title>
-      <link>https://www.splunk.com/en_us/blog/security/celebrating-2024-worldwide-bots-day.html</link>
-      <description>After a successful launch of BOTS at .conf24, we’re ready to take it to the masses with two worldwide BOTSv9 competitions.</description>
-    </item>
-    <item>
-      <title>A Case Study in Vulnerability Prioritization: Lessons Learned from Large-Scale Incidents</title>
-      <link>https://www.splunk.com/en_us/blog/security/a-case-study-in-vulnerability-prioritization-the-lessons-learned-from-large-scale-incidents.html</link>
-      <description>Splunker Audra Streetman provides an overview of the lessons learned from previous large-scale security incidents to help inform vulnerability prioritization.</description>
-    </item>
-    <item>
-      <title>Cybersecurity Awareness Is Not Just for Spooky Season</title>
-      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-awareness-is-not-just-for-spooky-season.html</link>
-      <description>As October marks Cybersecurity Awareness Month, Splunker Mick Baccio reflects on the progress made over the past two decades.</description>
-    </item>
-    <item>
-      <title>Security Staff Picks To Read This Month, Handpicked by Splunk Experts</title>
-      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-recent-articles.html</link>
-      <description>Every month, our Splunk staff of security experts share their favorite reads of the month — this way, you can follow the most interesting, news-worthy, and innovative stories coming from the wide world of cybersecurity.</description>
-    </item>
-    <item>
-      <title>Splunk SOAR Evolved: A Unified TDIR Approach to Automation</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-soar-evolved-a-unified-tdir-approach-to-automation.html</link>
-      <description>Splunk SOAR 6.3.0 and 6.3.1 constitute a significant evolution in how security practitioners can implement, use, and leverage security automation in the SOC more efficiently.</description>
-    </item>
-    <item>
-      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
-      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
-    </item>
-    <item>
-      <title>Celebrating 2024 Worldwide BOTS Day</title>
-      <link>https://www.splunk.com/en_us/blog/security/celebrating-2024-worldwide-bots-day.html</link>
-      <description>After a successful launch of BOTS at .conf24, we’re ready to take it to the masses with two worldwide BOTSv9 competitions.</description>
-    </item>
-    <item>
-      <title>What’s Next For Splunk App Developers</title>
-      <link>https://www.splunk.com/en_us/blog/platform/what-is-next-for-splunk-app-developers.html</link>
-      <description>A sneak peak of what’s on our radar for Splunk app developers.</description>
+      <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
+      <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
+      <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
     </item>
     <item>
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
@@ -223,19 +248,19 @@
       <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
     </item>
     <item>
-      <title>Introducing Splunk Cloud App Export</title>
-      <link>https://www.splunk.com/en_us/blog/platform/introducing-splunk-cloud-app-export.html</link>
-      <description>Splunker Spencer Baker introduces Splunk Cloud App Export, a game-changer for cloud admins and app developers.</description>
+      <title>Fueling the SOC of the Future with Built-in Threat Research and Detections in Splunk Enterprise Security</title>
+      <link>https://www.splunk.com/en_us/blog/security/fueling-the-soc-of-the-future-with-built-in-threat-research-and-detections-in-splunk-enterprise-security.html</link>
+      <description>The Splunk Threat Research Team develops security resources and content that helps enhance your ability to detect and respond to advanced threats.</description>
     </item>
     <item>
-      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
-      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
+      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
+      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
+      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
     </item>
     <item>
-      <title>What’s Next For Splunk App Developers</title>
-      <link>https://www.splunk.com/en_us/blog/platform/what-is-next-for-splunk-app-developers.html</link>
-      <description>A sneak peak of what’s on our radar for Splunk app developers.</description>
+      <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
+      <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
+      <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
     </item>
     <item>
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
@@ -251,31 +276,6 @@
       <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
       <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
       <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
-    </item>
-    <item>
-      <title>Introducing Splunk Cloud App Export</title>
-      <link>https://www.splunk.com/en_us/blog/platform/introducing-splunk-cloud-app-export.html</link>
-      <description>Splunker Spencer Baker introduces Splunk Cloud App Export, a game-changer for cloud admins and app developers.</description>
-    </item>
-    <item>
-      <title>Splunk Named a Leader in the 2024 IDC MarketScape for SIEM for Enterprise</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-named-a-leader-in-the-2024-idc-marketscape-for-siem-for-enterprise.html</link>
-      <description>Splunk is ranked #1 for the fourth year in a row in the IDC Worldwide Security Information and Event Management Market Shares, 2023: The Leaders in SIEM City report!</description>
-    </item>
-    <item>
-      <title>What’s Next For Splunk App Developers</title>
-      <link>https://www.splunk.com/en_us/blog/platform/what-is-next-for-splunk-app-developers.html</link>
-      <description>A sneak peak of what’s on our radar for Splunk app developers.</description>
-    </item>
-    <item>
-      <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
-      <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
-      <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
-    </item>
-    <item>
-      <title>The Incredible Impact of Splunk’s HBCU Academic Scholarship</title>
-      <link>https://www.splunk.com/en_us/blog/splunklife/the-incredible-impact-of-splunks-hbcu-academic-scholarship.html</link>
-      <description>Five past recipients of the Splunk HBCU Academic Scholarship share how the award has helped them manage their academic expenses, so they can focus on studying and contributing to their community.</description>
     </item>
   </channel>
 </rss>

@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.cve.org/Media/News/AllNews. follow.is: feedId:72158581942748160+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 08:01:40 +0000</lastBuildDate>
-    <item>
-      <title>Vulnerability Data Enrichment for CVE Records: 217 CNAs on the Enrichment Recognition List for October 7, 2024</title>
-      <link>https://www.cve.org/Media/News/item/blog/2024/10/08/CNA-Enrichment-Recognition-List-Update</link>
-      <description>Vulnerability Data Enrichment for CVE Records: 217 CNAs on the Enrichment Recognition List for October 7, 2024blogBy CVE Program|October 8, 2024The “CNA Enrichment Recognition List” for October 7, 2024, is now available with 217 CNAs listed. Published every two weeks on the CVE website, the list recognizes thoseCVE Numbering Authorities (CNAs)that are actively providing enhanced vulnerability data in theirCVE Records. CNAs are added to the list if they provideCommon Vulnerability Scoring System (CVSS)andCommon Weakness Enumeration (CWE™)information 98% of the time or more within the two-week period of their last published CVE Record.</description>
-    </item>
-    <item>
-      <title>Minutes from CVE Board Teleconference Meeting on October 2 Now Available</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/10/15/CVE-Board-Minutes-from-October-2</link>
-      <description>Minutes from CVE Board Teleconference Meeting on October 2 Now AvailablenewsOctober 15, 2024TheCVE Boardheld a teleconference meeting on October 2, 2024. Read themeeting minutes summary.</description>
-    </item>
+    <lastBuildDate>Tue, 05 Nov 2024 01:26:01 +0000</lastBuildDate>
     <item>
       <title>CVE Program Adds New “CVE Artificial Intelligence Working Group (CVEAI WG)”</title>
       <link>https://www.cve.org/Media/News/item/news/2024/10/15/New-CVE-Artificial-Intelligence-Working-Group</link>
@@ -45,7 +35,7 @@
     <item>
       <title>OMRON Added as CVE Numbering Authority (CNA)</title>
       <link>https://www.cve.org/Media/News/item/news/2024/10/22/OMRON-Added-as-CNA</link>
-      <description>OMRON Added as CVE Numbering Authority (CNA)newsOctober 22, 2024OMRON Corporationis now aCVE Numbering Authority (CNA)for Omron Group companies’ Industrial Automation, Healthcare, Social Systems, Device &amp; Module Solutions issues only.</description>
+      <description>OMRON Added as CVE Numbering Authority (CNA)newsOctober 22, 2024OMRON Corporationis now aCVE Numbering Authority (CNA)for Omron Group companies’ Industrial Automation, Healthcare, Social Systems, Device &amp; Module Solutions issues only. Read the OMRON news release: “Authorized as a CVE Numbering Authority for security vulnerabilities.</description>
     </item>
     <item>
       <title>Cyber Security Agency of Singapore Added as CVE Numbering Authority (CNA)</title>
@@ -56,6 +46,16 @@
       <title>CVE Program Celebrates 25 Years of Impact!</title>
       <link>https://www.cve.org/Media/News/item/blog/2024/10/22/CVE-Program-Celebrates-25-Years</link>
       <description>CVE Program Celebrates 25 Years of Impact!blogBy CVE Program|October 22, 2024Today, theCommon Vulnerabilities and Exposures (CVE®) Programproudly commemorates its25th anniversary, marking a quarter-century of enabling coordinated vulnerability management through global collaboration and innovation. Launched in 1999, the CVE Program has transformed the way organizations identify and manage cybersecurity vulnerabilities, enabling stronger defenses against cyber threats. TheCVE 25th Anniversary Reportis available now on the CVE.ORG website.</description>
+    </item>
+    <item>
+      <title>NIST CVE Board Liaison Board Member Announced</title>
+      <link>https://www.cve.org/Media/News/item/news/2024/10/29/NIST-CVE-Board-Liaison-Board-Member-Announced</link>
+      <description>NIST CVE Board Liaison Board Member AnnouncednewsOctober 29, 2024TheCVE Programis pleased to announce that Chris Turner of theNational Institute of Standards and Technology (NIST)is the newest member of theCVE Board, serving as the “NIST CVE Board Liaison.”</description>
+    </item>
+    <item>
+      <title>Leica Biosystems Added as CVE Numbering Authority (CNA)</title>
+      <link>https://www.cve.org/Media/News/item/news/2024/10/29/Leica-Biosystems-Added-as-CNA</link>
+      <description>Leica Biosystems Added as CVE Numbering Authority (CNA)newsOctober 29, 2024Leica Biosystemsis now aCVE Numbering Authority (CNA)for all Leica Biosystems products.</description>
     </item>
   </channel>
 </rss>

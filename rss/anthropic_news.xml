@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.anthropic.com/news. follow.is: feedId:71805759203098624+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 08:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 01:25:57 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -381,6 +381,26 @@
       <title>Developing a computer use model</title>
       <link>https://www.anthropic.com/news/developing-computer-use</link>
       <description>Announcements·ProductDeveloping a computer use modelOct 22, 2024</description>
+    </item>
+    <item>
+      <title>Introducing the analysis tool in Claude.ai</title>
+      <link>https://www.anthropic.com/news/analysis-tool</link>
+      <description>ProductIntroducing the analysis tool in Claude.aiOct 24, 2024</description>
+    </item>
+    <item>
+      <title>Claude 3.5 Sonnet on GitHub Copilot</title>
+      <link>https://www.anthropic.com/news/github-copilot</link>
+      <description>AnnouncementsClaude 3.5 Sonnet on GitHub CopilotOct 29, 2024</description>
+    </item>
+    <item>
+      <title>Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet</title>
+      <link>https://www.anthropic.com/research/swe-bench-sonnet</link>
+      <description>ProductRaising the bar on SWE-bench Verified with Claude 3.5 SonnetOct 30, 2024</description>
+    </item>
+    <item>
+      <title>The case for targeted regulation</title>
+      <link>https://www.anthropic.com/news/the-case-for-targeted-regulation</link>
+      <description>PolicyThe case for targeted regulationOct 31, 2024</description>
     </item>
   </channel>
 </rss>
