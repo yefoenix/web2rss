@@ -77,5 +77,5 @@ sites:
     block_css: article
     title_css: h2
     description_css: .text-sm
-    link_css: a
+    link_css: a:last-of-type
     use_headless_browser: true
