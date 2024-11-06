@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.sonarsource.com/blog/tag/security/. follow.is: feedId:71371191432910866+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 14:59:20 +0000</lastBuildDate>
-    <item>
-      <title>mXSS: The Vulnerability Hiding in Your Code</title>
-      <link>https://www.sonarsource.com/blog/mxss-the-vulnerability-hiding-in-your-code/</link>
-      <description>XSS is a well-known bug class, but a lesser-known yet effective variant called mXSS has emerged over the last couple of years. In this blog, we will cover the fundamentals of this XSS variant and examine how you can protect against it.</description>
-    </item>
+    <lastBuildDate>Wed, 06 Nov 2024 01:25:06 +0000</lastBuildDate>
     <item>
       <title>Re-moo-te Code Execution in Mailcow: Always Sanitize Error Messages</title>
       <link>https://www.sonarsource.com/blog/remote-code-execution-in-mailcow-always-sanitize-error-messages/</link>
@@ -66,6 +61,11 @@
       <title>The Power of Taint Analysis: Uncovering Critical Code Vulnerability in OpenAPI Generator</title>
       <link>https://www.sonarsource.com/blog/the-power-of-taint-analysis-uncovering-critical-code-vulnerability-in-openapi-generator/</link>
       <description>This blog post explains how taint analysis tracks all data flows in an application’s source code to unveil deeply hidden vulnerabilities and showcases a critical vulnerability in the OpenAPI Generator discovered by SonarQube Cloud.</description>
+    </item>
+    <item>
+      <title>Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail</title>
+      <link>https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/</link>
+      <description>HTML sanitization has long been touted as a solution to prevent malicious content injection. However, this approach faces numerous challenges. In this blog post, we'll explore the limitations of server-side HTML sanitization and discuss why client-side sanitization is the better approach.</description>
     </item>
   </channel>
 </rss>

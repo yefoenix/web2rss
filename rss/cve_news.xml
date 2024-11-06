@@ -6,27 +6,7 @@
     <description>Latest posts from https://www.cve.org/Media/News/AllNews. follow.is: feedId:72158581942748160+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 14:59:30 +0000</lastBuildDate>
-    <item>
-      <title>CVE Program Adds New “CVE Artificial Intelligence Working Group (CVEAI WG)”</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/10/15/New-CVE-Artificial-Intelligence-Working-Group</link>
-      <description>CVE Program Adds New “CVE Artificial Intelligence Working Group (CVEAI WG)”newsOctober 15, 2024The CVE Program’s newest working group (WG),CVE Artificial Intelligence(CVEAI WG), is open to CVE community members such asCVE Numbering Authorities (CNAs), theCVE Board,Authorized Data Publishers (ADPs), and participants from theCVE Program Secretariat; members of corporate vulnerability management programs and related standards, initiatives, and associations; and members of the AI community with expertise in AI and AI-related security concerns.</description>
-    </item>
-    <item>
-      <title>Call for Papers Now Open forCVE/FIRST VulnCon 2025on April 7-10, 2025</title>
-      <link>https://www.cve.org/Media/News/item/blog/2024/10/22/Call-for-Papers-Now-Open-for-VulnCon</link>
-      <description>Call for Papers Now Open forCVE/FIRST VulnCon 2025on April 7-10, 2025blogBy CVE Program|October 22, 2024TheCVE ProgramandFIRSTwill co-hostVulnCon 2025at the McKimmon Center in Raleigh, North Carolina, USA, on April 7-10, 2025. TheCall for Papersis open until January 15, 2025. See detailshere.</description>
-    </item>
-    <item>
-      <title>Our CVE Story: Biohacking Village</title>
-      <link>https://www.cve.org/Media/News/item/blog/2024/10/22/Our-CVE-Story-Biohacking-Village</link>
-      <description>Our CVE Story: Biohacking VillageblogBy Janine (Nina Alli) Medina and Jennifer AgüerofromBiohacking Villageexternal site|October 22, 2024Guest authors Janine (Nina Alli) and Jennifer Agüero are both from Biohacking Village. Janine is CEO/Executive Director and Jennifer is a Marketing Communications Specialist. Biohacking Village is a CVE Numbering Authority (CNA) partner under the CISA ICS Root.</description>
-    </item>
-    <item>
-      <title>Vulnerability Data Enrichment for CVE Records: 221 CNAs on the Enrichment Recognition List for October 21, 2024</title>
-      <link>https://www.cve.org/Media/News/item/blog/2024/10/22/CNA-Enrichment-Recognition-List-Update</link>
-      <description>Vulnerability Data Enrichment for CVE Records: 221 CNAs on the Enrichment Recognition List for October 21, 2024blogBy CVE Program|October 22, 2024The “CNA Enrichment Recognition List” for October 21, 2024, is now available with 221 CNAs listed. Published every two weeks on the CVE website, the list recognizes thoseCVE Numbering Authorities (CNAs)that are actively providing enhanced vulnerability data in theirCVE Records. CNAs are added to the list if they provideCommon Vulnerability Scoring System (CVSS)andCommon Weakness Enumeration (CWE™)information 98% of the time or more within the two-week period of their last published CVE Record.</description>
-    </item>
+    <lastBuildDate>Wed, 06 Nov 2024 01:25:16 +0000</lastBuildDate>
     <item>
       <title>PingCAP Added as CVE Numbering Authority (CNA)</title>
       <link>https://www.cve.org/Media/News/item/news/2024/10/22/PingCAP-Added-as-CNA</link>
@@ -56,6 +36,26 @@
       <title>Leica Biosystems Added as CVE Numbering Authority (CNA)</title>
       <link>https://www.cve.org/Media/News/item/news/2024/10/29/Leica-Biosystems-Added-as-CNA</link>
       <description>Leica Biosystems Added as CVE Numbering Authority (CNA)newsOctober 29, 2024Leica Biosystemsis now aCVE Numbering Authority (CNA)for all Leica Biosystems products.</description>
+    </item>
+    <item>
+      <title>CVE Program Report for Quarter 3 Calendar Year (Q3 CY) 2024</title>
+      <link>https://www.cve.org/Media/News/item/blog/2024/11/05/CVE-Program-Report-for-Q3-2024</link>
+      <description>CVE Program Report for Quarter 3 Calendar Year (Q3 CY) 2024blogBy CVE Program|November 5, 2024The CVE Program’s quarterly summary of program milestones and metrics for Q3 CY 2024.</description>
+    </item>
+    <item>
+      <title>Chris Turner of NIST Joins the CVE Board as the “NIST CVE Board Liaison”</title>
+      <link>https://www.cve.org/Media/News/item/blog/2024/11/05/Chris-Turner-NIST-CVE-Board-Liaison</link>
+      <description>Chris Turner of NIST Joins the CVE Board as the “NIST CVE Board Liaison”blogBy CVE Program|November 5, 2024TheCVE Programis pleased to announce that Chris Turner of theNational Institute of Standards and Technology (NIST)is the newest member of theCVE Board, serving as the “NIST CVE Board Liaison.”</description>
+    </item>
+    <item>
+      <title>Vulnerability Data Enrichment for CVE Records: 222 CNAs on the Enrichment Recognition List for November 4, 2024</title>
+      <link>https://www.cve.org/Media/News/item/blog/2024/11/05/CNA-Enrichment-Recognition-List-Update</link>
+      <description>Vulnerability Data Enrichment for CVE Records: 222 CNAs on the Enrichment Recognition List for November 4, 2024blogBy CVE Program|November 5, 2024The “CNA Enrichment Recognition List” for November 4, 2024, is now available with 222 CNAs listed. Published every two weeks on the CVE website, the list recognizes thoseCVE Numbering Authorities (CNAs)that are actively providing enhanced vulnerability data in theirCVE Records. CNAs are added to the list if they provideCommon Vulnerability Scoring System (CVSS)andCommon Weakness Enumeration (CWE™)information 98% of the time or more within the two-week period of their last published CVE Record.</description>
+    </item>
+    <item>
+      <title>Neo4j Added as CVE Numbering Authority (CNA)</title>
+      <link>https://www.cve.org/Media/News/item/news/2024/11/05/Neo4j-Added-as-CNA</link>
+      <description>Neo4j Added as CVE Numbering Authority (CNA)newsNovember 5, 2024Neo4jis now aCVE Numbering Authority (CNA)for Neo4j products and Neo4j-maintained projects only, not including end-of-life components or products.</description>
     </item>
   </channel>
 </rss>
