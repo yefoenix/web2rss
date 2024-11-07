@@ -6,61 +6,21 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 09:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 01:24:56 +0000</lastBuildDate>
     <item>
-      <title>vanna-ai /vanna</title>
-      <link>https://github.com/vanna-ai/vanna</link>
-      <description>🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.</description>
+      <title>DS4SD /docling</title>
+      <link>https://github.com/DS4SD/docling</link>
+      <description>Get your documents ready for gen AI</description>
     </item>
     <item>
-      <title>teableio /teable</title>
-      <link>https://github.com/teableio/teable</link>
-      <description>✨ The Next Gen Airtable Alternative: No-Code Postgres</description>
+      <title>django /django</title>
+      <link>https://github.com/django/django</link>
+      <description>The Web framework for perfectionists with deadlines.</description>
     </item>
     <item>
-      <title>Cinnamon /kotaemon</title>
-      <link>https://github.com/Cinnamon/kotaemon</link>
-      <description>An open-source RAG-based tool for chatting with your documents.</description>
-    </item>
-    <item>
-      <title>donnemartin /system-design-primer</title>
-      <link>https://github.com/donnemartin/system-design-primer</link>
-      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
-    </item>
-    <item>
-      <title>AykutSarac /jsoncrack.com</title>
-      <link>https://github.com/AykutSarac/jsoncrack.com</link>
-      <description>✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.</description>
-    </item>
-    <item>
-      <title>abi /screenshot-to-code</title>
-      <link>https://github.com/abi/screenshot-to-code</link>
-      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
-    </item>
-    <item>
-      <title>frappe /erpnext</title>
-      <link>https://github.com/frappe/erpnext</link>
-      <description>Free and Open Source Enterprise Resource Planning (ERP)</description>
-    </item>
-    <item>
-      <title>All-Hands-AI /OpenHands</title>
-      <link>https://github.com/All-Hands-AI/OpenHands</link>
-      <description>🙌 OpenHands: Code Less, Make More</description>
-    </item>
-    <item>
-      <title>maybe-finance /maybe</title>
-      <link>https://github.com/maybe-finance/maybe</link>
-      <description>The OS for your personal finances</description>
-    </item>
-    <item>
-      <title>Mintplex-Labs /anything-llm</title>
-      <link>https://github.com/Mintplex-Labs/anything-llm</link>
-      <description>The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more.</description>
-    </item>
-    <item>
-      <title>mingrammer /diagrams</title>
-      <link>https://github.com/mingrammer/diagrams</link>
-      <description>🎨 Diagram as Code for prototyping cloud system architectures</description>
+      <title>godotengine /godot</title>
+      <link>https://github.com/godotengine/godot</link>
+      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
     </item>
     <item>
       <title>kamranahmedse /developer-roadmap</title>
@@ -68,14 +28,54 @@
       <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
     </item>
     <item>
-      <title>DS4SD /docling</title>
-      <link>https://github.com/DS4SD/docling</link>
-      <description>Get your documents ready for gen AI</description>
+      <title>llvm /llvm-project</title>
+      <link>https://github.com/llvm/llvm-project</link>
+      <description>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</description>
+    </item>
+    <item>
+      <title>localsend /localsend</title>
+      <link>https://github.com/localsend/localsend</link>
+      <description>An open-source cross-platform alternative to AirDrop</description>
+    </item>
+    <item>
+      <title>iterative /datachain</title>
+      <link>https://github.com/iterative/datachain</link>
+      <description>AI-data warehouse to enrich, transform and analyze data from cloud storages</description>
+    </item>
+    <item>
+      <title>Shpota /github-activity-generator</title>
+      <link>https://github.com/Shpota/github-activity-generator</link>
+      <description>A script that helps generate a rich GitHub Contribution Graph for your account 🤖</description>
+    </item>
+    <item>
+      <title>haydenbleasel /next-forge</title>
+      <link>https://github.com/haydenbleasel/next-forge</link>
+      <description>Production-grade Turborepo template for Next.js apps.</description>
+    </item>
+    <item>
+      <title>twbs /bootstrap</title>
+      <link>https://github.com/twbs/bootstrap</link>
+      <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
+    </item>
+    <item>
+      <title>teableio /teable</title>
+      <link>https://github.com/teableio/teable</link>
+      <description>✨ The Next Gen Airtable Alternative: No-Code Postgres</description>
+    </item>
+    <item>
+      <title>Stirling-Tools /Stirling-PDF</title>
+      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
+      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
     </item>
     <item>
       <title>twentyhq /twenty</title>
       <link>https://github.com/twentyhq/twenty</link>
       <description>Building a modern alternative to Salesforce, powered by the community.</description>
+    </item>
+    <item>
+      <title>All-Hands-AI /OpenHands</title>
+      <link>https://github.com/All-Hands-AI/OpenHands</link>
+      <description>🙌 OpenHands: Code Less, Make More</description>
     </item>
   </channel>
 </rss>

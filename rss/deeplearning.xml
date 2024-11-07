@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.deeplearning.ai/the-batch/. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 09:05:35 +0000</lastBuildDate>
-    <item>
-      <title>Hallucination Detector, Battle of the Image Generators, How Open Are Open Models?, Copyright Claim Fails Against GitHub</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-258/</link>
-      <description>The Batch AI News and Insights: “Democracy is the worst form of government, except for all the others,” said Winston Churchill.</description>
-    </item>
+    <lastBuildDate>Thu, 07 Nov 2024 01:25:13 +0000</lastBuildDate>
     <item>
       <title>OpenAI Shrinks GPT-4o, Meta Withholds Models From Europe, Investors Hoard GPUs, Synthetic Talking Heads Get Expressive</title>
       <link>https://www.deeplearning.ai/the-batch/issue-259/</link>
@@ -84,8 +79,13 @@
     </item>
     <item>
       <title>Trick or treat! AI Devours Energy, Innovation Can’t Win, Models Collapse, Benchmark Tests Are Meaningless, No Work for Coders</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/oct-30-2024/</link>
+      <link>https://www.deeplearning.ai/the-batch/issue-273/</link>
       <description>The Batch AI News and Insights: Welcome to our special Halloween issue of The Batch, in which we probe fears, anomalies, and shadows of AI.</description>
+    </item>
+    <item>
+      <title>AI Controls Desktops, Agents Train Algorithms, Does Anyone Comply With the EU’s AI Act?, Robots on the Loading Dock</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/nov-06-2024/</link>
+      <description>The Batch AI News and Insights: Trump and the Republican party chalked up huge wins this week. Did manipulation of social media by generative AI play any role in this election?</description>
     </item>
   </channel>
 </rss>
