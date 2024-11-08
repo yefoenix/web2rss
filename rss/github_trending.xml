@@ -6,51 +6,21 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 01:24:56 +0000</lastBuildDate>
-    <item>
-      <title>DS4SD /docling</title>
-      <link>https://github.com/DS4SD/docling</link>
-      <description>Get your documents ready for gen AI</description>
-    </item>
+    <lastBuildDate>Fri, 08 Nov 2024 01:29:34 +0000</lastBuildDate>
     <item>
       <title>django /django</title>
       <link>https://github.com/django/django</link>
       <description>The Web framework for perfectionists with deadlines.</description>
     </item>
     <item>
-      <title>godotengine /godot</title>
-      <link>https://github.com/godotengine/godot</link>
-      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+      <title>All-Hands-AI /OpenHands</title>
+      <link>https://github.com/All-Hands-AI/OpenHands</link>
+      <description>🙌 OpenHands: Code Less, Make More</description>
     </item>
     <item>
-      <title>kamranahmedse /developer-roadmap</title>
-      <link>https://github.com/kamranahmedse/developer-roadmap</link>
-      <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
-    </item>
-    <item>
-      <title>llvm /llvm-project</title>
-      <link>https://github.com/llvm/llvm-project</link>
-      <description>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.</description>
-    </item>
-    <item>
-      <title>localsend /localsend</title>
-      <link>https://github.com/localsend/localsend</link>
-      <description>An open-source cross-platform alternative to AirDrop</description>
-    </item>
-    <item>
-      <title>iterative /datachain</title>
-      <link>https://github.com/iterative/datachain</link>
-      <description>AI-data warehouse to enrich, transform and analyze data from cloud storages</description>
-    </item>
-    <item>
-      <title>Shpota /github-activity-generator</title>
-      <link>https://github.com/Shpota/github-activity-generator</link>
-      <description>A script that helps generate a rich GitHub Contribution Graph for your account 🤖</description>
-    </item>
-    <item>
-      <title>haydenbleasel /next-forge</title>
-      <link>https://github.com/haydenbleasel/next-forge</link>
-      <description>Production-grade Turborepo template for Next.js apps.</description>
+      <title>immich-app /immich</title>
+      <link>https://github.com/immich-app/immich</link>
+      <description>High performance self-hosted photo and video management solution.</description>
     </item>
     <item>
       <title>twbs /bootstrap</title>
@@ -58,24 +28,39 @@
       <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
     </item>
     <item>
-      <title>teableio /teable</title>
-      <link>https://github.com/teableio/teable</link>
-      <description>✨ The Next Gen Airtable Alternative: No-Code Postgres</description>
+      <title>danielmiessler /fabric</title>
+      <link>https://github.com/danielmiessler/fabric</link>
+      <description>fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
     </item>
     <item>
-      <title>Stirling-Tools /Stirling-PDF</title>
-      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
-      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
+      <title>grafana /grafana</title>
+      <link>https://github.com/grafana/grafana</link>
+      <description>The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.</description>
     </item>
     <item>
-      <title>twentyhq /twenty</title>
-      <link>https://github.com/twentyhq/twenty</link>
-      <description>Building a modern alternative to Salesforce, powered by the community.</description>
+      <title>ml-tooling /best-of-ml-python</title>
+      <link>https://github.com/ml-tooling/best-of-ml-python</link>
+      <description>🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.</description>
     </item>
     <item>
-      <title>All-Hands-AI /OpenHands</title>
-      <link>https://github.com/All-Hands-AI/OpenHands</link>
-      <description>🙌 OpenHands: Code Less, Make More</description>
+      <title>zmh-program /chatnio</title>
+      <link>https://github.com/zmh-program/chatnio</link>
+      <description>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</description>
+    </item>
+    <item>
+      <title>zyronon /douyin</title>
+      <link>https://github.com/zyronon/douyin</link>
+      <description>Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile</description>
+    </item>
+    <item>
+      <title>LibraHp /GetQzonehistory</title>
+      <link>https://github.com/LibraHp/GetQzonehistory</link>
+      <description>获取QQ空间发布的历史说说</description>
+    </item>
+    <item>
+      <title>DataExpert-io /data-engineer-handbook</title>
+      <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
+      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
     </item>
   </channel>
 </rss>

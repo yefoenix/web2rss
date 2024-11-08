@@ -6,7 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 01:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 01:29:47 +0000</lastBuildDate>
     <item>
       <title>Unlocking the power of Spanner: 10 partners to revolutionize your data</title>
       <link>https://cloud.google.com/blog/products/databases/unlocking-the-power-of-spanner</link>
@@ -26,6 +26,11 @@
       <title>Arize, Vertex AI API: Evaluation workflows to accelerate generative app development and AI ROI</title>
       <link>https://cloud.google.com/blog/topics/partners/benefits-of-arize-ai-in-tandem-with-vertex-ai-api-for-gemini</link>
       <description>PartnersArize, Vertex AI API: Evaluation workflows to accelerate generative app development and AI ROIBy Gabe Barcelos • 9-minute read</description>
+    </item>
+    <item>
+      <title>Google Cloud database news roundup, October 2024 edition</title>
+      <link>https://cloud.google.com/blog/products/databases/google-cloud-database-news-for-october-2024</link>
+      <description>DatabasesGoogle Cloud database news roundup, October 2024 editionBy Joey Hernandez • 8-minute read</description>
     </item>
     <item>
       <title>Delfingen accelerates a cloud-first strategy with Google</title>
@@ -51,11 +56,6 @@
       <title>Can AI eliminate manual processing for insurance claims? Loadsure built a solution to find out</title>
       <link>https://cloud.google.com/blog/topics/financial-services/loadsure-data-drive-insurance-claims-ai-eliminates-manual-processing</link>
       <description>Financial ServicesCan AI eliminate manual processing for insurance claims? Loadsure built a solution to find outBy Maria Alonso Garcia • 4-minute read</description>
-    </item>
-    <item>
-      <title>(In)tuned to Takeovers: Abusing Intune Permissions for Lateral Movement and Privilege Escalation in Entra ID Native Environments</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/abusing-intune-permissions-entra-id-environments</link>
-      <description>Threat Intelligence(In)tuned to Takeovers: Abusing Intune Permissions for Lateral Movement and Privilege Escalation in Entra ID Native EnvironmentsBy Mandiant  • 7-minute read</description>
     </item>
   </channel>
 </rss>
