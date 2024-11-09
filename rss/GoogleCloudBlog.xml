@@ -6,22 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Nov 2024 01:29:47 +0000</lastBuildDate>
-    <item>
-      <title>Unlocking the power of Spanner: 10 partners to revolutionize your data</title>
-      <link>https://cloud.google.com/blog/products/databases/unlocking-the-power-of-spanner</link>
-      <description>DatabasesUnlocking the power of Spanner: 10 partners to revolutionize your dataBy Nitin Sagar • 8-minute read</description>
-    </item>
-    <item>
-      <title>PyTorch/XLA 2.5: vLLM support and an improved developer experience</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/whats-new-with-pytorchxla-2-5</link>
-      <description>AI &amp; Machine LearningPyTorch/XLA 2.5: vLLM support and an improved developer experienceBy Manfei Bai • 4-minute read</description>
-    </item>
-    <item>
-      <title>Accelerate retail media success with EPAM and Google Cloud</title>
-      <link>https://cloud.google.com/blog/topics/partners/epam-retail-media-orchestration-toolkit-on-google-cloud</link>
-      <description>PartnersAccelerate retail media success with EPAM and Google CloudBy Diana Abebrese • 7-minute read</description>
-    </item>
+    <lastBuildDate>Sat, 09 Nov 2024 01:23:14 +0000</lastBuildDate>
     <item>
       <title>Arize, Vertex AI API: Evaluation workflows to accelerate generative app development and AI ROI</title>
       <link>https://cloud.google.com/blog/topics/partners/benefits-of-arize-ai-in-tandem-with-vertex-ai-api-for-gemini</link>
@@ -56,6 +41,21 @@
       <title>Can AI eliminate manual processing for insurance claims? Loadsure built a solution to find out</title>
       <link>https://cloud.google.com/blog/topics/financial-services/loadsure-data-drive-insurance-claims-ai-eliminates-manual-processing</link>
       <description>Financial ServicesCan AI eliminate manual processing for insurance claims? Loadsure built a solution to find outBy Maria Alonso Garcia • 4-minute read</description>
+    </item>
+    <item>
+      <title>Etsy’s Service Platform on Cloud Run cuts deployment time from days to under an hour</title>
+      <link>https://cloud.google.com/blog/products/infrastructure/etsys-service-platform-on-cloud-run-cuts-deployment-time-from-days-to-minutes</link>
+      <description>InfrastructureEtsy’s Service Platform on Cloud Run cuts deployment time from days to under an hourBy Corey Samuels • 5-minute read</description>
+    </item>
+    <item>
+      <title>Generative AI with enterprise controls for business users in 24 Hours</title>
+      <link>https://cloud.google.com/blog/topics/partners/gen-ai-with-enterprise-controls-for-business-users-in-24-hours</link>
+      <description>PartnersGenerative AI with enterprise controls for business users in 24 HoursBy Dr. Ali Arsanjani • 10-minute read</description>
+    </item>
+    <item>
+      <title>Flare-On 11 Challenge Solutions</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/flareon-11-challenge-solutions</link>
+      <description>Threat IntelligenceFlare-On 11 Challenge SolutionsBy Mandiant  • 2-minute read</description>
     </item>
   </channel>
 </rss>
