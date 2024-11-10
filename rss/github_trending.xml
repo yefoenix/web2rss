@@ -6,16 +6,21 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Nov 2024 01:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 01:54:18 +0000</lastBuildDate>
     <item>
-      <title>immich-app /immich</title>
-      <link>https://github.com/immich-app/immich</link>
-      <description>High performance self-hosted photo and video management solution.</description>
+      <title>danielmiessler /fabric</title>
+      <link>https://github.com/danielmiessler/fabric</link>
+      <description>fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
     </item>
     <item>
-      <title>Azure-Samples /cognitive-services-speech-sdk</title>
-      <link>https://github.com/Azure-Samples/cognitive-services-speech-sdk</link>
-      <description>Sample code for the Microsoft Cognitive Services Speech SDK</description>
+      <title>dromara /Sa-Token</title>
+      <link>https://github.com/dromara/Sa-Token</link>
+      <description>一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0</description>
+    </item>
+    <item>
+      <title>yuliskov /SmartTube</title>
+      <link>https://github.com/yuliskov/SmartTube</link>
+      <description>SmartTube - an advanced player for set-top boxes and tvs running Android OS</description>
     </item>
     <item>
       <title>psf /black</title>
@@ -23,49 +28,9 @@
       <description>The uncompromising Python code formatter</description>
     </item>
     <item>
-      <title>vectordotdev /vector</title>
-      <link>https://github.com/vectordotdev/vector</link>
-      <description>A high-performance observability data pipeline.</description>
-    </item>
-    <item>
-      <title>puppeteer /puppeteer</title>
-      <link>https://github.com/puppeteer/puppeteer</link>
-      <description>JavaScript API for Chrome and Firefox</description>
-    </item>
-    <item>
-      <title>Stirling-Tools /Stirling-PDF</title>
-      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
-      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
-    </item>
-    <item>
-      <title>All-Hands-AI /OpenHands</title>
-      <link>https://github.com/All-Hands-AI/OpenHands</link>
-      <description>🙌 OpenHands: Code Less, Make More</description>
-    </item>
-    <item>
-      <title>louislam /uptime-kuma</title>
-      <link>https://github.com/louislam/uptime-kuma</link>
-      <description>A fancy self-hosted monitoring tool</description>
-    </item>
-    <item>
-      <title>webpack /webpack</title>
-      <link>https://github.com/webpack/webpack</link>
-      <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
-    </item>
-    <item>
-      <title>twbs /bootstrap</title>
-      <link>https://github.com/twbs/bootstrap</link>
-      <description>The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</description>
-    </item>
-    <item>
-      <title>khoj-ai /khoj</title>
-      <link>https://github.com/khoj-ai/khoj</link>
-      <description>Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).</description>
-    </item>
-    <item>
-      <title>dataease /dataease</title>
-      <link>https://github.com/dataease/dataease</link>
-      <description>🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。</description>
+      <title>AlexxIT /go2rtc</title>
+      <link>https://github.com/AlexxIT/go2rtc</link>
+      <description>Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.</description>
     </item>
     <item>
       <title>LibraHp /GetQzonehistory</title>
@@ -73,14 +38,29 @@
       <description>获取QQ空间发布的历史说说</description>
     </item>
     <item>
-      <title>Shpota /github-activity-generator</title>
-      <link>https://github.com/Shpota/github-activity-generator</link>
-      <description>A script that helps generate a rich GitHub Contribution Graph for your account 🤖</description>
+      <title>THUDM /CogVideo</title>
+      <link>https://github.com/THUDM/CogVideo</link>
+      <description>text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)</description>
     </item>
     <item>
-      <title>zmh-program /chatnio</title>
-      <link>https://github.com/zmh-program/chatnio</link>
-      <description>🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。</description>
+      <title>payloadcms /payload</title>
+      <link>https://github.com/payloadcms/payload</link>
+      <description>Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.</description>
+    </item>
+    <item>
+      <title>immich-app /immich</title>
+      <link>https://github.com/immich-app/immich</link>
+      <description>High performance self-hosted photo and video management solution.</description>
+    </item>
+    <item>
+      <title>infinition /Bjorn</title>
+      <link>https://github.com/infinition/Bjorn</link>
+      <description>Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.</description>
+    </item>
+    <item>
+      <title>PrefectHQ /prefect</title>
+      <link>https://github.com/PrefectHQ/prefect</link>
+      <description>Prefect is a workflow orchestration framework for building resilient data pipelines in Python.</description>
     </item>
   </channel>
 </rss>
