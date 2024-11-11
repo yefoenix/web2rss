@@ -79,3 +79,12 @@ sites:
     description_css: .text-sm
     link_css: a:last-of-type
     use_headless_browser: true
+
+  - name: PrefectBlog
+    follow_desc: 
+    url: https://www.deeplearning.ai/the-batch/
+    block_css: a.ease.flex.flex-col.overflow-hidden.rounded-20.bg-space.transition-colors.duration-500
+    title_css: div.flex.flex-1.flex-col
+    description_css: div.flex.flex-1.flex-col
+    link_css: 
+    use_headless_browser: true
