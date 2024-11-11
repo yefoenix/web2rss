@@ -82,7 +82,7 @@ sites:
 
   - name: PrefectBlog
     follow_desc: 
-    url: https://www.deeplearning.ai/the-batch/
+    url: https://www.prefect.io/blog
     block_css: a.ease.flex.flex-col.overflow-hidden.rounded-20.bg-space.transition-colors.duration-500
     title_css: div.flex.flex-1.flex-col
     description_css: div.flex.flex-1.flex-col
