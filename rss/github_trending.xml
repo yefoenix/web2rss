@@ -6,36 +6,36 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 05:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 01:24:39 +0000</lastBuildDate>
+    <item>
+      <title>infinition /Bjorn</title>
+      <link>https://github.com/infinition/Bjorn</link>
+      <description>Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.</description>
+    </item>
     <item>
       <title>adityatelange /hugo-PaperMod</title>
       <link>https://github.com/adityatelange/hugo-PaperMod</link>
       <description>A fast, clean, responsive Hugo theme.</description>
     </item>
     <item>
-      <title>microsoft /autogen</title>
-      <link>https://github.com/microsoft/autogen</link>
-      <description>A programming framework for agentic AI 🤖</description>
+      <title>DataExpert-io /data-engineer-handbook</title>
+      <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
+      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
     </item>
     <item>
-      <title>AlexxIT /go2rtc</title>
-      <link>https://github.com/AlexxIT/go2rtc</link>
-      <description>Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.</description>
+      <title>mudler /LocalAI</title>
+      <link>https://github.com/mudler/LocalAI</link>
+      <description>🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</description>
     </item>
     <item>
-      <title>khoj-ai /khoj</title>
-      <link>https://github.com/khoj-ai/khoj</link>
-      <description>Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).</description>
+      <title>AmruthPillai /Reactive-Resume</title>
+      <link>https://github.com/AmruthPillai/Reactive-Resume</link>
+      <description>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</description>
     </item>
     <item>
-      <title>pr3y /Bruce</title>
-      <link>https://github.com/pr3y/Bruce</link>
-      <description>Predatory ESP32 Firmware</description>
-    </item>
-    <item>
-      <title>letta-ai /letta</title>
-      <link>https://github.com/letta-ai/letta</link>
-      <description>Letta (formerly MemGPT) is a framework for creating LLM services with memory.</description>
+      <title>LibraHp /GetQzonehistory</title>
+      <link>https://github.com/LibraHp/GetQzonehistory</link>
+      <description>获取QQ空间发布的历史说说</description>
     </item>
     <item>
       <title>harry0703 /MoneyPrinterTurbo</title>
@@ -43,14 +43,19 @@
       <description>利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.</description>
     </item>
     <item>
-      <title>actualbudget /actual</title>
-      <link>https://github.com/actualbudget/actual</link>
-      <description>A local-first personal finance app</description>
+      <title>AlexxIT /go2rtc</title>
+      <link>https://github.com/AlexxIT/go2rtc</link>
+      <description>Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.</description>
     </item>
     <item>
-      <title>THUDM /CogVideo</title>
-      <link>https://github.com/THUDM/CogVideo</link>
-      <description>text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)</description>
+      <title>microsoft /autogen</title>
+      <link>https://github.com/microsoft/autogen</link>
+      <description>A programming framework for agentic AI 🤖</description>
+    </item>
+    <item>
+      <title>hacksider /Deep-Live-Cam</title>
+      <link>https://github.com/hacksider/Deep-Live-Cam</link>
+      <description>real time face swap and one-click video deepfake with only a single image</description>
     </item>
     <item>
       <title>PrefectHQ /prefect</title>
@@ -58,19 +63,9 @@
       <description>Prefect is a workflow orchestration framework for building resilient data pipelines in Python.</description>
     </item>
     <item>
-      <title>dataease /dataease</title>
-      <link>https://github.com/dataease/dataease</link>
-      <description>🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。</description>
-    </item>
-    <item>
       <title>exo-explore /exo</title>
       <link>https://github.com/exo-explore/exo</link>
       <description>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</description>
-    </item>
-    <item>
-      <title>AmruthPillai /Reactive-Resume</title>
-      <link>https://github.com/AmruthPillai/Reactive-Resume</link>
-      <description>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</description>
     </item>
     <item>
       <title>vercel /ai-chatbot</title>

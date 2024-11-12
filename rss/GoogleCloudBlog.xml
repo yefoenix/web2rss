@@ -6,27 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 05:43:29 +0000</lastBuildDate>
-    <item>
-      <title>Arize, Vertex AI API: Evaluation workflows to accelerate generative app development and AI ROI</title>
-      <link>https://cloud.google.com/blog/topics/partners/benefits-of-arize-ai-in-tandem-with-vertex-ai-api-for-gemini</link>
-      <description>PartnersArize, Vertex AI API: Evaluation workflows to accelerate generative app development and AI ROIBy Gabe Barcelos • 9-minute read</description>
-    </item>
-    <item>
-      <title>Google Cloud database news roundup, October 2024 edition</title>
-      <link>https://cloud.google.com/blog/products/databases/google-cloud-database-news-for-october-2024</link>
-      <description>DatabasesGoogle Cloud database news roundup, October 2024 editionBy Joey Hernandez • 8-minute read</description>
-    </item>
-    <item>
-      <title>Delfingen accelerates a cloud-first strategy with Google</title>
-      <link>https://cloud.google.com/blog/products/chrome-enterprise/delfingen-accelerates-a-cloud-first-strategy-with-google</link>
-      <description>Chrome EnterpriseDelfingen accelerates a cloud-first strategy with GoogleBy Etienne Grivelet • 4-minute read</description>
-    </item>
-    <item>
-      <title>How AlloyDB unifies OLTP and OLAP workloads for Tricent</title>
-      <link>https://cloud.google.com/blog/products/databases/tricent-standardizes-on-alloydb-for-olap-and-oltp-workloads</link>
-      <description>DatabasesHow AlloyDB unifies OLTP and OLAP workloads for TricentBy Jakob Tolstrup Bech • 4-minute read</description>
-    </item>
+    <lastBuildDate>Tue, 12 Nov 2024 01:24:52 +0000</lastBuildDate>
     <item>
       <title>Elia Group helps businesses and consumers reduce carbon emissions with Vertex AI</title>
       <link>https://cloud.google.com/blog/topics/customers/how-elia-group-helps-businesses-cut-carbon-emissions-with-vertex-ai</link>
@@ -43,6 +23,21 @@
       <description>Financial ServicesCan AI eliminate manual processing for insurance claims? Loadsure built a solution to find outBy Maria Alonso Garcia • 4-minute read</description>
     </item>
     <item>
+      <title>Deutsche Telekom designs the telco of tomorrow with BigQuery</title>
+      <link>https://cloud.google.com/blog/topics/telecommunications/deutsche-telekom-designs-the-telco-of-tomorrow-with-bigquery</link>
+      <description>TelecommunicationsDeutsche Telekom designs the telco of tomorrow with BigQueryBy Ashutosh Mishra • 7-minute read</description>
+    </item>
+    <item>
+      <title>Now run your custom code at the edge with the Application Load Balancers</title>
+      <link>https://cloud.google.com/blog/products/networking/service-extensions-plugins-for-application-load-balancers</link>
+      <description>NetworkingNow run your custom code at the edge with the Application Load BalancersBy Arman Rye • 3-minute read</description>
+    </item>
+    <item>
+      <title>How to simplify building RAG pipelines in BigQuery with Document AI Layout Parser</title>
+      <link>https://cloud.google.com/blog/products/data-analytics/bigquery-and-document-ai-layout-parser-for-document-preprocessing</link>
+      <description>Data AnalyticsHow to simplify building RAG pipelines in BigQuery with Document AI Layout ParserBy Jeff Nelson • 5-minute read</description>
+    </item>
+    <item>
       <title>Etsy’s Service Platform on Cloud Run cuts deployment time from days to under an hour</title>
       <link>https://cloud.google.com/blog/products/infrastructure/etsys-service-platform-on-cloud-run-cuts-deployment-time-from-days-to-minutes</link>
       <description>InfrastructureEtsy’s Service Platform on Cloud Run cuts deployment time from days to under an hourBy Corey Samuels • 5-minute read</description>
@@ -51,6 +46,11 @@
       <title>Generative AI with enterprise controls for business users in 24 Hours</title>
       <link>https://cloud.google.com/blog/topics/partners/gen-ai-with-enterprise-controls-for-business-users-in-24-hours</link>
       <description>PartnersGenerative AI with enterprise controls for business users in 24 HoursBy Dr. Ali Arsanjani • 10-minute read</description>
+    </item>
+    <item>
+      <title>What’s new with Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
     </item>
     <item>
       <title>Flare-On 11 Challenge Solutions</title>
