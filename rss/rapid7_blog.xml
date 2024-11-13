@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/tag/research/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 01:24:39 +0000</lastBuildDate>
-    <item>
-      <title>Whispers of Atlantida: Safeguarding Your Digital Treasure</title>
-      <link>https://www.rapid7.com/blog/post/2024/01/17/whispers-of-atlantida-safeguarding-your-digital-treasure/</link>
-      <description>Recently, Rapid7 observed a new stealer named Atlantida. The stealer tricks users to download a malicious file from a compromised website, and uses several evasion techniques such as reflective loading and injection before the stealer is loaded.</description>
-    </item>
+    <lastBuildDate>Wed, 13 Nov 2024 01:26:13 +0000</lastBuildDate>
     <item>
       <title>Critical CVEs in Outdated Versions of Atlassian Confluence and VMware vCenter Server</title>
       <link>https://www.rapid7.com/blog/post/2024/01/19/etr-critical-cves-in-outdated-versions-of-atlassian-confluence-and-vmware-vcenter-server/</link>
@@ -95,6 +90,11 @@ exploitation, ransomware attacks, and mass compro</description>
       <title>Ransomware Groups Demystified: CyberVolk Ransomware</title>
       <link>https://www.rapid7.com/blog/post/2024/10/03/ransomware-groups-demystified-cybervolk-ransomware/</link>
       <description>As part of our ongoing efforts to monitor emerging cyber threats, we have analyzed the activities of CyberVolk, a politically motivated hacktivist group that transitioned into using ransomware and has been active since June 2024.</description>
+    </item>
+    <item>
+      <title>LodaRAT: Established malware, new victim patterns</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/12/lodarat-established-malware-new-victim-patterns/</link>
+      <description>Rapid7 has observed an ongoing malware campaign involving a new version of LodaRAT. This version possesses the ability to steal cookies and passwords from Microsoft Edge and Brave.</description>
     </item>
   </channel>
 </rss>

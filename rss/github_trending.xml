@@ -6,21 +6,31 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 01:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 01:26:14 +0000</lastBuildDate>
     <item>
-      <title>infinition /Bjorn</title>
-      <link>https://github.com/infinition/Bjorn</link>
-      <description>Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.</description>
+      <title>bitcoin /bitcoin</title>
+      <link>https://github.com/bitcoin/bitcoin</link>
+      <description>Bitcoin Core integration/staging tree</description>
     </item>
     <item>
-      <title>adityatelange /hugo-PaperMod</title>
-      <link>https://github.com/adityatelange/hugo-PaperMod</link>
-      <description>A fast, clean, responsive Hugo theme.</description>
+      <title>getzola /zola</title>
+      <link>https://github.com/getzola/zola</link>
+      <description>A fast static site generator in a single binary with everything built-in.https://www.getzola.org</description>
     </item>
     <item>
-      <title>DataExpert-io /data-engineer-handbook</title>
-      <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
-      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
+      <title>yorukot /superfile</title>
+      <link>https://github.com/yorukot/superfile</link>
+      <description>Pretty fancy and modern terminal file manager</description>
+    </item>
+    <item>
+      <title>LibraHp /GetQzonehistory</title>
+      <link>https://github.com/LibraHp/GetQzonehistory</link>
+      <description>获取QQ空间发布的历史说说</description>
+    </item>
+    <item>
+      <title>nvm-sh /nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
     </item>
     <item>
       <title>mudler /LocalAI</title>
@@ -28,14 +38,24 @@
       <description>🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</description>
     </item>
     <item>
-      <title>AmruthPillai /Reactive-Resume</title>
-      <link>https://github.com/AmruthPillai/Reactive-Resume</link>
-      <description>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</description>
+      <title>khoj-ai /khoj</title>
+      <link>https://github.com/khoj-ai/khoj</link>
+      <description>Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).</description>
     </item>
     <item>
-      <title>LibraHp /GetQzonehistory</title>
-      <link>https://github.com/LibraHp/GetQzonehistory</link>
-      <description>获取QQ空间发布的历史说说</description>
+      <title>sindresorhus /awesome</title>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <description>😎 Awesome lists about all kinds of interesting topics</description>
+    </item>
+    <item>
+      <title>practical-tutorials /project-based-learning</title>
+      <link>https://github.com/practical-tutorials/project-based-learning</link>
+      <description>Curated list of project-based tutorials</description>
+    </item>
+    <item>
+      <title>dani-garcia /vaultwarden</title>
+      <link>https://github.com/dani-garcia/vaultwarden</link>
+      <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
     </item>
     <item>
       <title>harry0703 /MoneyPrinterTurbo</title>
@@ -58,19 +78,29 @@
       <description>real time face swap and one-click video deepfake with only a single image</description>
     </item>
     <item>
-      <title>PrefectHQ /prefect</title>
-      <link>https://github.com/PrefectHQ/prefect</link>
-      <description>Prefect is a workflow orchestration framework for building resilient data pipelines in Python.</description>
-    </item>
-    <item>
-      <title>exo-explore /exo</title>
-      <link>https://github.com/exo-explore/exo</link>
-      <description>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</description>
+      <title>AmruthPillai /Reactive-Resume</title>
+      <link>https://github.com/AmruthPillai/Reactive-Resume</link>
+      <description>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</description>
     </item>
     <item>
       <title>vercel /ai-chatbot</title>
       <link>https://github.com/vercel/ai-chatbot</link>
       <description>A full-featured, hackable Next.js AI chatbot built by Vercel</description>
+    </item>
+    <item>
+      <title>infinition /Bjorn</title>
+      <link>https://github.com/infinition/Bjorn</link>
+      <description>Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.</description>
+    </item>
+    <item>
+      <title>filecxx /FileCentipede</title>
+      <link>https://github.com/filecxx/FileCentipede</link>
+      <description>Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client.</description>
+    </item>
+    <item>
+      <title>exo-explore /exo</title>
+      <link>https://github.com/exo-explore/exo</link>
+      <description>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</description>
     </item>
     <item>
       <title>dockur /windows</title>

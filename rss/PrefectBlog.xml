@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.prefect.io/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 01:25:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 01:26:39 +0000</lastBuildDate>
     <item>
       <title>Prefect ProductThe Golden SpikeJanuary 2019</title>
       <link>https://www.prefect.io/blog/golden-spike</link>
@@ -426,6 +426,11 @@
       <title>Prefect ProductFrom Chaos to Clarity: Managing Data Lakes with PrefectNovember 2024</title>
       <link>https://www.prefect.io/blog/from-chaos-to-clarity-managing-data-lakes-with-prefect</link>
       <description>Prefect ProductFrom Chaos to Clarity: Managing Data Lakes with PrefectNovember 2024</description>
+    </item>
+    <item>
+      <title>EventsBuilding a Modular Data ArchitectureNovember 2024</title>
+      <link>https://www.prefect.io/blog/building-a-modular-data-architecture</link>
+      <description>EventsBuilding a Modular Data ArchitectureNovember 2024</description>
     </item>
   </channel>
 </rss>
