@@ -6,42 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Nov 2024 01:26:56 +0000</lastBuildDate>
-    <item>
-      <title>Monitoring Splunk Enterprise Deployments with OpenTelemetry</title>
-      <link>https://www.splunk.com/en_us/blog/it/monitoring-splunk-enterprise-deployments-with-opentelemetry.html</link>
-      <description>The Splunk Enterprise receiver for OpenTelemetry simplifies monitoring your deployment, delivering essential metrics and attributes to your preferred observability backend.</description>
-    </item>
-    <item>
-      <title>Unify and Automate TDIR Workflows with Splunk SOAR 6.3 and Splunk Enterprise Security 8.0</title>
-      <link>https://www.splunk.com/en_us/blog/security/unify-and-automate-tdir-workflows-with-splunk-soar-6-3-and-splunk-enterprise-security-8-0.html</link>
-      <description>Splunk SOAR 6.3 and Enterprise Security 8.0 make it easier to unify and automate your threat detection, investigation, and response workflows.</description>
-    </item>
-    <item>
-      <title>What Is Natural Language Processing? NLP Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/natural-language-processing-nlp.html</link>
-      <description>In this post, we'll take a deep dive into Natural Language Processing (NLP) including its history, definition, and use cases.</description>
-    </item>
-    <item>
-      <title>Risk Remediation Explained: Remediating Risk for Cybersecurity</title>
-      <link>https://www.splunk.com/en_us/blog/learn/risk-remediation.html</link>
-      <description>Learn all about risk remediation: the process of identifying, addressing, fixing, and minimizing cybersecurity threats.</description>
-    </item>
-    <item>
-      <title>DevOps Conferences &amp; Events 2025: Complete Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/devops-conferences-events.html</link>
-      <description>Check out this article to explore the most popular DevOps conferences and events for 2025 around the world! Add your event, too, by getting in touch with us.</description>
-    </item>
-    <item>
-      <title>Blockchain &amp; Crypto Conferences 2025: The Complete Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/blockchain-conferences-events.html</link>
-      <description>Whether you are looking for a small regional meetup or an enormous global summit, we’ve compiled the complete 2025 guide to Blockchain &amp; crypto conferences that is sure to have the right event for you!</description>
-    </item>
-    <item>
-      <title>Federated Analytics: Analyze Data Wherever It Resides for Rapid and Holistic Security Visibility</title>
-      <link>https://www.splunk.com/en_us/blog/security/federated-analytics-analyze-data-wherever-it-resides-for-rapid-and-holistic-security-visibility.html</link>
-      <description>Federated Analytics is now generally available as a premium add-on feature for Splunk Cloud Platform and Splunk Enterprise Security.</description>
-    </item>
+    <lastBuildDate>Fri, 15 Nov 2024 01:39:07 +0000</lastBuildDate>
     <item>
       <title>The Power of Data in Manufacturing</title>
       <link>https://www.splunk.com/en_us/blog/industries/the-power-of-data-in-manufacturing.html</link>
@@ -51,6 +16,41 @@
       <title>Splunk Continues to Innovate to Deliver Observability for the Entire Enterprise</title>
       <link>https://www.splunk.com/en_us/blog/devops/splunk-continues-to-innovate-to-deliver-observability-for-the-entire-enterprise.html</link>
       <description>Observability leaders detect and remediate incidents faster, double developer productivity and output, and reduce downtime and end-user issues.</description>
+    </item>
+    <item>
+      <title>Guided Automation Using Real Incident Data for Easier Playbook Building in Splunk SOAR</title>
+      <link>https://www.splunk.com/en_us/blog/security/guided-automation-using-real-incident-data-for-easier-playbook-building-in-splunk-soar.html</link>
+      <description>Build powerful playbooks in Splunk SOAR faster and easier with guided automation, using real incident data to streamline security responses in seconds.</description>
+    </item>
+    <item>
+      <title>Logs Are for Campfires: This Is Your Data!</title>
+      <link>https://www.splunk.com/en_us/blog/security/logs-are-for-campfires-this-is-your-data.html</link>
+      <description>Splunker Jerald Perry shares how log data fuels insights, security, and efficiency, making it as impactful as Big Data for smarter decisions.</description>
+    </item>
+    <item>
+      <title>Dashboard Studio: New Version Loading</title>
+      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/dashboard-studio-new-version-loading.html</link>
+      <description>The latest Dashboard Studio features include Version history, Auto hiding dashboard menus, Splunk Observability Cloud metrics integration and more.</description>
+    </item>
+    <item>
+      <title>Keep Your Data Volume in Check With Metrics Usage Analytics</title>
+      <link>https://www.splunk.com/en_us/blog/devops/keep-your-data-volume-in-check-with-metrics-usage-analytics.html</link>
+      <description>Metrics Usage Analytics offers platform engineers a powerful tool to assess their organization's metric usage, with insights designed to reduce the impact of data cardinality on your bottom line.</description>
+    </item>
+    <item>
+      <title>Splunk Enterprise Security 8.0 and Splunk SOAR 6.3 Unify and Automate TDIR Workflows within the Market-Leading SIEM</title>
+      <link>https://www.splunk.com/en_us/blog/security/splunk-enterprise-security-8-0-and-splunk-soar-6-3-unify-and-automate-tdir-workflows-within-the-market-leading-siem.html</link>
+      <description>John Dominguez explains how Splunk Enterprise Security is now natively integrated with automation capabilities from Splunk SOAR.</description>
+    </item>
+    <item>
+      <title>What Is Network Intelligence?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/network-intelligence.html</link>
+      <description>Network Intelligence is a technology that helps organizations, particularly telecom and ISPs, to understand user and network behavior and prevent cybercrime.</description>
+    </item>
+    <item>
+      <title>Open Neural Network Exchange (ONNX) Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/open-neural-network-exchange-onnx.html</link>
+      <description>ONNX is an open-source format that engineers and ML experts use in their ML models to ensure interoperability and model portability across ML and AI frameworks.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
