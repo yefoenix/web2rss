@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/tag/research/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Nov 2024 01:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 01:37:08 +0000</lastBuildDate>
     <item>
       <title>Critical CVEs in Outdated Versions of Atlassian Confluence and VMware vCenter Server</title>
       <link>https://www.rapid7.com/blog/post/2024/01/19/etr-critical-cves-in-outdated-versions-of-atlassian-confluence-and-vmware-vcenter-server/</link>
@@ -92,7 +92,7 @@ exploitation, ransomware attacks, and mass compro</description>
       <description>As part of our ongoing efforts to monitor emerging cyber threats, we have analyzed the activities of CyberVolk, a politically motivated hacktivist group that transitioned into using ransomware and has been active since June 2024.</description>
     </item>
     <item>
-      <title>LodaRAT: Established malware, new victim patterns</title>
+      <title>LodaRAT: Established Malware, New Victim Patterns</title>
       <link>https://www.rapid7.com/blog/post/2024/11/12/lodarat-established-malware-new-victim-patterns/</link>
       <description>Rapid7 has observed an ongoing malware campaign involving a new version of LodaRAT. This version possesses the ability to steal cookies and passwords from Microsoft Edge and Brave.</description>
     </item>

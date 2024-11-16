@@ -6,41 +6,31 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Nov 2024 01:39:25 +0000</lastBuildDate>
-    <item>
-      <title>Generative AI with enterprise controls for business users in 24 Hours</title>
-      <link>https://cloud.google.com/blog/topics/partners/gen-ai-with-enterprise-controls-for-business-users-in-24-hours</link>
-      <description>PartnersGenerative AI with enterprise controls for business users in 24 HoursBy Dr. Ali Arsanjani • 10-minute read</description>
-    </item>
-    <item>
-      <title>What’s new with Google Cloud</title>
-      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
-      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
-    </item>
-    <item>
-      <title>Flare-On 11 Challenge Solutions</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/flareon-11-challenge-solutions</link>
-      <description>Threat IntelligenceFlare-On 11 Challenge SolutionsBy Mandiant  • 2-minute read</description>
-    </item>
-    <item>
-      <title>How Verve achieves 37% performance gains with C4 machines and new GKE features</title>
-      <link>https://cloud.google.com/blog/products/infrastructure/how-verve-achieves-37-percent-performance-gains-with-new-gke-features-and-c4-deliver</link>
-      <description>InfrastructureHow Verve achieves 37% performance gains with C4 machines and new GKE featuresBy Phil Wicklund • 6-minute read</description>
-    </item>
-    <item>
-      <title>How PUMA leverages built-in intelligence with BigQuery for greater customer engagement</title>
-      <link>https://cloud.google.com/blog/products/data-analytics/puma-bigquery-customer-engagement</link>
-      <description>Data AnalyticsHow PUMA leverages built-in intelligence with BigQuery for greater customer engagementBy Tsuki Schmidt • 4-minute read</description>
-    </item>
+    <lastBuildDate>Sat, 16 Nov 2024 01:37:22 +0000</lastBuildDate>
     <item>
       <title>Honoring our 2024 Google Cloud Partner All-stars</title>
       <link>https://cloud.google.com/blog/topics/partners/2024-google-cloud-partner-all-stars-program</link>
       <description>PartnersHonoring our 2024 Google Cloud Partner All-starsBy Kevin Ichhpurani • 3-minute read</description>
     </item>
     <item>
+      <title>How Deutsche Bank built a new retail data platform on Google Cloud</title>
+      <link>https://cloud.google.com/blog/products/data-analytics/inside-deutsche-banks-pbdp-retail-data-platform</link>
+      <description>Data AnalyticsHow Deutsche Bank built a new retail data platform on Google CloudBy Vladimir Elvov • 7-minute read</description>
+    </item>
+    <item>
       <title>Efficiency engine: How three startups deliver results faster with Vertex AI</title>
       <link>https://cloud.google.com/blog/topics/startups/how-three-startups-deliver-results-faster-with-vertex-ai</link>
       <description>StartupsEfficiency engine: How three startups deliver results faster with Vertex AIBy Jess Jinkins • 4-minute read</description>
+    </item>
+    <item>
+      <title>Data loading best practices for AI/ML inference on GKE</title>
+      <link>https://cloud.google.com/blog/products/containers-kubernetes/improve-data-loading-times-for-ml-inference-apps-on-gke</link>
+      <description>Containers &amp; KubernetesData loading best practices for AI/ML inference on GKEBy Brian Kaufman • 6-minute read</description>
+    </item>
+    <item>
+      <title>Join our upcoming Security Talks to unlock the Defender's Advantage</title>
+      <link>https://cloud.google.com/blog/products/identity-security/join-our-upcoming-security-talks-to-unlock-the-defenders-advantage</link>
+      <description>Security &amp; IdentityJoin our upcoming Security Talks to unlock the Defender's AdvantageBy Ruchika Mishra • 4-minute read</description>
     </item>
     <item>
       <title>Pirates in the Data Sea: AI Enhancing Your Adversarial Emulation</title>
@@ -53,9 +43,19 @@
       <description>Public SectorTransforming DoD's data utilization with generative AIBy Jeffrey Ouimette • 3-minute read</description>
     </item>
     <item>
-      <title>Use AI to build AI: Save time on prompt design with AI-powered prompt writing</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/save-time-on-prompt-design-with-ai-powered-prompt-writing</link>
-      <description>AI &amp; Machine LearningUse AI to build AI: Save time on prompt design with AI-powered prompt writingBy Colby Hawker • 5-minute read</description>
+      <title>How cloud and AI are bringing scale to corporate climate mitigation and adaptation</title>
+      <link>https://cloud.google.com/blog/topics/sustainability/at-cop29-thoughts-on-cloud-ai-and-climate-change</link>
+      <description>SustainabilityHow cloud and AI are bringing scale to corporate climate mitigation and adaptationBy Justin Keeble • 5-minute read</description>
+    </item>
+    <item>
+      <title>Dataproc Serverless: Now faster, easier and smarter</title>
+      <link>https://cloud.google.com/blog/products/data-analytics/dataproc-serverless-performance-and-usability-updates</link>
+      <description>Data AnalyticsDataproc Serverless: Now faster, easier and smarterBy Pardha Saradhi Uppala • 7-minute read</description>
+    </item>
+    <item>
+      <title>What’s new with Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
     </item>
   </channel>
 </rss>

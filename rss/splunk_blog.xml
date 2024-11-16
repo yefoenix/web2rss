@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Nov 2024 01:39:07 +0000</lastBuildDate>
-    <item>
-      <title>The Power of Data in Manufacturing</title>
-      <link>https://www.splunk.com/en_us/blog/industries/the-power-of-data-in-manufacturing.html</link>
-      <description>Sarah Lee, Research Director at IDC, explores the significance of data and its role in fostering innovation and facilitating data-driven decision-making through guided insights.</description>
-    </item>
-    <item>
-      <title>Splunk Continues to Innovate to Deliver Observability for the Entire Enterprise</title>
-      <link>https://www.splunk.com/en_us/blog/devops/splunk-continues-to-innovate-to-deliver-observability-for-the-entire-enterprise.html</link>
-      <description>Observability leaders detect and remediate incidents faster, double developer productivity and output, and reduce downtime and end-user issues.</description>
-    </item>
+    <lastBuildDate>Sat, 16 Nov 2024 01:37:01 +0000</lastBuildDate>
     <item>
       <title>Guided Automation Using Real Incident Data for Easier Playbook Building in Splunk SOAR</title>
       <link>https://www.splunk.com/en_us/blog/security/guided-automation-using-real-incident-data-for-easier-playbook-building-in-splunk-soar.html</link>
@@ -38,6 +28,11 @@
       <description>Metrics Usage Analytics offers platform engineers a powerful tool to assess their organization's metric usage, with insights designed to reduce the impact of data cardinality on your bottom line.</description>
     </item>
     <item>
+      <title>The Best IT/Tech Conferences &amp; Events of 2025</title>
+      <link>https://www.splunk.com/en_us/blog/learn/it-tech-conferences-events.html</link>
+      <description>Discover the top IT and Tech conferences and events of 2025, featuring cutting-edge insights, networking opportunities, and industry trends. Stay ahead in technology with our comprehensive guide to the must-attend gatherings for professionals, enthusiasts, and innovators.</description>
+    </item>
+    <item>
       <title>Splunk Enterprise Security 8.0 and Splunk SOAR 6.3 Unify and Automate TDIR Workflows within the Market-Leading SIEM</title>
       <link>https://www.splunk.com/en_us/blog/security/splunk-enterprise-security-8-0-and-splunk-soar-6-3-unify-and-automate-tdir-workflows-within-the-market-leading-siem.html</link>
       <description>John Dominguez explains how Splunk Enterprise Security is now natively integrated with automation capabilities from Splunk SOAR.</description>
@@ -51,6 +46,11 @@
       <title>Open Neural Network Exchange (ONNX) Explained</title>
       <link>https://www.splunk.com/en_us/blog/learn/open-neural-network-exchange-onnx.html</link>
       <description>ONNX is an open-source format that engineers and ML experts use in their ML models to ensure interoperability and model portability across ML and AI frameworks.</description>
+    </item>
+    <item>
+      <title>The Best Security Conferences &amp; Events 2025</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-infosec-conferences-events.html</link>
+      <description>Ready for in-person security conferences and events? Check out this roundup of 2025 security conferences, covering cybersecurity, InfoSec, SecOps and more.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

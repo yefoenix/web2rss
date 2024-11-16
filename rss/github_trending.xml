@@ -6,21 +6,11 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Nov 2024 01:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 01:37:09 +0000</lastBuildDate>
     <item>
-      <title>QwenLM /Qwen2.5-Coder</title>
-      <link>https://github.com/QwenLM/Qwen2.5-Coder</link>
-      <description>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</description>
-    </item>
-    <item>
-      <title>spack /spack</title>
-      <link>https://github.com/spack/spack</link>
-      <description>A flexible package manager that supports multiple versions, configurations, platforms, and compilers.</description>
-    </item>
-    <item>
-      <title>toss /es-toolkit</title>
-      <link>https://github.com/toss/es-toolkit</link>
-      <description>A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.</description>
+      <title>bluesky-social /pds</title>
+      <link>https://github.com/bluesky-social/pds</link>
+      <description>Bluesky PDS (Personal Data Server) container image, compose file, and documentation</description>
     </item>
     <item>
       <title>blacklanternsecurity /bbot</title>
@@ -28,14 +18,59 @@
       <description>A recursive internet scanner for hackers.</description>
     </item>
     <item>
-      <title>primefaces /primeng</title>
-      <link>https://github.com/primefaces/primeng</link>
-      <description>The Most Complete Angular UI Component Library</description>
+      <title>milvus-io /milvus</title>
+      <link>https://github.com/milvus-io/milvus</link>
+      <description>A cloud-native vector database, storage for next generation AI applications</description>
     </item>
     <item>
-      <title>motiondivision /motion</title>
-      <link>https://github.com/motiondivision/motion</link>
-      <description>A modern animation library for React and JavaScript</description>
+      <title>windmill-labs /windmill</title>
+      <link>https://github.com/windmill-labs/windmill</link>
+      <description>Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.</description>
+    </item>
+    <item>
+      <title>facebook /lexical</title>
+      <link>https://github.com/facebook/lexical</link>
+      <description>Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.</description>
+    </item>
+    <item>
+      <title>QwenLM /Qwen2.5-Coder</title>
+      <link>https://github.com/QwenLM/Qwen2.5-Coder</link>
+      <description>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</description>
+    </item>
+    <item>
+      <title>automatisch /automatisch</title>
+      <link>https://github.com/automatisch/automatisch</link>
+      <description>The open source Zapier alternative. Build workflow automation without spending time and money.</description>
+    </item>
+    <item>
+      <title>haydenbleasel /next-forge</title>
+      <link>https://github.com/haydenbleasel/next-forge</link>
+      <description>Production-grade Turborepo template for Next.js apps.</description>
+    </item>
+    <item>
+      <title>ai16z /eliza</title>
+      <link>https://github.com/ai16z/eliza</link>
+      <description>Conversational Agent for Twitter and Discord</description>
+    </item>
+    <item>
+      <title>backstage /backstage</title>
+      <link>https://github.com/backstage/backstage</link>
+      <description>Backstage is an open framework for building developer portals</description>
+    </item>
+    <item>
+      <title>FiloSottile /mkcert</title>
+      <link>https://github.com/FiloSottile/mkcert</link>
+      <description>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</description>
+    </item>
+    <item>
+      <title>Mintplex-Labs /anything-llm</title>
+      <link>https://github.com/Mintplex-Labs/anything-llm</link>
+      <description>The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, and more.</description>
+    </item>
+    <item>
+      <title>tursodatabase /libsql</title>
+      <link>https://github.com/tursodatabase/libsql</link>
+      <description>libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</description>
     </item>
     <item>
       <title>Huanshere /VideoLingo</title>
@@ -48,24 +83,9 @@
       <description>An open-source RAG-based tool for chatting with your documents.</description>
     </item>
     <item>
-      <title>nvm-sh /nvm</title>
-      <link>https://github.com/nvm-sh/nvm</link>
-      <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
-    </item>
-    <item>
-      <title>Guovin /TV</title>
-      <link>https://github.com/Guovin/TV</link>
-      <description>📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
-    </item>
-    <item>
-      <title>dotnet /runtime</title>
-      <link>https://github.com/dotnet/runtime</link>
-      <description>.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.</description>
-    </item>
-    <item>
-      <title>exo-explore /exo</title>
-      <link>https://github.com/exo-explore/exo</link>
-      <description>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</description>
+      <title>dockur /macos</title>
+      <link>https://github.com/dockur/macos</link>
+      <description>OSX (macOS) inside a Docker container.</description>
     </item>
     <item>
       <title>microsoft /TinyTroupe</title>
@@ -73,29 +93,9 @@
       <description>LLM-powered multiagent persona simulation for imagination enhancement and business insights.</description>
     </item>
     <item>
-      <title>ai16z /eliza</title>
-      <link>https://github.com/ai16z/eliza</link>
-      <description>Conversational Agent for Twitter and Discord</description>
-    </item>
-    <item>
-      <title>yorukot /superfile</title>
-      <link>https://github.com/yorukot/superfile</link>
-      <description>Pretty fancy and modern terminal file manager</description>
-    </item>
-    <item>
       <title>opendatalab /MinerU</title>
       <link>https://github.com/opendatalab/MinerU</link>
       <description>A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。</description>
-    </item>
-    <item>
-      <title>haydenbleasel /next-forge</title>
-      <link>https://github.com/haydenbleasel/next-forge</link>
-      <description>Production-grade Turborepo template for Next.js apps.</description>
-    </item>
-    <item>
-      <title>dockur /macos</title>
-      <link>https://github.com/dockur/macos</link>
-      <description>OSX (macOS) inside a Docker container.</description>
     </item>
   </channel>
 </rss>
