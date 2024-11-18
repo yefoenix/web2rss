@@ -6,36 +6,16 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Nov 2024 01:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 01:41:10 +0000</lastBuildDate>
     <item>
-      <title>comfyanonymous /ComfyUI</title>
-      <link>https://github.com/comfyanonymous/ComfyUI</link>
-      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
+      <title>docusealco /docuseal</title>
+      <link>https://github.com/docusealco/docuseal</link>
+      <description>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</description>
     </item>
     <item>
-      <title>ruanyf /weekly</title>
-      <link>https://github.com/ruanyf/weekly</link>
-      <description>科技爱好者周刊，每周五发布</description>
-    </item>
-    <item>
-      <title>phidatahq /phidata</title>
-      <link>https://github.com/phidatahq/phidata</link>
-      <description>Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.</description>
-    </item>
-    <item>
-      <title>istio /istio</title>
-      <link>https://github.com/istio/istio</link>
-      <description>Connect, secure, control, and observe services.</description>
-    </item>
-    <item>
-      <title>dockur /macos</title>
-      <link>https://github.com/dockur/macos</link>
-      <description>OSX (macOS) inside a Docker container.</description>
-    </item>
-    <item>
-      <title>tursodatabase /libsql</title>
-      <link>https://github.com/tursodatabase/libsql</link>
-      <description>libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</description>
+      <title>xtekky /gpt4free</title>
+      <link>https://github.com/xtekky/gpt4free</link>
+      <description>The official gpt4free repository | various collection of powerful language models</description>
     </item>
     <item>
       <title>lvgl /lvgl</title>
@@ -48,19 +28,44 @@
       <description>A recursive internet scanner for hackers.</description>
     </item>
     <item>
-      <title>QwenLM /Qwen2.5-Coder</title>
-      <link>https://github.com/QwenLM/Qwen2.5-Coder</link>
-      <description>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</description>
+      <title>2dust /v2rayN</title>
+      <link>https://github.com/2dust/v2rayN</link>
+      <description>A GUI client for Windows and Linux, support Xray core and v2fly core and others</description>
     </item>
     <item>
-      <title>haydenbleasel /next-forge</title>
-      <link>https://github.com/haydenbleasel/next-forge</link>
-      <description>Production-grade Turborepo template for Next.js apps.</description>
+      <title>freqtrade /freqtrade</title>
+      <link>https://github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
     </item>
     <item>
-      <title>windmill-labs /windmill</title>
-      <link>https://github.com/windmill-labs/windmill</link>
-      <description>Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.</description>
+      <title>ItzCrazyKns /Perplexica</title>
+      <link>https://github.com/ItzCrazyKns/Perplexica</link>
+      <description>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</description>
+    </item>
+    <item>
+      <title>epasveer /seer</title>
+      <link>https://github.com/epasveer/seer</link>
+      <description>Seer - a gui frontend to gdb</description>
+    </item>
+    <item>
+      <title>AUTOMATIC1111 /stable-diffusion-webui</title>
+      <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
+      <description>Stable Diffusion web UI</description>
+    </item>
+    <item>
+      <title>codecrafters-io /build-your-own-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
+    </item>
+    <item>
+      <title>tursodatabase /libsql</title>
+      <link>https://github.com/tursodatabase/libsql</link>
+      <description>libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</description>
+    </item>
+    <item>
+      <title>leaningtech /webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>Virtual Machine for the Web</description>
     </item>
     <item>
       <title>donnemartin /system-design-primer</title>
@@ -68,24 +73,14 @@
       <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
     </item>
     <item>
+      <title>ai16z /eliza</title>
+      <link>https://github.com/ai16z/eliza</link>
+      <description>Conversational Agent for Twitter and Discord</description>
+    </item>
+    <item>
       <title>GoogleCloudPlatform /generative-ai</title>
       <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
       <description>Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</description>
-    </item>
-    <item>
-      <title>trungdq88 /Awesome-Black-Friday-Cyber-Monday</title>
-      <link>https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday</link>
-      <description>Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.</description>
-    </item>
-    <item>
-      <title>microsoft /TinyTroupe</title>
-      <link>https://github.com/microsoft/TinyTroupe</link>
-      <description>LLM-powered multiagent persona simulation for imagination enhancement and business insights.</description>
-    </item>
-    <item>
-      <title>opendatalab /MinerU</title>
-      <link>https://github.com/opendatalab/MinerU</link>
-      <description>A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。</description>
     </item>
     <item>
       <title>DataExpert-io /data-engineer-handbook</title>
