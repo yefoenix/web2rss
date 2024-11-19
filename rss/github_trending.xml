@@ -6,71 +6,66 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Nov 2024 01:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 01:39:04 +0000</lastBuildDate>
     <item>
-      <title>AmruthPillai /Reactive-Resume</title>
-      <link>https://github.com/AmruthPillai/Reactive-Resume</link>
-      <description>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</description>
+      <title>f /awesome-chatgpt-prompts</title>
+      <link>https://github.com/f/awesome-chatgpt-prompts</link>
+      <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
     </item>
     <item>
-      <title>Huanshere /VideoLingo</title>
-      <link>https://github.com/Huanshere/VideoLingo</link>
-      <description>Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组</description>
+      <title>krahets /hello-algo</title>
+      <link>https://github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</description>
     </item>
     <item>
-      <title>google-gemini /cookbook</title>
-      <link>https://github.com/google-gemini/cookbook</link>
-      <description>Examples and guides for using the Gemini API</description>
+      <title>trungdq88 /Awesome-Black-Friday-Cyber-Monday</title>
+      <link>https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday</link>
+      <description>Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.</description>
     </item>
     <item>
-      <title>donnemartin /system-design-primer</title>
-      <link>https://github.com/donnemartin/system-design-primer</link>
-      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+      <title>lvgl /lvgl</title>
+      <link>https://github.com/lvgl/lvgl</link>
+      <description>Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</description>
     </item>
     <item>
-      <title>microsoft /autogen</title>
-      <link>https://github.com/microsoft/autogen</link>
-      <description>A programming framework for agentic AI 🤖</description>
+      <title>leaningtech /webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>Virtual Machine for the Web</description>
     </item>
     <item>
-      <title>Guovin /TV</title>
-      <link>https://github.com/Guovin/TV</link>
-      <description>📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
+      <title>NVIDIA /garak</title>
+      <link>https://github.com/NVIDIA/garak</link>
+      <description>the LLM vulnerability scanner</description>
     </item>
     <item>
-      <title>vercel /ai-chatbot</title>
-      <link>https://github.com/vercel/ai-chatbot</link>
-      <description>A full-featured, hackable Next.js AI chatbot built by Vercel</description>
+      <title>blacklanternsecurity /bbot</title>
+      <link>https://github.com/blacklanternsecurity/bbot</link>
+      <description>A recursive internet scanner for hackers.</description>
     </item>
     <item>
-      <title>jackfrued /Python-100-Days</title>
-      <link>https://github.com/jackfrued/Python-100-Days</link>
-      <description>Python - 100天从新手到大师</description>
+      <title>excalidraw /excalidraw</title>
+      <link>https://github.com/excalidraw/excalidraw</link>
+      <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
     </item>
     <item>
-      <title>nvm-sh /nvm</title>
-      <link>https://github.com/nvm-sh/nvm</link>
-      <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
+      <title>libsdl-org /SDL</title>
+      <link>https://github.com/libsdl-org/SDL</link>
+      <description>Simple Directmedia Layer</description>
     </item>
     <item>
-      <title>automatisch /automatisch</title>
-      <link>https://github.com/automatisch/automatisch</link>
-      <description>The open source Zapier alternative. Build workflow automation without spending time and money.</description>
+      <title>codecrafters-io /build-your-own-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
     </item>
     <item>
-      <title>exo-explore /exo</title>
-      <link>https://github.com/exo-explore/exo</link>
-      <description>Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚</description>
+      <title>comfyanonymous /ComfyUI</title>
+      <link>https://github.com/comfyanonymous/ComfyUI</link>
+      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
     </item>
     <item>
-      <title>QwenLM /Qwen2.5-Coder</title>
-      <link>https://github.com/QwenLM/Qwen2.5-Coder</link>
-      <description>Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.</description>
-    </item>
-    <item>
-      <title>mudler /LocalAI</title>
-      <link>https://github.com/mudler/LocalAI</link>
-      <description>🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</description>
+      <title>olimorris /codecompanion.nvim</title>
+      <link>https://github.com/olimorris/codecompanion.nvim</link>
+      <description>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs</description>
     </item>
     <item>
       <title>ai16z /eliza</title>
@@ -78,19 +73,29 @@
       <description>Conversational Agent for Twitter and Discord</description>
     </item>
     <item>
-      <title>dockur /windows</title>
-      <link>https://github.com/dockur/windows</link>
-      <description>Windows inside a Docker container.</description>
+      <title>motiondivision /motion</title>
+      <link>https://github.com/motiondivision/motion</link>
+      <description>A modern animation library for React and JavaScript</description>
     </item>
     <item>
-      <title>microsoft /TinyTroupe</title>
-      <link>https://github.com/microsoft/TinyTroupe</link>
-      <description>LLM-powered multiagent persona simulation for imagination enhancement and business insights.</description>
+      <title>xtekky /gpt4free</title>
+      <link>https://github.com/xtekky/gpt4free</link>
+      <description>The official gpt4free repository | various collection of powerful language models</description>
     </item>
     <item>
-      <title>dockur /macos</title>
-      <link>https://github.com/dockur/macos</link>
-      <description>OSX (macOS) inside a Docker container.</description>
+      <title>ItzCrazyKns /Perplexica</title>
+      <link>https://github.com/ItzCrazyKns/Perplexica</link>
+      <description>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</description>
+    </item>
+    <item>
+      <title>freqtrade /freqtrade</title>
+      <link>https://github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
+    </item>
+    <item>
+      <title>DataExpert-io /data-engineer-handbook</title>
+      <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
+      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
     </item>
   </channel>
 </rss>

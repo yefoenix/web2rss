@@ -6,27 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Nov 2024 01:27:16 +0000</lastBuildDate>
-    <item>
-      <title>Generative AI with enterprise controls for business users in 24 Hours</title>
-      <link>https://cloud.google.com/blog/topics/partners/gen-ai-with-enterprise-controls-for-business-users-in-24-hours</link>
-      <description>PartnersGenerative AI with enterprise controls for business users in 24 HoursBy Dr. Ali Arsanjani • 10-minute read</description>
-    </item>
-    <item>
-      <title>What’s new with Google Cloud</title>
-      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
-      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
-    </item>
-    <item>
-      <title>Flare-On 11 Challenge Solutions</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/flareon-11-challenge-solutions</link>
-      <description>Threat IntelligenceFlare-On 11 Challenge SolutionsBy Mandiant  • 2-minute read</description>
-    </item>
-    <item>
-      <title>How Verve achieves 37% performance gains with C4 machines and new GKE features</title>
-      <link>https://cloud.google.com/blog/products/infrastructure/how-verve-achieves-37-percent-performance-gains-with-new-gke-features-and-c4-deliver</link>
-      <description>InfrastructureHow Verve achieves 37% performance gains with C4 machines and new GKE featuresBy Phil Wicklund • 6-minute read</description>
-    </item>
+    <lastBuildDate>Tue, 19 Nov 2024 01:39:27 +0000</lastBuildDate>
     <item>
       <title>How Deutsche Bank built a new retail data platform on Google Cloud</title>
       <link>https://cloud.google.com/blog/products/data-analytics/inside-deutsche-banks-pbdp-retail-data-platform</link>
@@ -38,24 +18,44 @@
       <description>StartupsEfficiency engine: How three startups deliver results faster with Vertex AIBy Jess Jinkins • 4-minute read</description>
     </item>
     <item>
-      <title>Emerging Threats: Cybersecurity Forecast 2025</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/cybersecurity-forecast-2025</link>
-      <description>Threat IntelligenceEmerging Threats: Cybersecurity Forecast 2025By Adam Greenberg • 3-minute read</description>
-    </item>
-    <item>
       <title>Data loading best practices for AI/ML inference on GKE</title>
       <link>https://cloud.google.com/blog/products/containers-kubernetes/improve-data-loading-times-for-ml-inference-apps-on-gke</link>
       <description>Containers &amp; KubernetesData loading best practices for AI/ML inference on GKEBy Brian Kaufman • 6-minute read</description>
     </item>
     <item>
-      <title>Empower your teams with self-service Kubernetes using GKE fleets and Argo CD</title>
-      <link>https://cloud.google.com/blog/products/containers-kubernetes/empower-your-teams-with-self-service-kubernetes-using-gke-fleets-and-argo-cd</link>
-      <description>Containers &amp; KubernetesEmpower your teams with self-service Kubernetes using GKE fleets and Argo CDBy Jiayi Bao • 6-minute read</description>
-    </item>
-    <item>
       <title>Join our upcoming Security Talks to unlock the Defender's Advantage</title>
       <link>https://cloud.google.com/blog/products/identity-security/join-our-upcoming-security-talks-to-unlock-the-defenders-advantage</link>
       <description>Security &amp; IdentityJoin our upcoming Security Talks to unlock the Defender's AdvantageBy Ruchika Mishra • 4-minute read</description>
+    </item>
+    <item>
+      <title>Pirates in the Data Sea: AI Enhancing Your Adversarial Emulation</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/ai-enhancing-your-adversarial-emulation</link>
+      <description>Threat IntelligencePirates in the Data Sea: AI Enhancing Your Adversarial EmulationBy Mandiant  • 25-minute read</description>
+    </item>
+    <item>
+      <title>Transforming DoD's data utilization with generative AI</title>
+      <link>https://cloud.google.com/blog/topics/public-sector/transforming-dods-data-utilization-with-generative-ai</link>
+      <description>Public SectorTransforming DoD's data utilization with generative AIBy Jeffrey Ouimette • 3-minute read</description>
+    </item>
+    <item>
+      <title>How cloud and AI are bringing scale to corporate climate mitigation and adaptation</title>
+      <link>https://cloud.google.com/blog/topics/sustainability/at-cop29-thoughts-on-cloud-ai-and-climate-change</link>
+      <description>SustainabilityHow cloud and AI are bringing scale to corporate climate mitigation and adaptationBy Justin Keeble • 5-minute read</description>
+    </item>
+    <item>
+      <title>Dataproc Serverless: Now faster, easier and smarter</title>
+      <link>https://cloud.google.com/blog/products/data-analytics/dataproc-serverless-performance-and-usability-updates</link>
+      <description>Data AnalyticsDataproc Serverless: Now faster, easier and smarterBy Pardha Saradhi Uppala • 7-minute read</description>
+    </item>
+    <item>
+      <title>What’s new with Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
+    </item>
+    <item>
+      <title>New Cassandra to Spanner adapter simplifies Yahoo's migration journey</title>
+      <link>https://cloud.google.com/blog/products/databases/new-proxy-adapter-eases-cassandra-to-spanner-migration</link>
+      <description>DatabasesNew Cassandra to Spanner adapter simplifies Yahoo's migration journeyBy Nitin Sagar • 7-minute read</description>
     </item>
   </channel>
 </rss>
