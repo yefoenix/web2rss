@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/tag/research/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 01:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 10:56:50 +0000</lastBuildDate>
     <item>
       <title>Critical CVEs in Outdated Versions of Atlassian Confluence and VMware vCenter Server</title>
       <link>https://www.rapid7.com/blog/post/2024/01/19/etr-critical-cves-in-outdated-versions-of-atlassian-confluence-and-vmware-vcenter-server/</link>

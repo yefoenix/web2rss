@@ -6,7 +6,7 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 01:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 10:56:51 +0000</lastBuildDate>
     <item>
       <title>f /awesome-chatgpt-prompts</title>
       <link>https://github.com/f/awesome-chatgpt-prompts</link>
@@ -61,11 +61,6 @@
       <title>comfyanonymous /ComfyUI</title>
       <link>https://github.com/comfyanonymous/ComfyUI</link>
       <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
-    </item>
-    <item>
-      <title>olimorris /codecompanion.nvim</title>
-      <link>https://github.com/olimorris/codecompanion.nvim</link>
-      <description>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs</description>
     </item>
     <item>
       <title>ai16z /eliza</title>
