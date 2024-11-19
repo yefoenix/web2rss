@@ -88,3 +88,12 @@ sites:
     description_css: div.flex.flex-1.flex-col
     link_css: 
     use_headless_browser: true
+    
+  - name: DeveloperNvidiaBlog
+    follow_desc: 
+    url: https://developer.nvidia.com/zh-cn/blog/recent-posts/
+    block_css: div.carousel-row__slide.js-post-card
+    title_css: div.carousel-row-slide__title
+    description_css: div.carousel-row-slide__content
+    link_css: a.carousel-row-slide__link
+    use_headless_browser: false
