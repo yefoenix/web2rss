@@ -6,16 +6,21 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Nov 2024 01:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 01:39:04 +0000</lastBuildDate>
     <item>
-      <title>docusealco /docuseal</title>
-      <link>https://github.com/docusealco/docuseal</link>
-      <description>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</description>
+      <title>f /awesome-chatgpt-prompts</title>
+      <link>https://github.com/f/awesome-chatgpt-prompts</link>
+      <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
     </item>
     <item>
-      <title>xtekky /gpt4free</title>
-      <link>https://github.com/xtekky/gpt4free</link>
-      <description>The official gpt4free repository | various collection of powerful language models</description>
+      <title>krahets /hello-algo</title>
+      <link>https://github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</description>
+    </item>
+    <item>
+      <title>trungdq88 /Awesome-Black-Friday-Cyber-Monday</title>
+      <link>https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday</link>
+      <description>Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.</description>
     </item>
     <item>
       <title>lvgl /lvgl</title>
@@ -23,34 +28,29 @@
       <description>Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</description>
     </item>
     <item>
+      <title>leaningtech /webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>Virtual Machine for the Web</description>
+    </item>
+    <item>
+      <title>NVIDIA /garak</title>
+      <link>https://github.com/NVIDIA/garak</link>
+      <description>the LLM vulnerability scanner</description>
+    </item>
+    <item>
       <title>blacklanternsecurity /bbot</title>
       <link>https://github.com/blacklanternsecurity/bbot</link>
       <description>A recursive internet scanner for hackers.</description>
     </item>
     <item>
-      <title>2dust /v2rayN</title>
-      <link>https://github.com/2dust/v2rayN</link>
-      <description>A GUI client for Windows and Linux, support Xray core and v2fly core and others</description>
+      <title>excalidraw /excalidraw</title>
+      <link>https://github.com/excalidraw/excalidraw</link>
+      <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
     </item>
     <item>
-      <title>freqtrade /freqtrade</title>
-      <link>https://github.com/freqtrade/freqtrade</link>
-      <description>Free, open source crypto trading bot</description>
-    </item>
-    <item>
-      <title>ItzCrazyKns /Perplexica</title>
-      <link>https://github.com/ItzCrazyKns/Perplexica</link>
-      <description>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</description>
-    </item>
-    <item>
-      <title>epasveer /seer</title>
-      <link>https://github.com/epasveer/seer</link>
-      <description>Seer - a gui frontend to gdb</description>
-    </item>
-    <item>
-      <title>AUTOMATIC1111 /stable-diffusion-webui</title>
-      <link>https://github.com/AUTOMATIC1111/stable-diffusion-webui</link>
-      <description>Stable Diffusion web UI</description>
+      <title>libsdl-org /SDL</title>
+      <link>https://github.com/libsdl-org/SDL</link>
+      <description>Simple Directmedia Layer</description>
     </item>
     <item>
       <title>codecrafters-io /build-your-own-x</title>
@@ -58,19 +58,14 @@
       <description>Master programming by recreating your favorite technologies from scratch.</description>
     </item>
     <item>
-      <title>tursodatabase /libsql</title>
-      <link>https://github.com/tursodatabase/libsql</link>
-      <description>libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</description>
+      <title>comfyanonymous /ComfyUI</title>
+      <link>https://github.com/comfyanonymous/ComfyUI</link>
+      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
     </item>
     <item>
-      <title>leaningtech /webvm</title>
-      <link>https://github.com/leaningtech/webvm</link>
-      <description>Virtual Machine for the Web</description>
-    </item>
-    <item>
-      <title>donnemartin /system-design-primer</title>
-      <link>https://github.com/donnemartin/system-design-primer</link>
-      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+      <title>olimorris /codecompanion.nvim</title>
+      <link>https://github.com/olimorris/codecompanion.nvim</link>
+      <description>✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs</description>
     </item>
     <item>
       <title>ai16z /eliza</title>
@@ -78,9 +73,24 @@
       <description>Conversational Agent for Twitter and Discord</description>
     </item>
     <item>
-      <title>GoogleCloudPlatform /generative-ai</title>
-      <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
-      <description>Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</description>
+      <title>motiondivision /motion</title>
+      <link>https://github.com/motiondivision/motion</link>
+      <description>A modern animation library for React and JavaScript</description>
+    </item>
+    <item>
+      <title>xtekky /gpt4free</title>
+      <link>https://github.com/xtekky/gpt4free</link>
+      <description>The official gpt4free repository | various collection of powerful language models</description>
+    </item>
+    <item>
+      <title>ItzCrazyKns /Perplexica</title>
+      <link>https://github.com/ItzCrazyKns/Perplexica</link>
+      <description>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</description>
+    </item>
+    <item>
+      <title>freqtrade /freqtrade</title>
+      <link>https://github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
     </item>
     <item>
       <title>DataExpert-io /data-engineer-handbook</title>

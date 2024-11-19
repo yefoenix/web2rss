@@ -6,37 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Nov 2024 01:41:04 +0000</lastBuildDate>
-    <item>
-      <title>Guided Automation Using Real Incident Data for Easier Playbook Building in Splunk SOAR</title>
-      <link>https://www.splunk.com/en_us/blog/security/guided-automation-using-real-incident-data-for-easier-playbook-building-in-splunk-soar.html</link>
-      <description>Build powerful playbooks in Splunk SOAR faster and easier with guided automation, using real incident data to streamline security responses in seconds.</description>
-    </item>
-    <item>
-      <title>Logs Are for Campfires: This Is Your Data!</title>
-      <link>https://www.splunk.com/en_us/blog/security/logs-are-for-campfires-this-is-your-data.html</link>
-      <description>Splunker Jerald Perry shares how log data fuels insights, security, and efficiency, making it as impactful as Big Data for smarter decisions.</description>
-    </item>
-    <item>
-      <title>Dashboard Studio: New Version Loading</title>
-      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/dashboard-studio-new-version-loading.html</link>
-      <description>The latest Dashboard Studio features include Version history, Auto hiding dashboard menus, Splunk Observability Cloud metrics integration and more.</description>
-    </item>
-    <item>
-      <title>Keep Your Data Volume in Check With Metrics Usage Analytics</title>
-      <link>https://www.splunk.com/en_us/blog/devops/keep-your-data-volume-in-check-with-metrics-usage-analytics.html</link>
-      <description>Metrics Usage Analytics offers platform engineers a powerful tool to assess their organization's metric usage, with insights designed to reduce the impact of data cardinality on your bottom line.</description>
-    </item>
-    <item>
-      <title>The Best IT/Tech Conferences &amp; Events of 2025</title>
-      <link>https://www.splunk.com/en_us/blog/learn/it-tech-conferences-events.html</link>
-      <description>Discover the top IT and Tech conferences and events of 2025, featuring cutting-edge insights, networking opportunities, and industry trends. Stay ahead in technology with our comprehensive guide to the must-attend gatherings for professionals, enthusiasts, and innovators.</description>
-    </item>
-    <item>
-      <title>Splunk Enterprise Security 8.0 and Splunk SOAR 6.3 Unify and Automate TDIR Workflows within the Market-Leading SIEM</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-enterprise-security-8-0-and-splunk-soar-6-3-unify-and-automate-tdir-workflows-within-the-market-leading-siem.html</link>
-      <description>John Dominguez explains how Splunk Enterprise Security is now natively integrated with automation capabilities from Splunk SOAR.</description>
-    </item>
+    <lastBuildDate>Tue, 19 Nov 2024 01:38:56 +0000</lastBuildDate>
     <item>
       <title>What Is Network Intelligence?</title>
       <link>https://www.splunk.com/en_us/blog/learn/network-intelligence.html</link>
@@ -51,6 +21,36 @@
       <title>The Best Security Conferences &amp; Events 2025</title>
       <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-infosec-conferences-events.html</link>
       <description>Ready for in-person security conferences and events? Check out this roundup of 2025 security conferences, covering cybersecurity, InfoSec, SecOps and more.</description>
+    </item>
+    <item>
+      <title>What Is InfoSec? Information Security Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/infosec-information-security.html</link>
+      <description>In this post, we'll provide an introduction to information security including how to assess InfoSec vulnerability and best practices.</description>
+    </item>
+    <item>
+      <title>What Is Risk Assessment? Steps, Types, and Challenges</title>
+      <link>https://www.splunk.com/en_us/blog/learn/risk-assessment.html</link>
+      <description>Learn how to assess risk. See how risk assessments work and help to ensure the security of your digital assets, physical spaces, and your staff.</description>
+    </item>
+    <item>
+      <title>What's The CIA Triad? Confidentiality, Integrity, &amp; Availability, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cia-triad-confidentiality-integrity-availability.html</link>
+      <description>The CIA security triad guides information security strategies to inform areas like security framework implementation and cyber threat.</description>
+    </item>
+    <item>
+      <title>Introducing Wayfinder: Simplify Your Navigation in Splunk SOAR</title>
+      <link>https://www.splunk.com/en_us/blog/security/introducing-wayfinder-simplify-your-navigation-in-splunk-soar.html</link>
+      <description>Introducing Wayfinder, a new Splunk SOAR feature that streamlines navigation across the user interface and puts important data right at your fingertips.</description>
+    </item>
+    <item>
+      <title>Life as a Software Engineer Intern at Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/splunklife/life-as-a-software-engineer-intern-at-splunk.html</link>
+      <description>Discover life as a Splunk Software Engineer intern with Thomas Payton, Juanchi Flores, and Christina Liang.</description>
+    </item>
+    <item>
+      <title>What is Cloud Native Application Protection Platform: Everything You Need to Know</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-native-application-protection-platform-cnapp.html</link>
+      <description>Learn what the Cloud Native Application Protection Platform (CNAPP) is and how it works to secure cloud applications.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
