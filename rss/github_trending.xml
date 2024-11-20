@@ -6,16 +6,36 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 10:56:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 01:38:01 +0000</lastBuildDate>
     <item>
-      <title>f /awesome-chatgpt-prompts</title>
-      <link>https://github.com/f/awesome-chatgpt-prompts</link>
-      <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
+      <title>pytorch /pytorch</title>
+      <link>https://github.com/pytorch/pytorch</link>
+      <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
     </item>
     <item>
-      <title>krahets /hello-algo</title>
-      <link>https://github.com/krahets/hello-algo</link>
-      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</description>
+      <title>docusealco /docuseal</title>
+      <link>https://github.com/docusealco/docuseal</link>
+      <description>Open source DocuSign alternative. Create, fill, and sign digital documents ✍️</description>
+    </item>
+    <item>
+      <title>influxdata /telegraf</title>
+      <link>https://github.com/influxdata/telegraf</link>
+      <description>Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</description>
+    </item>
+    <item>
+      <title>payloadcms /payload</title>
+      <link>https://github.com/payloadcms/payload</link>
+      <description>Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.</description>
+    </item>
+    <item>
+      <title>Bin-Huang /chatbox</title>
+      <link>https://github.com/Bin-Huang/chatbox</link>
+      <description>User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)</description>
+    </item>
+    <item>
+      <title>ntdevlabs /tiny11builder</title>
+      <link>https://github.com/ntdevlabs/tiny11builder</link>
+      <description>Scripts to build a trimmed-down Windows 11 image.</description>
     </item>
     <item>
       <title>trungdq88 /Awesome-Black-Friday-Cyber-Monday</title>
@@ -23,59 +43,14 @@
       <description>Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.</description>
     </item>
     <item>
-      <title>lvgl /lvgl</title>
-      <link>https://github.com/lvgl/lvgl</link>
-      <description>Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</description>
+      <title>projectdiscovery /katana</title>
+      <link>https://github.com/projectdiscovery/katana</link>
+      <description>A next-generation crawling and spidering framework.</description>
     </item>
     <item>
-      <title>leaningtech /webvm</title>
-      <link>https://github.com/leaningtech/webvm</link>
-      <description>Virtual Machine for the Web</description>
-    </item>
-    <item>
-      <title>NVIDIA /garak</title>
-      <link>https://github.com/NVIDIA/garak</link>
-      <description>the LLM vulnerability scanner</description>
-    </item>
-    <item>
-      <title>blacklanternsecurity /bbot</title>
-      <link>https://github.com/blacklanternsecurity/bbot</link>
-      <description>A recursive internet scanner for hackers.</description>
-    </item>
-    <item>
-      <title>excalidraw /excalidraw</title>
-      <link>https://github.com/excalidraw/excalidraw</link>
-      <description>Virtual whiteboard for sketching hand-drawn like diagrams</description>
-    </item>
-    <item>
-      <title>libsdl-org /SDL</title>
-      <link>https://github.com/libsdl-org/SDL</link>
-      <description>Simple Directmedia Layer</description>
-    </item>
-    <item>
-      <title>codecrafters-io /build-your-own-x</title>
-      <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description>Master programming by recreating your favorite technologies from scratch.</description>
-    </item>
-    <item>
-      <title>comfyanonymous /ComfyUI</title>
-      <link>https://github.com/comfyanonymous/ComfyUI</link>
-      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
-    </item>
-    <item>
-      <title>ai16z /eliza</title>
-      <link>https://github.com/ai16z/eliza</link>
-      <description>Conversational Agent for Twitter and Discord</description>
-    </item>
-    <item>
-      <title>motiondivision /motion</title>
-      <link>https://github.com/motiondivision/motion</link>
-      <description>A modern animation library for React and JavaScript</description>
-    </item>
-    <item>
-      <title>xtekky /gpt4free</title>
-      <link>https://github.com/xtekky/gpt4free</link>
-      <description>The official gpt4free repository | various collection of powerful language models</description>
+      <title>awslabs /multi-agent-orchestrator</title>
+      <link>https://github.com/awslabs/multi-agent-orchestrator</link>
+      <description>Flexible and powerful framework for managing multiple AI agents and handling complex conversations</description>
     </item>
     <item>
       <title>ItzCrazyKns /Perplexica</title>
@@ -83,14 +58,44 @@
       <description>Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI</description>
     </item>
     <item>
-      <title>freqtrade /freqtrade</title>
-      <link>https://github.com/freqtrade/freqtrade</link>
-      <description>Free, open source crypto trading bot</description>
+      <title>xtekky /gpt4free</title>
+      <link>https://github.com/xtekky/gpt4free</link>
+      <description>The official gpt4free repository | various collection of powerful language models</description>
+    </item>
+    <item>
+      <title>arkohut /pensieve</title>
+      <link>https://github.com/arkohut/pensieve</link>
+      <description>A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。</description>
+    </item>
+    <item>
+      <title>NVIDIA /garak</title>
+      <link>https://github.com/NVIDIA/garak</link>
+      <description>the LLM vulnerability scanner</description>
     </item>
     <item>
       <title>DataExpert-io /data-engineer-handbook</title>
       <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
       <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
+    </item>
+    <item>
+      <title>blacklanternsecurity /bbot</title>
+      <link>https://github.com/blacklanternsecurity/bbot</link>
+      <description>A recursive internet scanner for hackers.</description>
+    </item>
+    <item>
+      <title>freqtrade /freqtrade</title>
+      <link>https://github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
+    </item>
+    <item>
+      <title>ai16z /eliza</title>
+      <link>https://github.com/ai16z/eliza</link>
+      <description>Conversational Agent for Twitter and Discord</description>
+    </item>
+    <item>
+      <title>leaningtech /webvm</title>
+      <link>https://github.com/leaningtech/webvm</link>
+      <description>Virtual Machine for the Web</description>
     </item>
   </channel>
 </rss>
