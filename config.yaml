@@ -19,7 +19,7 @@ sites:
 
   - name: rapid7_blog
     follow_desc: feedId:71371191432910863+userId:71370844472670208
-    url: https://www.rapid7.com/blog/tag/research/
+    url: https://www.rapid7.com/blog/posts/
     block_css: a.blog-all-posts__wrapper--item
     title_css: h3
     description_css: p
