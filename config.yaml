@@ -97,3 +97,13 @@ sites:
     description_css: div.carousel-row-slide__content
     link_css: a.carousel-row-slide__link
     use_headless_browser: false
+
+      
+  - name: VulnersBlog
+    follow_desc: 
+    url: https://vulners.com/blog/
+    block_css: div.rounded.shadow-md.h-full.v-postcard
+    title_css: div.font-semibold.text-lg.mb-2
+    description_css: div.px-6.py-5.v-postcard-body
+    link_css: a
+    use_headless_browser: false
