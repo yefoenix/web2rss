@@ -2,99 +2,110 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>rapid7_blog</title>
-    <link>https://www.rapid7.com/blog/tag/research/</link>
-    <description>Latest posts from https://www.rapid7.com/blog/tag/research/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
+    <link>https://www.rapid7.com/blog/posts/</link>
+    <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 06:27:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 06:54:39 +0000</lastBuildDate>
     <item>
-      <title>Critical CVEs in Outdated Versions of Atlassian Confluence and VMware vCenter Server</title>
-      <link>https://www.rapid7.com/blog/post/2024/01/19/etr-critical-cves-in-outdated-versions-of-atlassian-confluence-and-vmware-vcenter-server/</link>
-      <description>Rapid7 is highlighting two critical vulnerabilities in outdated versions of
-widely deployed software this week. Atlassian disclosed
-[https://confluence.atlassian.com/security/cve-2023-22527-rce-remote-code-execution-vulnerability-in-confluence-data-center-and-confluence-server-1333990257.html] 
-CVE-2023-22527, a template injection vulnerability in Confluence Server with a
-maxed-out CVSS score of 10, while VMware pushed a fresh update to its October
-2023 vCenter Server advisory
-[https://www.vmwar</description>
+      <title>Investigating a SharePoint Compromise: IR Tales from the Field</title>
+      <link>https://www.rapid7.com/blog/post/2024/10/30/investigating-a-sharepoint-compromise-ir-tales-from-the-field/</link>
+      <description>Our investigation uncovered an attacker who accessed a server without authorization and moved laterally across the network, compromising the entire domain.</description>
     </item>
     <item>
-      <title>CVE-2024-0204: Critical Authentication Bypass in Fortra GoAnywhere MFT</title>
-      <link>https://www.rapid7.com/blog/post/2024/01/23/etr-cve-2024-0204-critical-authentication-bypass-in-fortra-goanywhere-mft/</link>
-      <description>On January 22, 2024, Fortra published a security advisory on CVE-2024-0204, a critical authentication bypass affecting its GoAnywhere MFT secure managed file transfer product prior to version 7.4.1.</description>
+      <title>Finding the LNK: Techniques and methodology for advanced analysis with Velociraptor</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/01/finding-the-lnk-techniques-and-methodology-for-advanced-analysis-with-velociraptor/</link>
+      <description>In this post, we explore the structure of LNK files using Velociraptor, our open-source digital forensics and incident response (DFIR) tool.</description>
     </item>
     <item>
-      <title>Exploring the (Not So) Secret Code of Black Hunt Ransomware</title>
-      <link>https://www.rapid7.com/blog/post/2024/02/05/exploring-the-not-so-secret-code-of-blackhunt-ransomware-2/</link>
-      <description>In this analysis we examined the BlackHunt sample shared on X (formerly Twitter). During our analysis we found notable similarities between BlackHunt ransomware and LockBit, which suggested that it uses leaked code of Lockbit. In addition, it uses some techniques similar to REvil ransomware.</description>
+      <title>Metasploit Weekly Wrap-Up 11/01/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/01/metasploit-weekly-wrap-up-11-01-2024/</link>
+      <description>Pool Party Windows Process Injection
+This Metasploit-Framework release includes a new injection technique deployed on
+core Meterpreter functionalities such as process migration and DLL Injection.
+The research of a new injection technique known as PoolParty
+ 
+highlighted new ways to gain code execution on a remote process by abusing
+Thread-Pool management features included on Windows kernel starting from Windows
+Vista.</description>
     </item>
     <item>
-      <title>Critical Fortinet FortiOS CVE-2024-21762 Exploited</title>
-      <link>https://www.rapid7.com/blog/post/2024/02/12/etr-critical-fortinet-fortios-cve-2024-21762-exploited/</link>
-      <description>CVE-2024-21762 is a critical out-of-bounds write vulnerability in Fortinet's FortiOS operating system that is known to have been exploited in the wild. Fortinet SSL VPN vulnerabilities are frequent targets for state-sponsored and other motivated adversaries.</description>
+      <title>20/20 Cybersecurity: Lessons Learned in 2024 and Strategies for a Stronger 2025</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/04/20-20-cybersecurity-lessons-learned-in-2024-and-strategies-for-a-stronger-2025/</link>
+      <description>With 2024 rapidly coming to a close, many of us here at Rapid7 are taking a step back, reflecting upon the successes and learnings of the last 12 months, and looking ahead to the challenges and opportunities we could jointly face in the year ahead.</description>
     </item>
     <item>
-      <title>RCE to Sliver: IR Tales from the Field</title>
-      <link>https://www.rapid7.com/blog/post/2024/02/15/rce-to-sliver-ir-tales-from-the-field/</link>
-      <description>Rapid7 Incident Response was engaged to investigate an incident involving unauthorized access to two publicly-facing Confluence servers that were the source of multiple malware executions.</description>
+      <title>Cathal O’Neill - Taking Command of Your Career in Tech</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/07/cathal-oneill-taking-command-of-your-career-in-tech/</link>
+      <description>Cathal O’Neill joined Rapid7 in 2023 as a Senior Engineering Manager, and he has since advanced to the role of Engineering Director.</description>
     </item>
     <item>
-      <title>High-Risk Vulnerabilities in ConnectWise ScreenConnect</title>
-      <link>https://www.rapid7.com/blog/post/2024/02/20/etr-high-risk-vulnerabilities-in-connectwise-screenconnect/</link>
-      <description>On February 19, 2024 ConnectWise disclosed two vulnerabilities in their ScreenConnect remote access software. Both vulnerabilities affect ScreenConnect 23.9.7 and earlier.</description>
+      <title>Mind the Gap: How Surface Command Tackles Asset Visibility in Attack Surface Management</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/08/mind-the-gap-how-surface-command-tackles-asset-visibility-in-attack-surface-management/</link>
+      <description>By establishing visibility of the attack surface and implementing management processes to prioritize, validate, and mobilize responses, security teams can reduce exposures exploited by malicious threat actors.</description>
     </item>
     <item>
-      <title>CVE-2024-27198 and CVE-2024-27199: JetBrains TeamCity Multiple Authentication Bypass Vulnerabilities (FIXED)</title>
-      <link>https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/</link>
-      <description>Rapid7’s vulnerability research team identified two new vulnerabilities affecting JetBrains TeamCity CI/CD server: CVE-2024-27198 and CVE-2024-27199, both of which are authentication bypasses.</description>
-    </item>
-    <item>
-      <title>The Updated APT Playbook: Tales from the Kimsuky threat actor group</title>
-      <link>https://www.rapid7.com/blog/post/2024/03/20/the-updated-apt-playbook-tales-from-the-kimsuky-threat-actor-group/</link>
-      <description>Within Rapid7 Labs we continually track and monitor threat groups. As part of this process, we routinely identify evolving tactics from threat groups in what is an unceasing game of cat and mouse.</description>
-    </item>
-    <item>
-      <title>Why The External Attack Surface Matters: An analysis into APAC related threat activities</title>
-      <link>https://www.rapid7.com/blog/post/2024/03/21/why-the-external-attack-surface-matters-an-analysis-into-apac-related-threat-activities/</link>
-      <description>Considerable focus within the cybersecurity industry has been placed on the attack surface of organizations, giving rise to external attack surface management (EASM) technologies as a means to monitor said surface.</description>
-    </item>
-    <item>
-      <title>Stories from the SOC Part 2: MSIX Installer Utilizes Telegram Bot to Execute IDAT Loader</title>
-      <link>https://www.rapid7.com/blog/post/2024/04/10/stories-from-the-soc-part-2-msix-installer-utilizes-telegram-bot-to-execute-idat-loader/</link>
-      <description>In part one of our blog series, we discussed how a Rust based application was used to download and execute the IDAT Loader. In part two of this series, we will be providing analysis of how an MSIX installer led to the download and execution of the IDAT Loader.</description>
-    </item>
-    <item>
-      <title>Rapid7 Releases the 2024 Attack Intelligence Report</title>
-      <link>https://www.rapid7.com/blog/post/2024/05/21/rapid7-releases-the-2024-attack-intelligence-report/</link>
-      <description>Today, during our Take Command Summit, we released our 2024 Attack Intelligence
-Report, which pulls in expertise from our researchers, our detection and
-response teams, and threat intelligence teams. The result is the clearest
-picture yet of the expanding attack surface
-[https://www.rapid7.com/fundamentals/attack-surface/] and the threats security
-professionals face every day. 
+      <title>Metasploit Wrap-Up: 11/08/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/08/metasploit-wrap-up-11-08-2024/</link>
+      <description>RISC-V Support
+This release of Metasploit Framework has added exciting new features such as new
+payloads that target the RISC-V architecture. These payloads allow for the
+execution of commands on compromised hardware, allowing Metasploit Framework and
+Metasploit Payloads to be used in more environments.
 
-Since the end of 2020, we’ve seen a significant increase in zero-day
-exploitation, ransomware attacks, and mass compro</description>
-    </item>
-    <item>
-      <title>Defending Against APTs: A Learning Exercise with Kimsuky</title>
-      <link>https://www.rapid7.com/blog/post/2024/07/16/defending-against-apts-a-learning-exercise-with-kimsuky/</link>
-      <description>The latest research paper coming out of Rapid7 Labs examines the tactics of North Korea’s Kimsuky threat group.</description>
-    </item>
-    <item>
-      <title>New Research: The Proliferation of Cellular in IoT</title>
-      <link>https://www.rapid7.com/blog/post/2024/07/30/new-research-the-proliferation-of-cellular-in-iot/</link>
-      <description>Analysis of Cellular Based Internet of Things (IoT) Technology is a new whitepaper co-authored by Rapid7 principal security researcher Deral Heiland and Thermo Fisher Scientific lead product security researcher Carlota Bindner.</description>
-    </item>
-    <item>
-      <title>Ransomware Groups Demystified: CyberVolk Ransomware</title>
-      <link>https://www.rapid7.com/blog/post/2024/10/03/ransomware-groups-demystified-cybervolk-ransomware/</link>
-      <description>As part of our ongoing efforts to monitor emerging cyber threats, we have analyzed the activities of CyberVolk, a politically motivated hacktivist group that transitioned into using ransomware and has been active since June 2024.</description>
+SMB To HTTP(S) Relay
+This new exploit worked on by Rapid7 contributors targets the ESC8
+vulnerability. This work is a part of the recent Kerberos and Active Directory
+efforts targeting multiple</description>
     </item>
     <item>
       <title>LodaRAT: Established Malware, New Victim Patterns</title>
       <link>https://www.rapid7.com/blog/post/2024/11/12/lodarat-established-malware-new-victim-patterns/</link>
       <description>Rapid7 has observed an ongoing malware campaign involving a new version of LodaRAT. This version possesses the ability to steal cookies and passwords from Microsoft Edge and Brave.</description>
+    </item>
+    <item>
+      <title>Patch Tuesday - November 2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/12/patch-tuesday-november-2024/</link>
+      <description>4 zero-days. AD CS ESC15 aka EKUwu. NTLMv2 disclosure. Exchange sender spoofing. Task scheduler EoP. .NET &amp; Kerberos critical RCEs. Welcome Server 2025.</description>
+    </item>
+    <item>
+      <title>Zero-Day Exploitation Targeting Palo Alto Networks Firewall Management Interfaces</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/15/etr-zero-day-exploitation-targeting-palo-alto-networks-firewall-management-interfaces/</link>
+      <description>Palo Alto Networks has indicated they are observing threat activity exploiting a zero-day unauthenticated remote command execution vulnerability in their firewall management interfaces.</description>
+    </item>
+    <item>
+      <title>New IDR Log Search Enhancements: Accelerate, Streamline, and Simplify Investigations</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/15/new-idr-log-search-enhancements-accelerate-streamline-and-simplify-investigations/</link>
+      <description>Rapid7’s InsightIDR, the foundation of our Managed Detection and Response (MDR) service, empowers security teams with advanced analytics, automation, and expert-led investigations.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up: 11/15/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/15/metasploit-weekly-wrap-up-43/</link>
+      <description>Palo Alto Expedition RCE module
+This week's release includes an exploit module for the Palo Alto Expedition
+exploit chain that's been making headlines recently. The first vulnerability,
+CVE-2024-5910, allows attackers to reset the password of the admin user. The
+second vulnerability, CVE-2024-9464 is an authenticated OS command injection.
+The module makes use of both vulnerabilities in order to obtain unauthenticated
+RCE in the context of the user www-data.
+
+New module content (1)
+Palo Alto Expe</description>
+    </item>
+    <item>
+      <title>Unlock 24/7 SOC Coverage: Rapid7 MXDR Now Supports with Microsoft Security Products</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/18/unlock-24-7-soc-coverage-rapid7-mxdr-now-supports-with-microsoft-security-products/</link>
+      <description>With the launch of Rapid7 MXDR’s SOC support for key Microsoft security products, we’re making it possible for organizations to layer security defenses and amplify outcomes.</description>
+    </item>
+    <item>
+      <title>Accelerate Mean Time to Exposure Remediation Across Hybrid Environments with Remediation Hub</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/19/accelerate-mean-time-to-exposure-remediation-across-hybrid-environments-with-remediation-hub/</link>
+      <description>Rapid7’s Remediation Hub, our newest addition to the Exposure Command platform. Remediation Hub automatically prioritizes various risk signals across your hybrid environment and suggests the actions your team can take that would have the largest impact on reducing your overall risk posture.</description>
+    </item>
+    <item>
+      <title>Rapid7 Recognized for ‘Excellence in Workplace Health and Wellbeing’ at the Belfast Telegraph IT Awards</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/19/rapid7-recognized-for-excellence-in-workplace-health-and-wellbeing-at-the-belfast-telegraph-it-awards/</link>
+      <description>On Friday, November 15th, Rapid7 was awarded ‘Excellence in Workplace Health and Wellbeing’ at the Belfast Telegraph IT Awards. This award recognizes technology companies in Belfast that prioritize employee well-being.</description>
     </item>
   </channel>
 </rss>
