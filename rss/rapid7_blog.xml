@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 06:54:39 +0000</lastBuildDate>
-    <item>
-      <title>Investigating a SharePoint Compromise: IR Tales from the Field</title>
-      <link>https://www.rapid7.com/blog/post/2024/10/30/investigating-a-sharepoint-compromise-ir-tales-from-the-field/</link>
-      <description>Our investigation uncovered an attacker who accessed a server without authorization and moved laterally across the network, compromising the entire domain.</description>
-    </item>
-    <item>
-      <title>Finding the LNK: Techniques and methodology for advanced analysis with Velociraptor</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/01/finding-the-lnk-techniques-and-methodology-for-advanced-analysis-with-velociraptor/</link>
-      <description>In this post, we explore the structure of LNK files using Velociraptor, our open-source digital forensics and incident response (DFIR) tool.</description>
-    </item>
+    <lastBuildDate>Thu, 21 Nov 2024 01:37:52 +0000</lastBuildDate>
     <item>
       <title>Metasploit Weekly Wrap-Up 11/01/2024</title>
       <link>https://www.rapid7.com/blog/post/2024/11/01/metasploit-weekly-wrap-up-11-01-2024/</link>
@@ -106,6 +96,16 @@ Palo Alto Expe</description>
       <title>Rapid7 Recognized for ‘Excellence in Workplace Health and Wellbeing’ at the Belfast Telegraph IT Awards</title>
       <link>https://www.rapid7.com/blog/post/2024/11/19/rapid7-recognized-for-excellence-in-workplace-health-and-wellbeing-at-the-belfast-telegraph-it-awards/</link>
       <description>On Friday, November 15th, Rapid7 was awarded ‘Excellence in Workplace Health and Wellbeing’ at the Belfast Telegraph IT Awards. This award recognizes technology companies in Belfast that prioritize employee well-being.</description>
+    </item>
+    <item>
+      <title>Rapid7 Extends AWS Support to Include Coverage for Newly-Launched Resource Control Policies (RCPs)</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/20/rapid7-extends-aws-support-to-include-coverage-for-newly-launched-resource-control-policies-rcps/</link>
+      <description>Rapid7 is excited to announce our support for Amazon Web Services’ (AWS) new Resource Control Policies (RCPs), a powerful tool designed to bolster security controls for organizations using AWS infrastructure.</description>
+    </item>
+    <item>
+      <title>Multiple Vulnerabilities in Wowza Streaming Engine (Fixed)</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/20/multiple-vulnerabilities-in-wowza-streaming-engine-fixed/</link>
+      <description>Rapid7 is disclosing multiple vulnerabilities in Wowza Streaming Engine below v4.9.1. These vulnerabilities are tracked as CVE-2024-52052, CVE-2024-52053, CVE-2024-52054, CVE-2024-52055, and CVE-2024-52056. They are patched as of Wowza Streaming Engine v4.9.1.</description>
     </item>
   </channel>
 </rss>

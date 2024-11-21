@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.deeplearning.ai/the-batch/. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 06:54:57 +0000</lastBuildDate>
-    <item>
-      <title>Llama 3.1 is State-of-the-Art and Open, Web Data Goes Dark, OpenAI Takes on Google and Bing, Synthetic Data Improves</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-260/</link>
-      <description>The Batch AI News and Insights: Last week, I wrote about why working on a concrete startup or project idea — meaning a specific product envisioned in enough detail that we can build it for a specific target user — lets you go faster.</description>
-    </item>
+    <lastBuildDate>Thu, 21 Nov 2024 01:38:10 +0000</lastBuildDate>
     <item>
       <title>Google Gets Character.AI Co-Founders, Ukraine's Aquatic Drones, AI Recruiting Tools Fuel Arms Race, ASCII Art Defeats LLM Guardrails</title>
       <link>https://www.deeplearning.ai/the-batch/issue-261/</link>
@@ -84,8 +79,13 @@
     </item>
     <item>
       <title>Llama On the Battlefield, Mixture of Experts Pulls Ahead, Open Agentic Platform, Voter Support Chatbot</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/nov-13-2024/</link>
+      <link>https://www.deeplearning.ai/the-batch/issue-275/</link>
       <description>The Batch AI News and Insights: Large language models (LLMs) are typically optimized to answer peoples’ questions.</description>
+    </item>
+    <item>
+      <title>Next-Gen Models Show Limited Gains, Real-Time Video Generation, China AI Chips Blocked, Transformer Training Streamlined</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/nov-20-2024/</link>
+      <description>The Batch AI News and Insights: A small number of people are posting text online that’s intended for direct consumption not by humans, but by LLMs (large language models).</description>
     </item>
   </channel>
 </rss>

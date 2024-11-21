@@ -6,11 +6,16 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 06:54:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 01:38:06 +0000</lastBuildDate>
     <item>
       <title>Pirates in the Data Sea: AI Enhancing Your Adversarial Emulation</title>
       <link>https://cloud.google.com/blog/topics/threat-intelligence/ai-enhancing-your-adversarial-emulation</link>
       <description>Threat IntelligencePirates in the Data Sea: AI Enhancing Your Adversarial EmulationBy Mandiant  • 25-minute read</description>
+    </item>
+    <item>
+      <title>How to deploy Llama 3.2-1B-Instruct model with Google Cloud Run GPU</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/how-to-deploy-llama-3-2-1b-instruct-model-with-google-cloud-run</link>
+      <description>AI &amp; Machine LearningHow to deploy Llama 3.2-1B-Instruct model with Google Cloud Run GPUBy Wei Yih Yap • 4-minute read</description>
     </item>
     <item>
       <title>Transforming DoD's data utilization with generative AI</title>
@@ -28,29 +33,24 @@
       <description>Data AnalyticsDataproc Serverless: Now faster, easier and smarterBy Pardha Saradhi Uppala • 7-minute read</description>
     </item>
     <item>
+      <title>What’s new with HPC and AI infrastructure at Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/hpc/whats-new-with-hpc</link>
+      <description>HPCWhat’s new with HPC and AI infrastructure at Google CloudBy Annie Ma-Weaver • 9-minute read</description>
+    </item>
+    <item>
+      <title>AlloyDB Omni supercharges performance: Faster transactions, analytics, and vector search</title>
+      <link>https://cloud.google.com/blog/products/databases/whats-new-in-alloydb-omni-version-15-7-0</link>
+      <description>DatabasesAlloyDB Omni supercharges performance: Faster transactions, analytics, and vector searchBy Bjoern Rost • 4-minute read</description>
+    </item>
+    <item>
       <title>What’s new with Google Cloud</title>
       <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
       <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
     </item>
     <item>
-      <title>New Cassandra to Spanner adapter simplifies Yahoo's migration journey</title>
-      <link>https://cloud.google.com/blog/products/databases/new-proxy-adapter-eases-cassandra-to-spanner-migration</link>
-      <description>DatabasesNew Cassandra to Spanner adapter simplifies Yahoo's migration journeyBy Nitin Sagar • 7-minute read</description>
-    </item>
-    <item>
-      <title>Empowering Gemini for Malware Analysis with Code Interpreter and Google Threat Intelligence</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/gemini-malware-analysis-code-interpreter-threat-intelligence</link>
-      <description>Threat IntelligenceEmpowering Gemini for Malware Analysis with Code Interpreter and Google Threat IntelligenceBy Bernardo Quintero • 6-minute read</description>
-    </item>
-    <item>
       <title>New ways to protect your sensitive data with Chrome Enterprise</title>
       <link>https://cloud.google.com/blog/products/chrome-enterprise/new-ways-to-protect-your-sensitive-data-with-chrome-enterprise</link>
       <description>Chrome EnterpriseNew ways to protect your sensitive data with Chrome EnterpriseBy Niamh Cunningham • 5-minute read</description>
-    </item>
-    <item>
-      <title>Google Cloud NetApp Volumes now available for OpenShift on Google Cloud</title>
-      <link>https://cloud.google.com/blog/topics/partners/netapp-volumes-now-available-for-openshift-on-google-cloud</link>
-      <description>PartnersGoogle Cloud NetApp Volumes now available for OpenShift on Google CloudBy Pablo Osinaga • 6-minute read</description>
     </item>
     <item>
       <title>Realizing AI's Full Potential where Workforce, Security, &amp; Collaboration Matter</title>
