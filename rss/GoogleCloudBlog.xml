@@ -6,22 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Nov 2024 01:38:06 +0000</lastBuildDate>
-    <item>
-      <title>Pirates in the Data Sea: AI Enhancing Your Adversarial Emulation</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/ai-enhancing-your-adversarial-emulation</link>
-      <description>Threat IntelligencePirates in the Data Sea: AI Enhancing Your Adversarial EmulationBy Mandiant  • 25-minute read</description>
-    </item>
-    <item>
-      <title>How to deploy Llama 3.2-1B-Instruct model with Google Cloud Run GPU</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/how-to-deploy-llama-3-2-1b-instruct-model-with-google-cloud-run</link>
-      <description>AI &amp; Machine LearningHow to deploy Llama 3.2-1B-Instruct model with Google Cloud Run GPUBy Wei Yih Yap • 4-minute read</description>
-    </item>
-    <item>
-      <title>Transforming DoD's data utilization with generative AI</title>
-      <link>https://cloud.google.com/blog/topics/public-sector/transforming-dods-data-utilization-with-generative-ai</link>
-      <description>Public SectorTransforming DoD's data utilization with generative AIBy Jeffrey Ouimette • 3-minute read</description>
-    </item>
+    <lastBuildDate>Fri, 22 Nov 2024 01:39:17 +0000</lastBuildDate>
     <item>
       <title>How cloud and AI are bringing scale to corporate climate mitigation and adaptation</title>
       <link>https://cloud.google.com/blog/topics/sustainability/at-cop29-thoughts-on-cloud-ai-and-climate-change</link>
@@ -56,6 +41,21 @@
       <title>Realizing AI's Full Potential where Workforce, Security, &amp; Collaboration Matter</title>
       <link>https://cloud.google.com/blog/topics/public-sector/realizing-ais-full-potential-where-workforce-security-collaboration-matter</link>
       <description>Public SectorRealizing AI's Full Potential where Workforce, Security, &amp; Collaboration MatterBy Katharyn White • 4-minute read</description>
+    </item>
+    <item>
+      <title>Make IAM for GKE easier to use with Workload Identity Federation</title>
+      <link>https://cloud.google.com/blog/products/identity-security/make-iam-for-gke-easier-to-use-with-workload-identity-federation</link>
+      <description>Security &amp; IdentityMake IAM for GKE easier to use with Workload Identity FederationBy Cynthia Thomas • 4-minute read</description>
+    </item>
+    <item>
+      <title>Announcing Mistral AI’s Large-Instruct-2411 on Vertex AI</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/announcing-new-mistral-large-model-on-vertex-ai</link>
+      <description>AI &amp; Machine LearningAnnouncing Mistral AI’s Large-Instruct-2411 on Vertex AIBy Nenshad Bardoliwalla • 3-minute read</description>
+    </item>
+    <item>
+      <title>Don't let resource exhaustion leave your users hanging: A guide to handling 429 errors</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/learn-how-to-handle-429-resource-exhaustion-errors-in-your-llms</link>
+      <description>AI &amp; Machine LearningDon't let resource exhaustion leave your users hanging: A guide to handling 429 errorsBy Pedro Melendez • 7-minute read</description>
     </item>
   </channel>
 </rss>

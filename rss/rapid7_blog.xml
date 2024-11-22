@@ -6,19 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Nov 2024 01:37:52 +0000</lastBuildDate>
-    <item>
-      <title>Metasploit Weekly Wrap-Up 11/01/2024</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/01/metasploit-weekly-wrap-up-11-01-2024/</link>
-      <description>Pool Party Windows Process Injection
-This Metasploit-Framework release includes a new injection technique deployed on
-core Meterpreter functionalities such as process migration and DLL Injection.
-The research of a new injection technique known as PoolParty
- 
-highlighted new ways to gain code execution on a remote process by abusing
-Thread-Pool management features included on Windows kernel starting from Windows
-Vista.</description>
-    </item>
+    <lastBuildDate>Fri, 22 Nov 2024 01:39:03 +0000</lastBuildDate>
     <item>
       <title>20/20 Cybersecurity: Lessons Learned in 2024 and Strategies for a Stronger 2025</title>
       <link>https://www.rapid7.com/blog/post/2024/11/04/20-20-cybersecurity-lessons-learned-in-2024-and-strategies-for-a-stronger-2025/</link>
@@ -106,6 +94,11 @@ Palo Alto Expe</description>
       <title>Multiple Vulnerabilities in Wowza Streaming Engine (Fixed)</title>
       <link>https://www.rapid7.com/blog/post/2024/11/20/multiple-vulnerabilities-in-wowza-streaming-engine-fixed/</link>
       <description>Rapid7 is disclosing multiple vulnerabilities in Wowza Streaming Engine below v4.9.1. These vulnerabilities are tracked as CVE-2024-52052, CVE-2024-52053, CVE-2024-52054, CVE-2024-52055, and CVE-2024-52056. They are patched as of Wowza Streaming Engine v4.9.1.</description>
+    </item>
+    <item>
+      <title>A Bag of RATs: VenomRAT vs. AsyncRAT</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/21/a-bag-of-rats-venomrat-vs-asyncrat/</link>
+      <description>Remote access tools (RATs) have long been a favorite tool for cyber attackers, since they enable remote control over compromised systems and facilitate data theft, espionage, and continuous monitoring of victims. Among the well-known RATs are VenomRAT and AsyncRAT.</description>
     </item>
   </channel>
 </rss>
