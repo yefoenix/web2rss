@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 01:39:03 +0000</lastBuildDate>
-    <item>
-      <title>20/20 Cybersecurity: Lessons Learned in 2024 and Strategies for a Stronger 2025</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/04/20-20-cybersecurity-lessons-learned-in-2024-and-strategies-for-a-stronger-2025/</link>
-      <description>With 2024 rapidly coming to a close, many of us here at Rapid7 are taking a step back, reflecting upon the successes and learnings of the last 12 months, and looking ahead to the challenges and opportunities we could jointly face in the year ahead.</description>
-    </item>
+    <lastBuildDate>Sat, 23 Nov 2024 01:28:38 +0000</lastBuildDate>
     <item>
       <title>Cathal O’Neill - Taking Command of Your Career in Tech</title>
       <link>https://www.rapid7.com/blog/post/2024/11/07/cathal-oneill-taking-command-of-your-career-in-tech/</link>
@@ -99,6 +94,19 @@ Palo Alto Expe</description>
       <title>A Bag of RATs: VenomRAT vs. AsyncRAT</title>
       <link>https://www.rapid7.com/blog/post/2024/11/21/a-bag-of-rats-venomrat-vs-asyncrat/</link>
       <description>Remote access tools (RATs) have long been a favorite tool for cyber attackers, since they enable remote control over compromised systems and facilitate data theft, espionage, and continuous monitoring of victims. Among the well-known RATs are VenomRAT and AsyncRAT.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 11/22/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/22/metasploit-weekly-wrap-up-11-22-2024/</link>
+      <description>JetBrains TeamCity Login Scanner
+Metasploit added a login scanner for the TeamCity application to enable users to
+check for weak credentials. TeamCity has been the subject of multiple ETR
+vulnerabilities
+ 
+and is a valuable target for attackers.
+
+Targeted DCSync added to Windows Secrets Dump
+This week, Metasploit community member smashery</description>
     </item>
   </channel>
 </rss>

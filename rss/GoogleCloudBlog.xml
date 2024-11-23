@@ -6,37 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 01:39:17 +0000</lastBuildDate>
-    <item>
-      <title>How cloud and AI are bringing scale to corporate climate mitigation and adaptation</title>
-      <link>https://cloud.google.com/blog/topics/sustainability/at-cop29-thoughts-on-cloud-ai-and-climate-change</link>
-      <description>SustainabilityHow cloud and AI are bringing scale to corporate climate mitigation and adaptationBy Justin Keeble • 5-minute read</description>
-    </item>
-    <item>
-      <title>Dataproc Serverless: Now faster, easier and smarter</title>
-      <link>https://cloud.google.com/blog/products/data-analytics/dataproc-serverless-performance-and-usability-updates</link>
-      <description>Data AnalyticsDataproc Serverless: Now faster, easier and smarterBy Pardha Saradhi Uppala • 7-minute read</description>
-    </item>
-    <item>
-      <title>What’s new with HPC and AI infrastructure at Google Cloud</title>
-      <link>https://cloud.google.com/blog/topics/hpc/whats-new-with-hpc</link>
-      <description>HPCWhat’s new with HPC and AI infrastructure at Google CloudBy Annie Ma-Weaver • 9-minute read</description>
-    </item>
-    <item>
-      <title>AlloyDB Omni supercharges performance: Faster transactions, analytics, and vector search</title>
-      <link>https://cloud.google.com/blog/products/databases/whats-new-in-alloydb-omni-version-15-7-0</link>
-      <description>DatabasesAlloyDB Omni supercharges performance: Faster transactions, analytics, and vector searchBy Bjoern Rost • 4-minute read</description>
-    </item>
-    <item>
-      <title>What’s new with Google Cloud</title>
-      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
-      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
-    </item>
-    <item>
-      <title>New ways to protect your sensitive data with Chrome Enterprise</title>
-      <link>https://cloud.google.com/blog/products/chrome-enterprise/new-ways-to-protect-your-sensitive-data-with-chrome-enterprise</link>
-      <description>Chrome EnterpriseNew ways to protect your sensitive data with Chrome EnterpriseBy Niamh Cunningham • 5-minute read</description>
-    </item>
+    <lastBuildDate>Sat, 23 Nov 2024 01:28:53 +0000</lastBuildDate>
     <item>
       <title>Realizing AI's Full Potential where Workforce, Security, &amp; Collaboration Matter</title>
       <link>https://cloud.google.com/blog/topics/public-sector/realizing-ais-full-potential-where-workforce-security-collaboration-matter</link>
@@ -56,6 +26,36 @@
       <title>Don't let resource exhaustion leave your users hanging: A guide to handling 429 errors</title>
       <link>https://cloud.google.com/blog/products/ai-machine-learning/learn-how-to-handle-429-resource-exhaustion-errors-in-your-llms</link>
       <description>AI &amp; Machine LearningDon't let resource exhaustion leave your users hanging: A guide to handling 429 errorsBy Pedro Melendez • 7-minute read</description>
+    </item>
+    <item>
+      <title>How Vodafone is using gen AI to enhance network life cycle</title>
+      <link>https://cloud.google.com/blog/topics/telecommunications/vodafone-gen-ai-enhances-network-lifecycle</link>
+      <description>TelecommunicationsHow Vodafone is using gen AI to enhance network life cycleBy Sherif Said • 7-minute read</description>
+    </item>
+    <item>
+      <title>Seeing Through a GLASSBRIDGE: Understanding the Digital Marketing Ecosystem Spreading Pro-PRC Influence Operations</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/glassbridge-pro-prc-influence-operations</link>
+      <description>Threat IntelligenceSeeing Through a GLASSBRIDGE: Understanding the Digital Marketing Ecosystem Spreading Pro-PRC Influence OperationsBy Google Threat Intelligence Group  • 6-minute read</description>
+    </item>
+    <item>
+      <title>How Commerzbank is transforming financial advisory workflows with gen AI</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/how-commerzbank-is-transforming-financial-advisory-workflows-with-gen-ai</link>
+      <description>AI &amp; Machine LearningHow Commerzbank is transforming financial advisory workflows with gen AIBy Tolga Bastürk • 5-minute read</description>
+    </item>
+    <item>
+      <title>Create a self-escalating chatbot in Conversational Agents using Webhook and Generators</title>
+      <link>https://cloud.google.com/blog/topics/developers-practitioners/create-a-self-escalating-chatbot-in-conversational-agents</link>
+      <description>Developers &amp; PractitionersCreate a self-escalating chatbot in Conversational Agents using Webhook and GeneratorsBy Aniket Agrawal • 9-minute read</description>
+    </item>
+    <item>
+      <title>Build an AI agent for trip planning with Gemini 1.5 Pro: A step-by-step guide</title>
+      <link>https://cloud.google.com/blog/topics/developers-practitioners/learn-how-to-create-an-ai-agent-for-trip-planning-with-gemini-1-5-pro</link>
+      <description>Developers &amp; PractitionersBuild an AI agent for trip planning with Gemini 1.5 Pro: A step-by-step guideBy Kelci Mensah • 5-minute read</description>
+    </item>
+    <item>
+      <title>Boost your Continuous Delivery pipeline with Generative AI</title>
+      <link>https://cloud.google.com/blog/topics/developers-practitioners/boost-your-continuous-delivery-pipeline-with-generative-ai</link>
+      <description>Developers &amp; PractitionersBoost your Continuous Delivery pipeline with Generative AIBy Giovanni Galloro • 7-minute read</description>
     </item>
   </channel>
 </rss>

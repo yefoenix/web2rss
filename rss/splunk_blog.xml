@@ -6,32 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 01:38:57 +0000</lastBuildDate>
-    <item>
-      <title>Life as a Software Engineer Intern at Splunk</title>
-      <link>https://www.splunk.com/en_us/blog/splunklife/life-as-a-software-engineer-intern-at-splunk.html</link>
-      <description>Discover life as a Splunk Software Engineer intern with Thomas Payton, Juanchi Flores, and Christina Liang.</description>
-    </item>
-    <item>
-      <title>What is Cloud Native Application Protection Platform: Everything You Need to Know</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-native-application-protection-platform-cnapp.html</link>
-      <description>Learn what the Cloud Native Application Protection Platform (CNAPP) is and how it works to secure cloud applications.</description>
-    </item>
-    <item>
-      <title>Splunk Now Generally Available on Microsoft Azure</title>
-      <link>https://www.splunk.com/en_us/blog/partners/splunk-now-generally-available-on-microsoft-azure.html</link>
-      <description>Splunk arrives on Microsoft Azure, giving the vast majority of Fortune 2000 companies an easier way to enable enterprise-grade security and observability.</description>
-    </item>
-    <item>
-      <title>Recovery Point Objective (RPO) vs. Recovery Time Objective (RTO): What’s The Difference?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/rpo-vs-rto.html</link>
-      <description>For online services and products, availability is the name of the game. Learn what RPO and RTO mean for availability — and how to set them for your organization.</description>
-    </item>
-    <item>
-      <title>AppSec Today: Application Security Requirements &amp; Guidelines To Know</title>
-      <link>https://www.splunk.com/en_us/blog/learn/application-security-requirements.html</link>
-      <description>Explore the essential aspects of application security: threats, requirements, and best practices. Learn how to safeguard your applications and data effectively.</description>
-    </item>
+    <lastBuildDate>Sat, 23 Nov 2024 01:28:32 +0000</lastBuildDate>
     <item>
       <title>Splunk Enterprise Security 8.0: Customer Feedback</title>
       <link>https://www.splunk.com/en_us/blog/security/splunk-enterprise-security-8-0-customer-feedback.html</link>
@@ -51,6 +26,31 @@
       <title>Cracking Braodo Stealer: Analyzing Python Malware and Its Obfuscated Loader</title>
       <link>https://www.splunk.com/en_us/blog/security/cracking-braodo-stealer-analyzing-python-malware-and-its-obfuscated-loader.html</link>
       <description>The Splunk Threat Research Team break down Braodo Stealer's loader mechanisms, obfuscation strategies, and payload behavior.</description>
+    </item>
+    <item>
+      <title>Tech the Halls - Part 1</title>
+      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/tech-the-halls-part-1.html</link>
+      <description>In this first blog, we explore how Splunk can make financial planning simpler and smarter. Whether you’re tracking your holiday expenses, identifying spending trends, or preparing for unexpected costs, Splunk equips you with the insights you need to make better financial decisions.</description>
+    </item>
+    <item>
+      <title>What is Network Segmentation? A Complete Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/network-segmentation.html</link>
+      <description>Learn how network segmentation enhances security, boosts network performance, and protects critical assets by isolating subnets and limiting cyber threats.</description>
+    </item>
+    <item>
+      <title>What's Moore's Law? Its Impact Today</title>
+      <link>https://www.splunk.com/en_us/blog/learn/moores-law.html</link>
+      <description>Moore’s law has proved to be an accurate observation for over 50 years. Learn what Moore’s law is and why it matters today</description>
+    </item>
+    <item>
+      <title>CosmicSting: A Critical XXE Vulnerability in Adobe Commerce and Magento (CVE-2024-34102)</title>
+      <link>https://www.splunk.com/en_us/blog/security/cosmicsting-a-critical-xxe-vulnerability-in-adobe-commerce-and-magento.html</link>
+      <description>The Splunk Research Team dissects the technical intricacies of the CosmicSting vulnerability, explores its potential impact on affected systems, and provides detection opportunities and mitigation strategies.</description>
+    </item>
+    <item>
+      <title>Bypassing the Bypass: Detecting Okta Classic Application Sign-On Policy Evasion</title>
+      <link>https://www.splunk.com/en_us/blog/security/bypassing-the-bypass-detecting-okta-classic-application-sign-on-policy-evasion.html</link>
+      <description>The Splunk Threat Research Team dives into the Okta policy bypass vulnerability, offering detection insights and effective hunting strategies for security teams.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

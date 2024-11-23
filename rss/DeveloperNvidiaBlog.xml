@@ -6,86 +6,86 @@
     <description>Latest posts from https://developer.nvidia.com/zh-cn/blog/recent-posts/. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 01:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 01:29:04 +0000</lastBuildDate>
     <item>
-      <title>在 SONiC 中通过安全启动保护您的网络</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/protect-your-network-with-secure-boot-in-sonic/</link>
-      <description>2024年 10月 29日在 SONiC 中通过安全启动保护您的网络NVIDIA 技术可帮助组织构建和维护安全、可扩展和高性能的网络基础设施。1 MIN READ</description>
+      <title>NVIDIA RAPIDS 加速大型数据集的因果关系推理</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/faster-causal-inference-on-large-datasets-with-nvidia-rapids/</link>
+      <description>2024年 11月 14日NVIDIA RAPIDS 加速大型数据集的因果关系推理随着消费者应用生成的数据比以前更多，企业开始采用观察数据的因果关系推理方法，以帮助阐明应用的各个组件的更改如何影响关键业务指标。1 MIN READ</description>
     </item>
     <item>
-      <title>AI 驱动的设备追踪嚎叫以拯救狼群</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/ai-powered-devices-track-howls-to-save-wolves/</link>
-      <description>2024年 10月 29日AI 驱动的设备追踪嚎叫以拯救狼群一种可部署在广大偏远地区的手机大小的新型设备正在使用人工智能识别和地理定位野生动物，以帮助保护主义者追踪濒危物种，包括黄石国家公园周围的狼群。1 MIN READ</description>
+      <title>NVIDIA DOCA 2.9 借助新性能和安全功能强化人工智能和云计算基础设施</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/nvidia-doca-2-9-enhances-ai-and-cloud-computing-infrastructure-with-new-performance-and-security-features/</link>
+      <description>2024年 11月 14日NVIDIA DOCA 2.9 借助新性能和安全功能强化人工智能和云计算基础设施NVIDIA DOCA 通过为开发者提供全面的软件框架来利用硬件加速来增强 NVIDIA 网络平台的功能，从而提高性能、安全性和效率。2 MIN READ</description>
     </item>
     <item>
-      <title>NVIDIA AI Enterprise 助力 AI 智能体安全升级和简化部署</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/enhanced-security-and-streamlined-deployment-of-ai-agents-with-nvidia-ai-enterprise/</link>
-      <description>2024年 10月 29日NVIDIA AI Enterprise 助力 AI 智能体安全升级和简化部署AI 智能体逐渐成为企业组织提高效率、提高生产力和加速创新的新方式。这些智能体比之前的 AI 应用更为先进，能够自动推理任务、调用其他工具，2 MIN READ</description>
+      <title>NVIDIA NIM 1.4 现已部署可用，推理速度提升 2.4 倍</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/nvidia-nim-1-4-ready-to-deploy-with-2-4x-faster-inference/</link>
+      <description>2024年 11月 15日NVIDIA NIM 1.4 现已部署可用，推理速度提升 2.4 倍随着 生成式 AI 重塑各行各业，对可立即部署的高性能推理的需求也在不断增长。 NVIDIA NIM 为 AI…1 MIN READ</description>
     </item>
     <item>
-      <title>机器人家务技能培训</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/teaching-robots-to-tackle-household-chores/</link>
-      <description>2024年 10月 30日机器人家务技能培训机器人可以承担重复性或耗时的任务，从而使日常生活变得更加轻松。在 2024 年的 NVIDIA GTC 大会上，1 MIN READ</description>
+      <title>借助 NVIDIA TensorRT-LLM 分块预填充提高 AI 推理效率和简化部署</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/streamlining-ai-inference-performance-and-deployment-with-nvidia-tensorrt-llm-chunked-prefill/</link>
+      <description>2024年 11月 15日借助 NVIDIA TensorRT-LLM 分块预填充提高 AI 推理效率和简化部署在本 博文 中，我们详细介绍了分块预填充，这是 NVIDIA TensorRT-LLM 的一项功能，1 MIN READ</description>
     </item>
     <item>
-      <title>基于高吞吐量 AI 的药物发现流程优化</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/high-throughput-ai-driven-drug-discovery-pipeline/</link>
-      <description>2024年 10月 30日基于高吞吐量 AI 的药物发现流程优化将人工智能集成到药物开发中正在彻底改变研究人员开发各种疾病新疗法的方式。传统方法通常耗时且成本高昂，将新药推向市场的过程长达 15 年，2 MIN READ</description>
+      <title>掌握 LLM 技术：数据预处理</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/mastering-llm-techniques-data-preprocessing/</link>
+      <description>2024年 11月 15日掌握 LLM 技术：数据预处理大语言模型（LLMs） 的出现标志着各行业利用人工智能（AI）增强运营和服务的方式发生了重大转变。通过自动化日常任务和简化流程，2 MIN READ</description>
     </item>
     <item>
-      <title>RAPIDS cuML 助力 GPU 实现 UMAP 的高速扩展</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/even-faster-and-more-scalable-umap-on-the-gpu-with-rapids-cuml/</link>
-      <description>2024年 10月 31日RAPIDS cuML 助力 GPU 实现 UMAP 的高速扩展UMAP 是一种常用的降维算法，用于生物信息学、NLP 主题建模和 ML 预处理等领域。它的工作原理是创建 k 近邻（k…3 MIN READ</description>
+      <title>NVIDIA 合作伙伴借助 AI 超级计算加速实现量子突破</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/nvidia-partners-accelerate-quantum-breakthroughs-with-ai-supercomputing/</link>
+      <description>2024年 11月 18日NVIDIA 合作伙伴借助 AI 超级计算加速实现量子突破NVIDIA 的加速量子超级计算机 愿景是集成量子硬件和 AI 超级计算，将当今的量子处理器转变为未来有用的量子计算设备。2 MIN READ</description>
     </item>
     <item>
-      <title>基于 NVIDIA NIM 的多模态视觉 AI 智能体构建解决方案</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/build-multimodal-visual-ai-agents-powered-by-nvidia-nim/</link>
-      <description>2024年 10月 31日基于 NVIDIA NIM 的多模态视觉 AI 智能体构建解决方案视觉数据（从图像到 PDF 再到流式视频）呈指数级增长，这使得人工审查和分析几乎不可能实现。组织正在努力将这些数据大规模转换为切实可行的见解，3 MIN READ</description>
+      <title>借助 NVIDIA Omniverse 蓝图快速构建实时物理数字孪生模型</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/rapidly-create-real-time-physics-digital-twins-with-nvidia-omniverse-blueprints/</link>
+      <description>2024年 11月 18日借助 NVIDIA Omniverse 蓝图快速构建实时物理数字孪生模型我们首先使用先进的物理求解器对所有产品进行模拟。实时数字孪生（RTDT）是 计算机辅助工程（CAE） 仿真的前沿，2 MIN READ</description>
     </item>
     <item>
-      <title>深度学习 AI 模型无需手术即可检测乳腺癌扩散</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/deep-learning-ai-model-identifies-breast-cancer-spread-without-surgery/</link>
-      <description>2024年 10月 31日深度学习 AI 模型无需手术即可检测乳腺癌扩散在诊断癌细胞是否扩散（包括扩散到附近的淋巴结）时， 新的深度学习模型 可以减少对手术的需求（也称为转移）。1 MIN READ</description>
+      <title>利用 NVIDIA ALCHEMI 实现 AI 驱动材料发现的革命性突破</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/revolutionizing-ai-driven-material-discovery-using-nvidia-alchemi/</link>
+      <description>2024年 11月 18日利用 NVIDIA ALCHEMI 实现 AI 驱动材料发现的革命性突破事实证明，AI 可发挥倍增效应，帮助创造一种未来，科学家可以设计全新材料，而工程师可以将这些设计无缝转换为生产计划，而这一切都无需涉足实验室。3 MIN READ</description>
     </item>
     <item>
-      <title>NVSwitch 和 TensorRT-LLM MultiShot 共同加速 AllReduce 速度达 3 倍</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/3x-faster-allreduce-with-nvswitch-and-tensorrt-llm-multishot/</link>
-      <description>2024年 11月 1日NVSwitch 和 TensorRT-LLM MultiShot 共同加速 AllReduce 速度达 3 倍在用户数量可能在数百到数十万之间波动，且输入序列长度随每个请求而变化的生产环境中，部署生成式 AI 工作负载会面临独特的挑战。1 MIN READ</description>
+      <title>使用 nvmath-python 实现 Epilog 运算与矩阵乘法的融合计算</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/fusing-epilog-operations-with-matrix-multiplication-using-nvmath-python/</link>
+      <description>2024年 11月 18日使用 nvmath-python 实现 Epilog 运算与矩阵乘法的融合计算nvmath-python (Beta) 是一个开源 Python 库，为 Python 程序员提供对 NVIDIA CUDA-X…4 MIN READ</description>
     </item>
     <item>
-      <title>利用 NVIDIA Parabricks 加速 Pangenome 比对挖掘新的生物学发现</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/discover-new-biological-insights-with-accelerated-pangenome-alignment-in-nvidia-parabricks/</link>
-      <description>2024年 11月 4日利用 NVIDIA Parabricks 加速 Pangenome 比对挖掘新的生物学发现NVIDIA Parabricks 是一款可扩展的基因组学分析软件套件，可以通过加速计算和深度学习解决组学挑战，实现新的科学突破。2 MIN READ</description>
+      <title>借助新的量子动力学功能加速 Google 的 QPU 开发</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/accelerating-googles-qpu-development-with-new-quantum-dynamics-capabilities/</link>
+      <description>2024年 11月 18日借助新的量子动力学功能加速 Google 的 QPU 开发量子动力学描述了复杂的量子系统如何随时间演变并与其周围环境相互作用。模拟量子动力学极其困难，但对于了解和预测材料的基本特性至关重要。3 MIN READ</description>
     </item>
     <item>
-      <title>借助 NVIDIA AI Workbench 实现混合环境下的无缝协作和快速原型设计</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/frictionless-collaboration-and-rapid-prototyping-in-hybrid-environments-with-nvidia-ai-workbench/</link>
-      <description>2024年 11月 4日借助 NVIDIA AI Workbench 实现混合环境下的无缝协作和快速原型设计NVIDIA AI Workbench 是一款免费的开发环境管理器，可简化所选系统上的数据科学、AI 和机器学习（ML）项目。3 MIN READ</description>
+      <title>借助 NVIDIA cuPyNumeric，将 NumPy 无缝扩展从笔记本电脑到超级计算机</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/effortlessly-scale-numpy-from-laptops-to-supercomputers-with-nvidia-cupynumeric/</link>
+      <description>2024年 11月 18日借助 NVIDIA cuPyNumeric，将 NumPy 无缝扩展从笔记本电脑到超级计算机Python 是数据科学、机器学习和数值计算领域最常用的编程语言。它在科学家和研究人员中日益受欢迎。在 Python 生态系统中，4 MIN READ</description>
     </item>
     <item>
-      <title>利用 NVIDIA AI 蓝图搭建视频搜索和摘要智能代理</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/build-a-video-search-and-summarization-agent-with-nvidia-ai-blueprint/</link>
-      <description>2024年 11月 4日利用 NVIDIA AI 蓝图搭建视频搜索和摘要智能代理本文最初于 2024 年 7 月 29 日发布，但已根据 NVIDIA AI Blueprint 信息进行了大量修改。2 MIN READ</description>
+      <title>NVIDIA cuEquivariance 数学库助力药物和材料研发加速</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/accelerate-drug-and-material-discovery-with-new-math-library-nvidia-cuequivariance/</link>
+      <description>2024年 11月 18日NVIDIA cuEquivariance 数学库助力药物和材料研发加速用于科学的 AI 模型通常经过训练，可以预测自然界的运作方式，例如预测生物分子的结构或可能成为下一种电池材料的新固态的性质。2 MIN READ</description>
     </item>
     <item>
-      <title>RecSys ’24: 使用 EMBark 进行大规模推荐系统训练 Embedding 加速</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/recsys24-embark-embedding-acceleration/</link>
-      <description>2024年 11月 4日RecSys ’24: 使用 EMBark 进行大规模推荐系统训练 Embedding 加速推荐系统是互联网行业的核心系统，如何高效训练推荐系统是各公司关注的核心问题。目前，推荐系统基本上都是基于深度学习的大规模 ID 类模型，2 MIN READ</description>
+      <title>隆重推出用于加速量子超级计算的 NVIDIA CUDA-QX 库</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/introducing-nvidia-cuda-qx-libraries-for-accelerated-quantum-supercomputing/</link>
+      <description>2024年 11月 18日隆重推出用于加速量子超级计算的 NVIDIA CUDA-QX 库加速量子超级计算将人工智能超级计算的优势与 量子处理器（QPUs） 相结合，为世界上一些最棘手的问题开发解决方案。3 MIN READ</description>
     </item>
     <item>
-      <title>通过阿里云计算巢部署 NVIDIA NIM，加速企业大语言模型 SaaS 化</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/alicloud-nvidia-nim-demplyment-llm-sass/</link>
-      <description>2024年 11月 4日通过阿里云计算巢部署 NVIDIA NIM，加速企业大语言模型 SaaS 化在人工智能飞速发展的今天，大语言模型（LLM）为各个行业带来了全新的场景和机遇。诸如客户服务数字人、计算机辅助药物研发的生成式虚拟筛选，2 MIN READ</description>
+      <title>基于大语言模型的Agent智能体在金融行业中的应用</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/llm-agent-for-finance/</link>
+      <description>2024年 11月 20日基于大语言模型的Agent智能体在金融行业中的应用大型语言模型(Large Language Models, LLM)已经取得了显著的进展，并展示了类人智能的潜力，它可以完成问题的拆解、4 MIN READ</description>
     </item>
     <item>
-      <title>利用 NVIDIA CUDA-Q，AI 编码助手助力大规模量子应用开发</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/leverage-ai-coding-assistants-to-develop-quantum-applications-at-scale-with-nvidia-cuda-q/</link>
-      <description>2024年 11月 5日利用 NVIDIA CUDA-Q，AI 编码助手助力大规模量子应用开发在整个软件开发领域，AI 编码助手已变得无处不在。开发者越来越多地使用 GitHub Copilot、3 MIN READ</description>
+      <title>TensorRT-LLM 低精度推理优化：从速度和精度角度的 FP8 vs INT8 的全面解析</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/tensorrt-llm-low-precision-inference-optimization-fp8-int8/</link>
+      <description>2024年 11月 20日TensorRT-LLM 低精度推理优化：从速度和精度角度的 FP8 vs INT8 的全面解析本文将分享 TensorRT-LLM 中低精度量化内容，并从精度和速度角度对比 FP8 与 INT8。首先介绍性能，包括速度和精度。其次，5 MIN READ</description>
     </item>
     <item>
-      <title>AI-RAN 上线，为电信公司带来新的 AI 机遇</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/ai-ran-goes-live-and-unlocks-a-new-ai-opportunity-for-telcos/</link>
-      <description>2024年 11月 12日AI-RAN 上线，为电信公司带来新的 AI 机遇AI 正在以新的方式改变行业、企业和消费者体验。生成式 AI 模型正在转向推理， 代理 AI 正在实现新的成果导向型工作流，4 MIN READ</description>
+      <title>借助 2D 和 3D 数字人虚拟形象扩展 AI 智能体界面选项</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/expanding-ai-agent-interface-options-with-2d-and-3d-digital-human-avatars/</link>
+      <description>2024年 11月 22日借助 2D 和 3D 数字人虚拟形象扩展 AI 智能体界面选项在与 生成式 AI 应用程序交互时，用户有多种通信选项 – 文本、语音或通过数字化的虚拟形象。1 MIN READ</description>
     </item>
   </channel>
 </rss>
