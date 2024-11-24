@@ -6,71 +6,21 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Nov 2024 01:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 01:44:13 +0000</lastBuildDate>
     <item>
-      <title>google /googletest</title>
-      <link>https://github.com/google/googletest</link>
-      <description>GoogleTest - Google Testing and Mocking Framework</description>
+      <title>FortAwesome /Font-Awesome</title>
+      <link>https://github.com/FortAwesome/Font-Awesome</link>
+      <description>The iconic SVG, font, and CSS toolkit</description>
     </item>
     <item>
-      <title>tmc /langchaingo</title>
-      <link>https://github.com/tmc/langchaingo</link>
-      <description>LangChain for Go, the easiest way to write LLM-based programs in Go</description>
+      <title>dream-num /univer</title>
+      <link>https://github.com/dream-num/univer</link>
+      <description>Univer is an Isomorphic Full-Stack Framework for Creating and Editing Spreadsheets, Docs, and Slides Across Web and Server</description>
     </item>
     <item>
-      <title>flutter /flutter</title>
-      <link>https://github.com/flutter/flutter</link>
-      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
-    </item>
-    <item>
-      <title>awslabs /multi-agent-orchestrator</title>
-      <link>https://github.com/awslabs/multi-agent-orchestrator</link>
-      <description>Flexible and powerful framework for managing multiple AI agents and handling complex conversations</description>
-    </item>
-    <item>
-      <title>StarRocks /starrocks</title>
-      <link>https://github.com/StarRocks/starrocks</link>
-      <description>The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</description>
-    </item>
-    <item>
-      <title>daytonaio /daytona</title>
-      <link>https://github.com/daytonaio/daytona</link>
-      <description>The Open Source Dev Environment Manager.</description>
-    </item>
-    <item>
-      <title>meshery /meshery</title>
-      <link>https://github.com/meshery/meshery</link>
-      <description>Meshery, the cloud native manager</description>
-    </item>
-    <item>
-      <title>practical-tutorials /project-based-learning</title>
-      <link>https://github.com/practical-tutorials/project-based-learning</link>
-      <description>Curated list of project-based tutorials</description>
-    </item>
-    <item>
-      <title>mRs- /Black-Friday-Deals</title>
-      <link>https://github.com/mRs-/Black-Friday-Deals</link>
-      <description>Black Friday Deals for macOS / iOS Software &amp; Books</description>
-    </item>
-    <item>
-      <title>dagster-io /dagster</title>
-      <link>https://github.com/dagster-io/dagster</link>
-      <description>An orchestration platform for the development, production, and observation of data assets.</description>
-    </item>
-    <item>
-      <title>RSSNext /Follow</title>
-      <link>https://github.com/RSSNext/Follow</link>
-      <description>🧡 Follow your favorites in one inbox</description>
-    </item>
-    <item>
-      <title>openai /openai-cookbook</title>
-      <link>https://github.com/openai/openai-cookbook</link>
-      <description>Examples and guides for using the OpenAI API</description>
-    </item>
-    <item>
-      <title>EbookFoundation /free-programming-books</title>
-      <link>https://github.com/EbookFoundation/free-programming-books</link>
-      <description>📚 Freely available programming books</description>
+      <title>primefaces /primevue</title>
+      <link>https://github.com/primefaces/primevue</link>
+      <description>Next Generation Vue UI Component Library</description>
     </item>
     <item>
       <title>twentyhq /twenty</title>
@@ -78,19 +28,54 @@
       <description>Building a modern alternative to Salesforce, powered by the community.</description>
     </item>
     <item>
+      <title>openai /openai-cookbook</title>
+      <link>https://github.com/openai/openai-cookbook</link>
+      <description>Examples and guides for using the OpenAI API</description>
+    </item>
+    <item>
+      <title>awslabs /multi-agent-orchestrator</title>
+      <link>https://github.com/awslabs/multi-agent-orchestrator</link>
+      <description>Flexible and powerful framework for managing multiple AI agents and handling complex conversations</description>
+    </item>
+    <item>
+      <title>EbookFoundation /free-programming-books</title>
+      <link>https://github.com/EbookFoundation/free-programming-books</link>
+      <description>📚 Freely available programming books</description>
+    </item>
+    <item>
+      <title>shader-slang /slang</title>
+      <link>https://github.com/shader-slang/slang</link>
+      <description>Making it easier to work with shaders</description>
+    </item>
+    <item>
+      <title>gitroomhq /postiz-app</title>
+      <link>https://github.com/gitroomhq/postiz-app</link>
+      <description>📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</description>
+    </item>
+    <item>
+      <title>flutter /flutter</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
+    </item>
+    <item>
+      <title>abi /screenshot-to-code</title>
+      <link>https://github.com/abi/screenshot-to-code</link>
+      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
+    </item>
+    <item>
       <title>FreeCAD /FreeCAD</title>
       <link>https://github.com/FreeCAD/FreeCAD</link>
       <description>This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</description>
     </item>
     <item>
-      <title>payloadcms /payload</title>
-      <link>https://github.com/payloadcms/payload</link>
-      <description>Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.</description>
+      <title>mediar-ai /screenpipe</title>
+      <link>https://github.com/mediar-ai/screenpipe</link>
+      <description>rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen &amp; voice recording for the age of super intelligence. get your data ready or be left behind</description>
     </item>
     <item>
-      <title>Melkeydev /go-blueprint</title>
-      <link>https://github.com/Melkeydev/go-blueprint</link>
-      <description>Go-blueprint allows users to spin up a quick Go project using a popular framework</description>
+      <title>black-forest-labs /flux</title>
+      <link>https://github.com/black-forest-labs/flux</link>
+      <description>Official inference repo for FLUX.1 models</description>
     </item>
   </channel>
 </rss>
