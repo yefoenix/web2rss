@@ -6,37 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Nov 2024 01:40:49 +0000</lastBuildDate>
-    <item>
-      <title>Splunk Enterprise Security 8.0: Customer Feedback</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-enterprise-security-8-0-customer-feedback.html</link>
-      <description>Splunk Enterprise Security 8.0 delivers unified workflows, alert aggregation, and detection versioning to empower security teams, shaped by customer feedback.</description>
-    </item>
-    <item>
-      <title>Paving the Way for Unified Cybersecurity: OCSF Joins the Linux Foundation with Splunk’s Support</title>
-      <link>https://www.splunk.com/en_us/blog/security/ocsf-joins-the-linux-foundation-with-splunk-support.html</link>
-      <description>Unified cybersecurity takes a step forward as OCSF joins the Linux Foundation, backed by Splunk’s support.</description>
-    </item>
-    <item>
-      <title>Splunk’s Path Towards Achieving FedRAMP Moderate Authorization for Splunk Observability</title>
-      <link>https://www.splunk.com/en_us/blog/industries/splunks-path-towards-achieving-fedramp-moderate-authorization-for-splunk-observability.html</link>
-      <description>Splunk VP of Public Sector Bill Rowan shares how we plan on actively pursuing a FedRAMP Moderate authorized Splunk Observability Cloud offering.</description>
-    </item>
-    <item>
-      <title>Cracking Braodo Stealer: Analyzing Python Malware and Its Obfuscated Loader</title>
-      <link>https://www.splunk.com/en_us/blog/security/cracking-braodo-stealer-analyzing-python-malware-and-its-obfuscated-loader.html</link>
-      <description>The Splunk Threat Research Team break down Braodo Stealer's loader mechanisms, obfuscation strategies, and payload behavior.</description>
-    </item>
-    <item>
-      <title>Tech the Halls - Part 1</title>
-      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/tech-the-halls-part-1.html</link>
-      <description>In this first blog, we explore how Splunk can make financial planning simpler and smarter. Whether you’re tracking your holiday expenses, identifying spending trends, or preparing for unexpected costs, Splunk equips you with the insights you need to make better financial decisions.</description>
-    </item>
-    <item>
-      <title>What is Network Segmentation? A Complete Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/network-segmentation.html</link>
-      <description>Learn how network segmentation enhances security, boosts network performance, and protects critical assets by isolating subnets and limiting cyber threats.</description>
-    </item>
+    <lastBuildDate>Tue, 26 Nov 2024 01:39:23 +0000</lastBuildDate>
     <item>
       <title>What's Moore's Law? Its Impact Today</title>
       <link>https://www.splunk.com/en_us/blog/learn/moores-law.html</link>
@@ -51,6 +21,36 @@
       <title>Bypassing the Bypass: Detecting Okta Classic Application Sign-On Policy Evasion</title>
       <link>https://www.splunk.com/en_us/blog/security/bypassing-the-bypass-detecting-okta-classic-application-sign-on-policy-evasion.html</link>
       <description>The Splunk Threat Research Team dives into the Okta policy bypass vulnerability, offering detection insights and effective hunting strategies for security teams.</description>
+    </item>
+    <item>
+      <title>IT Operations Management (ITOM): A Detailed Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/it-operations-management-itom.html</link>
+      <description>Learn how ITOM enhances operations, improves service delivery, and differentiates from ITSM, ITIL, and ITAM.</description>
+    </item>
+    <item>
+      <title>Unified Observability: Splunk Meets ThousandEyes</title>
+      <link>https://www.splunk.com/en_us/blog/observability/unified-observability-splunk-meets-thousandeyes.html</link>
+      <description>Explore the synergy of Cisco ThousandEyes with Splunk Observability Cloud via OpenTelemetry, enhancing IT operations and fortifying digital resilience.</description>
+    </item>
+    <item>
+      <title>What Is Network Visibility?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/network-visibility.html</link>
+      <description>Network visibility means seeing across the entire digital footprint to understand everything that is in and moving through your network.</description>
+    </item>
+    <item>
+      <title>IT and Technology Spending &amp; Budgets for 2025: Trends &amp; Forecasts</title>
+      <link>https://www.splunk.com/en_us/blog/learn/it-tech-spending.html</link>
+      <description>Tech &amp; IT spending is on the rise in 2025 across the globe. Read more on investment trends and see which regions will spend the most.</description>
+    </item>
+    <item>
+      <title>What is Continuous Improvement?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/continuous-improvement.html</link>
+      <description>Explore continuous improvement principles, Lean techniques like Agile, Scrum, and Kanban, and how IT leaders use them to enhance value and efficiency.</description>
+    </item>
+    <item>
+      <title>Configuration Management &amp; Configuration Items (CI) Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/configuration-management.html</link>
+      <description>Protect your systems and ensure stability with configuration management. Discover the benefits and implement an effective strategy for your business.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

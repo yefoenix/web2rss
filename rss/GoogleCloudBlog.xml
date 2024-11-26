@@ -6,26 +6,36 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Nov 2024 01:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 01:39:42 +0000</lastBuildDate>
+    <item>
+      <title>AlloyDB Omni supercharges performance: Faster transactions, analytics, and vector search</title>
+      <link>https://cloud.google.com/blog/products/databases/whats-new-in-alloydb-omni-version-15-7-0</link>
+      <description>DatabasesAlloyDB Omni supercharges performance: Faster transactions, analytics, and vector searchBy Bjoern Rost • 4-minute read</description>
+    </item>
+    <item>
+      <title>What’s new with Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
+    </item>
+    <item>
+      <title>New ways to protect your sensitive data with Chrome Enterprise</title>
+      <link>https://cloud.google.com/blog/products/chrome-enterprise/new-ways-to-protect-your-sensitive-data-with-chrome-enterprise</link>
+      <description>Chrome EnterpriseNew ways to protect your sensitive data with Chrome EnterpriseBy Niamh Cunningham • 5-minute read</description>
+    </item>
     <item>
       <title>Realizing AI's Full Potential where Workforce, Security, &amp; Collaboration Matter</title>
       <link>https://cloud.google.com/blog/topics/public-sector/realizing-ais-full-potential-where-workforce-security-collaboration-matter</link>
       <description>Public SectorRealizing AI's Full Potential where Workforce, Security, &amp; Collaboration MatterBy Katharyn White • 4-minute read</description>
     </item>
     <item>
-      <title>Make IAM for GKE easier to use with Workload Identity Federation</title>
-      <link>https://cloud.google.com/blog/products/identity-security/make-iam-for-gke-easier-to-use-with-workload-identity-federation</link>
-      <description>Security &amp; IdentityMake IAM for GKE easier to use with Workload Identity FederationBy Cynthia Thomas • 4-minute read</description>
+      <title>The overwhelmed person’s guide to Google Cloud: week of November 14</title>
+      <link>https://cloud.google.com/blog/products/gcp/the-overwhelmed-persons-guide-to-google-cloud</link>
+      <description>Google CloudThe overwhelmed person’s guide to Google Cloud: week of November 14By Richard Seroter • 5-minute read</description>
     </item>
     <item>
-      <title>Announcing Mistral AI’s Large-Instruct-2411 on Vertex AI</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/announcing-new-mistral-large-model-on-vertex-ai</link>
-      <description>AI &amp; Machine LearningAnnouncing Mistral AI’s Large-Instruct-2411 on Vertex AIBy Nenshad Bardoliwalla • 3-minute read</description>
-    </item>
-    <item>
-      <title>Don't let resource exhaustion leave your users hanging: A guide to handling 429 errors</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/learn-how-to-handle-429-resource-exhaustion-errors-in-your-llms</link>
-      <description>AI &amp; Machine LearningDon't let resource exhaustion leave your users hanging: A guide to handling 429 errorsBy Pedro Melendez • 7-minute read</description>
+      <title>Build, deploy, and promote AI agents through Google Cloud’s AI agent ecosystem</title>
+      <link>https://cloud.google.com/blog/topics/partners/build-deploy-and-promote-ai-agents-through-the-google-cloud-ai-agent-ecosystem-program</link>
+      <description>PartnersBuild, deploy, and promote AI agents through Google Cloud’s AI agent ecosystemBy Kevin Ichhpurani • 8-minute read</description>
     </item>
     <item>
       <title>How Vodafone is using gen AI to enhance network life cycle</title>
@@ -46,16 +56,6 @@
       <title>Create a self-escalating chatbot in Conversational Agents using Webhook and Generators</title>
       <link>https://cloud.google.com/blog/topics/developers-practitioners/create-a-self-escalating-chatbot-in-conversational-agents</link>
       <description>Developers &amp; PractitionersCreate a self-escalating chatbot in Conversational Agents using Webhook and GeneratorsBy Aniket Agrawal • 9-minute read</description>
-    </item>
-    <item>
-      <title>Build an AI agent for trip planning with Gemini 1.5 Pro: A step-by-step guide</title>
-      <link>https://cloud.google.com/blog/topics/developers-practitioners/learn-how-to-create-an-ai-agent-for-trip-planning-with-gemini-1-5-pro</link>
-      <description>Developers &amp; PractitionersBuild an AI agent for trip planning with Gemini 1.5 Pro: A step-by-step guideBy Kelci Mensah • 5-minute read</description>
-    </item>
-    <item>
-      <title>Boost your Continuous Delivery pipeline with Generative AI</title>
-      <link>https://cloud.google.com/blog/topics/developers-practitioners/boost-your-continuous-delivery-pipeline-with-generative-ai</link>
-      <description>Developers &amp; PractitionersBoost your Continuous Delivery pipeline with Generative AIBy Giovanni Galloro • 7-minute read</description>
     </item>
   </channel>
 </rss>
