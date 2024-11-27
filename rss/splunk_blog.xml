@@ -6,27 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 01:39:23 +0000</lastBuildDate>
-    <item>
-      <title>What's Moore's Law? Its Impact Today</title>
-      <link>https://www.splunk.com/en_us/blog/learn/moores-law.html</link>
-      <description>Moore’s law has proved to be an accurate observation for over 50 years. Learn what Moore’s law is and why it matters today</description>
-    </item>
-    <item>
-      <title>CosmicSting: A Critical XXE Vulnerability in Adobe Commerce and Magento (CVE-2024-34102)</title>
-      <link>https://www.splunk.com/en_us/blog/security/cosmicsting-a-critical-xxe-vulnerability-in-adobe-commerce-and-magento.html</link>
-      <description>The Splunk Research Team dissects the technical intricacies of the CosmicSting vulnerability, explores its potential impact on affected systems, and provides detection opportunities and mitigation strategies.</description>
-    </item>
-    <item>
-      <title>Bypassing the Bypass: Detecting Okta Classic Application Sign-On Policy Evasion</title>
-      <link>https://www.splunk.com/en_us/blog/security/bypassing-the-bypass-detecting-okta-classic-application-sign-on-policy-evasion.html</link>
-      <description>The Splunk Threat Research Team dives into the Okta policy bypass vulnerability, offering detection insights and effective hunting strategies for security teams.</description>
-    </item>
-    <item>
-      <title>IT Operations Management (ITOM): A Detailed Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/it-operations-management-itom.html</link>
-      <description>Learn how ITOM enhances operations, improves service delivery, and differentiates from ITSM, ITIL, and ITAM.</description>
-    </item>
+    <lastBuildDate>Wed, 27 Nov 2024 01:41:09 +0000</lastBuildDate>
     <item>
       <title>Unified Observability: Splunk Meets ThousandEyes</title>
       <link>https://www.splunk.com/en_us/blog/observability/unified-observability-splunk-meets-thousandeyes.html</link>
@@ -51,6 +31,26 @@
       <title>Configuration Management &amp; Configuration Items (CI) Explained</title>
       <link>https://www.splunk.com/en_us/blog/learn/configuration-management.html</link>
       <description>Protect your systems and ensure stability with configuration management. Discover the benefits and implement an effective strategy for your business.</description>
+    </item>
+    <item>
+      <title>Splunk Security Content for Threat Detection &amp; Response: Q3 Roundup</title>
+      <link>https://www.splunk.com/en_us/blog/security/latest-splunk-security-content.html</link>
+      <description>Learn about the latest security content from Splunk.</description>
+    </item>
+    <item>
+      <title>How Aditya Builds Digital Resilience as a Software Engineer</title>
+      <link>https://www.splunk.com/en_us/blog/splunklife/how-aditya-builds-digital-resilience-as-a-software-engineer.html</link>
+      <description>Aditya Bhatia shares what he does in his day-to-day as a software development engineer on our Control Loop team and how he’s grown at Splunk.</description>
+    </item>
+    <item>
+      <title>What is Spoofing? An Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/spoofing.html</link>
+      <description>Learn about spoofing: types like email, IP, DNS, and GPS spoofing, how attackers exploit them, and tips to protect yourself from these cyber threats.</description>
+    </item>
+    <item>
+      <title>Observations from .conf Go: Why Every Business Needs Observability</title>
+      <link>https://www.splunk.com/en_us/blog/observability/observations-from-conf-go-why-every-business-needs-observability.html</link>
+      <description>Raen Lim, Splunk Group Vice President, explains why building robust digital resilience — supported by strong observability — is essential.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

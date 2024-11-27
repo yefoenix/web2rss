@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.anthropic.com/news. follow.is: feedId:71805759203098624+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 01:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 01:41:20 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -416,6 +416,11 @@
       <title>Introducing the Model Context Protocol</title>
       <link>https://www.anthropic.com/news/model-context-protocol</link>
       <description>AnnouncementsIntroducing the Model Context ProtocolNov 25, 2024</description>
+    </item>
+    <item>
+      <title>Tailor Claude’s responses to your personal style</title>
+      <link>https://www.anthropic.com/news/styles</link>
+      <description>ProductTailor Claude’s responses to your personal styleNov 26, 2024</description>
     </item>
   </channel>
 </rss>
