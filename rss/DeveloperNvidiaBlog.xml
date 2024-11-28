@@ -6,7 +6,7 @@
     <description>Latest posts from https://developer.nvidia.com/zh-cn/blog/recent-posts/. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 01:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 01:40:59 +0000</lastBuildDate>
     <item>
       <title>NVIDIA RAPIDS 加速大型数据集的因果关系推理</title>
       <link>https://developer.nvidia.com/zh-cn/blog/faster-causal-inference-on-large-datasets-with-nvidia-rapids/</link>

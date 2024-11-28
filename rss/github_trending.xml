@@ -6,41 +6,26 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 01:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 01:40:35 +0000</lastBuildDate>
     <item>
-      <title>justcallmekoko /ESP32Marauder</title>
-      <link>https://github.com/justcallmekoko/ESP32Marauder</link>
-      <description>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</description>
+      <title>Azure /azure-sdk-for-net</title>
+      <link>https://github.com/Azure/azure-sdk-for-net</link>
+      <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.</description>
     </item>
     <item>
-      <title>apache /cloudberry</title>
-      <link>https://github.com/apache/cloudberry</link>
-      <description>One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.</description>
+      <title>renovatebot /renovate</title>
+      <link>https://github.com/renovatebot/renovate</link>
+      <description>Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io</description>
     </item>
     <item>
-      <title>langgenius /dify</title>
-      <link>https://github.com/langgenius/dify</link>
-      <description>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</description>
+      <title>kubernetes /website</title>
+      <link>https://github.com/kubernetes/website</link>
+      <description>Kubernetes website and documentation repo:</description>
     </item>
     <item>
-      <title>shader-slang /slang</title>
-      <link>https://github.com/shader-slang/slang</link>
-      <description>Making it easier to work with shaders</description>
-    </item>
-    <item>
-      <title>OpenInterpreter /open-interpreter</title>
-      <link>https://github.com/OpenInterpreter/open-interpreter</link>
-      <description>A natural language interface for computers</description>
-    </item>
-    <item>
-      <title>ant-design /x</title>
-      <link>https://github.com/ant-design/x</link>
-      <description>Craft AI-driven interfaces effortlessly 🤖</description>
-    </item>
-    <item>
-      <title>pawelsalawa /sqlitestudio</title>
-      <link>https://github.com/pawelsalawa/sqlitestudio</link>
-      <description>A free, open source, multi-platform SQLite database manager.</description>
+      <title>jesseduffield /lazydocker</title>
+      <link>https://github.com/jesseduffield/lazydocker</link>
+      <description>The lazier way to manage everything docker</description>
     </item>
     <item>
       <title>EbookFoundation /free-programming-books</title>
@@ -48,9 +33,44 @@
       <description>📚 Freely available programming books</description>
     </item>
     <item>
-      <title>abi /screenshot-to-code</title>
-      <link>https://github.com/abi/screenshot-to-code</link>
-      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
+      <title>Alamofire /Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+    </item>
+    <item>
+      <title>skills /introduction-to-github</title>
+      <link>https://github.com/skills/introduction-to-github</link>
+      <description>Get started using GitHub in less than an hour.</description>
+    </item>
+    <item>
+      <title>n8n-io /n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <description>Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</description>
+    </item>
+    <item>
+      <title>cypress-io /cypress</title>
+      <link>https://github.com/cypress-io/cypress</link>
+      <description>Fast, easy and reliable testing for anything that runs in a browser.</description>
+    </item>
+    <item>
+      <title>microsoft /graphrag</title>
+      <link>https://github.com/microsoft/graphrag</link>
+      <description>A modular graph-based Retrieval-Augmented Generation (RAG) system</description>
+    </item>
+    <item>
+      <title>wagoodman /dive</title>
+      <link>https://github.com/wagoodman/dive</link>
+      <description>A tool for exploring each layer in a docker image</description>
+    </item>
+    <item>
+      <title>andrewyng /aisuite</title>
+      <link>https://github.com/andrewyng/aisuite</link>
+      <description>Simple, unified interface to multiple Generative AI providers</description>
+    </item>
+    <item>
+      <title>OpenInterpreter /open-interpreter</title>
+      <link>https://github.com/OpenInterpreter/open-interpreter</link>
+      <description>A natural language interface for computers</description>
     </item>
   </channel>
 </rss>
