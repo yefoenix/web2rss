@@ -6,31 +6,26 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Nov 2024 01:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 01:40:44 +0000</lastBuildDate>
     <item>
-      <title>Azure /azure-sdk-for-net</title>
-      <link>https://github.com/Azure/azure-sdk-for-net</link>
-      <description>This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.</description>
+      <title>hashicorp /terraform</title>
+      <link>https://github.com/hashicorp/terraform</link>
+      <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
     </item>
     <item>
-      <title>renovatebot /renovate</title>
-      <link>https://github.com/renovatebot/renovate</link>
-      <description>Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io</description>
+      <title>typeorm /typeorm</title>
+      <link>https://github.com/typeorm/typeorm</link>
+      <description>ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</description>
     </item>
     <item>
-      <title>kubernetes /website</title>
-      <link>https://github.com/kubernetes/website</link>
-      <description>Kubernetes website and documentation repo:</description>
+      <title>comfyanonymous /ComfyUI</title>
+      <link>https://github.com/comfyanonymous/ComfyUI</link>
+      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
     </item>
     <item>
-      <title>jesseduffield /lazydocker</title>
-      <link>https://github.com/jesseduffield/lazydocker</link>
-      <description>The lazier way to manage everything docker</description>
-    </item>
-    <item>
-      <title>EbookFoundation /free-programming-books</title>
-      <link>https://github.com/EbookFoundation/free-programming-books</link>
-      <description>📚 Freely available programming books</description>
+      <title>ollama /ollama-python</title>
+      <link>https://github.com/ollama/ollama-python</link>
+      <description>Ollama Python library</description>
     </item>
     <item>
       <title>Alamofire /Alamofire</title>
@@ -38,24 +33,9 @@
       <description>Elegant HTTP Networking in Swift</description>
     </item>
     <item>
-      <title>skills /introduction-to-github</title>
-      <link>https://github.com/skills/introduction-to-github</link>
-      <description>Get started using GitHub in less than an hour.</description>
-    </item>
-    <item>
-      <title>n8n-io /n8n</title>
-      <link>https://github.com/n8n-io/n8n</link>
-      <description>Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</description>
-    </item>
-    <item>
       <title>cypress-io /cypress</title>
       <link>https://github.com/cypress-io/cypress</link>
       <description>Fast, easy and reliable testing for anything that runs in a browser.</description>
-    </item>
-    <item>
-      <title>microsoft /graphrag</title>
-      <link>https://github.com/microsoft/graphrag</link>
-      <description>A modular graph-based Retrieval-Augmented Generation (RAG) system</description>
     </item>
     <item>
       <title>wagoodman /dive</title>
@@ -63,14 +43,34 @@
       <description>A tool for exploring each layer in a docker image</description>
     </item>
     <item>
-      <title>andrewyng /aisuite</title>
-      <link>https://github.com/andrewyng/aisuite</link>
-      <description>Simple, unified interface to multiple Generative AI providers</description>
-    </item>
-    <item>
       <title>OpenInterpreter /open-interpreter</title>
       <link>https://github.com/OpenInterpreter/open-interpreter</link>
       <description>A natural language interface for computers</description>
+    </item>
+    <item>
+      <title>pawelsalawa /sqlitestudio</title>
+      <link>https://github.com/pawelsalawa/sqlitestudio</link>
+      <description>A free, open source, multi-platform SQLite database manager.</description>
+    </item>
+    <item>
+      <title>myhhub /stock</title>
+      <link>https://github.com/myhhub/stock</link>
+      <description>stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。</description>
+    </item>
+    <item>
+      <title>mtdvio /every-programmer-should-know</title>
+      <link>https://github.com/mtdvio/every-programmer-should-know</link>
+      <description>A collection of (mostly) technical things every software developer should know about</description>
+    </item>
+    <item>
+      <title>abi /screenshot-to-code</title>
+      <link>https://github.com/abi/screenshot-to-code</link>
+      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
+    </item>
+    <item>
+      <title>andrewyng /aisuite</title>
+      <link>https://github.com/andrewyng/aisuite</link>
+      <description>Simple, unified interface to multiple Generative AI providers</description>
     </item>
   </channel>
 </rss>
