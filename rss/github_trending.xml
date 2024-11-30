@@ -6,31 +6,26 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Nov 2024 01:40:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 01:37:58 +0000</lastBuildDate>
+    <item>
+      <title>nestjs /nest</title>
+      <link>https://github.com/nestjs/nest</link>
+      <description>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀</description>
+    </item>
+    <item>
+      <title>withastro /astro</title>
+      <link>https://github.com/withastro/astro</link>
+      <description>The web framework for content-driven websites. ⭐️ Star to support our work!</description>
+    </item>
+    <item>
+      <title>yamadashy /repomix</title>
+      <link>https://github.com/yamadashy/repomix</link>
+      <description>📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.</description>
+    </item>
     <item>
       <title>hashicorp /terraform</title>
       <link>https://github.com/hashicorp/terraform</link>
       <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
-    </item>
-    <item>
-      <title>typeorm /typeorm</title>
-      <link>https://github.com/typeorm/typeorm</link>
-      <description>ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</description>
-    </item>
-    <item>
-      <title>comfyanonymous /ComfyUI</title>
-      <link>https://github.com/comfyanonymous/ComfyUI</link>
-      <description>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</description>
-    </item>
-    <item>
-      <title>ollama /ollama-python</title>
-      <link>https://github.com/ollama/ollama-python</link>
-      <description>Ollama Python library</description>
-    </item>
-    <item>
-      <title>Alamofire /Alamofire</title>
-      <link>https://github.com/Alamofire/Alamofire</link>
-      <description>Elegant HTTP Networking in Swift</description>
     </item>
     <item>
       <title>cypress-io /cypress</title>
@@ -38,9 +33,34 @@
       <description>Fast, easy and reliable testing for anything that runs in a browser.</description>
     </item>
     <item>
-      <title>wagoodman /dive</title>
-      <link>https://github.com/wagoodman/dive</link>
-      <description>A tool for exploring each layer in a docker image</description>
+      <title>typeorm /typeorm</title>
+      <link>https://github.com/typeorm/typeorm</link>
+      <description>ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</description>
+    </item>
+    <item>
+      <title>keephq /keep</title>
+      <link>https://github.com/keephq/keep</link>
+      <description>The open-source alert management and AIOps platform</description>
+    </item>
+    <item>
+      <title>comet-ml /opik</title>
+      <link>https://github.com/comet-ml/opik</link>
+      <description>Open-source end-to-end LLM Development Platform</description>
+    </item>
+    <item>
+      <title>krayin /laravel-crm</title>
+      <link>https://github.com/krayin/laravel-crm</link>
+      <description>Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.</description>
+    </item>
+    <item>
+      <title>0x90n /InfoSec-Black-Friday</title>
+      <link>https://github.com/0x90n/InfoSec-Black-Friday</link>
+      <description>All the deals for InfoSec related software/tools this Black Friday</description>
+    </item>
+    <item>
+      <title>n8n-io /n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <description>Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</description>
     </item>
     <item>
       <title>OpenInterpreter /open-interpreter</title>
@@ -48,14 +68,24 @@
       <description>A natural language interface for computers</description>
     </item>
     <item>
-      <title>pawelsalawa /sqlitestudio</title>
-      <link>https://github.com/pawelsalawa/sqlitestudio</link>
-      <description>A free, open source, multi-platform SQLite database manager.</description>
+      <title>yangshun /tech-interview-handbook</title>
+      <link>https://github.com/yangshun/tech-interview-handbook</link>
+      <description>💯 Curated coding interview preparation materials for busy software engineers</description>
     </item>
     <item>
-      <title>myhhub /stock</title>
-      <link>https://github.com/myhhub/stock</link>
-      <description>stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。</description>
+      <title>codecrafters-io /build-your-own-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
+    </item>
+    <item>
+      <title>Alamofire /Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+    </item>
+    <item>
+      <title>SimonCropp /Delta</title>
+      <link>https://github.com/SimonCropp/Delta</link>
+      <description>An approach to implementing a 304 Not Modified leveraging SqlServer change tracking</description>
     </item>
     <item>
       <title>mtdvio /every-programmer-should-know</title>
@@ -63,9 +93,14 @@
       <description>A collection of (mostly) technical things every software developer should know about</description>
     </item>
     <item>
-      <title>abi /screenshot-to-code</title>
-      <link>https://github.com/abi/screenshot-to-code</link>
-      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
+      <title>skills /introduction-to-github</title>
+      <link>https://github.com/skills/introduction-to-github</link>
+      <description>Get started using GitHub in less than an hour.</description>
+    </item>
+    <item>
+      <title>hengyoush /kyanos</title>
+      <link>https://github.com/hengyoush/kyanos</link>
+      <description>Visualize the time packets spend in the kernel, watch &amp; analyze in command line.</description>
     </item>
     <item>
       <title>andrewyng /aisuite</title>

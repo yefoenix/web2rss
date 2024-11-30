@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Nov 2024 01:40:43 +0000</lastBuildDate>
-    <item>
-      <title>Mind the Gap: How Surface Command Tackles Asset Visibility in Attack Surface Management</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/08/mind-the-gap-how-surface-command-tackles-asset-visibility-in-attack-surface-management/</link>
-      <description>By establishing visibility of the attack surface and implementing management processes to prioritize, validate, and mobilize responses, security teams can reduce exposures exploited by malicious threat actors.</description>
-    </item>
+    <lastBuildDate>Sat, 30 Nov 2024 01:37:57 +0000</lastBuildDate>
     <item>
       <title>Metasploit Wrap-Up: 11/08/2024</title>
       <link>https://www.rapid7.com/blog/post/2024/11/08/metasploit-wrap-up-11-08-2024/</link>
@@ -107,6 +102,11 @@ This week, Metasploit community member smashery</description>
       <title>New “CleverSoar” Installer Targets Chinese and Vietnamese Users</title>
       <link>https://www.rapid7.com/blog/post/2024/11/27/new-cleversoar-installer-targets-chinese-and-vietnamese-users/</link>
       <description>In early November, Rapid7 Labs identified a new, highly evasive malware installer, 'CleverSoar,' targeting Chinese and Vietnamese-speaking victims.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-up 11/29/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/29/metasploit-weekly-wrapup-11-29-2024/</link>
+      <description>Four new Metasploit modules released, including CUPS IPP Attributes LAN Remote Code Execution CVE-2024-47176</description>
     </item>
   </channel>
 </rss>
