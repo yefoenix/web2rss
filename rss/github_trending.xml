@@ -6,51 +6,16 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Nov 2024 01:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 01:53:54 +0000</lastBuildDate>
     <item>
-      <title>nestjs /nest</title>
-      <link>https://github.com/nestjs/nest</link>
-      <description>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀</description>
+      <title>QwenLM /Qwen</title>
+      <link>https://github.com/QwenLM/Qwen</link>
+      <description>The official repo of Qwen (通义千问) chat &amp; pretrained large language model proposed by Alibaba Cloud.</description>
     </item>
     <item>
-      <title>withastro /astro</title>
-      <link>https://github.com/withastro/astro</link>
-      <description>The web framework for content-driven websites. ⭐️ Star to support our work!</description>
-    </item>
-    <item>
-      <title>yamadashy /repomix</title>
-      <link>https://github.com/yamadashy/repomix</link>
-      <description>📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.</description>
-    </item>
-    <item>
-      <title>hashicorp /terraform</title>
-      <link>https://github.com/hashicorp/terraform</link>
-      <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
-    </item>
-    <item>
-      <title>cypress-io /cypress</title>
-      <link>https://github.com/cypress-io/cypress</link>
-      <description>Fast, easy and reliable testing for anything that runs in a browser.</description>
-    </item>
-    <item>
-      <title>typeorm /typeorm</title>
-      <link>https://github.com/typeorm/typeorm</link>
-      <description>ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</description>
-    </item>
-    <item>
-      <title>keephq /keep</title>
-      <link>https://github.com/keephq/keep</link>
-      <description>The open-source alert management and AIOps platform</description>
-    </item>
-    <item>
-      <title>comet-ml /opik</title>
-      <link>https://github.com/comet-ml/opik</link>
-      <description>Open-source end-to-end LLM Development Platform</description>
-    </item>
-    <item>
-      <title>krayin /laravel-crm</title>
-      <link>https://github.com/krayin/laravel-crm</link>
-      <description>Free &amp; Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.</description>
+      <title>songquanpeng /one-api</title>
+      <link>https://github.com/songquanpeng/one-api</link>
+      <description>OpenAI 接口管理 &amp; 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 &amp; Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management &amp; redistribution system, using a single API for all LLMs, and features an English UI.</description>
     </item>
     <item>
       <title>0x90n /InfoSec-Black-Friday</title>
@@ -58,34 +23,34 @@
       <description>All the deals for InfoSec related software/tools this Black Friday</description>
     </item>
     <item>
-      <title>n8n-io /n8n</title>
-      <link>https://github.com/n8n-io/n8n</link>
-      <description>Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.</description>
+      <title>MrOtherGuy /firefox-csshacks</title>
+      <link>https://github.com/MrOtherGuy/firefox-csshacks</link>
+      <description>Collection of userstyles affecting the browser</description>
     </item>
     <item>
-      <title>OpenInterpreter /open-interpreter</title>
-      <link>https://github.com/OpenInterpreter/open-interpreter</link>
-      <description>A natural language interface for computers</description>
+      <title>nestjs /nest</title>
+      <link>https://github.com/nestjs/nest</link>
+      <description>A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀</description>
     </item>
     <item>
-      <title>yangshun /tech-interview-handbook</title>
-      <link>https://github.com/yangshun/tech-interview-handbook</link>
-      <description>💯 Curated coding interview preparation materials for busy software engineers</description>
+      <title>4gray /iptvnator</title>
+      <link>https://github.com/4gray/iptvnator</link>
+      <description>📺 Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.</description>
     </item>
     <item>
-      <title>codecrafters-io /build-your-own-x</title>
-      <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description>Master programming by recreating your favorite technologies from scratch.</description>
+      <title>trungdq88 /Awesome-Black-Friday-Cyber-Monday</title>
+      <link>https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday</link>
+      <description>Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.</description>
     </item>
     <item>
-      <title>Alamofire /Alamofire</title>
-      <link>https://github.com/Alamofire/Alamofire</link>
-      <description>Elegant HTTP Networking in Swift</description>
+      <title>lobehub /lobe-chat</title>
+      <link>https://github.com/lobehub/lobe-chat</link>
+      <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.</description>
     </item>
     <item>
-      <title>SimonCropp /Delta</title>
-      <link>https://github.com/SimonCropp/Delta</link>
-      <description>An approach to implementing a 304 Not Modified leveraging SqlServer change tracking</description>
+      <title>opendatalab /MinerU</title>
+      <link>https://github.com/opendatalab/MinerU</link>
+      <description>A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。</description>
     </item>
     <item>
       <title>mtdvio /every-programmer-should-know</title>
@@ -93,9 +58,14 @@
       <description>A collection of (mostly) technical things every software developer should know about</description>
     </item>
     <item>
-      <title>skills /introduction-to-github</title>
-      <link>https://github.com/skills/introduction-to-github</link>
-      <description>Get started using GitHub in less than an hour.</description>
+      <title>QwenLM /Qwen2.5</title>
+      <link>https://github.com/QwenLM/Qwen2.5</link>
+      <description>Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.</description>
+    </item>
+    <item>
+      <title>codecrafters-io /build-your-own-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
     </item>
     <item>
       <title>hengyoush /kyanos</title>
@@ -103,9 +73,29 @@
       <description>Visualize the time packets spend in the kernel, watch &amp; analyze in command line.</description>
     </item>
     <item>
+      <title>unclecode /crawl4ai</title>
+      <link>https://github.com/unclecode/crawl4ai</link>
+      <description>🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.</description>
+    </item>
+    <item>
+      <title>didi /xiaoju-survey</title>
+      <link>https://github.com/didi/xiaoju-survey</link>
+      <description>XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.</description>
+    </item>
+    <item>
+      <title>keephq /keep</title>
+      <link>https://github.com/keephq/keep</link>
+      <description>The open-source alert management and AIOps platform</description>
+    </item>
+    <item>
       <title>andrewyng /aisuite</title>
       <link>https://github.com/andrewyng/aisuite</link>
       <description>Simple, unified interface to multiple Generative AI providers</description>
+    </item>
+    <item>
+      <title>myhhub /stock</title>
+      <link>https://github.com/myhhub/stock</link>
+      <description>stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。</description>
     </item>
   </channel>
 </rss>
