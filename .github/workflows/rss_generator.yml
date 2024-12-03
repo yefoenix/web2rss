@@ -38,7 +38,7 @@ jobs:
         python rss_generator.py  # 运行你的Python脚本
     - name: Download Microsoft Research Feed
       run: |
-        curl -o rss/MicrosoftResearch.xml https://www.microsoft.com/en-us/research/feed
+        curl -o rss/MicrosoftResearch.xml https://www.microsoft.com/en-us/research/feed/
     - name: Commit and push changes
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用GITHUB_TOKEN
