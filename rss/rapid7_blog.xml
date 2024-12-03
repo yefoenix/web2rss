@@ -6,36 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 01:39:03 +0000</lastBuildDate>
-    <item>
-      <title>20/20 Cybersecurity: Lessons Learned in 2024 and Strategies for a Stronger 2025</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/04/20-20-cybersecurity-lessons-learned-in-2024-and-strategies-for-a-stronger-2025/</link>
-      <description>With 2024 rapidly coming to a close, many of us here at Rapid7 are taking a step back, reflecting upon the successes and learnings of the last 12 months, and looking ahead to the challenges and opportunities we could jointly face in the year ahead.</description>
-    </item>
-    <item>
-      <title>Cathal O’Neill - Taking Command of Your Career in Tech</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/07/cathal-oneill-taking-command-of-your-career-in-tech/</link>
-      <description>Cathal O’Neill joined Rapid7 in 2023 as a Senior Engineering Manager, and he has since advanced to the role of Engineering Director.</description>
-    </item>
-    <item>
-      <title>Mind the Gap: How Surface Command Tackles Asset Visibility in Attack Surface Management</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/08/mind-the-gap-how-surface-command-tackles-asset-visibility-in-attack-surface-management/</link>
-      <description>By establishing visibility of the attack surface and implementing management processes to prioritize, validate, and mobilize responses, security teams can reduce exposures exploited by malicious threat actors.</description>
-    </item>
-    <item>
-      <title>Metasploit Wrap-Up: 11/08/2024</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/08/metasploit-wrap-up-11-08-2024/</link>
-      <description>RISC-V Support
-This release of Metasploit Framework has added exciting new features such as new
-payloads that target the RISC-V architecture. These payloads allow for the
-execution of commands on compromised hardware, allowing Metasploit Framework and
-Metasploit Payloads to be used in more environments.
-
-SMB To HTTP(S) Relay
-This new exploit worked on by Rapid7 contributors targets the ESC8
-vulnerability. This work is a part of the recent Kerberos and Active Directory
-efforts targeting multiple</description>
-    </item>
+    <lastBuildDate>Tue, 03 Dec 2024 01:42:53 +0000</lastBuildDate>
     <item>
       <title>LodaRAT: Established Malware, New Victim Patterns</title>
       <link>https://www.rapid7.com/blog/post/2024/11/12/lodarat-established-malware-new-victim-patterns/</link>
@@ -99,6 +70,34 @@ Palo Alto Expe</description>
       <title>A Bag of RATs: VenomRAT vs. AsyncRAT</title>
       <link>https://www.rapid7.com/blog/post/2024/11/21/a-bag-of-rats-venomrat-vs-asyncrat/</link>
       <description>Remote access tools (RATs) have long been a favorite tool for cyber attackers, since they enable remote control over compromised systems and facilitate data theft, espionage, and continuous monitoring of victims. Among the well-known RATs are VenomRAT and AsyncRAT.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 11/22/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/22/metasploit-weekly-wrap-up-11-22-2024/</link>
+      <description>JetBrains TeamCity Login Scanner
+Metasploit added a login scanner for the TeamCity application to enable users to
+check for weak credentials. TeamCity has been the subject of multiple ETR
+vulnerabilities
+ 
+and is a valuable target for attackers.
+
+Targeted DCSync added to Windows Secrets Dump
+This week, Metasploit community member smashery</description>
+    </item>
+    <item>
+      <title>New “CleverSoar” Installer Targets Chinese and Vietnamese Users</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/27/new-cleversoar-installer-targets-chinese-and-vietnamese-users/</link>
+      <description>In early November, Rapid7 Labs identified a new, highly evasive malware installer, 'CleverSoar,' targeting Chinese and Vietnamese-speaking victims.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-up 11/29/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/29/metasploit-weekly-wrapup-11-29-2024/</link>
+      <description>Four new Metasploit modules released, including CUPS IPP Attributes LAN Remote Code Execution CVE-2024-47176</description>
+    </item>
+    <item>
+      <title>Why Cybercriminals Are Not Necessarily Embracing AI</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/02/why-cybercriminals-are-not-necessarily-embracing-ai/</link>
+      <description>The rapid advancement of AI has offered powerful tools for malware detection, but it has also introduced new avenues for adversarial attacks.</description>
     </item>
   </channel>
 </rss>

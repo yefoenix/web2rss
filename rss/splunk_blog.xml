@@ -6,51 +6,51 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 01:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 01:42:46 +0000</lastBuildDate>
     <item>
-      <title>Life as a Software Engineer Intern at Splunk</title>
-      <link>https://www.splunk.com/en_us/blog/splunklife/life-as-a-software-engineer-intern-at-splunk.html</link>
-      <description>Discover life as a Splunk Software Engineer intern with Thomas Payton, Juanchi Flores, and Christina Liang.</description>
+      <title>How Aditya Builds Digital Resilience as a Software Engineer</title>
+      <link>https://www.splunk.com/en_us/blog/splunklife/how-aditya-builds-digital-resilience-as-a-software-engineer.html</link>
+      <description>Aditya Bhatia shares what he does in his day-to-day as a software development engineer on our Control Loop team and how he’s grown at Splunk.</description>
     </item>
     <item>
-      <title>What is Cloud Native Application Protection Platform: Everything You Need to Know</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-native-application-protection-platform-cnapp.html</link>
-      <description>Learn what the Cloud Native Application Protection Platform (CNAPP) is and how it works to secure cloud applications.</description>
+      <title>What is Spoofing? An Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/spoofing.html</link>
+      <description>Learn about spoofing: types like email, IP, DNS, and GPS spoofing, how attackers exploit them, and tips to protect yourself from these cyber threats.</description>
     </item>
     <item>
-      <title>Splunk Now Generally Available on Microsoft Azure</title>
-      <link>https://www.splunk.com/en_us/blog/partners/splunk-now-generally-available-on-microsoft-azure.html</link>
-      <description>Splunk arrives on Microsoft Azure, giving the vast majority of Fortune 2000 companies an easier way to enable enterprise-grade security and observability.</description>
+      <title>Observations from .conf Go: Why Every Business Needs Observability</title>
+      <link>https://www.splunk.com/en_us/blog/observability/observations-from-conf-go-why-every-business-needs-observability.html</link>
+      <description>Raen Lim, Splunk Group Vice President, explains why building robust digital resilience — supported by strong observability — is essential.</description>
     </item>
     <item>
-      <title>Recovery Point Objective (RPO) vs. Recovery Time Objective (RTO): What’s The Difference?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/rpo-vs-rto.html</link>
-      <description>For online services and products, availability is the name of the game. Learn what RPO and RTO mean for availability — and how to set them for your organization.</description>
+      <title>RSA Algorithm in Cryptography: Rivest Shamir Adleman Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/rsa-algorithm-cryptography.html</link>
+      <description>This article describes RSA algorithm, how it works, and its major applications in cryptography. It also explains the vulnerabilities of RSA.</description>
     </item>
     <item>
-      <title>AppSec Today: Application Security Requirements &amp; Guidelines To Know</title>
-      <link>https://www.splunk.com/en_us/blog/learn/application-security-requirements.html</link>
-      <description>Explore the essential aspects of application security: threats, requirements, and best practices. Learn how to safeguard your applications and data effectively.</description>
+      <title>Managing Splunk Add-Ons with UCC Framework</title>
+      <link>https://www.splunk.com/en_us/blog/customers/managing-splunk-add-ons-with-ucc-framework.html</link>
+      <description>The UCC framework is designed for Splunk users and developers who want to improve their add-on development process and management.</description>
     </item>
     <item>
-      <title>Splunk Enterprise Security 8.0: Customer Feedback</title>
-      <link>https://www.splunk.com/en_us/blog/security/splunk-enterprise-security-8-0-customer-feedback.html</link>
-      <description>Splunk Enterprise Security 8.0 delivers unified workflows, alert aggregation, and detection versioning to empower security teams, shaped by customer feedback.</description>
+      <title>What is Privilege Escalation? An Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/privilege-escalation.html</link>
+      <description>Learn about privilege escalation, a security exploit that elevates user access rights, its types, attack methods, risks, and best practices for prevention.</description>
     </item>
     <item>
-      <title>Paving the Way for Unified Cybersecurity: OCSF Joins the Linux Foundation with Splunk’s Support</title>
-      <link>https://www.splunk.com/en_us/blog/security/ocsf-joins-the-linux-foundation-with-splunk-support.html</link>
-      <description>Unified cybersecurity takes a step forward as OCSF joins the Linux Foundation, backed by Splunk’s support.</description>
+      <title>Security Staff Picks To Read This Month, Handpicked by Splunk Experts</title>
+      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-recent-articles.html</link>
+      <description>Every month, our Splunk staff of security experts share their favorite reads of the month — this way, you can follow the most interesting, news-worthy, and innovative stories coming from the wide world of cybersecurity.</description>
     </item>
     <item>
-      <title>Splunk’s Path Towards Achieving FedRAMP Moderate Authorization for Splunk Observability</title>
-      <link>https://www.splunk.com/en_us/blog/industries/splunks-path-towards-achieving-fedramp-moderate-authorization-for-splunk-observability.html</link>
-      <description>Splunk VP of Public Sector Bill Rowan shares how we plan on actively pursuing a FedRAMP Moderate authorized Splunk Observability Cloud offering.</description>
+      <title>Data Normalization Explained: An In-Depth Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/data-normalization.html</link>
+      <description>Data normalization is simply a way to reorganize clean data so it’s easier for users to work with and query. Learn more here.</description>
     </item>
     <item>
-      <title>Cracking Braodo Stealer: Analyzing Python Malware and Its Obfuscated Loader</title>
-      <link>https://www.splunk.com/en_us/blog/security/cracking-braodo-stealer-analyzing-python-malware-and-its-obfuscated-loader.html</link>
-      <description>The Splunk Threat Research Team break down Braodo Stealer's loader mechanisms, obfuscation strategies, and payload behavior.</description>
+      <title>Reflections from Cisco Partner Summit 2024: Building the Future as One</title>
+      <link>https://www.splunk.com/en_us/blog/partners/reflections-from-cisco-partner-summit-2024-building-the-future-as-one.html</link>
+      <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
