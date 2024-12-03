@@ -6,11 +6,11 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 01:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 01:42:53 +0000</lastBuildDate>
     <item>
-      <title>QwenLM /Qwen-Agent</title>
-      <link>https://github.com/QwenLM/Qwen-Agent</link>
-      <description>Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.</description>
+      <title>Koenkk /zigbee2mqtt</title>
+      <link>https://github.com/Koenkk/zigbee2mqtt</link>
+      <description>Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨</description>
     </item>
     <item>
       <title>kestra-io /kestra</title>
@@ -18,44 +18,14 @@
       <description>⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...</description>
     </item>
     <item>
-      <title>itzg /docker-minecraft-server</title>
-      <link>https://github.com/itzg/docker-minecraft-server</link>
-      <description>Docker image that provides a Minecraft Server that will automatically download selected version at startup</description>
+      <title>leptos-rs /leptos</title>
+      <link>https://github.com/leptos-rs/leptos</link>
+      <description>Build fast web applications with Rust.</description>
     </item>
     <item>
-      <title>bevyengine /bevy</title>
-      <link>https://github.com/bevyengine/bevy</link>
-      <description>A refreshingly simple data-driven game engine built in Rust</description>
-    </item>
-    <item>
-      <title>nezhahq /nezha</title>
-      <link>https://github.com/nezhahq/nezha</link>
-      <description>Self-hosted, lightweight server and website monitoring and O&amp;M tool</description>
-    </item>
-    <item>
-      <title>endless-sky /endless-sky</title>
-      <link>https://github.com/endless-sky/endless-sky</link>
-      <description>Space exploration, trading, and combat game.</description>
-    </item>
-    <item>
-      <title>ruanyf /weekly</title>
-      <link>https://github.com/ruanyf/weekly</link>
-      <description>科技爱好者周刊，每周五发布</description>
-    </item>
-    <item>
-      <title>rerun-io /rerun</title>
-      <link>https://github.com/rerun-io/rerun</link>
-      <description>Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.</description>
-    </item>
-    <item>
-      <title>521xueweihan /HelloGitHub</title>
-      <link>https://github.com/521xueweihan/HelloGitHub</link>
-      <description>分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</description>
-    </item>
-    <item>
-      <title>hengyoush /kyanos</title>
-      <link>https://github.com/hengyoush/kyanos</link>
-      <description>Visualize the time packets spend in the kernel, watch &amp; analyze in command line.</description>
+      <title>topjohnwu /Magisk</title>
+      <link>https://github.com/topjohnwu/Magisk</link>
+      <description>The Magic Mask for Android</description>
     </item>
     <item>
       <title>skills /introduction-to-github</title>
@@ -63,34 +33,19 @@
       <description>Get started using GitHub in less than an hour.</description>
     </item>
     <item>
-      <title>unclecode /crawl4ai</title>
-      <link>https://github.com/unclecode/crawl4ai</link>
-      <description>🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.</description>
+      <title>sdmg15 /Best-websites-a-programmer-should-visit</title>
+      <link>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
+      <description>🔗 Some useful websites for programmers.</description>
     </item>
     <item>
-      <title>epicweb-dev /epic-stack</title>
-      <link>https://github.com/epicweb-dev/epic-stack</link>
-      <description>This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.</description>
+      <title>521xueweihan /HelloGitHub</title>
+      <link>https://github.com/521xueweihan/HelloGitHub</link>
+      <description>分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.</description>
     </item>
     <item>
-      <title>4gray /iptvnator</title>
-      <link>https://github.com/4gray/iptvnator</link>
-      <description>📺 Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.</description>
-    </item>
-    <item>
-      <title>langflow-ai /langflow</title>
-      <link>https://github.com/langflow-ai/langflow</link>
-      <description>Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.</description>
-    </item>
-    <item>
-      <title>keephq /keep</title>
-      <link>https://github.com/keephq/keep</link>
-      <description>The open-source alert management and AIOps platform</description>
-    </item>
-    <item>
-      <title>opendatalab /MinerU</title>
-      <link>https://github.com/opendatalab/MinerU</link>
-      <description>A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。</description>
+      <title>anthropics /prompt-eng-interactive-tutorial</title>
+      <link>https://github.com/anthropics/prompt-eng-interactive-tutorial</link>
+      <description>Anthropic's Interactive Prompt Engineering Tutorial</description>
     </item>
     <item>
       <title>codecrafters-io /build-your-own-x</title>
@@ -98,19 +53,34 @@
       <description>Master programming by recreating your favorite technologies from scratch.</description>
     </item>
     <item>
+      <title>keephq /keep</title>
+      <link>https://github.com/keephq/keep</link>
+      <description>The open-source alert management and AIOps platform</description>
+    </item>
+    <item>
+      <title>4gray /iptvnator</title>
+      <link>https://github.com/4gray/iptvnator</link>
+      <description>📺 Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.</description>
+    </item>
+    <item>
       <title>Guovin /iptv-api</title>
       <link>https://github.com/Guovin/iptv-api</link>
       <description>📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
     </item>
     <item>
-      <title>andrewyng /aisuite</title>
-      <link>https://github.com/andrewyng/aisuite</link>
-      <description>Simple, unified interface to multiple Generative AI providers</description>
-    </item>
-    <item>
       <title>myhhub /stock</title>
       <link>https://github.com/myhhub/stock</link>
       <description>stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。</description>
+    </item>
+    <item>
+      <title>LadybirdBrowser /ladybird</title>
+      <link>https://github.com/LadybirdBrowser/ladybird</link>
+      <description>Truly independent web browser</description>
+    </item>
+    <item>
+      <title>lobehub /lobe-chat</title>
+      <link>https://github.com/lobehub/lobe-chat</link>
+      <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
     </item>
   </channel>
 </rss>

@@ -6,22 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 01:43:51 +0000</lastBuildDate>
-    <item>
-      <title>What is Continuous Improvement?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/continuous-improvement.html</link>
-      <description>Explore continuous improvement principles, Lean techniques like Agile, Scrum, and Kanban, and how IT leaders use them to enhance value and efficiency.</description>
-    </item>
-    <item>
-      <title>Configuration Management &amp; Configuration Items (CI) Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/configuration-management.html</link>
-      <description>Protect your systems and ensure stability with configuration management. Discover the benefits and implement an effective strategy for your business.</description>
-    </item>
-    <item>
-      <title>Splunk Security Content for Threat Detection &amp; Response: Q3 Roundup</title>
-      <link>https://www.splunk.com/en_us/blog/security/latest-splunk-security-content.html</link>
-      <description>Learn about the latest security content from Splunk.</description>
-    </item>
+    <lastBuildDate>Tue, 03 Dec 2024 01:42:46 +0000</lastBuildDate>
     <item>
       <title>How Aditya Builds Digital Resilience as a Software Engineer</title>
       <link>https://www.splunk.com/en_us/blog/splunklife/how-aditya-builds-digital-resilience-as-a-software-engineer.html</link>
@@ -51,6 +36,21 @@
       <title>What is Privilege Escalation? An Introduction</title>
       <link>https://www.splunk.com/en_us/blog/learn/privilege-escalation.html</link>
       <description>Learn about privilege escalation, a security exploit that elevates user access rights, its types, attack methods, risks, and best practices for prevention.</description>
+    </item>
+    <item>
+      <title>Security Staff Picks To Read This Month, Handpicked by Splunk Experts</title>
+      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-recent-articles.html</link>
+      <description>Every month, our Splunk staff of security experts share their favorite reads of the month — this way, you can follow the most interesting, news-worthy, and innovative stories coming from the wide world of cybersecurity.</description>
+    </item>
+    <item>
+      <title>Data Normalization Explained: An In-Depth Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/data-normalization.html</link>
+      <description>Data normalization is simply a way to reorganize clean data so it’s easier for users to work with and query. Learn more here.</description>
+    </item>
+    <item>
+      <title>Reflections from Cisco Partner Summit 2024: Building the Future as One</title>
+      <link>https://www.splunk.com/en_us/blog/partners/reflections-from-cisco-partner-summit-2024-building-the-future-as-one.html</link>
+      <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

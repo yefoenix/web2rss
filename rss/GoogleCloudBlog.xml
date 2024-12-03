@@ -6,17 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 01:44:10 +0000</lastBuildDate>
-    <item>
-      <title>What’s new with Google Cloud</title>
-      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
-      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
-    </item>
-    <item>
-      <title>New ways to protect your sensitive data with Chrome Enterprise</title>
-      <link>https://cloud.google.com/blog/products/chrome-enterprise/new-ways-to-protect-your-sensitive-data-with-chrome-enterprise</link>
-      <description>Chrome EnterpriseNew ways to protect your sensitive data with Chrome EnterpriseBy Niamh Cunningham • 5-minute read</description>
-    </item>
+    <lastBuildDate>Tue, 03 Dec 2024 01:43:07 +0000</lastBuildDate>
     <item>
       <title>Realizing AI's Full Potential where Workforce, Security, &amp; Collaboration Matter</title>
       <link>https://cloud.google.com/blog/topics/public-sector/realizing-ais-full-potential-where-workforce-security-collaboration-matter</link>
@@ -26,6 +16,11 @@
       <title>The overwhelmed person’s guide to Google Cloud: week of November 14</title>
       <link>https://cloud.google.com/blog/products/gcp/the-overwhelmed-persons-guide-to-google-cloud</link>
       <description>Google CloudThe overwhelmed person’s guide to Google Cloud: week of November 14By Richard Seroter • 5-minute read</description>
+    </item>
+    <item>
+      <title>Announcing new updates to Cloud Translation AI, now covering 189 languages</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/latest-updates-to-google-clouds-translation-ai</link>
+      <description>AI &amp; Machine LearningAnnouncing new updates to Cloud Translation AI, now covering 189 languagesBy Sarah Weldon • 5-minute read</description>
     </item>
     <item>
       <title>Build, deploy, and promote AI agents through Google Cloud’s AI agent ecosystem</title>
@@ -48,14 +43,19 @@
       <description>AI &amp; Machine LearningHow Commerzbank is transforming financial advisory workflows with gen AIBy Tolga Bastürk • 5-minute read</description>
     </item>
     <item>
-      <title>Create a self-escalating chatbot in Conversational Agents using Webhook and Generators</title>
-      <link>https://cloud.google.com/blog/topics/developers-practitioners/create-a-self-escalating-chatbot-in-conversational-agents</link>
-      <description>Developers &amp; PractitionersCreate a self-escalating chatbot in Conversational Agents using Webhook and GeneratorsBy Aniket Agrawal • 9-minute read</description>
+      <title>Securing AI: Advancing the national security mission</title>
+      <link>https://cloud.google.com/blog/topics/public-sector/securing-ai-advancing-the-national-security-mission</link>
+      <description>Public SectorSecuring AI: Advancing the national security missionBy Ron Bushar • 3-minute read</description>
     </item>
     <item>
-      <title>Celebrate Small Business Saturday with ChromeOS</title>
-      <link>https://cloud.google.com/blog/products/chrome-enterprise/celebrate-small-business-saturday-with-chromeos</link>
-      <description>Chrome EnterpriseCelebrate Small Business Saturday with ChromeOSBy Lawrence Lui • 4-minute read</description>
+      <title>What’s new with Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
+    </item>
+    <item>
+      <title>PayPal's Real-Time Revolution: Migrating to Google Cloud for Streaming Analytics</title>
+      <link>https://cloud.google.com/blog/products/data-analytics/paypals-dataflow-migration-real-time-streaming-analytics</link>
+      <description>Data AnalyticsPayPal's Real-Time Revolution: Migrating to Google Cloud for Streaming AnalyticsBy Varun Raju • 4-minute read</description>
     </item>
   </channel>
 </rss>

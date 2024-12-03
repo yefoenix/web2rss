@@ -6,21 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 01:43:56 +0000</lastBuildDate>
-    <item>
-      <title>Metasploit Wrap-Up: 11/08/2024</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/08/metasploit-wrap-up-11-08-2024/</link>
-      <description>RISC-V Support
-This release of Metasploit Framework has added exciting new features such as new
-payloads that target the RISC-V architecture. These payloads allow for the
-execution of commands on compromised hardware, allowing Metasploit Framework and
-Metasploit Payloads to be used in more environments.
-
-SMB To HTTP(S) Relay
-This new exploit worked on by Rapid7 contributors targets the ESC8
-vulnerability. This work is a part of the recent Kerberos and Active Directory
-efforts targeting multiple</description>
-    </item>
+    <lastBuildDate>Tue, 03 Dec 2024 01:42:53 +0000</lastBuildDate>
     <item>
       <title>LodaRAT: Established Malware, New Victim Patterns</title>
       <link>https://www.rapid7.com/blog/post/2024/11/12/lodarat-established-malware-new-victim-patterns/</link>
@@ -107,6 +93,11 @@ This week, Metasploit community member smashery</description>
       <title>Metasploit Weekly Wrap-up 11/29/2024</title>
       <link>https://www.rapid7.com/blog/post/2024/11/29/metasploit-weekly-wrapup-11-29-2024/</link>
       <description>Four new Metasploit modules released, including CUPS IPP Attributes LAN Remote Code Execution CVE-2024-47176</description>
+    </item>
+    <item>
+      <title>Why Cybercriminals Are Not Necessarily Embracing AI</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/02/why-cybercriminals-are-not-necessarily-embracing-ai/</link>
+      <description>The rapid advancement of AI has offered powerful tools for malware detection, but it has also introduced new avenues for adversarial attacks.</description>
     </item>
   </channel>
 </rss>
