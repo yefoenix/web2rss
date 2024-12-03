@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Dec 2024 10:51:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 10:58:24 +0000</lastBuildDate>
     <item>
       <title>LodaRAT: Established Malware, New Victim Patterns</title>
       <link>https://www.rapid7.com/blog/post/2024/11/12/lodarat-established-malware-new-victim-patterns/</link>
