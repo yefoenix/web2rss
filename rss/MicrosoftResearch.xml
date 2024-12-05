@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Tue, 03 Dec 2024 16:21:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Dec 2024 21:50:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,515 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
+		<title>Research Focus: Week of December 2, 2024</title>
+		<link>https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-2-2024/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 17:07:27 +0000</pubDate>
+				<category><![CDATA[Research Blog]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1106934</guid>
+
+					<description><![CDATA[<p>Can a new SOS-RMT protocol enable more efficient CL-MPC?; A fair-by-design, cloud-based algorithmic trading platform; LLM2CLIP unlocks richer visual representation; New technique enhances Low-Rank Adaptation’s expressiveness, generalization capabilities.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-2-2024/">Research Focus: Week of December 2, 2024</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-pullquote"><blockquote><p>Welcome to Research Focus, a series of blog posts that highlights notable publications, events, code/datasets, new hires and other milestones from across the research community at Microsoft.</p></blockquote></figure>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus: Week of December 2, 2024" class="wp-image-1106946" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading" id="heading">Adaptive Security, Erasures, and Network Assumptions in Communication-Local MPC</h2>
+
+
+
+<p>n-party Multi-Party Computation (MPC) is a cryptographic protocol technique that allows separate parties to securely compute a function on their joint data while keeping their inputs private. To build such a protocol, most works require all pairs of participating parties to be able to securely and reliably communicate with each other. Recently, the problem of Communication-Local (CL) MPC has been explored where this assumption is modelled more realistically – e.g. by only requiring that participating parties can securely and reliably communicate with a few other participating parties (as for example in networks like blockchains). However, few solutions exist that guarantee adaptive security—resilience to dynamic corruption of parties—and most rely on strong assumptions about party actions.</p>
+
+
+
+<p>In a recent paper: <a href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Adaptive Security, Erasures, and Network Assumptions in Communication-Local MPC</a>, researchers from Microsoft and external collaborators revisit assumptions made in earlier work. The authors conclude that for secure, adaptive CL-MPC, some previously assumed capabilities (like secure erasure and multisend) can be bypassed under certain conditions; however, fully reducing all-to-all to all-to-one communication remains unachievable in CL settings without some minimal assumptions. They propose a new SOS-RMT protocol, enabling more efficient CL-MPC under specific feasibility bounds and additional cryptographic assumptions.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--5a1354a586661a7fc2159203e17001eb"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Read the paper</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
+
+
+
+<h2 class="wp-block-heading" id="heading">Cuttlefish: A Fair, Predictable Execution Environment for Cloud-hosted Financial Exchanges</h2>
+
+
+
+<p>Low-latency algorithmic trading is driving efficiency in modern financial markets by promoting accurate/timely pricing of securities, higher liquidity, and lower trade costs for investors. The goal is to process incoming market data and issue trades as quickly as possible to take advantage of ephemeral market-making and arbitrage opportunities. Interest in cloud-hosted financial exchanges is growing, as they promise a cost-effective platform more accessible to market participants, among other benefits.</p>
+
+
+
+<p>Unfortunately, one of the major roadblocks in cloud environments is to ensure equal network and compute despite the unpredictable network latencies as well as non-deterministic computation times.</p>
+
+
+
+<p>In a recent preprint: <a href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/" target="_blank" rel="noreferrer noopener">Cuttlefish: A Fair, Predictable Execution Environment for Cloud-hosted Financial Exchanges</a>, researchers from Microsoft and external collaborators present a fair-by-design algorithmic trading platform that can run in cloud environments. Cuttlefish aims to apply efficient and robust mapping of real operations to a novel formulation of ‘virtual time’. This allows Cuttlefish to push fairness to the extreme, regardless of the underlying network communication and computation hardware. The researchers’ implementation and evaluation validate the practicality of Cuttlefish and shows its operational efficiency on public cloud platforms. This paper builds on previous work: <a href="https://www.microsoft.com/en-us/research/publication/rethinking-cloud-hosted-financial-exchanges-for-response-time-fairness/" target="_blank" rel="noreferrer noopener">Rethinking Cloud-hosted Financial Exchanges for Response Time Fairness</a> and <a href="https://www.microsoft.com/en-us/research/publication/dbo-fairness-for-cloud-hosted-financial-exchanges/" target="_blank" rel="noreferrer noopener">DBO: Fairness for Cloud-Hosted Financial Exchanges.</a> </p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--9489e6848018ac183fc4ad59830762c0"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/">Read the paper</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
+</div>
+
+
+
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085523">
+		
+
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
+	</p>
+	
+	<div class="row pt-3 pb-4 align-items-center">
+						<div class="msr-promo__media col-12 col-md-5">
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" aria-label="Abstracts: August 15, 2024" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Episode-15_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Stylized microphone and sound waves illustration." />
+				</a>
+			</div>
+			
+			<div class="msr-promo__content p-3 px-5 col-12 col-md">
+
+									<h2 class="h4">Abstracts: August 15, 2024</h2>
+				
+								<p class="large">Advanced AI may make it easier for bad actors to deceive others online. A multidisciplinary research team is exploring one solution: a credential that allows people to show they’re not bots without sharing identifying information. Shrey Jain and Zoë Hitzig explain.</p>
+				
+								<div class="wp-block-buttons justify-content-center justify-content-md-start">
+					<div class="wp-block-button">
+						<a href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
+							Listen now						</a>
+					</div>
+				</div>
+							</div><!--/.msr-promo__content-->
+	</div><!--/.msr-promo__inner-wrap-->
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
+	
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
+
+
+
+<h2 class="wp-block-heading" id="heading">LLM2CLIP: Powerful language model unlocks richer visual representation</h2>
+
+
+
+<p>CLIP is a prominent multimodal foundational model, aligning visual and textual signals into a shared feature space. It supports various tasks, including zero-shot classification, detection, segmentation, and cross-modal retrieval, significantly influencing the entire multimodal domain. As a feature extractor, it has become dominant in cross-modal representation tasks such as image understanding, video understanding, and text-to-image/video generation. However, rapid advancements in large language models (LLMs) are continually pushing the boundaries of language comprehension and generation. Can the capabilities of LLMs be harnessed to further improve multimodal representation learning?</p>
+
+
+
+<p>In a recent article: <a href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation</a>, researchers from Microsoft and external collaborators propose LLM2CLIP, a novel approach to unlock CLIP&#8217;s potential, focusing on fundamental optimizations of promising foundation models. By fine-tuning the LLM in the caption space with contrastive learning, they extract its textual capabilities into the output embeddings, significantly improving the output layer&#8217;s textual discriminability. The researchers then design a training process where the fine-tuned LLM acts as a powerful teacher for CLIP&#8217;s visual encoder. The LLM&#8217;s presence allows them to incorporate longer and more complex captions without being restricted by CLIP&#8217;s text encoder&#8217;s context window and ability limitations. Their experiments demonstrate that this approach brings substantial improvements in cross-modal tasks.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--58703dd03bb86980f23ae4521e24d883"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">Read the paper</a></div>
+
+
+
+<div class="wp-block-button is-style-outline is-style-outline--0503f5b8909bbbba9f9ef0c71d57a99d"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://aka.ms/llm2clip" target="_blank" rel="noreferrer noopener">Learn more about LLM2CLIP</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
+
+
+
+<h2 class="wp-block-heading" id="heading">LORASC: Expressive and Generalizable Low-rank Adaptation for Large Models via Slow Cascaded Learning</h2>
+
+
+
+<p>Foundation models, which are large-scale models pre-trained on extensive datasets and subsequently adapted for specific downstream tasks, have become integral to contemporary machine learning frameworks. Fine-tuning these models is essential, yet full parameter fine-tuning often encounters significant memory and computational bottlenecks. Parameter-efficient finetuning (PEFT) techniques aim to minimize the number of trainable parameters to reduce training costs and improve training stability. Among these techniques, Low-Rank Adaptation (LoRA) is highly efficient, although it has limitations in terms of expressiveness and generalization have been noted.</p>
+
+
+
+<p>In a recent paper: <a href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">LORASC: Expressive and Generalizable Low-rank Adaptation for Large Models via Slow Cascaded Learning</a>, researchers from Microsoft and external collaborators present an innovative technique designed to enhance LoRA’s expressiveness and generalization capabilities while preserving its training efficiency. Their cascaded learning strategy enables a mixture-of-low-rank adaptation, thereby increasing the model’s ability to capture complex patterns. They also introduce a slow-fast update mechanism and cascading noisy tuning to bolster generalization. Their extensive experiments on various language and vision datasets, as well as robustness benchmarks, show that the proposed method significantly outperforms existing baselines, while also mitigating overfitting, enhancing model stability, and improving out-of-distribution (OOD) robustness.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--de747bfefdbc89074e7b37f79208cb01"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">Read the paper</a></div>
+</div>
+</div>
+
+
+
+<div style="padding-bottom:64px; padding-top:64px" class="wp-block-msr-immersive-section alignfull row has-background has-lighter-gray-background-color has-text-color has-black-color wp-block-msr-immersive-section">
+	
+	<div class="container">
+		<div class="wp-block-msr-immersive-section__inner">
+			<div class="wp-block-msr-cards msr-cards msr-cards--default mt-4 has-text-align-left" data-bi-aN="microsoft-research-in-the-news">
+	<div class="msr-cards__inner">
+					<div class="heading-wrapper">
+				<h2 class="mb-5 ">Microsoft Research in the news</h2>
+			</div>
+		
+		<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3">
+	<div class="msr-cards__card msr-cards__card--default col">
+	<div class="card has-spectrum-border-top__hover material-card h-100 p-0" data-mount="click-group">
+
+		
+		<div class="card-body bg-white p-4 pt-3">
+							<h3 class="h5">
+					<a
+						class="text-decoration-none text-black"
+						data-bi-cN="Can AI spot the next bomb cyclone far in advance? Microsoft hopes so"
+						href="https://www.seattletimes.com/business/can-ai-spot-the-next-bomb-cyclone-far-in-advance-microsoft-hopes-so/"
+					>
+						<span>Can AI spot the next bomb cyclone far in advance? Microsoft hopes so</span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
+					</a>
+				</h3>
+										<div class="card__description">
+					<p>Seattle Times | November 23, 2024</p><p>Microsoft claims that Aurora, a deep-learning model that’s constantly being trained, can produce weather forecasts much faster than — and with accuracy that meets or exceeds — traditional forecasting models.</p>				</div>
+			
+					</div>
+	</div>
+</div>
+<div class="msr-cards__card msr-cards__card--default col">
+	<div class="card has-spectrum-border-top__hover material-card h-100 p-0" data-mount="click-group">
+
+		
+		<div class="card-body bg-white p-4 pt-3">
+							<h3 class="h5">
+					<a
+						class="text-decoration-none text-black"
+						data-bi-cN="How Microsoft's next-gen BitNet architecture is turbocharging LLM efficiency "
+						href="https://venturebeat.com/ai/how-microsofts-next-gen-bitnet-architecture-is-turbocharging-llm-efficiency/"
+					>
+						<span>How Microsoft's next-gen BitNet architecture is turbocharging LLM efficiency </span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
+					</a>
+				</h3>
+										<div class="card__description">
+					<p>VentureBeat | November 13, 2024</p><p>One-bit large language models (LLMs) have emerged as a promising approach to making generative AI more accessible and affordable. In a new paper, Microsoft researchers introduce Binet a4.8, a new technique that further improves the efficiency of one-bit LLMs without sacrificing their performance.</p>				</div>
+			
+					</div>
+	</div>
+</div>
+<div class="msr-cards__card msr-cards__card--default col">
+	<div class="card has-spectrum-border-top__hover material-card h-100 p-0" data-mount="click-group">
+
+		
+		<div class="card-body bg-white p-4 pt-3">
+							<h3 class="h5">
+					<a
+						class="text-decoration-none text-black"
+						data-bi-cN="2024 Ellison Cliffe Lecture: AI in science and medicine with Christopher Bishop"
+						href="https://www.youtube.com/watch?v=lB3K4pk5jN4"
+					>
+						<span>2024 Ellison Cliffe Lecture: AI in science and medicine with Christopher Bishop</span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
+					</a>
+				</h3>
+										<div class="card__description">
+					<p>Royal Society of Medicine | November 13, 2024</p><p>Christopher Bishop, Technical Fellow and Director of Microsoft Research AI for Science, discusses the extraordinary advances in the deep learning technology that underpins the AI revolution, including crucial progress in the fields of scientific discovery and medicine. This recent speech at the Royal Society of Medicine includes current examples of AI’s impact in materials design, drug discovery, and healthcare.</p>				</div>
+			
+					</div>
+	</div>
+</div>
+</div>
+
+					<div class="justify-content-center text-center mb-4">
+				<a
+					href="https://www.microsoft.com/en-us/research/news-and-awards/"
+					class="btn btn-outline-primary glyph-append glyph-append-small glyph-append-chevron-right msr-cards__cta"
+					data-bi-cN="View more news and awards"
+					data-bi-type="button"
+				>
+					View more news and awards				</a>
+			</div>
+			</div>
+</div>		</div>
+	</div>
+
+	</div>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-2-2024/">Research Focus: Week of December 2, 2024</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MarS: A unified financial market simulation engine in the era of generative foundation models</title>
+		<link>https://www.microsoft.com/en-us/research/blog/mars-a-unified-financial-market-simulation-engine-in-the-era-of-generative-foundation-models/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Wed, 04 Dec 2024 17:01:25 +0000</pubDate>
+				<category><![CDATA[Research Blog]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1106997</guid>
+
+					<description><![CDATA[<p>Microsoft Research presents a new large market model and Financial Market Simulation Engine (MarS) to help empower financial researchers with enhanced efficiency and more accurate insights for downstream tasks in financial markets.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/mars-a-unified-financial-market-simulation-engine-in-the-era-of-generative-foundation-models/">MarS: A unified financial market simulation engine in the era of generative foundation models</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1.jpg" alt="MarS illustration with document workflow and chatbot icons on a purple gradient background" class="wp-image-1107222" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<h2 class="wp-block-heading" id="introduction">Introduction</h2>
+
+
+
+<p>Generative foundation models have transformed various domains, creating new paradigms for content generation. Integrating these models with domain-specific data enables industry-specific applications. Microsoft Research has used this approach to develop the large market model (LMM) and the Financial Market Simulation Engine (MarS) for the financial domain. These innovations have the potential to empower financial researchers to customize generative models for diverse scenarios, establishing a new paradigm for applying generative models to downstream tasks in financial markets. This integration may provide enhanced efficiency, more accurate insights, and significant advancements in the financial domain.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="applying-generative-models-to-financial-markets">Applying generative models to financial markets</h3>
+
+
+
+<p>In recent years, generative foundation models have achieved notable success in fields like natural language processing and media generation. Their rise has sparked a new wave of research and industrial adoption, reshaping production processes across industries. These models excel due to three essential elements: a large volume of high-quality training data; effective tokenization and serialization of core information (such as semantic information in text); and an auto-regressive training approach that models data comprehensively, enabling implicit reasoning.&nbsp;</p>
+
+
+
+<p>Building on years of AI applications across industries, Microsoft researchers recognized that combining generative models with domain-specific data could lead to impactful solutions, particularly in finance. The financial market is a prime example, notably for its vast amount of order data, which are characterized by three key features:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Fine granularity</strong>: Orders, as the atomic data in the financial market, provide a comprehensive and detailed representation of the real market. Combined with matching rules, one can reproduce the entire market operation process.&nbsp;</li>
+
+
+
+<li><strong>Large scale</strong>: Electronic trading has resulted in the accumulation of massive trade-order data across global exchanges</li>
+
+
+
+<li><strong>Well-structured</strong>: The structured nature of order data makes it ideal for tokenization and sequential modeling</li>
+</ul>
+
+
+
+<div class="annotations " data-bi-aN="margin-callout">
+	<ul class="annotations__list card depth-16 bg-body p-4 annotations__list--right">
+		<li class="annotations__list-item">
+						<span class="annotations__type d-block text-uppercase font-weight-semibold text-neutral-300 small">Download</span>
+			<a href="https://github.com/microsoft/MarS" target="_self" class="annotations__link font-weight-semibold text-decoration-none" data-bi-type="annotated-link" aria-label="MarS" data-bi-aN="margin-callout" data-bi-cN="MarS">
+				MarS&nbsp;<span class="glyph-append glyph-append-share glyph-append-xsmall"></span>
+			</a>
+					</li>
+	</ul>
+</div>
+
+
+
+<p>These characteristics position order flow data as a critical foundation for generative modeling in financial markets. To this end, Microsoft Research developed the LMM and the MarS, which financial researchers can use to customize generative models for various applications, thus fostering a new paradigm of generative solutions for all downstream tasks in finance. This has the potential to advance efficiency and insight generation in the financial industry.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="850" height="278" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1.jpg" alt="Figure 1: Illustration of Stock Market and Orders. On the left, a document icon shows order details. An arrow points to the right where multiple icons (robots and human figures) interact with charts and graphs representing market data." class="wp-image-1107234" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1.jpg 850w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1-300x98.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1-768x251.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1-240x78.jpg 240w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Figure 1: Illustration of stock market and orders</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading" id="tokenization-of-order-flow-information">Tokenization of order flow information</h3>
+
+
+
+<p>Order flow data is vital for generative models in finance, reflecting real-time interactions among market participants. It offers two types of value:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Fine-grained market feedback</strong>: Each order, especially large ones, may influence others&#8217; decisions, providing a micro-level view of pricing behavior.&nbsp;</li>
+
+
+
+<li><strong>Macroscopic market dynamics</strong>: Collective interactions shape trading dynamics over time, capturing the evolution and resolution of conflicts between market forces.&nbsp;</li>
+</ul>
+
+
+
+<p>Researchers at Microsoft developed LMM by modeling both individual orders and entire order sets over time. This two-tiered approach captures both fine-grained feedback and macro-level dynamics of competition. Figure 2 shows the tokenization techniques for these models, enabling high-fidelity simulations of complex market dynamics.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="620" height="300" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-2.jpg" alt="Figure 2: Illustration of Tokenization for Individual Orders (Top) and Batch Orders (Bottom) . At the top left, a green document labeled 'Type Price Volume Interval' is connected by dotted lines to another document icon. To the right, a bar chart with red and green bars shows volume on the y-axis and numbers on the x-axis. Below, an arrow points from an 'Order Batch' section with three documents to three grids." class="wp-image-1107249" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-2.jpg 620w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-2-300x145.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-2-240x116.jpg 240w" sizes="(max-width: 620px) 100vw, 620px" /><figcaption class="wp-element-caption">Figure 2: Tokenization for individual orders (top) and batch orders (bottom)&nbsp;</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading" id="expansion-law-of-large-market-model-unlocking-the-potential-of-financial-data">Expansion law of large market model: Unlocking the potential of financial data&nbsp;</h3>
+
+
+
+<p>The effectiveness of generative models improves significantly with larger training datasets and model parameters. Researchers at Microsoft used two tokenization strategies to design models based on the Transformer architecture, testing them across varying data scales. Figure 3 illustrates the scaling behavior of both the order and order batch models, highlighting insights from historical trading data. This integration enhances the model&#8217;s ability to generate order flows with a deep understanding of market intricacies, enabling more accurate time-series modeling.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="850" height="303" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3.jpg" alt="Figure 3: Two line graphs comparing validation loss against the number of training tokens for different model sizes. The left graph, titled 'Order Model,' shows curves for model sizes ranging from 2M to 1.02B, with validation loss decreasing as the number of training tokens increases. The right graph, titled 'Order-Batch Model,' displays curves for model sizes ranging from 150M to 3B, also showing a decrease in validation loss with an increase in training tokens." class="wp-image-1107237" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3.jpg 850w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3-300x107.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3-768x274.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3-240x86.jpg 240w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Figure 3: Scaling curves of order and batch order models under different parameter sizes&nbsp;</figcaption></figure>
+
+
+
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044936">
+		
+
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
+	</p>
+	
+	<div class="row pt-3 pb-4 align-items-center">
+						<div class="msr-promo__media col-12 col-md-5">
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" aria-label="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/06/RF-Ep3-Recap-BlogHeroFeature-1400x788-1.jpg" alt="Microsoft Research Forum | Episode 3 | panel discussion" />
+				</a>
+			</div>
+			
+			<div class="msr-promo__content p-3 px-5 col-12 col-md">
+
+									<h2 class="h4">Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more</h2>
+				
+								<p class="large">In the latest episode of Microsoft Research Forum, researchers explored the importance of globally inclusive and equitable AI, shared updates on AutoGen and MatterGen, presented novel use cases for AI, including industrial applications and the potential of multimodal models to improve assistive technologies.</p>
+				
+								<div class="wp-block-buttons justify-content-center justify-content-md-start">
+					<div class="wp-block-button">
+						<a href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+							Read more						</a>
+					</div>
+				</div>
+							</div><!--/.msr-promo__content-->
+	</div><!--/.msr-promo__inner-wrap-->
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
+	
+
+
+<h2 class="wp-block-heading" id="mars-based-on-lmm">MarS based on LMM</h2>
+
+
+
+<h3 class="wp-block-heading" id="a-customizable-generative-model-for-financial-scenarios">A customizable generative model for financial scenarios</h3>
+
+
+
+<p>Generative models, once trained, can be easily adapted for a range of downstream tasks, often outperforming traditional models tailored for specific scenarios. Building on the development of LMM, researchers further analyzed the needs of various financial scenarios and designed MarS as a versatile financial market simulation engine. MarS not only serves as a general-purpose simulation tool but also introduces a novel framework for applying generative models across diverse financial tasks, from market prediction and risk assessment to trading strategy optimization.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4.png" alt="Figure 4: Diagram of the MarS framework showing data flow and interactions between components like the current market & environment data, order-level historical market data, large marke model, generated order sequences, simulated market trajectories, and applications." class="wp-image-1107231" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4.png 1280w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-960x540.png 960w" sizes="(max-width: 1280px) 100vw, 1280px" /><figcaption class="wp-element-caption">Figure 4: Framework of MarS</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading" id="constructing-a-unified-paradigm-for-prediction-and-detection-tasks">Constructing a unified paradigm for prediction and detection tasks&nbsp;</h3>
+
+
+
+<p>Traditional financial prediction solutions often require the development of specialized algorithms, which must be frequently adjusted, consuming time and resources. LMM’s capacity to model financial markets in depth allows for periodic updates based on the latest data. MarS creates a virtual exchange to match order flows generated by LMM, simulating trades and deriving simulated market trajectories (see the top right of Figure 4). This approach can effectively address common prediction and detection tasks in financial scenarios, introducing innovative solutions within the generative model framework.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="applications-in-prediction-tasks">Applications in prediction tasks</h3>
+
+
+
+<p>Prediction tasks, vital in finance, involve estimating future market metrics. Traditional models require modifications with any change in prediction targets. MarS addresses this by continuously generating future order flows from recent data, which are matched in a virtual exchange, allowing for the simulation of potential future market trajectories. This provides a significant advancement in forecasting capabilities.</p>
+
+
+
+<p>Figure 5 demonstrates the use of MarS in forecasting stock-price movements, where its performance significantly outperforms traditional benchmark algorithms. Taking the Order Model (1.02B) for instance, its performance exceeds that of DeepLOB by approximately (0.662/0.583−1=13.5%) at a 1-minute horizon and increases to (0.579/0.473−1=22.4%) at a 5-minute horizon This widening performance gap suggests that the Order Model maintains its predictive accuracy more effectively over longer horizons, highlighting its superior generalization capability compared to baseline, especially as the prediction task becomes more challenging over extended timeframes. This provides an attractive solution for prediction tasks in financial markets, while also highlighting LMM’s capability in modeling stock market dynamics.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="438" height="300" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-5.jpg" alt="Figure 5: Line graph comparing prediction accuracy over time for three models: DeepLOB, Order Model (0.22B), and Order Model (1.02B). Prediction accuracy decreases as time increases from 1 to 5 minutes, with DeepLOB showing the lowest accuracy and Order Model (1.02B) showing the highest." class="wp-image-1107240" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-5.jpg 438w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-5-300x205.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-5-240x164.jpg 240w" sizes="(max-width: 438px) 100vw, 438px" /><figcaption class="wp-element-caption">Figure 5: Predicting stock price trends with MarS</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading" id="applications-in-detection-tasks">Applications in detection tasks</h3>
+
+
+
+<p>For regulators, detecting systemic risks or market abuse is critical for market stability. LMM models typical market patterns, enabling the identification of anomalies by comparing real market trajectories with those generated by MarS. Figure 6 shows the differences in the spread distribution (i.e., the difference between the best buy and sell prices, which reflects asset liquidity) between simulated and real market trajectories during a confirmed malicious market manipulation incident. This comparison can uncover subtle deviations indicative of unusual activities, offering regulators effective tools for monitoring market integrity.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="850" height="263" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6.jpg" alt="Figure 6: Three bar graphs comparing the distribution similarity of data across three different periods: pre-manipulation, manipulation period, and post-manipulation. Each graph shows the probability distribution for 2 types of data: Replay and Simulation. The distribution similarity scores are 0.870 for pre-manipulation, 0.835 for the manipulation period, and 0.873 for post-manipulation." class="wp-image-1107243" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6.jpg 850w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6-300x93.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6-768x238.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6-240x74.jpg 240w" sizes="(max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Figure 6: Spread correlation between simulated and real market during market manipulation&nbsp;</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading" id="defining-new-fintech-scenarios">Defining new FinTech scenarios&nbsp;</h3>
+
+
+
+<p>Generative models can create tailored content from simple descriptions. In MarS, a mechanism generates specific order flows from natural language descriptions of market conditions. To address extreme conditions, researchers developed a control signal system using a hierarchical diffusion model to generate high-fidelity signals during rare events, such as stock market crashes and circuit breakers. This capability transforms broad descriptions into precise order flow controls.&nbsp;</p>
+
+
+
+<p>By integrating controlled order generation with real-time feedback, MarS creates a unified framework for prediction and detection tasks, redefining financial research, applications, and market understanding. Key applications include &#8220;What If&#8221; analyses and training environments for reinforcement learning algorithms in realistic market conditions.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="what-if-analysis-for-financial-research">“What If” analysis for financial research</h3>
+
+
+
+<p>The question &#8220;What would happen if different sizes of trading orders were executed under different market conditions?&#8221; is crucial for understanding market behavior. Traditional methods, relying on real orders, experience, and assumptions, are costly and slow. Generative models provide a breakthrough solution.</p>
+
+
+
+<p>Figure 7 illustrates how MarS can simulate market impact: the top left shows how buy orders affect asset price trajectories, while the top right presents market impact curves of different strategies, matching traditional patterns. Researchers also used MarS to generate large-scale simulated data, constructing a market impact model using ordinary differential equations (ODE). The bottom left of Figure 7) shows the derived impact formula, and the bottom right demonstrates its interpretability. These advancements highlight MarS&#8217;s potential to enhance “What If” research through deep market modeling.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="514" height="450" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-7.jpg" alt="Figure 7: Composite image of four graphs related to sample research results for market impact of orders Using MarS. The top left graph shows mid-price over time with two lines representing simulation and replay actions. The top right graph displays market impact for different agent types over time. The bottom left graph illustrates the auto-correlation of market impact decay for learned ODE, base ODE, and synthetic Seq. The bottom right heatmap shows interaction weights of the learned ODE with various features on the x-axis and log-transformed time on the y-axis." class="wp-image-1107246" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-7.jpg 514w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-7-300x263.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-7-206x180.jpg 206w" sizes="(max-width: 514px) 100vw, 514px" /><figcaption class="wp-element-caption">Figure 7: Sample research results for market impact of orders using MarS&nbsp;</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading" id="training-environments-for-reinforcement-learning-in-financial-markets">Training environments for reinforcement learning in financial markets</h3>
+
+
+
+<p>Reinforcement learning (RL) algorithms require controlled environments for testing and optimization. Financial market behaviors often manifest through order flow changes, impacting the market. If the simulation cannot reflect these impacts accurately, an RL algorithm may fail in real-world scenarios.</p>
+
+
+
+<p>MarS provides high-fidelity generation and real-time feedback, creating a comprehensive environment for RL in finance. Figure 8 shows the training process of trading agents, highlighting significant improvements in performance over time and demonstrating MarS&#8217;s effectiveness as an RL training ground.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="436" height="320" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8.jpg" alt="Figure 8: Line graph titled 'Price Advantage' on the y-axis and 'Step' on the x-axis. The graph shows an upward trend as the steps increase." class="wp-image-1107228" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8.jpg 436w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8-300x220.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8-80x60.jpg 80w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8-240x176.jpg 240w" sizes="(max-width: 436px) 100vw, 436px" /><figcaption class="wp-element-caption">Figure 8: Performance of reinforcement learning trading agents trained in MarS. During training, the agent&#8217;s performance improved significantly, showcasing MarS&#8217;s ability to aid in developing robust reinforcement learning algorithms for real market conditions.&nbsp;</figcaption></figure>
+
+
+
+<p><em><strong>Disclaimer</strong>: The research mentioned in this article, conducted by Microsoft Research, focuses on scientific exploration, aiming to advance knowledge and provide theoretical and technological support for research and applications in the financial field. All studies adhere to Microsoft&#8217;s responsible AI guidelines, ensuring principles such as fairness, inclusiveness, reliability and safety, transparency, privacy, and accountability are maintained. The technologies and methods discussed are still under research and development, not yet forming any commercial products or services, nor constituting any financial solutions. Readers are advised to consult certified financial professionals before making any financial decisions.&nbsp;</em></p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/mars-a-unified-financial-market-simulation-engine-in-the-era-of-generative-foundation-models/">MarS: A unified financial market simulation engine in the era of generative foundation models</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Advances in run-time strategies for next-generation foundation models</title>
 		<link>https://www.microsoft.com/en-us/research/blog/advances-in-run-time-strategies-for-next-generation-foundation-models/</link>
 		
@@ -32,7 +541,7 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/blog/advances-in-run-time-strategies-for-next-generation-foundation-models/">Advances in run-time strategies for next-generation foundation models</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1.png" alt="A visual illustration of Medprompt performance on the MedQA benchmark. Moving from left to right on a horizontal line, the illustration shows how different Medprompt components and additive contributions improve accuracy starting with zero-shot at 81.7 accuracy, to random few-shot at 83.9 accuracy, to random few-shot, chain-of-thought at 87.3 accuracy, to kNN, few-shot, chain-of-thought at 88.4 accuracy, to ensemble with choice shuffle at 90.2 accuracy. " class="wp-image-1106865" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1.png" alt="A visual illustration of Medprompt performance on the MedQA benchmark. Moving from left to right on a horizontal line, the illustration shows how different Medprompt components and additive contributions improve accuracy starting with zero-shot at 81.7 accuracy, to random few-shot at 83.9 accuracy, to random few-shot, chain-of-thought at 87.3 accuracy, to kNN, few-shot, chain-of-thought at 88.4 accuracy, to ensemble with choice shuffle at 90.2 accuracy. " class="wp-image-1106865" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 
@@ -40,7 +549,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1.jpg" alt="A line chart that plots the MedQA test accuracy (y-axis) over time (x-axis).  
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1.jpg" alt="A line chart that plots the MedQA test accuracy (y-axis) over time (x-axis).  
 
 Open AI o1-preview model achieves the highest result at 96.0% accuracy followed by Med-Gemini at 91.1%; GPT-4 (Medprompt) at 90.2%; Med PaLM 2 at 86.5; GPT-4 base at 86.1; Med PaLM at 67.2; GPT-3.5 base at 60.2, BioMedLM at 50.3; DRAGON at 47.5; BioLinkBERT at 45.1; PubMedBERT at 38.1.  " class="wp-image-1107318" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 1. Comparative analyses of performance of multiple models on MedQA.</figcaption></figure>
 
@@ -50,7 +559,7 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1.jpg" alt="A spider web chart plotting the performance of OpenAI o1-preview (0 shot ensemble) compared to GPT-4 (Medprompt) and GPT-4 (5 shot) model performance on medical challenge problems. o1-preview achieves state-of-the-art results on MedQA US (4-option), JMLE-2024, MedMCQA Dev, MMLU Anatomy, MMLU Medical Genetics, MMLU Professional Medicine, MMLU College Biology, and MMLU College Medicine, and NCLEX. GPT-4 (Medprompt) performed better than OpenAI o1-preview (0 shot ensemble) on MMLU Clinical Knowledge" class="wp-image-1107330" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 2. Comparisons on a wide range of medical challenge benchmarks.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1.jpg" alt="A spider web chart plotting the performance of OpenAI o1-preview (0 shot ensemble) compared to GPT-4 (Medprompt) and GPT-4 (5 shot) model performance on medical challenge problems. o1-preview achieves state-of-the-art results on MedQA US (4-option), JMLE-2024, MedMCQA Dev, MMLU Anatomy, MMLU Medical Genetics, MMLU Professional Medicine, MMLU College Biology, and MMLU College Medicine, and NCLEX. GPT-4 (Medprompt) performed better than OpenAI o1-preview (0 shot ensemble) on MMLU Clinical Knowledge" class="wp-image-1107330" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 2. Comparisons on a wide range of medical challenge benchmarks.</figcaption></figure>
 
 
 
@@ -96,30 +605,27 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085523">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1061244">
 		
 
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
-	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" aria-label="Abstracts: August 15, 2024" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Episode-15_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Stylized microphone and sound waves illustration." />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/about-microsoft-research/" aria-label="About Microsoft Research" data-bi-cN="About Microsoft Research" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/07/About-page-promo_1066x600.jpg" alt="" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Abstracts: August 15, 2024</h2>
+									<h2 class="h4">About Microsoft Research</h2>
 				
-								<p class="large">Advanced AI may make it easier for bad actors to deceive others online. A multidisciplinary research team is exploring one solution: a credential that allows people to show they’re not bots without sharing identifying information. Shrey Jain and Zoë Hitzig explain.</p>
+								<p class="large">Advancing science and technology to benefit humanity</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-							Listen now						</a>
+						<a href="https://www.microsoft.com/en-us/research/about-microsoft-research/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="View our story" data-bi-cN="About Microsoft Research" target="_blank">
+							View our story						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1188,30 +1694,30 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085526">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="670821">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Microsoft research newsletter</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/whats-your-story-lex-story/" aria-label="What’s Your Story: Lex Story" data-bi-cN="What’s Your Story: Lex Story" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Lex-Story_WYS_Hero_Feature_1400x788.jpg" alt="photo of Lex Story for the What's Your Story episode of the Microsoft Research podcast" />
+				<a class="bg-gray-300" href="https://info.microsoft.com/ww-landing-microsoft-research-newsletter.html" aria-label="Microsoft Research Newsletter" data-bi-cN="Microsoft Research Newsletter" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Newsletter_Banner_08_2019_v1_1920x1080.png" alt="" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">What’s Your Story: Lex Story</h2>
+									<h2 class="h4">Microsoft Research Newsletter</h2>
 				
-								<p class="large">Model maker and fabricator Lex Story helps bring research to life through prototyping. He discusses his take on failure; the encouragement and advice that has supported his pursuit of art and science; and the sabbatical that might inspire his next career move.</p>
+								<p class="large">Stay connected to the research community at Microsoft.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/podcast/whats-your-story-lex-story/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="What’s Your Story: Lex Story" target="_blank">
-							Listen now						</a>
+					<div class="wp-block-button is-style-fill-chevron">
+						<a href="https://info.microsoft.com/ww-landing-microsoft-research-newsletter.html" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Microsoft Research Newsletter" data-bi-cN="Microsoft Research Newsletter" target="_blank">
+							Subscribe today						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1358,29 +1864,29 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085496">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085514">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Blog post</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: blog post</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/eureka-evaluating-and-understanding-progress-in-ai/" aria-label="Eureka: Evaluating and understanding progress in AI" data-bi-cN="Eureka: Evaluating and understanding progress in AI" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/NEWEureka-2024-BlogHeroFeature-1400x788-1-66e90c195464d.jpg" alt="White icons representing the Eureka Experiment Pipeline -- PromptProcessing, Inference, PromptProcessing, Inference, DataProcessing, EvalReporting -- on blue to green gradient background." />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/graphrag-auto-tuning-provides-rapid-adaptation-to-new-domains/" aria-label="GraphRAG auto-tuning provides rapid adaptation to new domains" data-bi-cN="GraphRAG auto-tuning provides rapid adaptation to new domains" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/GraphRag-3-BlogHeroFeature-1400x788-1.png" alt="GraphRAG image on blue to green gradient" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Eureka: Evaluating and understanding progress in AI</h2>
+									<h2 class="h4">GraphRAG auto-tuning provides rapid adaptation to new domains</h2>
 				
-								<p class="large">How can we rigorously evaluate and understand state-of-the-art progress in AI? Eureka is an open-source framework for standardizing evaluations of large foundation models, beyond single-score reporting and rankings. Learn more about the extended findings. </p>
+								<p class="large">GraphRAG uses LLM-generated knowledge graphs to substantially improve complex Q&A over retrieval-augmented generation (RAG). Discover automatic tuning of GraphRAG for new datasets, making it more accurate and relevant.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/eureka-evaluating-and-understanding-progress-in-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Eureka: Evaluating and understanding progress in AI" target="_blank">
+						<a href="https://www.microsoft.com/en-us/research/blog/graphrag-auto-tuning-provides-rapid-adaptation-to-new-domains/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="GraphRAG auto-tuning provides rapid adaptation to new domains" target="_blank">
 							Read more						</a>
 					</div>
 				</div>
@@ -1658,27 +2164,30 @@ The COVID-19 pandemic has had a profound impact on vaccination rates. Efforts to
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1061244">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085502">
 		
 
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Blog post</span>
+	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/about-microsoft-research/" aria-label="About Microsoft Research" data-bi-cN="About Microsoft Research" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/07/About-page-promo_1066x600.jpg" alt="" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-september-9-2024/" aria-label="Research Focus: Week of September 9, 2024" data-bi-cN="Research Focus: Week of September 9, 2024" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/RF49-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus | September 9, 2024" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">About Microsoft Research</h2>
+									<h2 class="h4">Research Focus: Week of September 9, 2024</h2>
 				
-								<p class="large">Advancing science and technology to benefit humanity</p>
+								<p class="large">Investigating vulnerabilities in LLMs; A novel total-duration-aware (TDA) duration model for text-to-speech (TTS); Generative expert metric system through iterative prompt priming; Integrity protection in 5G fronthaul networks.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/about-microsoft-research/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="View our story" data-bi-cN="About Microsoft Research" target="_blank">
-							View our story						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-september-9-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Research Focus: Week of September 9, 2024" target="_blank">
+							Read more						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1697,362 +2206,6 @@ The COVID-19 pandemic has had a profound impact on vaccination rates. Efforts to
 
 <p><a href="https://www.microsoft.com/en-us/research/people/armitra/" target="_blank" rel="noreferrer noopener">Arindam Mitra</a>, Luciano Del Corro, <a href="https://www.microsoft.com/en-us/research/people/zheng/" target="_blank" rel="noreferrer noopener">Guoqing Zheng</a>, <a href="https://www.microsoft.com/en-us/research/people/shmahaj/" target="_blank" rel="noreferrer noopener">Shweti Mahajan</a>, <a href="https://www.microsoft.com/en-us/research/people/danyr/" target="_blank" rel="noreferrer noopener">Dany Rouhana</a>, <a href="https://www.microsoft.com/en-us/research/people/andrescodas/" target="_blank" rel="noreferrer noopener">Andres Codas</a>, Yadong Lu, Wei-ge Chen, <a href="https://www.microsoft.com/en-us/research/people/olvrousg/" target="_blank" rel="noreferrer noopener">Olga Vrousgou</a>, <a href="https://www.microsoft.com/en-us/research/people/corbyrosset/" target="_blank" rel="noreferrer noopener">Corby Rosset</a>, Fillipe Silva, <a href="https://www.microsoft.com/en-us/research/people/hakhanpo/" target="_blank" rel="noreferrer noopener">Hamed Khanpour</a>, <a href="https://www.microsoft.com/en-us/research/people/yashlara/" target="_blank" rel="noreferrer noopener">Yash Lara</a>, and <a href="https://www.microsoft.com/en-us/research/people/hassanam/" target="_blank" rel="noreferrer noopener">Ahmed Awadallah</a></p>
 <span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/orca-agentinstruct-agentic-flows-can-be-effective-synthetic-data-generators/">Orca-AgentInstruct: Agentic flows can be effective synthetic-data generators</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Abstracts: November 14, 2024</title>
-		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-november-14-2024/</link>
-		
-		<dc:creator><![CDATA[Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)]]></dc:creator>
-		<pubDate>Thu, 14 Nov 2024 15:00:00 +0000</pubDate>
-				<category><![CDATA[Microsoft Research Podcast]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1101918</guid>
-
-					<description><![CDATA[<p>The efficient simulation of molecules has the potential to change how the world understands biological systems and designs new drugs and biomaterials. Tong Wang discusses AI2BMD, an AI-based system designed to simulate large biomolecules with speed and accuracy.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-november-14-2024/">Abstracts: November 14, 2024</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Outlined illustrations of Tong Wang and Bonnie Kruft for the Microsoft Research Podcast, Abstracts series." class="wp-image-1102266" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Tong-and-Bonnie_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-<div class="wp-block-msr-podcast-container my-4">
-	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=138404501&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
-</div>
-
-
-
-<p>Members of the research community at Microsoft work continuously to advance their respective fields. <em>Abstracts</em> brings its audience to the cutting edge with them through short, compelling conversations about new and noteworthy achievements.</p>
-
-
-
-<p>In this episode, Microsoft Senior Researcher <a href="https://www.microsoft.com/en-us/research/people/watong/">Tong Wang</a> joins guest host <a href="https://www.microsoft.com/en-us/research/people/bonniekruft/?msockid=35739e94ab6c69d41b738b93aa076831">Bonnie Kruft</a>, partner and deputy director of Microsoft Research AI for Science, to discuss <a href="https://www.microsoft.com/en-us/research/publication/ab-initio-characterization-of-protein-molecular-dynamics-with-ai2bmd/">“Ab initio characterization of protein molecular dynamics with AI<sup>2</sup>BMD.”</a> In the paper, which was published by the scientific journal <em>Nature</em>, Wang and his coauthors detail a system that leverages AI to advance the state of the art in simulating the behavior of large biomolecules. AI<sup>2</sup>BMD, which is generalizable across a wide range of proteins, has the potential to advance solutions to scientific problems and enhance biomedical research in drug discovery, protein design, and enzyme engineering.</p>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/ab-initio-characterization-of-protein-molecular-dynamics-with-ai2bmd/">Read the paper</a></div>
-
-
-
-<div class="wp-block-button is-style-fill-github"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://github.com/microsoft/AI2BMD" target="_blank" rel="noreferrer noopener">Get the code</a></div>
-</div>
-
-
-<div class="wp-block-msr-show-more">
-	<div class="bg-neutral-100 p-5">
-		<div class="show-more-show-less" data-mount="show-more-show-less">
-			<div>
-				<span>
-					
-
-<h2 class="wp-block-heading" id="transcript-1">Transcript</h2>
-
-
-
-<p>[MUSIC]</p>
-
-
-
-<p><strong>BONNIE KRUFT: </strong>Welcome to <em>Abstracts</em>, a Microsoft Research Podcast that puts the spotlight on world-class research in brief. In this series, members of the research community at Microsoft give us a quick snapshot—or a <em>podcast abstract</em>—of their new and noteworthy papers.</p>
-
-
-
-<p>[MUSIC FADES]&nbsp;</p>
-
-
-
-<p>I’m Bonnie Kruft, partner and deputy director of Microsoft Research AI for Science and your host for today. Joining me is Tong Wang, a senior researcher at Microsoft. Tong is the lead author of a paper called “Ab initio characterization of protein molecular dynamics with AI<sup>2</sup>BMD,” which has just been published by the top scientific journal <em>Nature</em>. Tong, thanks so much for joining us today on <em>Abstracts</em>!</p>
-
-
-
-				</span>
-				<span id="show-more-show-less-toggle-2" class="show-more-show-less-toggleable-content">
-					
-
-
-
-<p><strong>TONG WANG: </strong>Thank you, Bonnie.</p>
-
-
-
-<p><strong>KRUFT: </strong>Microsoft Research is one of the earliest institutions to apply AI in biomolecular simulation research. Why did the AI for Science team choose this direction, and—with this work specifically, AI<sup>2</sup>BMD—what problem are you and your coauthors addressing, and why should people know about it?</p>
-
-
-
-<p><strong>WANG: </strong>So as Richard Feynman famously said, “Everything that living things do can be understood in terms of the <em>jigglings</em> and the <em>wigglings</em> of atoms.” To study the mechanisms behind the biological processes and to develop biomaterials and drugs requires a computational approach that can accurately characterize the dynamic motions of biomolecules. When we review the computational research for biomolecular structure, we can get two key messages. First, in recent years, predicting the crystal, or <em>static</em>, protein structures with methods powered by AI has achieved great success and just won the Nobel Prize in Chemistry in the last month. However, characterizing the dynamic structures of proteins is more meaningful for biology, drug, and medicine fields but is much more challenging. Second, molecular dynamics simulation, or <em>MD</em>, is one of the most widely used approaches to study protein dynamics, which can be roughly divided into classical molecular dynamics simulation and quantum molecular dynamics simulation. Both approaches have been developed for more than a half century and won Nobel Prize. Classical MD is fast but less accurate, while quantum MD is very accurate but computationally prohibitive for the protein study. However, we need both the accuracy and the efficiency to detect the biomechanisms. Thus, applying AI in biomolecular simulation can become the third way to achieve both ab initio—or <em>first principles</em>—accuracy and high efficiency. In the winter of 2020, we have foreseen the trend that AI can make a difference in biomolecular simulations. Thus, we chose this direction.</p>
-
-
-
-<p><strong>KRUFT:</strong> It took four years from the idea to the launch of AI<sup>2</sup>BMD, and there were many important milestones along the way. First, talk about how your work builds on and/or differs from what’s been done previously in this field, and then give our audience a sense of the key moments and challenges along the AI<sup>2</sup>BMD research journey.</p>
-
-
-
-<p><strong>WANG: </strong>First, I’d like to say applying AI in biomolecular simulation is a novel research field. For AI-powered MD simulation for large biomolecules, there is no existing dataset, no well-designed machine learning model for the interactions between the atoms and the molecules, no clear technical roadmap, no mature AI-based simulation system. So we face various new challenges every day. Second, there are some other works exploring this area at the same time. I think a significant difference between AI<sup>2</sup>BMD and other works is that other works require to generate new data and train the deep learning models for any new proteins. So it takes a protein-specific solution. As a contrast, AI<sup>2</sup>BMD proposes a generalizable solution for a wide range of proteins. To achieve it, as you mentioned, there are some key milestones during the four-year journey. The first one is we proposed the generalizable protein fragmentation approach that divides proteins into the commonly used 20 kinds of dipeptides. Thus, we don’t need to generate data for various proteins. Instead, we only need to sample the conformational space of such dipeptides. So we built the protein unit dataset that contains about 20 million samples with ab initio accuracy. Then we proposed ViSNet, the graph neural network for molecular geometry modeling as the machine learning potential for AI<sup>2</sup>BMD. Furthermore, we designed AI<sup>2</sup>BMD simulation system by efficiently leveraging CPUs and GPUs at the same time, achieving hundreds of times simulation speed acceleration than one year before and accelerating the AI-driven simulation with only ten to a hundred millisecond per simulation step. Finally, we examined AI<sup>2</sup>BMD on energy, force, free energy, J coupling, and many kinds of property calculations for tens of proteins and also applied AI<sup>2</sup>BMD in the drug development competition. All things are done by the great team with science and engineering expertise and the great leadership and support from AI for Science lab.</p>
-
-
-
-<p><strong>KRUFT: </strong>Tell us about how you conducted this research. What was your methodology?</p>
-
-
-
-<p><strong>WANG: </strong>As exploring an interdisciplinary research topic, our team consists of experts and students with biology, chemistry, physics, math, computer science, and engineering backgrounds. The teamwork with different expertise is key to AI<sup>2</sup>BMD research. Furthermore, we collaborated and consulted with many senior experts in the molecular dynamics simulation field, and they provided very insightful and constructive suggestions to our research. Another aspect of the methodology I’d like to emphasize is learning from negative results. Negative results happened most of the time during the study. What we do is to constantly analyze the negative results and adjust our algorithm and model accordingly. There’s no perfect solution for a research topic, and we are always on the way.</p>
-
-
-
-<p><strong>KRUFT: </strong>AI<sup>2</sup>BMD got some upgrades this year, and as we mentioned at the top of the episode, the work around the latest system was published in the scientific journal <em>Nature</em>. So tell us, Tong—what is new about the latest AI<sup>2</sup>BMD system?&nbsp;</p>
-
-
-
-<p><strong>WANG: </strong>Good question. We posted a preliminary version of AI<sup>2</sup>BMD manuscript on bioRxiv last summer. I’d like to share three important upgrades through the past one and a half year. The first is hundreds of times of simulation speed acceleration for AI<sup>2</sup>BMD, which becomes one of the fastest AI-driven MD simulation system and leads to perform much longer simulations than before. The second aspect is AI<sup>2</sup>BMD was applied for many protein property calculations, such as enthalpy, heat capacity, folding free energy, p<em>K</em><sub>a</sub>, and so on. Furthermore, we have been closely collaborating with the Global Health Drug Discovery Institute, GHDDI, a nonprofit research institute founded and supported by the Gates Foundation, to leverage AI<sup>2</sup>BMD and other AI capabilities to accelerate the drug discovery processes.</p>
-
-
-
-<p><strong>KRUFT: </strong>What significance does AI<sup>2</sup>BMD hold for research in both biology and AI? And also, what impact does it have outside of the lab, in terms of societal and individual benefits?</p>
-
-
-
-<p><strong>WANG: </strong>Good question. For biology, AI<sup>2</sup>BMD provides a much more accurate approach than those used in the past several decades to simulate the protein dynamic motions and study the bioactivity. For AI, AI<sup>2</sup>BMD proves AI can make a big difference to the dynamic protein structure study beyond AI for the protein static structure prediction. Raised by AI<sup>2</sup>BMD and other works, I can foresee there is a coming age of AI-driven biomolecular simulation, providing binding free-energy calculation with quantum simulation accuracy for the complex of drug and the target protein for drug discovery, detecting more flexible biomolecular conformational changes that molecular mechanics cannot do, and opening more opportunities for enzyme engineering and vaccine and antibody design.</p>
-
-
-
-<p><strong>KRUFT: </strong>AI is having a profound influence on the speed and breadth of scientific discovery, and we’re excited to see more and more talented people joining us in this space. What do you want our audience to take away from this work, particularly those already working in the AI for Science space or looking to enter it?</p>
-
-
-
-<p><strong>WANG: </strong>Good question. I’d like to share three points from my research experience. First is aim high. Exploring a disruptive research topic is better than doing 10 incremental works. In the years of research, our organization always encourages us to do the big things. Second is persistence. I remembered a computer scientist previously said about 90% of the time during research is failure and frustration. The rate is even higher when exploring a new research direction. In AI<sup>2</sup>BMD study, when we suffered from research bottlenecks that cannot be tackled for several months, when we received critical comments from reviewers, when some team members wanted to give up and leave, I always encourage everyone to persist, and we will make it. More importantly, the foundation of persistence is to ensure your research direction is meaningful and constantly adjust your methodology from failures and critical feedback. The third one is real-world applications. Our aim is to leverage AI for advancing science. Proposing scientific problems is a first step, then developing AI tools and evaluating on benchmarks and, more importantly, examining its usefulness in the real-world applications and further developing your AI algorithms. In this way, you can close the loop of AI for Science research.</p>
-
-
-
-<p><strong>KRUFT: </strong>And, finally, Tong, what unanswered questions or unsolved problems remain in this area, and what’s next on the agenda for the AI<sup>2</sup>BMD team?</p>
-
-
-
-<p><strong>WANG: </strong>Well, I think AI<sup>2</sup>BMD is a starting point for the coming age of AI-driven MD for biomolecules. There are lots of new scientific questions and challenges coming out in this new field. For example, how to expand the simulated molecules from proteins to other kinds of biomolecules; how to describe the biochemical reactions during the simulations; how to further improve the simulation efficiency and robustness; and how to apply it for more real-world scenarios. We warmly welcome any people from both academic and industrial fields to work together with us to make the joint efforts to push the frontier of this new field moving forward.</p>
-
-
-
-<p>[MUSIC]</p>
-
-
-
-<p><strong>KRUFT: </strong>Well, Tong, thank you for joining us today, and to our listeners, thanks for tuning in. If you want to read the full paper on AI<sup>2</sup>BMD, you can find a link at aka.ms/abstracts, or you can read it on the <em>Nature</em> website. See you next time on <em>Abstracts</em>!</p>
-
-
-
-<p>[MUSIC FADES]</p>
-
-				</span>
-			</div>
-			<button
-				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
-				aria-expanded="false"
-				data-show-less-text="Show less"
-				type="button"
-				aria-controls="show-more-show-less-toggle-2"
-				aria-label="Show more content"
-				data-alternate-aria-label="Show less content">
-				Show more			</button>
-		</div>
-	</div>
-</div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-november-14-2024/">Abstracts: November 14, 2024</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Toward modular models: Collaborative AI development enables model accountability and continuous learning</title>
-		<link>https://www.microsoft.com/en-us/research/blog/toward-modular-models-collaborative-ai-development-enables-model-accountability-and-continuous-learning/</link>
-		
-		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
-		<pubDate>Wed, 13 Nov 2024 17:30:00 +0000</pubDate>
-				<category><![CDATA[Research Blog]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1098456</guid>
-
-					<description><![CDATA[<p>Modular models can democratize AI development while unlocking new benefits and use cases. Modularized AI can be more flexible, more compliant, and cheaper to develop—requiring less data and fewer compute resources to train expert models.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/blog/toward-modular-models-collaborative-ai-development-enables-model-accountability-and-continuous-learning/">Toward modular models: Collaborative AI development enables model accountability and continuous learning</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-1024x576.jpg" alt="Modular Models blog hero" class="wp-image-1098480" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models-BlogHeroFeature-1400x788-1.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Today, development of generalizable AI models requires access to sufficient data and compute resources, which may create challenges for some researchers. Democratizing access to technology across the research community can advance the development of generalizable AI models. By applying the core software development concept of modularity to AI, we can build models that are powerful, efficient, adaptable, and transparent.&nbsp;</p>
-
-
-
-<p>Until recently, AI models were primarily built using monolithic architecture. Though powerful, these models can be challenging to customize and edit compared to modular models with easily interpretable functional components. Today, developers employ modularity to make services more reliable, faster to refine, and easier for multiple users to contribute to simultaneously. One promising research direction that supports this involves shifting AI development towards a <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html" target="_blank" rel="noreferrer noopener">modular approach<span class="sr-only"> (opens in new tab)</span></a>, which could enhance flexibility and improve scalability.&nbsp;</p>
-
-
-
-<p>One such approach is to use numerous fine-tuned models designed for specific tasks, known as <em>expert models</em>, and coordinate them to solve broader tasks (see&nbsp;<a href="https://www.microsoft.com/en-us/research/publication/towards-modular-llms-by-building-and-reusing-a-library-of-loras/">Towards Modular LLMs by Building and Reusing a Library of LoRAs &#8211; Microsoft Research<span class="sr-only"> (opens in new tab)</span></a>,&nbsp;<a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://arxiv.org/abs/2402.05859" target="_blank" rel="noreferrer noopener">Learning to Route Among Specialized Experts for Zero-Shot Generalization<span class="sr-only"> (opens in new tab)</span></a>). These expert models can be developed in a decentralized way. Similar to the benefits of using a microservice architecture, this modular AI approach can be more flexible, cheaper to develop, and more compliant with relevant privacy and legal policies. However, while substantial research has been done on training optimization, coordination methods remain largely unexplored.</p>
-
-
-
-<p>Our team is exploring the potential of modular models by focusing on two themes: i) optimizing the training of expert models and ii) refining how expert models coordinate to form a collaborative model. One method for coordinating expert models is to adaptively select the most relevant independently developed expert models for specific tasks or queries. This approach, called <em>MoErging</em>, is similar to Mixture-of-Experts (MoE) approaches but differs in that the routing mechanism is learned <em>after</em> the individual experts are trained. As an initial step, we contributed to creating a taxonomy for organizing recent MoErging methods with the goal of helping establish a shared language for the research community and facilitating easier and fairer comparisons between different methods.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="assessing-existing-moerging-methods">Assessing existing MoErging methods</h2>
-
-
-
-<p>Most MoErging methods were developed within the past year, so they don’t reference each and are difficult to compare. To enable comparison of MoErging methods, we recently collaborated on a <a href="https://www.microsoft.com/en-us/research/publication/a-survey-on-model-moerging-recycling-and-routing-among-specialized-experts-for-collaborative-learning/" target="_blank" rel="noreferrer noopener">survey</a> that establishes a taxonomy for comparing methods and organizes MoErging design choices into three steps:&nbsp;</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Expert design:</strong> Identifies and uses expert models trained asynchronously by distributed contributors.&nbsp;</li>
-
-
-
-<li><strong>Routing design:</strong> Routes tasks to the appropriate expert models.&nbsp;</li>
-
-
-
-<li><strong>Application design:</strong> Applies the merged models to specific tasks or domains.&nbsp;</li>
-</ul>
-
-
-
-<p>Each step is broken down into more detailed choices. For example, in <em>expert design</em>, expert training can be <em>custom</em> or <em>standard</em>, and training data can be <em>private</em> or <em>shared</em>. Custom training requires MoErging to have specific training procedures, while the standard training does not. Similarly, <em>shared data</em> means that the training data must be accessible for routing. Otherwise, the training data is considered private.&nbsp;</p>
-
-
-
-<p>The benefits of modular models discussed below assume that training data doesn’t need to be shared. However, a review of current MoErging methods finds that some approaches do require sharing training data, making certain benefits no longer applicable.&nbsp;</p>
-
-
-
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="670821">
-		
-
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Microsoft research newsletter</span>
-	</p>
-	
-	<div class="row pt-3 pb-4 align-items-center">
-						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://info.microsoft.com/ww-landing-microsoft-research-newsletter.html" aria-label="Microsoft Research Newsletter" data-bi-cN="Microsoft Research Newsletter" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Newsletter_Banner_08_2019_v1_1920x1080.png" alt="" />
-				</a>
-			</div>
-			
-			<div class="msr-promo__content p-3 px-5 col-12 col-md">
-
-									<h2 class="h4">Microsoft Research Newsletter</h2>
-				
-								<p class="large">Stay connected to the research community at Microsoft.</p>
-				
-								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button is-style-fill-chevron">
-						<a href="https://info.microsoft.com/ww-landing-microsoft-research-newsletter.html" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Microsoft Research Newsletter" data-bi-cN="Microsoft Research Newsletter" target="_blank">
-							Subscribe today						</a>
-					</div>
-				</div>
-							</div><!--/.msr-promo__content-->
-	</div><!--/.msr-promo__inner-wrap-->
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
-	
-
-
-<p>The survey evaluates 29 different MoErging methods using its taxonomy, which categorizes the design choices into two expert design choices, five routing design choices, and two application design options, shown in Figure 1.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1017" height="1056" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models_Figure1.png" alt="Taxonomy of model MoErging design choices. References in the leaf noes link to sections for specific papers that make some particular design choice. We omit references to methods for which a given choice is not applicable." class="wp-image-1098477" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models_Figure1.png 1017w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models_Figure1-289x300.png 289w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models_Figure1-986x1024.png 986w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models_Figure1-768x797.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/10/Modular-Models_Figure1-173x180.png 173w" sizes="(max-width: 1017px) 100vw, 1017px" /><figcaption class="wp-element-caption">Figure 1: Taxonomy of model MoErging design choices. References in the leaf nodes link to sections of specific papers that implement each choice. We omit references to methods where a particular choice is not applicable.&nbsp;</figcaption></figure>
-
-
-
-<p>One takeaway from the survey is that most MoErging methods can be grouped into four categories based on their routing design choices:</p>
-
-
-
-<ol class="wp-block-list">
-<li><strong>Classifier-based routing:</strong> Methods that train the router as a classifier using expert datasets or unseen data.&nbsp;</li>
-
-
-
-<li><strong>Embedding-based routing:</strong> Methods that compute embeddings of expert training sets and compare them to a query embedding for routing.&nbsp;</li>
-
-
-
-<li><strong>Nonrouter methods:</strong> Methods that do not explicitly train a router but instead initialize the router in an unsupervised manner.&nbsp;&nbsp;</li>
-
-
-
-<li><strong>Task-specific routing:</strong> Methods that learn a task-specific routing distribution over the target dataset to improve performance on a specific task.&nbsp;</li>
-</ol>
-
-
-
-<p>While the differences within each category are minor, the differences across categories are significant because they determine the level of data access required for implementation. As a result, data access is a primary factor in determining which methods are applicable and feasible in various settings.&nbsp;</p>
-
-
-
-<p>Our taxonomy also covers recent approaches to building agentic systems, which could be viewed as specific types of MoErging methods where experts are full language models and routing decisions are made on a step-by-step or example-by-example basis. The optimal level for MoErging may vary depending on the task and the computational resources available to each stakeholder.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="potential-benefits-and-use-cases-of-modular-models">Potential benefits and use cases of modular models&nbsp;</h2>
-
-
-
-<p>Modular models can unlock new benefits and use cases for AI, offering a promising approach to addressing challenges in current AI development. Moving forward, further substantial research is needed to validate this potential and assess feasibility.&nbsp;&nbsp;</p>
-
-
-
-<p>Modular AI may:&nbsp;</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Allow privacy-conscious contributions.</strong> &nbsp;Teams with sensitive or proprietary data, such as personally identifiable information (PII) and copyrighted content, can contribute expert models and benefit from larger projects without sharing their data. This capacity can make it easier to comply with data privacy and legal standards, which could be valuable for healthcare teams that would benefit from general model capabilities without combining their sensitive data with other training data.&nbsp;</li>
-
-
-
-<li><strong>Drive model transparency and accountability.</strong> &nbsp;Modular models allow specific expert models to be identified and, if necessary, removed or retrained. For example, if a module trained on PII, copyrighted, or biased data is identified, it can be removed more easily, eliminating the need for retraining and helping ensure compliance with privacy and ethical standards.&nbsp;</li>
-
-
-
-<li><strong>Facilitate model extensibility and continual improvement.</strong>&nbsp;Modularity supports continual improvements, allowing new capabilities from expert models to be integrated as they are available. This approach is akin to making localized edits, allowing for continuous, cost-effective improvement.&nbsp;</li>
-
-
-
-<li><strong>Lower the barrier to AI development for those with limited compute and data resources.</strong>&nbsp;Modular AI can reduce the need for extensive data and compute by creating a system where pretrained experts can be reused, benefiting academics, startups, and teams focused on niche use cases. For example, an AI agent tasked with booking flights on a specific website with limited training data could leverage general navigation and booking skills from other trained AI experts, enabling generalizable and broadly applicable skills without requiring domain-specific training data. We explore this process of transferring skills across tasks in our paper “<a href="https://www.microsoft.com/en-us/research/publication/multi-head-adapter-routing-for-cross-task-generalization/%22%20%EF%B7%9FHYPERLINK%20%22https://www.microsoft.com/en-us/research/publication/multi-head-adapter-routing-for-cross-task-generalization/">Multi-Head Routing For Cross-Task Generalization</a>.”&nbsp;</li>
-
-
-
-<li><strong>Support personalization.</strong> &nbsp;Modular models make it possible to equip AI agents with experts tailored to individual users or systems. For instance, AI designed to emulate five-time World Chess Champion Magnus Carlsen could enhance a player’s preparation to play a match against him. Experiments suggest that storing knowledge or user profiles in on-demand modules can match or surpass the performance of retrieval-augmented generation (RAG), potentially reducing latency and improving the user’s experience in custom AI applications.&nbsp;</li>
-</ul>
-
-
-
-<h2 class="wp-block-heading" id="current-limitations-and-looking-forward">Current limitations and looking forward&nbsp;</h2>
-
-
-
-<p>In this blog, we focused on a type of modular approach that involves training foundation models, which requires substantial compute power and large amounts of data. Despite the advantages of modularity, such as increased flexibility, efficiency, and adaptability, the development of foundation models remains resource-intensive, necessitating high-performance computing and robust datasets to support fine-tuning.&nbsp;&nbsp;</p>
-
-
-
-<p>Recent work has begun to address these challenges by <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://arxiv.org/abs/2311.08105" target="_blank" rel="noreferrer noopener">distributing the pretraining process of foundation models<span class="sr-only"> (opens in new tab)</span></a>. Looking ahead, a promising research direction focuses on exploring how to create a minimal dataset for training “empty foundation models” while shifting most of their capabilities to external pluggable modules.&nbsp;</p>
-
-
-
-<p>Modular methods are evolving rapidly, and we’re excited by their potential. Modularity has the capacity to democratize AI development, improve model accountability, and support efficient continuous learning. With the MoErging taxonomy, we aim to establish a shared language that fosters engagement within the research community. This research is in the early stages, and we welcome community collaboration. If you&#8217;re interested in working with us, please reach out to <a href="mailto:ModularModels@microsoft.com" target="_blank" rel="noreferrer noopener">ModularModels@microsoft.com</a>.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="acknowledgements">Acknowledgements</h2>
-
-
-
-<p>We would like to thank paper collaborators: Prateek Yadav, Colin Raffel, Mohammed Muqeeth, Haokun Liu, Tianlong Chen, Mohit Bansal, Leshem Choshen, Edoardo Ponti, Zhan Su, <a href="https://www.microsoft.com/en-us/research/people/matpereira/">Matheus Pereira</a>, Nicolas Le Roux, Nabil Omi, <a href="https://www.microsoft.com/en-us/research/people/sidsen/">Siddhartha Sen</a>, Anurag Sarkar, Jordan T. Ash, Oleksiy Ostapenko, and Laurent Charlin.</p>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/toward-modular-models-collaborative-ai-development-enables-model-accountability-and-continuous-learning/">Toward modular models: Collaborative AI development enables model accountability and continuous learning</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		

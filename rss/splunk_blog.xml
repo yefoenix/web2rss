@@ -6,22 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 01:42:52 +0000</lastBuildDate>
-    <item>
-      <title>Managing Splunk Add-Ons with UCC Framework</title>
-      <link>https://www.splunk.com/en_us/blog/customers/managing-splunk-add-ons-with-ucc-framework.html</link>
-      <description>The UCC framework is designed for Splunk users and developers who want to improve their add-on development process and management.</description>
-    </item>
-    <item>
-      <title>What is Privilege Escalation? An Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/privilege-escalation.html</link>
-      <description>Learn about privilege escalation, a security exploit that elevates user access rights, its types, attack methods, risks, and best practices for prevention.</description>
-    </item>
-    <item>
-      <title>Security Staff Picks To Read This Month, Handpicked by Splunk Experts</title>
-      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-recent-articles.html</link>
-      <description>Every month, our Splunk staff of security experts share their favorite reads of the month — this way, you can follow the most interesting, news-worthy, and innovative stories coming from the wide world of cybersecurity.</description>
-    </item>
+    <lastBuildDate>Thu, 05 Dec 2024 01:42:31 +0000</lastBuildDate>
     <item>
       <title>Data Normalization Explained: An In-Depth Guide</title>
       <link>https://www.splunk.com/en_us/blog/learn/data-normalization.html</link>
@@ -51,6 +36,21 @@
       <title>What Are Distributed Systems?</title>
       <link>https://www.splunk.com/en_us/blog/learn/distributed-systems.html</link>
       <description>Distributed systems consist of multiple devices that work together to perform a task that is beyond the capacity of a single system.</description>
+    </item>
+    <item>
+      <title>11 Best Data Analysis Tools to Work With in 2025</title>
+      <link>https://www.splunk.com/en_us/blog/learn/data-analysis-tools.html</link>
+      <description>Data analysis is an imperative, but how do you do it well? Start with these top data analyst tools, put together like only professional data analysts can.</description>
+    </item>
+    <item>
+      <title>Splunk Platform Use Cases, Written Just for You</title>
+      <link>https://www.splunk.com/en_us/blog/learn/splunk-platform-use-cases.html</link>
+      <description>Learn how to find use case guidance for the Splunk platform for key industries such as energy, manufacturing, finance, and retail.</description>
+    </item>
+    <item>
+      <title>Disaster Recovery Planning: Getting Started</title>
+      <link>https://www.splunk.com/en_us/blog/learn/disaster-recovery-planning.html</link>
+      <description>In this post, we'll discuss a framework and steps for creating a disaster recovery plan, so you can stay resilient over the long-term.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
