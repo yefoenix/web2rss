@@ -6,27 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 01:42:31 +0000</lastBuildDate>
-    <item>
-      <title>Data Normalization Explained: An In-Depth Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/data-normalization.html</link>
-      <description>Data normalization is simply a way to reorganize clean data so it’s easier for users to work with and query. Learn more here.</description>
-    </item>
-    <item>
-      <title>Reflections from Cisco Partner Summit 2024: Building the Future as One</title>
-      <link>https://www.splunk.com/en_us/blog/partners/reflections-from-cisco-partner-summit-2024-building-the-future-as-one.html</link>
-      <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
-    </item>
-    <item>
-      <title>Top Risk Management Frameworks To Use</title>
-      <link>https://www.splunk.com/en_us/blog/learn/risk-management-frameworks.html</link>
-      <description>This article introduces risk management frameworks and explains the significance of using one in your organization.</description>
-    </item>
-    <item>
-      <title>What Is Process Mining? A Complete Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/process-mining.html</link>
-      <description>This in-depth article discusses process mining, including its definition, examples, and how you can get started on process mining implementation for your business.</description>
-    </item>
+    <lastBuildDate>Fri, 06 Dec 2024 01:41:03 +0000</lastBuildDate>
     <item>
       <title>2025 Predictions: Driving Digital Resilience Forward</title>
       <link>https://www.splunk.com/en_us/blog/leadership/2025-predictions-driving-digital-resilience-forward.html</link>
@@ -44,13 +24,33 @@
     </item>
     <item>
       <title>Splunk Platform Use Cases, Written Just for You</title>
-      <link>https://www.splunk.com/en_us/blog/learn/splunk-platform-use-cases.html</link>
+      <link>https://www.splunk.com/en_us/blog/platform/splunk-platform-use-cases.html</link>
       <description>Learn how to find use case guidance for the Splunk platform for key industries such as energy, manufacturing, finance, and retail.</description>
     </item>
     <item>
       <title>Disaster Recovery Planning: Getting Started</title>
       <link>https://www.splunk.com/en_us/blog/learn/disaster-recovery-planning.html</link>
       <description>In this post, we'll discuss a framework and steps for creating a disaster recovery plan, so you can stay resilient over the long-term.</description>
+    </item>
+    <item>
+      <title>Tech the Halls - Part 2: Naughty and Nice</title>
+      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/tech-the-halls-part-2-naughty-and-nice.html</link>
+      <description>In this second installment of our festive-themed series, we take you to the SOC, or Santa Operations Centre for those not familiar. This is where Santa and his elves monitor the delivery operations on the big day, using past Christmas data sets to optimise operations. From monitoring Key Performance Indicators from the CRM (Child Reputation Manifest) system to analysing the Naughty or Nice Lists, Splunk’s lookup functionality plays a starring role in ensuring the right presents go to the right children.</description>
+    </item>
+    <item>
+      <title>DevOps Monitoring: What It Is &amp; How It Works</title>
+      <link>https://www.splunk.com/en_us/blog/learn/devops-monitoring.html</link>
+      <description>DevOps monitoring involves tracking and measuring app performance to help you identify and resolve issues faster. Learn how it works here.</description>
+    </item>
+    <item>
+      <title>What's MTTR? Mean Time to Repair: Definitions, Tips, &amp; Challenges</title>
+      <link>https://www.splunk.com/en_us/blog/learn/mttr-mean-time-to-repair.html</link>
+      <description>MTTR refers to the amount of time it takes to repair or recover from an issue or failure. Learn more about what it is and how to track it.</description>
+    </item>
+    <item>
+      <title>Splunk Executive Mary Lou Prevost Named to StateRAMP Standards &amp; Technical Committee</title>
+      <link>https://www.splunk.com/en_us/blog/industries/splunk-executive-mary-lou-prevost-named-to-stateramp-standards-technical-committee.html</link>
+      <description>Splunk's Mary Lou Prevost, GVP of State, Local and Higher Education has been selected as an Advisor Member to the StateRAMP Standards &amp; Technical Committee.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

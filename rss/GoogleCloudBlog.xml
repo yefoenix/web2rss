@@ -6,37 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 01:42:51 +0000</lastBuildDate>
-    <item>
-      <title>How Vodafone is using gen AI to enhance network life cycle</title>
-      <link>https://cloud.google.com/blog/topics/telecommunications/vodafone-gen-ai-enhances-network-lifecycle</link>
-      <description>TelecommunicationsHow Vodafone is using gen AI to enhance network life cycleBy Sherif Said • 7-minute read</description>
-    </item>
-    <item>
-      <title>Seeing Through a GLASSBRIDGE: Understanding the Digital Marketing Ecosystem Spreading Pro-PRC Influence Operations</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/glassbridge-pro-prc-influence-operations</link>
-      <description>Threat IntelligenceSeeing Through a GLASSBRIDGE: Understanding the Digital Marketing Ecosystem Spreading Pro-PRC Influence OperationsBy Google Threat Intelligence Group  • 6-minute read</description>
-    </item>
-    <item>
-      <title>How Commerzbank is transforming financial advisory workflows with gen AI</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/how-commerzbank-is-transforming-financial-advisory-workflows-with-gen-ai</link>
-      <description>AI &amp; Machine LearningHow Commerzbank is transforming financial advisory workflows with gen AIBy Tolga Bastürk • 5-minute read</description>
-    </item>
-    <item>
-      <title>Create a self-escalating chatbot in Conversational Agents using Webhook and Generators</title>
-      <link>https://cloud.google.com/blog/topics/developers-practitioners/create-a-self-escalating-chatbot-in-conversational-agents</link>
-      <description>Developers &amp; PractitionersCreate a self-escalating chatbot in Conversational Agents using Webhook and GeneratorsBy Aniket Agrawal • 9-minute read</description>
-    </item>
-    <item>
-      <title>Securing AI: Advancing the national security mission</title>
-      <link>https://cloud.google.com/blog/topics/public-sector/securing-ai-advancing-the-national-security-mission</link>
-      <description>Public SectorSecuring AI: Advancing the national security missionBy Ron Bushar • 3-minute read</description>
-    </item>
-    <item>
-      <title>Celebrate Small Business Saturday with ChromeOS</title>
-      <link>https://cloud.google.com/blog/products/chrome-enterprise/celebrate-small-business-saturday-with-chromeos</link>
-      <description>Chrome EnterpriseCelebrate Small Business Saturday with ChromeOSBy Lawrence Lui • 4-minute read</description>
-    </item>
+    <lastBuildDate>Fri, 06 Dec 2024 01:41:23 +0000</lastBuildDate>
     <item>
       <title>What’s new with Google Cloud</title>
       <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
@@ -56,6 +26,36 @@
       <title>Fireworks.ai: Lighting up gen AI through a more efficient inference engine</title>
       <link>https://cloud.google.com/blog/topics/startups/fireworks-ai-gen-ai-efficient-inference-engine</link>
       <description>StartupsFireworks.ai: Lighting up gen AI through a more efficient inference engineBy Lin Qiao • 4-minute read</description>
+    </item>
+    <item>
+      <title>Faster food: How Gemini helps restaurants thrive through multimodal visual analysis</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/use-gemini-to-optimize-restaurant-operations-through-ai-visual-analysis</link>
+      <description>AI &amp; Machine LearningFaster food: How Gemini helps restaurants thrive through multimodal visual analysisBy Sagar Kewalramani • 4-minute read</description>
+    </item>
+    <item>
+      <title>Bridging the Gap: Elevating Red Team Assessments with Application Security Testing</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/red-team-application-security-testing</link>
+      <description>Threat IntelligenceBridging the Gap: Elevating Red Team Assessments with Application Security TestingBy Mandiant  • 13-minute read</description>
+    </item>
+    <item>
+      <title>Registration is open for Partner Summit at Google Cloud Next</title>
+      <link>https://cloud.google.com/blog/topics/partners/partner-summit-registration-open-next-25</link>
+      <description>PartnersRegistration is open for Partner Summit at Google Cloud NextBy Aimee Catalano • 2-minute read</description>
+    </item>
+    <item>
+      <title>Moloco: 10x faster model training times with TPUs on Google Kubernetes Engine</title>
+      <link>https://cloud.google.com/blog/products/containers-kubernetes/moloco-uses-gke-and-tpus-for-ml-workloads</link>
+      <description>Containers &amp; KubernetesMoloco: 10x faster model training times with TPUs on Google Kubernetes EngineBy Shubhika Taneja • 5-minute read</description>
+    </item>
+    <item>
+      <title>How Current leveraged Spanner to build a resilient platform for banking services</title>
+      <link>https://cloud.google.com/blog/products/databases/current-challenger-bank-database-resilience-spanner</link>
+      <description>DatabasesHow Current leveraged Spanner to build a resilient platform for banking servicesBy Trevor Marshall • 4-minute read</description>
+    </item>
+    <item>
+      <title>How the Air Force Research Laboratory is Advancing Defense Research with AI</title>
+      <link>https://cloud.google.com/blog/topics/public-sector/how-the-air-force-research-laboratory-is-advancing-defense-research-with-ai</link>
+      <description>Public SectorHow the Air Force Research Laboratory is Advancing Defense Research with AIBy Zahra Najmi • 4-minute read</description>
     </item>
   </channel>
 </rss>
