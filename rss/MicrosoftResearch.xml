@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Thu, 05 Dec 2024 18:03:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Dec 2024 00:48:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,464 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
+		<title>Abstracts: NeurIPS 2024 with Weizhu Chen</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-weizhu-chen/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2024 00:48:04 +0000</pubDate>
+				<category><![CDATA[Microsoft Research Podcast]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107414</guid>
+
+					<description><![CDATA[<p>Next-token prediction trains a language model on all tokens in a sequence. VP Weizhu Chen discusses his team’s 2024 NeurIPS paper on how distinguishing between useful and “noisy” tokens in pretraining can improve token efficiency and model performance.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-weizhu-chen/">Abstracts: NeurIPS 2024 with Weizhu Chen</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated image of Weizhu Chen." class="wp-image-1108905" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+<div class="wp-block-msr-podcast-container my-4">
+	<iframe src="https://player.blubrry.com/?podcast_id=139393524&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+</div>
+
+
+
+<p>Members of the research community at Microsoft work continuously to advance their respective fields. <em>Abstracts </em>brings its audience to the cutting edge with them through short, compelling conversations about new and noteworthy achievements.</p>
+
+
+
+<p>In this episode, <a href="https://www.microsoft.com/en-us/research/people/wzchen/" target="_blank" rel="noreferrer noopener">Weizhu Chen</a>, vice president of Microsoft GenAI, joins host Amber Tingle to discuss the paper <a href="https://www.microsoft.com/en-us/research/publication/not-all-tokens-are-what-you-need-for-pretraining/" target="_blank" rel="noreferrer noopener">“Not All Tokens Are What You Need for Pretraining,”</a> an oral presentation at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/?msockid=35739e94ab6c69d41b738b93aa076831" target="_blank" rel="noreferrer noopener">Conference on Neural Information Processing Systems (NeurIPS)</a>. Based on an examination of model training at the token level, Chen and his coauthors present an alternate approach to model pretraining: instead of training language models to predict <em>all</em> tokens, they make a distinction between useful and “noisy” tokens. Doing so, the work shows, improves token efficiency and model performance.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/not-all-tokens-are-what-you-need-for-pretraining/">Read the paper</a></div>
+
+
+
+<div class="wp-block-button is-style-fill-github"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://github.com/microsoft/rho" target="_blank" rel="noreferrer noopener">Get the code</a></div>
+</div>
+
+
+<div class="wp-block-msr-show-more">
+	<div class="bg-neutral-100 p-5">
+		<div class="show-more-show-less" data-mount="show-more-show-less">
+			<div>
+				<span>
+					
+
+<h2 class="wp-block-heading" id="transcript">Transcript</h2>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p><strong>AMBER TINGLE:</strong> Welcome to <em>Abstracts</em>, a Microsoft Research Podcast that puts the spotlight on world-class research <em>in brief</em>. I’m Amber Tingle. In this series, members of the research community at Microsoft give us a quick snapshot—or a <em>podcast abstract</em>—of their new and noteworthy papers.</p>
+
+
+
+<p>[MUSIC FADES]&nbsp;</p>
+
+
+
+<p>Our guest today is Weizhu Chen. He is vice president of Microsoft GenAI and coauthor of a paper called “Not All Tokens Are What You Need for Pretraining.” This paper is an oral presentation during the 38th annual Conference on Neural Information Processing Systems, also known as NeurIPS, which is happening this week in Vancouver. Weizhu, thank you for joining us today on <em>Abstracts</em>!&nbsp;</p>
+
+
+
+				</span>
+				<span id="show-more-show-less-toggle-1" class="show-more-show-less-toggleable-content">
+					
+
+
+
+<p><strong>WEIZHU CHEN:</strong> Thank you for having me, Amber.&nbsp;</p>
+
+
+
+<p><strong>TINGLE: </strong>So let&#8217;s start with a brief overview of your paper. In a couple sentences, tell us about the problem your research addresses and, more importantly, why the research community and beyond should know about <em>this</em> work.&nbsp;</p>
+
+
+
+<p><strong>CHEN:</strong> So my team basically in Microsoft GenAI, we are working on model training. So one of the things actually we do in the pretraining, we realize the importance of the data. And we found that actually when we do this kind of data for each of the tokens, some token is more important than the other. That&#8217;s one. The other one actually is some token actually is very, very hard to be predicted during the pretraining. So, for example, just like if someone see the text of “Weizhu,” and what&#8217;s the next token? It can be “Chen”; it can be any of the last name. So it&#8217;s very hard to be predicted. And if we try to enforce a language model to focus on this, kind of, the hard-to-predict token, just like actually it&#8217;s going to confuse the language model. There are so many different kinds of the example like this. Just like, for example, the serial number in your UPS. So the focus of this paper is try to identify which token actually is more important for the language model to learn. And actually the other token maybe is just the noise. And how can we try to <em>discriminate</em> the token—which is good token, which is noise token. Basically, you try to understand this kind of dynamic of the tokens. </p>
+
+
+
+<p><strong>TINGLE: </strong>How did you conduct this research?&nbsp;</p>
+
+
+
+<p><strong>CHEN: </strong>Actually we do a lot of work in the model training, including the pretraining <em>and</em> the post-training. So for the pretraining side, actually the most important thing to us is the data. We also try to understand, how can we leverage the existing data, and how can we create much more data, as well? And data basically is one of the most important thing to build a better foundation model. So we try to understand how much more we can get from the data. And the important thing for the data is about data filtering. So you think about actually in the previous literature, we do the data filtering, for example, just like we build a classifier to classify, OK, this page is more important than the other. And this page actually is a noise because there&#8217;s so much noise data in the web. So we just keep the best data to get into the pretraining corpus. And further away, we think about, OK, yeah, so this is … maybe it&#8217;s not fine grain enough, so can we try to understand even for the same page we want to keep? So some token is more important than the other. Maybe some token just some noise token. Actually you put this data into the pretraining, it&#8217;s going to hurt the model quality. So there is the motivation actually we try to think about.</p>
+
+
+
+<p><strong>TINGLE: </strong>And what were your major findings?&nbsp;</p>
+
+
+
+<p><strong>CHEN: </strong>Our major finding is about basically, definitely this works so well. And it&#8217;s so important that actually we are able to get the best token from the corpus and then make it available and try to ask the model during the pretraining to ignore the token we don&#8217;t want to get into the model itself. So that is one. The second thing definitely data is the other very important thing. If you&#8217;re able to figure out the better way to build a better data is most likely you’re able to build a much better foundation model. The third thing actually is also connected to a lot of other existing work, just like data synthesis, just like distillation, just like data filtering, and so a lot of things are really connected together. And actually, this work, basically, you can associate with also a lot of other work we are working on, just like distillation. You can think about, for example, for this work, we also try to build a model, a reference model—we call as the reference model—to try to identify actually this data, this token, is more important than the other and try to understand the discrepancy between the reference model and the running model, their prediction on each tokens. So you can think about also it&#8217;s some kind of the try to distill from the reference model to the existing model, as well. </p>
+
+
+
+<p><strong>TINGLE:</strong> Let&#8217;s talk a little bit about real-world impact. Who benefits most from this work? And how significant is this within your discipline and even downstream for people using applications?&nbsp;</p>
+
+
+
+<p><strong>CHEN:</strong> This actually is very, very fundamental work because just like I share a little bit before, actually we build the data and this data is—build the data much better—is able to build a much better foundation model. If we&#8217;re able to build a better model actually is able to benefit so many different kinds of application. This also is going to help us to build a much better small language model. And we can also serve this model even in the edge side, in the client side, in the coding scenario. So we are going to see actually huge impact from this kind of the foundation model if you are able to benefit from building much better training data.&nbsp;</p>
+
+
+
+<p><strong>TINGLE: </strong>Are there any unanswered questions or unsolved problems in this area? What&#8217;s next on your research agenda?&nbsp;</p>
+
+
+
+<p><strong>CHEN: </strong>Yeah, I think that is a very good questions. And definitely there&#8217;s a lot of things about how to build a better data [that] is unsolved yet in the literature. And especially because when you do the pretraining, the most important part is the data, but the data is very limited. And how can we make better use from the existing limited data is a big challenge. Because we can increase the model by 10x, but it’s super hard to increase the data by 10x, especially when we want to deal with the high quality of data. The other way, even given the data, how can you identify, especially for this work, the importance of each token to build a much better model? I think all these things are very connected together. To me, actually, data is the oxygen. So there are still so many things we are able to do in the data, including building for even the small language model or the large model.&nbsp;</p>
+
+
+
+<p><strong>TINGLE: </strong>Data is oxygen—I love that! So other than <em>that</em> being a key takeaway, is there any other one thing that you&#8217;d like our listeners to walk away from this conversation knowing?&nbsp;</p>
+
+
+
+<p><strong>CHEN: </strong>I would love to say actually focus more on this kind of data and focus more about how can I get more from the data actually; it is the very important thing. And the other thing actually, we are working on something that&#8217;s very exciting. You can feel free to come to join us if you are very interested in this area.&nbsp;</p>
+
+
+
+<p>[MUSIC]&nbsp;</p>
+
+
+
+<p><strong>TINGLE: </strong>Well, Weizhu Chen, thank you for joining us today. We really appreciate it.&nbsp;</p>
+
+
+
+<p><strong>CHEN: </strong>Thank you. Thank you for having me.&nbsp;</p>
+
+
+
+<p><strong>TINGLE: </strong>And thanks to our listeners for tuning in. If you’d like to read the full paper, you may find a link at aka.ms/abstracts. You can also find the paper on arXiv and on the NeurIPS conference website. I’m Amber Tingle from Microsoft Research, and we hope you’ll join us next time on <em>Abstracts</em>!&nbsp;</p>
+
+
+
+<p>[MUSIC FADES]&nbsp;</p>
+
+				</span>
+			</div>
+			<button
+				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
+				aria-expanded="false"
+				data-show-less-text="Show less"
+				type="button"
+				aria-controls="show-more-show-less-toggle-1"
+				aria-label="Show more content"
+				data-alternate-aria-label="Show less content">
+				Show more			</button>
+		</div>
+	</div>
+</div>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-weizhu-chen/">Abstracts: NeurIPS 2024 with Weizhu Chen</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Abstracts: NeurIPS 2024 with Dylan Foster</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[Microsoft Research Podcast]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107372</guid>
+
+					<description><![CDATA[<p>Can existing algorithms designed for simple reinforcement learning problems be used to solve more complex RL problems? Researcher Dylan Foster discusses the modular approach he and his coauthors explored in their 2024 NeurIPS paper on RL under latent dynamics.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated image of Dylan Foster for the Abstracts series on the Microsoft Research Podcast." class="wp-image-1108887" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+<div class="wp-block-msr-podcast-container my-4">
+	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139303363&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+</div>
+
+
+
+<p>Members of the research community at Microsoft work continuously to advance their respective fields.<em> Abstracts&nbsp;</em>brings its audience to the cutting edge with them through short, compelling conversations about new and noteworthy achievements.&nbsp;</p>
+
+
+
+<p>In this episode, Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/dylanfoster/">Dylan Foster</a> joins host Amber Tingle to discuss the paper <a href="https://www.microsoft.com/en-us/research/publication/reinforcement-learning-under-latent-dynamics-toward-statistical-and-algorithmic-modularity/">“Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity,”</a> an oral presentation at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/">Conference on Neural Information Processing Systems</a> <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/">(NeurIPS)</a>. In the paper, Foster and his coauthors explore whether well-studied RL algorithms for simple problems can be leveraged to solve RL problems with high-dimensional observations and latent dynamics, part of larger efforts to identify algorithm design principles that can enable agents to learn quickly via trial and error in unfamiliar environments.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/reinforcement-learning-under-latent-dynamics-toward-statistical-and-algorithmic-modularity/">Read the paper</a></div>
+</div>
+
+
+<div class="wp-block-msr-show-more">
+	<div class="bg-neutral-100 p-5">
+		<div class="show-more-show-less" data-mount="show-more-show-less">
+			<div>
+				<span>
+					
+
+<h2 class="wp-block-heading" id="transcript">Transcript</h2>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p><strong>AMBER TINGLE:</strong> Welcome to <em>Abstracts</em>, a Microsoft Research Podcast that puts the spotlight on world-class research <em>in brief</em>. I’m Amber Tingle. In this series, members of the research community at Microsoft give us a quick snapshot—or a <em>podcast abstract</em>—of their new and noteworthy papers.</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+
+
+<p>Our guest today is Dylan Foster. He is a principal researcher at Microsoft Research and coauthor of a paper called “Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity.” The work is among the oral presentations at this year&#8217;s Conference on Neural Information Processing Systems, or <em>NeurIPS</em>, in Vancouver. Dylan, welcome and thank you for joining us on the podcast!</p>
+
+
+
+				</span>
+				<span id="show-more-show-less-toggle-2" class="show-more-show-less-toggleable-content">
+					
+
+
+
+<p><strong>DYLAN FOSTER:</strong> Thanks for having me.</p>
+
+
+
+<p><strong>TINGLE: </strong>Let&#8217;s start with a brief overview of this paper. Tell us about the problem this work addresses and why the research community should know about it.</p>
+
+
+
+<p><strong>FOSTER:</strong> So this is a, kind of, a theoretical work on reinforcement learning, or RL. When I say reinforcement learning, broadly speaking, this is talking about the question of how can we design AI agents that are capable of, like, interacting with unknown environments and learning how to solve problems through trial and error. So this is part of some broader agenda we&#8217;ve been doing on, kind of, theoretical foundations of RL. And the key questions we&#8217;re looking at here are what are called, like, exploration and sample efficiency. So this just means we&#8217;re trying to understand, like, what are the algorithm design principles that can allow you to explore an unknown environment and learn as quickly as possible? What we&#8217;re doing in this paper is we&#8217;re, kind of, looking at, how can you most efficiently solve reinforcement learning problems where you&#8217;re faced with very high-dimensional observations, but the underlying dynamics of the system you&#8217;re interacting with are simple? So this is a setting that occurs in a lot of natural reinforcement learning and control problems, especially in the context of, like, say, embodied decision-making. So if you think about, say, games like Pong, you know, the state of the game, like, the state of, like, Pong, is extremely simple. It&#8217;s just, you know, what is the position and velocity of the ball, and, like, where are the paddles? But what we&#8217;d like to be able to do is learn to, you know, like, control or, like, solve games like this from raw pixels or, like, images kind of in the same way that a human would, like, just solve them from vision. So if you look at these types of problems, you know, we call these, like, <em>RL with rich observations</em> or RL with <em>latent dynamics</em>. You know, these are interesting because they, kind of, require you to explore the system, but they also require, you know, representation learning. Like, you want to be able to use neural nets to learn a mapping from, say, the images you see to the latent state of the system. This is a pretty interesting and nontrivial algorithmic problem. And, kind of, what we do in this work is we take a first step towards something like a unified understanding for how to solve these sorts of, like, rich-observation, or latent dynamics, RL problems.</p>
+
+
+
+<p><strong>TINGLE:</strong> So how did you go about developing this theoretical framework?</p>
+
+
+
+<p><strong>FOSTER: </strong>Yeah, so if you look at these sort of RL problems with latent dynamics, this is something that&#8217;s actually received a lot of investigation in theory. And a lot of this goes back to, kind of, early work from our lab from, like, 2016, 2017 or so. There&#8217;s some really interesting results here, but progress was largely on a, like, case-by-case basis, meaning, you know, there are many different ways that you can try to model the latent dynamics of your problem, and, you know, each of these somehow leads to a different algorithm, right. So, like, you know, you think very hard about this modeling assumption. You think about, what would an optimal algorithm look like? And you end up, you know, writing an entire paper about it. And there&#8217;s nothing wrong with that per se, but if you want to be able to iterate quickly and, kind of, try different modeling assumptions and see what works in practice, you know, this is not really tenable. It&#8217;s just too slow. And so the starting point for this work was to, kind of, try to take a different and more modular approach. So the idea is, you know, there are many, many different types of, sort of, systems or modeling assumptions for the dynamics that have been already studied extensively and have entire papers about them for the simpler setting in which you can directly see the state of the system. And so what we wanted to ask here is, is it possible to use these existing results in more of, like, a modular fashion? Like, if someone has already written a paper on how to optimally solve a particular type of MDP, or <em>Markov decision process</em>, can we just take their algorithm as is and perhaps plug it into some kind of meta-algorithm that can directly, kind of, combine this with representation learning and use it to solve the corresponding rich-observation, or latent dynamics, RL problem?</p>
+
+
+
+<p><strong>TINGLE: </strong>What were your major findings? What did you learn during this process?</p>
+
+
+
+<p><strong>FOSTER:</strong> We started by asking the question sort of exactly the way that I just posed it, right. Like, can we take existing algorithms and use them to solve rich-observation RL problems in a modular fashion? And this turned out to be really tricky. Like, there&#8217;s a lot of natural algorithms you might try that seem promising at first but don&#8217;t exactly work out. And what this, kind of, led us to and, sort of, the first main result in this paper is actually a <em>negative</em> result. So what we actually showed is most, sort of, well-studied types of systems or, like, MDPs that have been studied in, like, the prior literature on RL, even if they&#8217;re tractable when you&#8217;re able to directly see the state of the system, they can become statistically intractable once you add, sort of, high-dimensional observations to the picture. And statistically tractable here means the amount of interaction that you need, like the amount of, sort of, attempts to explore the system that you need, in order to learn a good decision-making policy becomes, like, very, very large, like much, much larger than the corresponding, sort of, complexity if you were able to directly see the states of the system. You know, you could look at this and say, I guess we&#8217;re out of luck. You know, maybe there&#8217;s just no hope of solving these sorts of problems. But that&#8217;s perhaps a little too pessimistic. You know, really the way you should interpret this result is just that you need <em>more assumptions</em>. And that&#8217;s precisely what the, sort of, second result we have in this paper is. So our second result shows that you can, sort of, bypass this impossibility result and, you know, achieve truly modular algorithms under a couple different types of additional assumptions.</p>
+
+
+
+<p><strong>TINGLE: </strong>Dylan, I&#8217;d like to know—and I&#8217;m sure our audience would, too—what this work means when it comes to real-world application. What impact will this have on the research community?</p>
+
+
+
+<p><strong>FOSTER:</strong> Yeah, so maybe I&#8217;ll answer that, um, with two different points. The first one is a broader point, which is, why is it important to understand this problem of exploration and sample efficiency in reinforcement learning? If you look at the, sort of, setting we study in this paper—you know, this, like, RL or decision-making with high-dimensional observations—on the empirical side, people have made a huge amount of progress on this problem through deep reinforcement learning. This was what kind of led to these amazing breakthroughs in solving games like Atari in the last decade. But if you look at these results, the gains are somehow more coming from the, like, inductive bias or the, like, generalization abilities of deep learning and not necessarily from the specific algorithms. So, like, current algorithms do not actually explore very deliberately, and so their sample efficiency is very high. Like, it&#8217;s hard to draw a one-to-one comparison, but you can argue they need, like, far more experience than a human would to solve these sorts of problems. So it&#8217;s not clear that we&#8217;re really anywhere near the ceiling of what can be achieved in terms of, like, how efficiently can you have, you know, an agent learn to solve new problems from trial and error. And I think better algorithms here could potentially be, like, transformative in a lot of different domains. To get into this specific work, I think there&#8217;s a couple of important takeaways for researchers. One is that by giving this impossibility result that shows that RL with latent dynamics is impossible without further assumptions, we&#8217;re kind of narrowing down the search space where other researchers can look for efficient algorithms. The second takeaway is, you know, we are showing that this problem becomes tractable when you make additional assumptions. But I view these more as, like, a proof of concept. Like, we&#8217;re kind of, showing for the first time that it <em>is</em> possible to do something nontrivial, but I think a lot more work and research will be required in order to like, you know, build on this and take this to something that can lead to, like, practical algorithms.<s></s></p>
+
+
+
+<p><strong>TINGLE: </strong>Well, Dylan Foster, thank you for joining us today to discuss your paper on reinforcement learning under latent dynamics. We certainly appreciate it.</p>
+
+
+
+<p><strong>FOSTER: </strong>Thanks a lot. Thanks for having me.</p>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p><strong>TINGLE: </strong>And to our listeners, thank you all for tuning in. If you&#8217;d like to read Dylan&#8217;s paper, you may find a link at aka.ms/abstracts. You can also find the paper on arXiv and on the NeurIPS conference website. I&#8217;m Amber Tingle from Microsoft Research, and we hope you&#8217;ll join us next time on <em>Abstracts</em>!</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+				</span>
+			</div>
+			<button
+				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
+				aria-expanded="false"
+				data-show-less-text="Show less"
+				type="button"
+				aria-controls="show-more-show-less-toggle-2"
+				aria-label="Show more content"
+				data-alternate-aria-label="Show less content">
+				Show more			</button>
+		</div>
+	</div>
+</div>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Abstracts: NeurIPS 2024 with Pranjal Chitale</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[Microsoft Research Podcast]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107426</guid>
+
+					<description><![CDATA[<p>Pranjal Chitale discusses the ’24 NeurIPS work CVQA. Spanning 31 languages and the cultures of 30 countries, this VQA benchmark was created with native speakers and cultural experts to evaluate model performance across diverse linguistic and cultural contexts.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="diagram" class="wp-image-1108932" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+<div class="wp-block-msr-podcast-container my-4">
+	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139311215&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+</div>
+
+
+
+<p>Members of the research community at Microsoft work continuously to advance their respective fields.<em> Abstracts </em>brings its audience to the cutting edge with them through short, compelling conversations about new and noteworthy achievements. </p>
+
+
+
+<p>In this episode, Research Fellow <a href="https://www.microsoft.com/en-us/research/people/t-pchitale/?msockid=35739e94ab6c69d41b738b93aa076831">Pranjal Chitale</a> joins host Gretchen Huizinga to discuss&nbsp;the paper <a href="https://www.microsoft.com/en-us/research/publication/cvqa-culturally-diverse-multilingual-visual-question-answering-benchmark/">“CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark,”</a> an oral presentation at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/">Conference on Neural Information Processing Systems (NeurIPS)</a>. CVQA, which comprises questions and images representative of 31 languages and the cultures of 30 countries, was created in collaboration with native speakers and cultural experts to evaluate how well models perform across diverse linguistic and cultural contexts, an important step toward improving model inclusivity.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cvqa-culturally-diverse-multilingual-visual-question-answering-benchmark/">Read the paper</a></div>
+
+
+
+<div class="wp-block-button is-style-fill-download"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://huggingface.co/datasets/afaji/cvqa" target="_blank" rel="noreferrer noopener">Get the dataset</a></div>
+</div>
+
+
+<div class="wp-block-msr-show-more">
+	<div class="bg-neutral-100 p-5">
+		<div class="show-more-show-less" data-mount="show-more-show-less">
+			<div>
+				<span>
+					
+
+<h2 class="wp-block-heading" id="transcript">Transcript</h2>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p><strong>GRETCHEN HUIZINGA:</strong> Welcome to <em>Abstracts</em>, a Microsoft Research Podcast that puts the spotlight on world-class research in brief. I’m Gretchen Huizinga. In this series, members of the research community at Microsoft give us a quick snapshot—or a <em>podcast abstract</em>— of their new and noteworthy papers.</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+
+
+<p>Today I&#8217;m talking to Pranjal Chitale, a research fellow at Microsoft Research India. Pranjal is coauthor of a paper called “CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark,” and this paper is an oral presentation at this week&#8217;s 38th annual Conference on Neural Information Processing Systems, or NeurIPS, in Vancouver, BC. Pranjal, thanks for joining us today on <em>Abstracts</em>!<s></s></p>
+
+
+
+				</span>
+				<span id="show-more-show-less-toggle-3" class="show-more-show-less-toggleable-content">
+					
+
+
+
+<p><strong>PRANJAL CHITALE:</strong> Hi, Gretchen. Thanks for having me.</p>
+
+
+
+<p><strong>HUIZINGA:</strong> So, Pranjal, give us an overview of this paper. In a couple sentences, what problem are you trying to solve, and why should people care about it?</p>
+
+
+
+<p><strong>CHITALE:</strong> So we are witnessing some exciting times as LLMs are rapidly evolving as tools for countless use cases. While most of these LLMs were initially leveraged for natural language processing tasks, they are now expanded across languages and modalities. However, a major gap lies in the availability of multimodal data for non-English languages. Therefore, most multimodal models might not have coverage for non-English languages altogether or might just heavily rely on translations of the associated text in English-centric datasets so as to support multiple languages. The drawback of this approach is that it often misses the cultural nuances of local languages. And another reason why this is not optimal is the images are mostly Western-centric [and] therefore would not be well reflective of the local culture of a lot of regions. So this kind of bias can skew these models towards a Western perspective, raising concerns about inclusivity and safety of the content which they generate when serving a global population, which involves multicultural and multilingual users. Therefore, for a truly inclusive AI ecosystem, models must demonstrate cultural understanding to ensure that the generated content is safe, respectful for diverse communities. Evaluating cultural awareness, though, is extremely challenging because how to define culture itself is an unsolved problem. However, in this work, we are trying to take a step towards having a proxy which could measure cultural understanding.</p>
+
+
+
+<p><strong>HUIZINGA:</strong> Well, talk about how you did this. What methodology did you use for this paper, and what were your major findings?</p>
+
+
+
+<p><strong>CHITALE:</strong> Now that we have defined our broader problem, it is important to decide the scope of our solution because, as we discussed, culture is an umbrella term. So we need to define a smaller scope for this problem. We chose visual question answering, which is a multimodal task, and it is one of the most critical multimodal tasks for the scope of this work. So recognizing the limitations of existing VQA benchmarks, which often rely on translations and lack cultural representation, we developed CVQA, which is <em>Culturally-diverse multilingual VQA</em> benchmark. CVQA spans 30 countries, 31 languages, and has over 10,000 culturally nuanced questions, which were crafted by native speakers and cultural experts. So our focus was on creating questions which required what we term as <em>cultural common sense</em> to answer. For instance, with just the image, it is not possible to answer the question. You need some cultural awareness about the local culture to be able to answer the question. So these questions draw inspiration from knowledge of local culture. So one important aspect of this dataset is that we include both local language as well as English variants of the same question to allow robust testing of models across linguistic concepts. I would say the crux of this effort is that while most of the prior efforts may be small in terms of language—it could be language-group specific or country specific for most—but we wanted this to be a much larger global-scale collaborative effort. So this covers 31 languages across 30 countries. So to build CVQA, we worked with qualified volunteers from diverse age group and genders, ensuring that the questions authentically represented their cultures. So images which were collected, those were ensured to be copyright free, grounded in culture, and safe for work with strict guidelines to ensure that we avoid images which reflect some stereotypes or privacy violations. And we also had 10 categories, which involved topics ranging from daily life, sports, cuisine to history of the region, so a holistic view of the culture of the region. So each question was crafted as a multiple-choice task with challenging answer options which required both the image as well as cultural knowledge to solve. We also employed a maker-checker approach to ensure quality and consistency.</p>
+
+
+
+<p><strong>HUIZINGA:</strong> So you&#8217;ve created the benchmark. You&#8217;ve tested it. What were your major findings?</p>
+
+
+
+<p><strong>CHITALE:</strong> Now that we have created a benchmark, the next step is to evaluate how these multimodal models are performing on this benchmark. So we benchmark several state-of-the-art multimodal models, which include both open-source offerings like CLIP, BLIP, LLaVA-1.5, and proprietary offerings like GPT-4o or Gemini 1.5 Flash. So what we observed is there is a huge gap when it comes … in performance when we compare these proprietary offerings versus the open-source models. So GPT-4o was the highest-performing model with 75.4% accuracy on English prompts and 74.3% accuracy on local prompts. However, the story is completely different when we go to open-source models. These open-source models significantly lag behind the proprietary models. And one key finding over these open-source models is that these models perform even worse when prompted in the native language when we compare it to prompting in English. This potentially highlights that these models lack multilingual understanding capabilities, which may be because multilingual training data is pretty scarce.</p>
+
+
+
+<p><strong>HUIZINGA:</strong> Yeah.</p>
+
+
+
+<p><strong>CHITALE:</strong> So LLaVA-1.5 turned out to be the best open-source model. So one thing to notice, LLaVA-1.5 performs well across a large set of English VQA benchmarks, but when it comes to cultural understanding, it is a pretty weak model. Further, we also did some ablations to understand if adding location-specific information to the textual prompts has some impact or not, but we identified that it does not result in any significant performance improvements. Further, we also conducted a category-wise analysis. So, as we had mentioned, there are 10 categories to which these images belong. So what we observed is that certain categories, like people and everyday life, consistently saw higher accuracy across a large set of models. This may be likely due to abundance of human activity data in training datasets. However, when it comes to niche categories like cooking and food, pop culture, which are much more challenging, especially in local languages, these models struggle. Therefore, these are the kind of highly diverse cultural contexts which need improvement.</p>
+
+
+
+<p><strong>HUIZINGA:</strong> How&#8217;s this work going to make an impact outside the lab and in the real world?</p>
+
+
+
+<p><strong>CHITALE:</strong> CVQA is significant because it addresses a fundamental gap in how we evaluate vision-language and multimodal models today. While proprietary models are making impressive strides, open-source models, which are more accessible and easier to deploy, significantly lag behind in terms of cultural awareness and safety. So CVQA fills this gap and provides a much-needed benchmark to help us identify these gaps in the first place. So as to fix them, we first need to identify the gaps, and whether we are progressing or not can be captured by this benchmark. So for the real world, this benchmark does have some far-reaching implications. Models which understand culture are not just technically better, but they would create interactions which are far more engaging, natural, and safe for users from diverse backgrounds. So this benchmark offers entirely new axis for improvement, cultural awareness, and linguistic diversity. Therefore, by improving a model&#8217;s ability to handle culturally nuanced questions, CVQA ensures researchers and developers think beyond accuracy and also focus on cultural awareness and inclusivity before shipping these models into production.</p>
+
+
+
+<p><strong>HUIZINGA:</strong> Pranjal, what are the unanswered questions or unsolved problems in this field, and what do you plan to do about it?</p>
+
+
+
+<p><strong>CHITALE:</strong> So while CVQA makes some strides in addressing cultural and linguistic diversity, there is still much more to explore in this space. So this dataset only covers 31 languages and cultures, but this is just, like, a subset of the incredible diversity that exists globally. Many languages and cultures remain underrepresented, especially some of them are endangered or have limited digital resources. So expanding CVQA to include more of these languages would be a natural next step. Secondly, CVQA just focuses on single-turn question-answer pairs. But in reality, human interaction is often multi-turn and conversational in nature. So a multi-turn version of CVQA could better simulate real-world use cases and challenge models to maintain cultural and contextual awareness over extended dialogues. Another interesting area is personalization. So it would be very interesting if we could teach models to adapt to a user&#8217;s cultural background, preferences, or even regional nuances in real time. This remains a significant challenge, although this benchmark could help us move a step towards our broader goal.</p>
+
+
+
+<p>[MUSIC]<s></s></p>
+
+
+
+<p><strong>HUIZINGA:</strong> Well, Pranjal Chitale, this is super important research, and thank you for joining us today. To our listeners, thanks for tuning in. If you&#8217;re interested in learning more about this paper, you can find it at aka.ms/abstracts. You can also find it on arXiv and on the NeurIPS website. And if you&#8217;re at NeurIPS, you can also go hear about it. See you next time on <em>Abstracts</em>!</p>
+
+
+
+<p>[MUSIC FADES]<s></s></p>
+
+				</span>
+			</div>
+			<button
+				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
+				aria-expanded="false"
+				data-show-less-text="Show less"
+				type="button"
+				aria-controls="show-more-show-less-toggle-3"
+				aria-label="Show more content"
+				data-alternate-aria-label="Show less content">
+				Show more			</button>
+		</div>
+	</div>
+</div>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Ideas: Economics and computation with Nicole Immorlica</title>
 		<link>https://www.microsoft.com/en-us/research/podcast/ideas-economics-and-computation-with-nicole-immorlica/</link>
 		
@@ -32,11 +490,11 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-economics-and-computation-with-nicole-immorlica/">Ideas: Economics and computation with Nicole Immorlica</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1401" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1.jpg" alt="Line illustration of Nicole Immorlica" class="wp-image-1107630" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1.jpg 1401w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1401px) 100vw, 1401px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1401" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1.jpg" alt="Line illustration of Nicole Immorlica" class="wp-image-1107630" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1.jpg 1401w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1401px) 100vw, 1401px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
-	<iframe src="https://player.blubrry.com/?podcast_id=139256805&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139256805&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
 </div>
 
 
@@ -161,7 +619,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-1" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-4" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -603,7 +1061,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-1"
+				aria-controls="show-more-show-less-toggle-4"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -633,7 +1091,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus: Week of December 2, 2024" class="wp-image-1106946" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus: Week of December 2, 2024" class="wp-image-1106946" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 
@@ -656,8 +1114,8 @@
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--2"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Read the paper</a></div>
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--5"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Read the paper</a></div>
 </div>
 
 
@@ -688,8 +1146,8 @@
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--3"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/">Read the paper</a></div>
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--6"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/">Read the paper</a></div>
 </div>
 
 
@@ -699,30 +1157,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085514">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085526">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: blog post</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/graphrag-auto-tuning-provides-rapid-adaptation-to-new-domains/" aria-label="GraphRAG auto-tuning provides rapid adaptation to new domains" data-bi-cN="GraphRAG auto-tuning provides rapid adaptation to new domains" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/GraphRag-3-BlogHeroFeature-1400x788-1.png" alt="GraphRAG image on blue to green gradient" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/whats-your-story-lex-story/" aria-label="What’s Your Story: Lex Story" data-bi-cN="What’s Your Story: Lex Story" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Lex-Story_WYS_Hero_Feature_1400x788.jpg" alt="photo of Lex Story for the What's Your Story episode of the Microsoft Research podcast" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">GraphRAG auto-tuning provides rapid adaptation to new domains</h2>
+									<h2 class="h4">What’s Your Story: Lex Story</h2>
 				
-								<p class="large">GraphRAG uses LLM-generated knowledge graphs to substantially improve complex Q&A over retrieval-augmented generation (RAG). Discover automatic tuning of GraphRAG for new datasets, making it more accurate and relevant.</p>
+								<p class="large">Model maker and fabricator Lex Story helps bring research to life through prototyping. He discusses his take on failure; the encouragement and advice that has supported his pursuit of art and science; and the sabbatical that might inspire his next career move.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/graphrag-auto-tuning-provides-rapid-adaptation-to-new-domains/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="GraphRAG auto-tuning provides rapid adaptation to new domains" target="_blank">
-							Read more						</a>
+						<a href="https://www.microsoft.com/en-us/research/podcast/whats-your-story-lex-story/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="What’s Your Story: Lex Story" target="_blank">
+							Listen now						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -748,12 +1206,12 @@
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--4"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">Read the paper</a></div>
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-6 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--7"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">Read the paper</a></div>
 
 
 
-<div class="wp-block-button is-style-outline is-style-outline--5"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://aka.ms/llm2clip" target="_blank" rel="noreferrer noopener">Learn more about LLM2CLIP</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--8"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://aka.ms/llm2clip" target="_blank" rel="noreferrer noopener">Learn more about LLM2CLIP</a></div>
 </div>
 
 
@@ -780,8 +1238,8 @@
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--6"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">Read the paper</a></div>
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-7 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--9"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">Read the paper</a></div>
 </div>
 </div>
 
@@ -990,30 +1448,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085526">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085496">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Blog post</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/whats-your-story-lex-story/" aria-label="What’s Your Story: Lex Story" data-bi-cN="What’s Your Story: Lex Story" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Lex-Story_WYS_Hero_Feature_1400x788.jpg" alt="photo of Lex Story for the What's Your Story episode of the Microsoft Research podcast" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/eureka-evaluating-and-understanding-progress-in-ai/" aria-label="Eureka: Evaluating and understanding progress in AI" data-bi-cN="Eureka: Evaluating and understanding progress in AI" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/NEWEureka-2024-BlogHeroFeature-1400x788-1-66e90c195464d.jpg" alt="White icons representing the Eureka Experiment Pipeline -- PromptProcessing, Inference, PromptProcessing, Inference, DataProcessing, EvalReporting -- on blue to green gradient background." />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">What’s Your Story: Lex Story</h2>
+									<h2 class="h4">Eureka: Evaluating and understanding progress in AI</h2>
 				
-								<p class="large">Model maker and fabricator Lex Story helps bring research to life through prototyping. He discusses his take on failure; the encouragement and advice that has supported his pursuit of art and science; and the sabbatical that might inspire his next career move.</p>
+								<p class="large">How can we rigorously evaluate and understand state-of-the-art progress in AI? Eureka is an open-source framework for standardizing evaluations of large foundation models, beyond single-score reporting and rankings. Learn more about the extended findings. </p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/podcast/whats-your-story-lex-story/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="What’s Your Story: Lex Story" target="_blank">
-							Listen now						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/eureka-evaluating-and-understanding-progress-in-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Eureka: Evaluating and understanding progress in AI" target="_blank">
+							Read more						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1202,30 +1660,30 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="931956">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085496">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: On-demand video</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Blog post</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" aria-label="AI Explainer: Foundation models ​and the next era of AI" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AIEx01_blog_hero_1400x788.png" alt="a screenshot of a computer screen shot of a man" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/eureka-evaluating-and-understanding-progress-in-ai/" aria-label="Eureka: Evaluating and understanding progress in AI" data-bi-cN="Eureka: Evaluating and understanding progress in AI" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/NEWEureka-2024-BlogHeroFeature-1400x788-1-66e90c195464d.jpg" alt="White icons representing the Eureka Experiment Pipeline -- PromptProcessing, Inference, PromptProcessing, Inference, DataProcessing, EvalReporting -- on blue to green gradient background." />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">AI Explainer: Foundation models ​and the next era of AI</h2>
+									<h2 class="h4">Eureka: Evaluating and understanding progress in AI</h2>
 				
-								<p class="large">Explore how the transformer architecture, larger models and more data, and in-context learning have helped advance AI from perception to creation.</p>
+								<p class="large">How can we rigorously evaluate and understand state-of-the-art progress in AI? Eureka is an open-source framework for standardizing evaluations of large foundation models, beyond single-score reporting and rankings. Learn more about the extended findings. </p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Watch video" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-							Watch video						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/eureka-evaluating-and-understanding-progress-in-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Eureka: Evaluating and understanding progress in AI" target="_blank">
+							Read more						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1830,7 +2288,7 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 
 				</span>
-				<span id="show-more-show-less-toggle-7" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-10" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -2052,7 +2510,7 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-7"
+				aria-controls="show-more-show-less-toggle-10"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -2080,587 +2538,6 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 <p><a href="#_ftnref4" id="_ftn4">[4]</a> For more information, check out the paper <a href="https://www.microsoft.com/en-us/research/publication/mofdiff-coarse-grained-diffusion-for-metal-organic-framework-design/?msockid=3be03cfe91b667f415c429e2900566db">MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design</a>.</p>
 <span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-the-journey-to-dna-data-storage/">Ideas: The journey to DNA data storage</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Introducing Yasuyuki Matsushita: Tackling societal challenges with AI at Microsoft Research Asia &#8211; Tokyo </title>
-		<link>https://www.microsoft.com/en-us/research/blog/introducing-yasuyuki-matsushita-tackling-societal-challenges-with-ai-at-microsoft-research-asia-tokyo/</link>
-		
-		<dc:creator><![CDATA[Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 16:00:00 +0000</pubDate>
-				<category><![CDATA[Research Blog]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1104399</guid>
-
-					<description><![CDATA[<p>Yasuyuki Matsushita rejoins Microsoft to lead the new Microsoft Research Asia - Tokyo lab. Learn more about his journey and his perspective on the Tokyo lab's role in evolution of AI.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/blog/introducing-yasuyuki-matsushita-tackling-societal-challenges-with-ai-at-microsoft-research-asia-tokyo/">Introducing Yasuyuki Matsushita: Tackling societal challenges with AI at Microsoft Research Asia &#8211; Tokyo </a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Earlier this year, Microsoft Research <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://news.microsoft.com/apac/2024/04/10/microsoft-to-invest-us2-9-billion-in-ai-and-cloud-infrastructure-in-japan-while-boosting-the-nations-skills-research-and-cybersecurity/?msockid=397efc5596ce69550b73ee32976668d9">announced<span class="sr-only"> (opens in new tab)</span></a> its newest lab in Tokyo, Japan. Today, we are celebrating its grand opening, reinforcing Microsoft Research&#8217;s commitment to AI research across the Asia-Pacific region. This new lab will focus on embodied AI, well-being and neuroscience, societal AI, and industry innovation—all areas that align with Japan’s socioeconomic priorities. This initiative will enhance collaboration with local academic and industrial partners, contributing to global innovation and talent development. </p>
-
-
-
-<p>We recently spoke with Yasuyuki Matsushita, head of the newly established Tokyo lab. Matsushita, who worked at Microsoft Research Asia from 2003 to 2015, served as a professor at Osaka University for the past decade, before returning in October. He reflects on his journey, the evolution of technology, and the opportunities ahead for Microsoft Research Asia &#8211; Tokyo.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="678" height="1017" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/image.jpeg" alt="Yasuyuki Matsushita, Senior Principal Research Manager, Microsoft Research Asia - Tokyo" class="wp-image-1104402" style="width:459px;height:auto" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/image.jpeg 678w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/image-200x300.jpeg 200w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/image-120x180.jpeg 120w" sizes="auto, (max-width: 678px) 100vw, 678px" /><figcaption class="wp-element-caption">Yasuyuki Matsushita, Microsoft Research Asia &#8211; Tokyo</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading h3" id="why-return-to-microsoft-research-asia">Why return to Microsoft Research Asia?</h2>
-
-
-
-<p><strong>Question:</strong> We are excited to have you leading the new lab in Tokyo. You worked at Microsoft Research Asia in Beijing from 2003 to 2015 before transitioning to academia. What motivated you to return after nearly a decade? </p>
-
-
-
-<p><strong>Yasuyuki Matsushita:</strong> Microsoft Research Asia has always been an exceptional place for conducting cutting-edge research, especially in the AI era. Earlier this year, I learned about Microsoft Research Asia’s expansion, including the establishment of a new lab in Tokyo. This presented an exciting opportunity to make a meaningful impact both locally and globally, sparking my motivation to return. Additionally, Microsoft is at the forefront of AI advancements, making this an ideal moment to re-engage. I’m confident that my work can contribute meaningfully to this dynamic field. The pace of AI development today is unmatched, making this an exhilarating time to be involved. </p>
-
-
-
-<h2 class="wp-block-heading h3" id="what-has-changed-over-the-decade">What has changed over the decade?&nbsp;</h2>
-
-
-
-<p><strong>Question:</strong> Now that you’ve been back for a few weeks, from your perspective, what has changed at Microsoft Research Asia, and what has remained the same since you were last here? </p>
-
-
-
-<p><strong>Yasuyuki Matsushita:</strong> The most immediate change I’ve noticed is the array of employee tools and resources, which have evolved significantly over the past decade. I’m still familiarizing myself with these new systems, designed to optimize efficiency and collaboration. Over the past ten years, Microsoft has played a key role in driving digital transformation for other companies, and it has also transformed internally. </p>
-
-
-
-<p>Beyond these changes, much of what made Microsoft Research Asia unique remains the same. The culture and people continue to foster an environment of innovation and collaboration. The organization still attracts exceptional talent, and the spirit of research is as vibrant as ever. One of its greatest strengths is its open, collaborative approach. It has maintained long-standing partnerships with universities and research institutions, which encourage cross-regional, cross-cultural, and interdisciplinary exchanges. This synergy stimulates innovation and supports industry development. The commitment to excellence remains at the heart of Microsoft Research Asia&#8217;s identity. </p>
-
-
-
-<h2 class="wp-block-heading h3" id="plans-for-the-microsoft-research-asia-tokyo-lab">Plans for the Microsoft Research Asia &#8211; Tokyo lab&nbsp;</h2>
-
-
-
-<p><strong>Question</strong>: With Microsoft Research Asia expanding regionally to places like Tokyo, Vancouver, Singapore, and Hong Kong, what are your plans as the head of the Tokyo lab, and how do you see it contributing to the region’s innovation ecosystem?</p>
-
-
-
-<p><strong>Yasuyuki Matsushita:</strong> My primary goal is to align the Tokyo lab’s growth with Microsoft Research Asia’s mission to advance science and technology for the benefit of humanity. The research efforts we’re focusing on in this lab aim to address pressing societal issues while advancing AI technologies to benefit society as a whole. </p>
-
-
-
-<p>For instance, Japan’s aging population presents unique challenges that require efficient societal solutions—an issue faced by many nations today. Through our research, we aim to generate insights that can be applied globally to proactively address and mitigate such challenges. </p>
-
-
-
-<p>Japan also has a strong legacy of scientific research in fields like electronics, materials science, and robotics. Its advanced industrial base, featuring renowned companies across the automotive, electronics, and machinery sectors, provides rich application scenarios for our research outcomes. Additionally, Japan’s robust education system supplies an intellectual foundation crucial for our in-depth research. </p>
-
-
-
-<p>We’re dedicated to maintaining open research practices. By publishing our findings and open-sourcing our tools, we ensure our work benefits the broader industry and enriches the global knowledge pool. Our goal is to share insights that drive societal progress and innovation worldwide.</p>
-
-
-
-<h2 class="wp-block-heading h3" id="cultivating-the-next-generation">Cultivating the next generation&nbsp;</h2>
-
-
-
-<p><strong>Question:</strong> Talent is at the heart of Microsoft Research’s mission and culture. What kind of talent is Microsoft Research Asia &#8211; Tokyo looking for? In what ways can the Tokyo lab enhance its efforts to cultivate the next generation of tech innovators for the region? </p>
-
-
-
-<p><strong>Yasuyuki Matsushita:</strong> One of the key advantages of being part of Microsoft is the close connection we have to real-world applications. This bridge between research and practice allows our work to have a direct societal impact, ensuring that innovative technology results in meaningful and beneficial outcomes. </p>
-
-
-
-<p>When recruiting new talent, we seek bright, self-driven individuals with an innate curiosity and a passion for solving societal challenges. The most vital trait we look for is a deep desire to understand the “why” behind complex problems. While technical expertise is essential, a commitment to addressing social issues fuels creativity and drives meaningful progress. This blend of curiosity and purpose sparks innovation and propels us forward at Microsoft Research Asia. </p>
-
-
-
-<p>At the Tokyo lab, a core part of our vision is cultivating the next wave of tech innovators. We plan to build on the legacy of successful talent programs that Microsoft Research Asia has championed throughout the region, like joint research initiatives, visiting scholar programs, and internship opportunities. These provide early career professionals and students with invaluable hands-on experiences, equipping them with essential research skills and deepening their understanding of complex technological challenges. </p>
-
-
-
-<p>We’re committed to creating a nurturing environment where talent can thrive, collaborate, and contribute to the global tech landscape. By combining innovation with real-world impact, we aim to inspire the next generation to push boundaries and advance society.</p>
-
-
-
-<h2 class="wp-block-heading h3" id="rapid-evolution-in-computer-vision">Rapid evolution in computer vision&nbsp;</h2>
-
-
-
-<p><strong>Question:</strong> In today’s world, everything is moving toward digitization and intelligence. Ten years ago, your research focused on photometry and video analysis. Can you share some key outcomes from that period and explain how you see emerging technologies like AI influencing the field of computer vision? </p>
-
-
-
-<p><strong>Yasuyuki Matsushita:</strong> Back then, my research centered on computer vision, specifically on photometry for 3D reconstruction and video analysis aimed at enhancing video quality. One of the standout projects during that period was the development of a gigapixel camera capable of capturing high-resolution 3D information. This camera played a crucial role in the <a href="https://www.microsoft.com/en-us/research/video/eheritage-program-collaboration-with-dunhuang-academy/">Dunhuang Mogao Grottoes project</a>, which sought to digitally preserve the cultural heritage of Dunhuang’s murals and Buddha shrines with unprecedented accuracy. <span data-contrast="auto" xml:lang="EN-US" lang="EN-US" class="TextRun EmptyTextRun SCXW203067509 BCX8" style="-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; font-size: 12pt; line-height: 20.85px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-variant-ligatures: none !important;"></span> </p>
-
-
-
-<p>Another notable project was the development of video stabilization technology, which was integrated into Windows 7 as part of Media Foundation. This technology improved video quality by compensating for unwanted camera movements, delivering smoother and more professional-looking output. The creation of real-time algorithms capable of processing and stabilizing video was groundbreaking at that time. </p>
-
-
-
-<p>Since then, the introduction of deep learning, large datasets, and sophisticated neural network architectures has propelled computer vision to new heights. Tasks that were once considered difficult, such as object detection, recognition, and segmentation, are now standard with modern AI techniques. Current research continues to push the boundaries by exploring innovative network architectures, new learning strategies, and enhanced datasets. A particularly exciting trend is the use of AI in real-world interactive scenarios, leading to the emergence of embodied AI, which is a major focus of my current work.</p>
-
-
-
-<h2 class="wp-block-heading h3" id="understanding-embodied-ai-beyond-robotics">Understanding embodied AI beyond robotics&nbsp;</h2>
-
-
-
-<p><strong>Question:</strong> Your current research interests include embodied AI, which is also one of the key areas at Microsoft Research Asia &#8211; Tokyo. What exactly is embodied AI, and how does it differ from robotics? </p>
-
-
-
-<p><strong>Yasuyuki Matsushita:</strong> Embodied AI goes beyond traditional robotics. While robots are typically machines equipped with actuators designed to execute specific tasks, embodied AI focuses on developing intelligent systems that can perform complex tasks while understanding and interacting within physical and virtual environments. Robotics and AI have developed independently, but embodied AI is the convergence of these two fields, integrating AI with physical agents that can perceive, act, and learn in dynamic real-world environments. </p>
-
-
-
-<p>This field is inherently interdisciplinary, involving aspects such as robotic control, reinforcement learning, spatial awareness, human-robot interaction, reasoning, and more. For instance, embodied AI includes the ability to infer cause and effect, such as understanding that an unsupported laptop will fall due to gravity. These types of interactions and interpretations stem from engaging with and understanding the physical world, making embodied AI an exciting and multifaceted area of research. </p>
-
-
-
-<p>Given the complexity of embodied AI, no single organization can cover all aspects of its development alone. We look forward to collaborating with local industry and academic institutions in Japan, leveraging their expertise alongside our strengths in AI to advance the field. </p>
-
-
-
-<h2 class="wp-block-heading h3" id="advice-for-aspiring-researchers-in-computer-vision-and-ai">Advice for aspiring researchers in computer vision and AI&nbsp;</h2>
-
-
-
-<p><strong>Question:</strong> You&#8217;ve had an extensive career spanning academia and industry. From your experience as both an educator and a researcher, what advice would you give to young people interested in pursuing research in computer vision and AI? </p>
-
-
-
-<p><strong>Yasuyuki Matsushita:</strong> For students interested in computer vision and AI, a strong foundation in mathematics and computer science is essential, even as specific research topics and technologies evolve. A deep understanding of fundamental mathematical concepts, such as gradients, Jacobians, and vector spaces, is indispensable. Mastery of these principles will be beneficial regardless of changes in programming languages or development platforms. </p>
-
-
-
-<p>Maintaining a mindset of continuous learning is equally important, as the field is constantly evolving. For example, deep learning was not as prominent a decade ago but is now central to the field. At Microsoft, we emphasize the importance of a growth mindset—being adaptable, open to new technologies, and willing to pivot with industry advancements. Early career professionals should cultivate the ability to quickly acquire new skills while building on their foundational knowledge. This adaptability is key to long-term success in research and development.</p>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/introducing-yasuyuki-matsushita-tackling-societal-challenges-with-ai-at-microsoft-research-asia-tokyo/">Introducing Yasuyuki Matsushita: Tackling societal challenges with AI at Microsoft Research Asia &#8211; Tokyo </a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>BiomedParse: A foundation model for smarter, all-in-one biomedical image analysis</title>
-		<link>https://www.microsoft.com/en-us/research/blog/biomedparse-a-foundation-model-for-smarter-all-in-one-biomedical-image-analysis/</link>
-		
-		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
-		<pubDate>Mon, 18 Nov 2024 10:14:40 +0000</pubDate>
-				<category><![CDATA[Research Blog]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1101105</guid>
-
-					<description><![CDATA[<p>BiomedParse reimagines medical image analysis, integrating advanced AI to capture complex insights across imaging types—a step forward for diagnostics and precision medicine.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/blog/biomedparse-a-foundation-model-for-smarter-all-in-one-biomedical-image-analysis/">BiomedParse: A foundation model for smarter, all-in-one biomedical image analysis</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1.jpg" alt="A stylized illustration of a green line-drawn hand holding a transparent prism with colorful bands of light being refracted through it against a black background." class="wp-image-1102929" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/BiomedParse-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-
-<p>In cancer diagnosis or advanced treatments like immunotherapy, every detail in a medical image counts. Radiologists and pathologists rely on these images to track tumors, understand their boundaries, and analyze how they interact with surrounding cells. This work demands pinpoint accuracy across several tasks—identifying whether a tumor is present, locating it precisely, and mapping its contours on complex CT scans or pathology slides.&nbsp;</p>
-
-
-
-<p>Yet, these crucial steps—object recognition, detection, and segmentation—are often tackled separately, which can limit the depth of analysis. Current tools like <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://www.nature.com/articles/s41467-024-44824-z" target="_blank" rel="noreferrer noopener">MedSAM<span class="sr-only"> (opens in new tab)</span></a> and <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://segment-anything.com/" target="_blank" rel="noreferrer noopener">SAM<span class="sr-only"> (opens in new tab)</span></a> focus on segmentation only, thus missing out on the opportunity to blend these insights holistically and relegating object as an afterthought.&nbsp;</p>
-
-
-
-<p>In this blog, we introduce <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://www.nature.com/articles/s41592-024-02499-w" target="_blank" rel="noreferrer noopener">BiomedParse<span class="sr-only"> (opens in new tab)</span></a>, a new approach for holistic image analysis by treating object as the first-class citizen. By unifying object recognition, detection, and segmentation into a single framework, BiomedParse allows users to specify what they’re looking for through a simple, natural-language prompt. The result is a more cohesive, intelligent way of analyzing medical images that supports faster, more integrated clinical insights. </p>
-
-
-
-<p>While biomedical segmentation datasets abound, there are relatively few prior works on object detection and recognition in biomedicine, let alone datasets covering all three tasks. To pretrain BiomedParse, we created the first such dataset by harnessing OpenAI’s GPT-4 for data synthesis from <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://huggingface.co/datasets/microsoft/BiomedParseData" target="_blank" rel="noreferrer noopener">standard segmentation datasets<span class="sr-only"> (opens in new tab)</span></a>.</p>
-
-
-
-<p>BiomedParse is a single&nbsp;foundation model that can accurately segment biomedical objects across nine modalities, as seen in Figure 1, outperforming prior best methods while requiring orders of magnitude fewer user operations, as it doesn’t require an object-specific bounding box. By learning semantic representation for individual object types, BiomedParse’s superiority is particularly pronounced in the most challenging cases with irregularly shaped objects. Through joint pretraining of object recognition, detection, and segmentation, BiomedParse opens new possibilities for holistic image analysis and image-based discovery in biomedicine.&nbsp;&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="2185" height="2560" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure1_BiomedParse-scaled.jpg" alt="a, The GPT-4 constructed ontology showing a hierarchy of object types that are used to unify semantic concepts across datasets. Bar plots showing the number of images containing that object type. b, Bar plot showing the number of image–mask–description triples for each modality in BiomedParseData. CT is abbreviation for Computed Tomography. MRI is abbreviation for Magnetic Resonance Imaging. OCT is abbreviation for Optical Coherence Tomography. c, Flowchart of BiomedParse. BiomedParse takes an image and a text prompt as input and then outputs the segmentation masks for the objects specified in the prompt. Image-specific manual interaction such as bounding box or clicks is not required in our framework. To facilitate semantic learning for the image encoder, BiomedParse also incorporates a learning objective to classify the meta-object type. For online inference, GPT-4 is used to resolve text prompt into object types using the object ontology, which also uses the meta-object type output from BiomedParse to narrow down candidate semantic labels. d, Uniform Manifold Approximation and Projection (UMAP) plots contrasting the text embeddings for different cell types derived from BiomedParse text encoder (left) and PubMedBERT (right). e, UMAP plots contrasting the image embeddings for different cell types derived from BiomedParse image encoder (left) and Focal (right). " class="wp-image-1102950" style="width:825px;height:auto" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure1_BiomedParse-scaled.jpg 2185w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure1_BiomedParse-256x300.jpg 256w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure1_BiomedParse-874x1024.jpg 874w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure1_BiomedParse-768x900.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure1_BiomedParse-1311x1536.jpg 1311w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure1_BiomedParse-1748x2048.jpg 1748w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure1_BiomedParse-154x180.jpg 154w" sizes="auto, (max-width: 2185px) 100vw, 2185px" /><figcaption class="wp-element-caption">Figure 1. Overview of BiomedParse and BiomedParseData<em>.</em></figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="image-parsing-a-unifying-framework-for-holistic-image-analysis">Image parsing: a unifying framework for holistic image analysis&nbsp;</h2>
-
-
-
-<p>Back in 2005, researchers first introduced the concept of “image parsing”—a unified approach to image analysis that jointly conducts object recognition, detection, and segmentation. Built on Bayesian networks, this early model offered a glimpse into a future of joint learning and reasoning in image analysis, though it was limited in scope and application. Fast forward to today, cutting-edge advances in generative AI have breathed new life into this vision. With our model, BiomedParse, we have created a foundation for biomedical image parsing that leverages interdependencies across the three subtasks, thus addressing key limitations in traditional methods. BiomedParse enables users to simply input a natural-language description of an object, which the model uses to predict both the object label and its segmentation mask, thus eliminating the need for a bounding box (Figure 1c). In other words, this joint learning approach lets users segment objects based on text alone.</p>
-
-
-
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085502">
-		
-
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Blog post</span>
-	</p>
-	
-	<div class="row pt-3 pb-4 align-items-center">
-						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-september-9-2024/" aria-label="Research Focus: Week of September 9, 2024" data-bi-cN="Research Focus: Week of September 9, 2024" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/RF49-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus | September 9, 2024" />
-				</a>
-			</div>
-			
-			<div class="msr-promo__content p-3 px-5 col-12 col-md">
-
-									<h2 class="h4">Research Focus: Week of September 9, 2024</h2>
-				
-								<p class="large">Investigating vulnerabilities in LLMs; A novel total-duration-aware (TDA) duration model for text-to-speech (TTS); Generative expert metric system through iterative prompt priming; Integrity protection in 5G fronthaul networks.</p>
-				
-								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-september-9-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Research Focus: Week of September 9, 2024" target="_blank">
-							Read more						</a>
-					</div>
-				</div>
-							</div><!--/.msr-promo__content-->
-	</div><!--/.msr-promo__inner-wrap-->
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
-	
-
-
-<h2 class="wp-block-heading" id="harnessing-gpt-4-for-large-scale-data-synthesis-from-existing-datasets">Harnessing GPT-4 for large-scale data synthesis from existing datasets&nbsp;</h2>
-
-
-
-<p>We created the first dataset for biomedical imaging parsing by harnessing GPT-4 for large-scale data synthesis from 45 existing biomedical segmentation datasets (Figure 1a and 1b). The key insight is to leverage readily available natural-language descriptions already in these datasets and use GPT-4 to organize this often messy, unstructured text with established biomedical object taxonomies.&nbsp;&nbsp;</p>
-
-
-
-<p>Specifically, we use GPT-4 to help create a unifying biomedical object taxonomy for image analysis and harmonize natural language descriptions from existing datasets with this taxonomy. We further leverage GPT-4 to synthesize additional variations of object descriptions to facilitate more robust text prompting.&nbsp;&nbsp;</p>
-
-
-
-<p>This enables us to construct BiomedParseData, a biomedical image analysis dataset comprising over 6 million sets of images, segmentation masks, and text descriptions drawn from more than 1 million images. This dataset includes 64 major biomedical object types, 82 fine-grained subtypes, and spans nine imaging modalities.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="2242" height="2560" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure2_BiomedParse-scaled.jpg" alt="a, Box plot comparing the Dice score between our method and competing methods on 102,855 test instances (image–mask–label triples) across nine modalities. MedSAM and SAM require bounding box as input. We consider two settings: oracle bounding box (minimum bounding box covering the gold mask); bounding boxes generated from the text prompt by Grounding DINO, a state-of-the-art text-based grounding model. Each modality category contains multiple object types. Each object type was aggregated as the instance median to be shown in the plot. n in the plot denotes the number of test instances in the corresponding modality. b, Nine examples comparing the segmentation results by BiomedParse and the ground truth, using just the text prompt at the top. c, Box plot comparing the Dice score between our method and competing methods on a cell segmentation test set with n=42 images. BiomedParse requires only a single user operation (the text prompt ‘Glandular structure in colon pathology’). By contrast, to get competitive results, MedSAM and SAM require 430 operations (one bounding box per an individual cell). d, Five examples contrasting the segmentation results by BiomedParse and MedSAM, along with text prompts used by BiomedParse and bounding boxes used by MedSAM. e, Comparison between BiomedParse and MedSAM on a benign tumor image (top) and a malignant tumor image (bottom). The improvement of BiomedParse over MedSAM is even more pronounced on abnormal cells with irregular shapes. f, Box plot comparing the two-sided K–S test P values between valid text prompt and invalid text prompt. BiomedParse learns to reject invalid text prompts describing object types not present in the image (small P value). We evaluated a total of 4,887 invalid prompts and 22,355 valid prompts. g, Plot showing the precision and recall of our method on detecting invalid text prompts across different K–S test P value cutoff. h,i, Scatter-plots comparing the area under the receiver operating characteristic curve (AUROC) (h) and F1 (i) between BiomedParse and Grounding DINO on detecting invalid descriptions. " class="wp-image-1102956" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure2_BiomedParse-scaled.jpg 2242w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure2_BiomedParse-263x300.jpg 263w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure2_BiomedParse-897x1024.jpg 897w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure2_BiomedParse-768x877.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure2_BiomedParse-1345x1536.jpg 1345w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure2_BiomedParse-1793x2048.jpg 1793w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure2_BiomedParse-158x180.jpg 158w" sizes="auto, (max-width: 2242px) 100vw, 2242px" /><figcaption class="wp-element-caption">Figure 2: Comparison on large-scale biomedical image segmentation datasets.</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="state-of-the-art-performance-across-64-major-object-types-in-9-modalities">State-of-the-art performance across 64 major object types in 9 modalities</h2>
-
-
-
-<p>We evaluated BiomedParse on a large held-out test set with 102,855 image-mask-label sets across 64 major object types in nine modalities. BiomedParse outperformed prior best methods such as MedSAM and SAM, even when oracle per-object bounding boxes were provided. In the more realistic setting when MedSAM and SAM used a state-of-the-art object detector (Grounding DINO) to propose bounding boxes, BiomedParse outperformed them by a wide margin, between 75 and 85 absolute points in dice score (Figure 2a). BiomedParse also outperforms a variety of other prominent methods such as SegVol, Swin UNETR, nnU-Net, DeepLab V3+, and UniverSeg.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="2170" height="2560" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure3_BiomedParse-scaled.jpg" alt="a, Attention maps of text prompts for irregular-shaped objects, suggesting that BiomedParse learns rather faithful representation of their typical shapes. US, ultrasound. b–d, Scatter-plots comparing the improvement in Dice score for BiomedParse over MedSAM with shape regularity in terms of convex ratio (b), box ratio (c) and inversed rotational inertia (d). A smaller number in the x axis means higher irregularity on average. Each dot represents an object type. e, Six examples contrasting BiomedParse and MedSAM on detecting irregular-shaped objects. Plots are ordered from the least irregular one (left) to the most irregular one (right). f,g Comparison between BiomedParseData and the benchmark dataset used by MedSAM in terms of convex ratio (f) and box ratio (g). BiomedParseData is a more faithful representation of real-world challenges in terms of irregular-shaped objects. h, Box plots comparing BiomedParse and competing approaches on BiomedParseData and the benchmark dataset used by MedSAM. BiomedParse has a larger improvement on BiomedParseData, which contains more diverse images and more irregular-shaped objects. The number of object types are as follows: n=50 for MedSAM benchmark and n=112 for BiomedParseData. " class="wp-image-1102965" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure3_BiomedParse-scaled.jpg 2170w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure3_BiomedParse-254x300.jpg 254w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure3_BiomedParse-868x1024.jpg 868w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure3_BiomedParse-768x906.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure3_BiomedParse-1302x1536.jpg 1302w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure3_BiomedParse-1736x2048.jpg 1736w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure3_BiomedParse-153x180.jpg 153w" sizes="auto, (max-width: 2170px) 100vw, 2170px" /><figcaption class="wp-element-caption">Figure 3. Evaluation on detecting irregular-shaped objects.</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="recognizing-and-segmenting-irregular-and-complex-objects">Recognizing and segmenting irregular and complex objects</h2>
-
-
-
-<p>Biomedical objects often have complex and irregular shapes, which present significant challenges for segmentation, even with oracle bounding box. By joint learning with object recognition and detection, BiomedParse learns to model object-specific shapes, and its superiority is particularly pronounced for the most challenging cases (Figure 3). Encompassing a large collection of diverse object types in nine modalities, BiomedParseData also provides a much more realistic representation of object complexity in biomedicine.&nbsp;&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="2276" height="2560" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure4_BiomedParse-scaled.jpg" alt="a, Six examples showing the results of object recognition by our method. Object recognition identifies and segments all objects in an image without requiring any user-provided input prompt. b–d, Scatter-plots comparing the F1 (b), Precision (c) and Recall (d) scores between BiomedParse and Grounding DINO on identifying objects presented in the image. e, Comparison between BiomedParse and Grounding DINO on object identification in terms of median F1 score across different numbers of objects in the image. f, Box plot comparing BiomedParse and MedSAM/SAM (using bounding boxes generated by Grounding DINO) on end-to-end object recognition (including segmentation) in relation to various modalities. g, Comparison between BiomedParse and MedSAM/SAM (using bounding boxes generated by Grounding DINO) on end-to-end object recognition (including segmentation) in relation to numbers of distinct objects in the image." class="wp-image-1102968" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure4_BiomedParse-scaled.jpg 2276w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure4_BiomedParse-267x300.jpg 267w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure4_BiomedParse-910x1024.jpg 910w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure4_BiomedParse-768x864.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure4_BiomedParse-1366x1536.jpg 1366w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure4_BiomedParse-1821x2048.jpg 1821w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Figure4_BiomedParse-160x180.jpg 160w" sizes="auto, (max-width: 2276px) 100vw, 2276px" /><figcaption class="wp-element-caption">Figure 4. Evaluation on object recognition.</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="promising-step-toward-scaling-holistic-biomedical-image-analysis">Promising step toward scaling holistic biomedical image analysis</h2>
-
-
-
-<p>By operating through a simple text prompt, BiomedParse requires substantially less user effort than prior best methods that typically require object-specific bounding boxes, especially when an image contains a large number of objects (Figure 2c). By modeling object recognition threshold, BiomedParse can detect invalid prompt and reject segmentation requests when an object is absent from the image. BiomedParse can be used to recognize and segment all known objects in an image in one fell swoop (Figure 4). By scaling holistic image analysis, BiomedParse can potentially be applied to key precision health applications such as early detection, prognosis, treatment decision support, and progression monitoring.&nbsp;&nbsp;</p>
-
-
-
-<p>Going forward, there are numerous growth opportunities. BiomedParse can be extended to handle more modalities and object types. It can be integrated into advanced multimodal frameworks such as <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://aka.ms/llava-med" target="_blank" rel="noreferrer noopener">LLaVA-Med<span class="sr-only"> (opens in new tab)</span></a> to facilitate conversational image analysis by “talking to the data.” To facilitate research in biomedical image analysis, we have made BiomedParse <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://aka.ms/biomedparse-release" target="_blank" rel="noreferrer noopener">open-source<span class="sr-only"> (opens in new tab)</span></a> with Apache 2.0 license. We’ve also made it available on <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://ai.azure.com/explore/models/MedImageParse/version/3/registry/azureml/latest" target="_blank" rel="noreferrer noopener">Azure AI<span class="sr-only"> (opens in new tab)</span></a> for direct deployment and real-time inference. For more information, check out our <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://microsoft.github.io/BiomedParse/" target="_blank" rel="noreferrer noopener">demo.<span class="sr-only"> (opens in new tab)</span></a>&nbsp;</p>
-
-
-
-<p>BiomedParse is a joint work with Providence and the University of Washington&#8217;s Paul G. Allen School of Computer Science & Engineering, and brings collaboration from multiple teams within Microsoft*. It reflects Microsoft’s larger commitment to advancing multimodal generative AI for precision health, with other exciting progress such as <a href="https://www.microsoft.com/en-us/research/blog/gigapath-whole-slide-foundation-model-for-digital-pathology/" target="_blank" rel="noreferrer noopener">GigaPath<span class="sr-only"> (opens in new tab)</span></a>, <a href="https://www.microsoft.com/en-us/research/publication/large-scale-domain-specific-pretraining-for-biomedical-vision-language-processing/" target="_blank" rel="noreferrer noopener">BiomedCLIP<span class="sr-only"> (opens in new tab)</span></a>,  <a href="https://www.microsoft.com/en-us/research/project/project-maira/" target="_blank" rel="noreferrer noopener">LLaVA-Rad<span class="sr-only"> (opens in new tab)</span></a>, <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://arxiv.org/abs/2310.10765" target="_blank" rel="noreferrer noopener">BiomedJourney<span class="sr-only"> (opens in new tab)</span></a>, <a href="https://www.microsoft.com/en-us/research/publication/rad-dino-exploring-scalable-medical-image-encoders-beyond-text-supervision/" target="_blank" rel="noreferrer noopener">MAIRA<span class="sr-only"> (opens in new tab)</span></a>, <a href="https://www.microsoft.com/en-us/research/publication/rad-dino-exploring-scalable-medical-image-encoders-beyond-text-supervision/" target="_blank" rel="noreferrer noopener">Rad-DINO<span class="sr-only"> (opens in new tab)</span></a>, <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://arxiv.org/pdf/2309.07778v5" target="_blank" rel="noreferrer noopener">Virchow<span class="sr-only"> (opens in new tab)</span></a>. &nbsp;</p>
-
-
-
-<p><em>(Acknowledgment footnote) *: Within Microsoft, it is a wonderful collaboration among Health Futures, MSR Deep Learning, and Nuance.&nbsp;</em></p>
-
-
-
-<p>Paper co-authors: Theodore Zhao, Yu Gu, <a href="https://www.microsoft.com/en-us/research/people/jianwyan/">Jianwei Yang<span class="sr-only"> (opens in new tab)</span></a>, <a href="https://www.microsoft.com/en-us/research/people/naotous/">Naoto Usuyama<span class="sr-only"> (opens in new tab)</span></a>, Ho Hin Lee, Sid Kiblawi, <a href="https://www.microsoft.com/en-us/research/people/tristan/">Tristan Naumann<span class="sr-only"> (opens in new tab)</span></a>, <a href="https://www.microsoft.com/en-us/research/people/jfgao/">Jianfeng Gao<span class="sr-only"> (opens in new tab)</span></a>, Angela Crabtree, Jacob Abel, Christine Moung-Wen, Brian Piening, Carlo Bifulco, Mu Wei, <a href="https://www.microsoft.com/en-us/research/people/hoifung/">Hoifung Poon<span class="sr-only"> (opens in new tab)</span></a>, <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://homes.cs.washington.edu/~swang/">Sheng Wang<span class="sr-only"> (opens in new tab)</span></a></p>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/biomedparse-a-foundation-model-for-smarter-all-in-one-biomedical-image-analysis/">BiomedParse: A foundation model for smarter, all-in-one biomedical image analysis</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>GraphRAG: Improving global search via dynamic community selection</title>
-		<link>https://www.microsoft.com/en-us/research/blog/graphrag-improving-global-search-via-dynamic-community-selection/</link>
-		
-		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
-		<pubDate>Fri, 15 Nov 2024 16:52:47 +0000</pubDate>
-				<category><![CDATA[Research Blog]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1101987</guid>
-
-					<description><![CDATA[<p>Retrieval-augmented generation (RAG) helps AI systems provide more information to a large language model (LLM) when generating responses to user queries. A new method for conducting “global” queries can optimize the performance of global search in GraphRAG.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/blog/graphrag-improving-global-search-via-dynamic-community-selection/">GraphRAG: Improving global search via dynamic community selection</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1.jpg" alt="The image features three white icons on a gradient background transitioning from blue on the left to green on the right. The first icon, located on the left, depicts a hierarchical structure resembling a workflow with connected squares. The middle icon represents GraphRAG (interconnected nodes and lines). The third icon, on the right, shows a globe with a magnifying glass overlaying it, symbolizing global search." class="wp-image-1102437" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-Global-Search-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-
-<p>Retrieval-augmented generation (RAG) allows AI systems to provide additional information and context to a large language model (LLM) when generating a response to a user query. However, traditional RAG-based methods can struggle to retrieve information that requires high-level knowledge of the entire dataset, especially with abstract and global questions such as the keywordless query: “Catch me up on the last two weeks of updates.” These types of queries are known as “global” queries, as they require holistic understanding of the dataset to answer the question. <a href="https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/" target="_blank" rel="noreferrer noopener">GraphRAG</a> aims to tackle these questions in two main steps: indexing and query. The indexing engine first breaks down a collection of text documents into segments which are then clustered into hierarchical communities with entities and relationships connecting each segment up through higher levels of abstraction. We then use an LLM to generate a summary of each community, known as a community report. The indexing engine thus creates a hierarchical knowledge graph of the dataset, with each level in the hierarchy representing a different level of abstraction and summarization of the original material. In the query step, GraphRAG uses this structured knowledge to provide additional context to the LLM to help answer the question. In this blog post, we show a new method for conducting “global” queries that efficiently utilizes the knowledge graph representation and optimizes the performance of global search in GraphRAG.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="static-vs-dynamic-global-search">Static vs. dynamic global search</h2>
-
-
-
-<p>The <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://microsoft.github.io/graphrag/query/global_search/" target="_blank" rel="noreferrer noopener">global search<span class="sr-only"> (opens in new tab)</span></a> algorithm in GraphRAG aims to answer abstract questions that require knowledge of the entire dataset. It generates answers by searching over communities at a predetermined level in the knowledge graph. Then the LLM combines and summarizes all the community reports at this level of abstraction. Finally, the summary is used as additional context for the LLM to generate the response to the user question. This map-reduce process allows the LLM to select relevant text from all the community reports to generate its final answer. This static approach is expensive and inefficient because it includes many lower-level reports that are not informative to the user query. Since it is unlikely that all community reports, especially at a high level, are relevant in answering the query, an approach that first considers the relevancy of the report prior to the resource-intensive map-reduce operation is highly desirable.&nbsp;&nbsp;</p>
-
-
-
-<p>Here, we introduce dynamic community selection to the global search algorithm, which leverages the knowledge graph structure of the indexed dataset. Starting from the root of the knowledge graph, we use an LLM to rate how relevant a community report is in answering the user question. If the report is deemed irrelevant, we simply remove it and its nodes (or sub-communities) from the search process. On the other hand, if the report is deemed relevant, we then traverse down its child nodes and repeat the operation. Finally, only relevant reports are passed to the map-reduce operation to generate the response to the user. Figure 1 illustrates the dynamic community selection process in action.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="517" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-global-dynamics_Figure-1.png" alt="An image that shows the workflow of dynamic community selection in global search. Each node illustrates a community report, and the arrow indicates the rate operation." class="wp-image-1101996" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-global-dynamics_Figure-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-global-dynamics_Figure-1-300x111.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-global-dynamics_Figure-1-1024x378.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-global-dynamics_Figure-1-768x284.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/GraphRAG-global-dynamics_Figure-1-240x89.png 240w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 1: Dynamic community selection workflow</figcaption></figure>
-
-
-
-<p>The dynamic global search approach has two main benefits. First, it prunes irrelevant reports early on, reducing the total number of community reports to be considered in the map-reduce operation. Second, it enables users to search the entire knowledge graph, instead of predefining a static community level, and can lead to more detailed answers. This allows it to collect information at various levels of abstraction. Moreover, the rating operation is a classification problem, which is considerably easier to perform than summarization and text generation, therefore, a less complex model can be used. In our experiments leveraging OpenAI’s models, a GPT-4o-mini rater achieved a very similar retrieval rate as a GPT-4o rater, while operating at a fraction of both cost and time. Overall, we use the smaller and more cost-effective model, GPT-4o-mini, in the rate operation to prune any irrelevant community reports, then we use GPT-4o to perform the map-reduce operation to generate the final response.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="dynamic-community-selection-on-the-ap-news-dataset">Dynamic community selection on the AP News dataset</h2>
-
-
-
-<p>To demonstrate the cost saving that dynamic global search brings while maintaining a similar response quality, we evaluated the two methods side by side on a dataset from AP News. We tested static and dynamic search on 50 global questions and assessed the final response quality using an LLM evaluator. Moreover, we compared the total token cost of the two methods. To compare the two methods directly, we constrained the maximum search depth on dynamic global search so that both methods used the same underlying information.</p>
-
-
-
-<p>We use an LLM evaluator to select the best response (i.e. win rate)&nbsp;on 3 key metrics:&nbsp;</p>
-
-
-
-<ul class="wp-block-list">
-<li>Comprehensiveness: How much detail does the answer provide to cover all the aspects and details of the question?</li>
-
-
-
-<li>Diversity: How varied and rich is the answer in providing different perspectives and insights on the question?</li>
-
-
-
-<li>Empowerment: How well does the answer help the reader understand and make informed judgements about the topic?</li>
-</ul>
-
-
-
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085523">
-		
-
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
-	</p>
-	
-	<div class="row pt-3 pb-4 align-items-center">
-						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" aria-label="Abstracts: August 15, 2024" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Episode-15_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Stylized microphone and sound waves illustration." />
-				</a>
-			</div>
-			
-			<div class="msr-promo__content p-3 px-5 col-12 col-md">
-
-									<h2 class="h4">Abstracts: August 15, 2024</h2>
-				
-								<p class="large">Advanced AI may make it easier for bad actors to deceive others online. A multidisciplinary research team is exploring one solution: a credential that allows people to show they’re not bots without sharing identifying information. Shrey Jain and Zoë Hitzig explain.</p>
-				
-								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-							Listen now						</a>
-					</div>
-				</div>
-							</div><!--/.msr-promo__content-->
-	</div><!--/.msr-promo__inner-wrap-->
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
-	
-
-
-<h2 class="wp-block-heading" id="significant-cost-reduction-while-maintaining-output-quality">Significant cost reduction while maintaining output quality</h2>
-
-
-
-<p>The quality of responses generated from dynamic community selection are comparable to its static counterpart while reducing the total token cost. Our LLM evaluation shows that the output quality of the two methods is similar in the three key metrics across the 50 global questions on the AP News dataset, with no statistical significance between them. More importantly, we observed a significant reduction of total token costs when using the new method, with <strong>an average cost reduction of 77% </strong>over the existing static global search at community level 1. This is due to the large number of community reports being eliminated via the rating process, thus requiring fewer prompt and output tokens needed in the map-reduce operation. For instance, the existing static global search method processes about 1,500 level 1 community reports in the map-reduce operation, while only 470 community reports on average are selected in dynamic search to generate the final answer.&nbsp;&nbsp;</p>
-
-
-
-<p>Moreover, if we allow dynamic search to continue the rating process further to deeper level community reports, we observe an improvement in its final responses. Here, we conducted the same experiment but allowed dynamic search to continue until community level 3. Out of the 50 global questions, 29 included more community reports than our static search baseline, suggesting that some community reports at deeper levels are relevant to the user question. Indeed, we observed a moderate and statistically significant improvement in both comprehensiveness and empowerment.&nbsp; Using an LLM evaluator to score pairs of responses, we observe that dynamic global search scores a win rate of 58% and 60%, respectively, against static search at level 1. Nevertheless, while the rating operation is performed by a smaller model and hence induces negligible cost, it can still lead to a higher overall cost due to the increased number of community reports that the map-reduce operation processes. In this experiment, the total cost with dynamic search at level 3 is 34% higher on average. Table 1 summarizes the results of static search at level 1 against dynamic search at level 1 and 3.&nbsp;</p>
-
-
-
-<table width="100%" align="center" border="1" font-size="80%" cellpadding="3px">
-  <tr>
-    <td rowspan="2">Dynamic search</td>
-    <td rowspan="2" style="text-align: center;">Num. queries</td>
-    <td colspan="3" style="text-align: center;">Win rate against static search (level 1)</td>
-    <td rowspan="2" style="text-align: center;">Relative cost</td>
-</tr>
-  <tr>
-    <td style="text-align: center;">Comprehensiveness</td>
-    <td style="text-align: center;">Diversity</td>
-    <td style="text-align: center;">Empowerment</td>
-  </tr>
-  <tr>
-    <td>Level 1</td>
-    <td style="text-align: center;">50</td>
-    <td style="text-align: center; background-color: #eeeeee;">49.5%</td>
-    <td style="text-align: center; background-color: #eeeeee;">46.0%</td>
-    <td style="text-align: center; background-color: #eeeeee;">48.0%</td>
-    <td style="text-align: center;">-77%</td>
-  </tr>
-  <tr>
-    <td>Level 3</td>
-    <td style="text-align: center;">29*</td>
-    <td style="text-align: center; background-color: #8de971;">58.8%</td>
-    <td style="text-align: center; background-color: #eeeeee;">48.0%</td>
-    <td style="text-align: center; background-color: #8de971;">60.0%</td>
-    <td style="text-align: center;">+34%</td>
-  </tr>
-</table>
-
-
-
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-text-align-center">Table 1. LLM evaluation on dynamic search vs static search at different community levels on global questions. We show the win rates of dynamic search at level 1 and level 3 against static search at level 1, that is the number of times the LLM evaluator prefers the generated responses from dynamic search over static search. Green background indicates there is statistical significance in the win rates, and grey cells if it is not significant. The right-most column shows the average relative token cost against static search at level 1. * Note that we only evaluate answers from dynamic search at community level 3, which contains more community reports than static search at level 1.&nbsp;</p>
-
-
-
-<p>Overall, dynamic community selection achieved a cost reduction of 77% while achieving output quality similar to the baseline static approach. These appear to be promising numbers, but what of the result quality? Let’s examine some direct side-by-side comparisons with an example:&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="comparable-response-quality-and-detail">Comparable response quality and detail</h2>
-
-
-
-<table width="100%" align="center" border="1" font-size="80%" cellpadding="12px">
-  <tr>
-    <td colspan="2">Query: Across the dataset, describe the common trends in vaccination rates for major diseases.</td>
-</tr>
-  <tr style="vertical-align: top;">
-    <td>Static global search at level 1</td>
-    <td>Global search with dynamic community selection at level 3</td>
-  </tr>
-  <tr style="vertical-align: top;">
-    <td>
-
-<p>### Common Trends in Vaccination Rates for Major Diseases </p>
-
-<p>#### Decline in Vaccination Rates </p>
-
-<p>A significant trend observed across various regions is the decline in vaccination rates for major diseases. For instance, Minnesota has experienced a decrease in immunization rates, leading to recent measles outbreaks [Data: Reports (335)]. Similarly, the COVID-19 pandemic has exacerbated this issue, causing a drop in childhood immunization rates in Michigan and other areas [Data: Reports (1231, 915)]. This decline is often attributed to misinformation about vaccines, particularly the false claim linking the MMR vaccine to autism [Data: Reports (912, 1335)]. </p>
-
-<p>#### Impact of COVID-19 </p>
-
-The COVID-19 pandemic has had a profound impact on vaccination rates. Efforts to increase COVID-19 vaccination rates have been a major focus of public health policies, but the pandemic has also led to a decline in routine vaccinations among children [Data: Reports (920, 194)]. The pandemic has influenced public attitudes towards health measures and vaccinations, contributing to broader public health challenges [Data: Reports (920)].</p>
-
-<p>#### Regional Variations </p>
-
-<p>Vaccination rates vary significantly by region. West Virginia, for example, has one of the strictest school vaccination policies in the U.S., resulting in high child immunization rates [Data: Reports (1199)]. In contrast, Idaho has the highest overall childhood vaccination exemption rate in the U.S., posing significant public health risks [Data: Reports (998)]. Illinois faces challenges with low vaccination rates in schools, leading to measles outbreaks [Data: Reports (108, 82)]. </p>
-
-<p>#### Public Health Initiatives </p>
-
-<p>Various public health initiatives have been implemented to address vaccination rates. The CDC plays a crucial role in monitoring and reporting on vaccination rates for diseases such as measles, mumps, and polio, and provides vital information on preventable diseases [Data: Reports (914)]. Programs like the &#8216;Do It For Babydog&#8217; sweepstakes in West Virginia encourage vaccination among residents [Data: Reports (1199)]. Additionally, the Bill & Melinda Gates Foundation is heavily involved in funding and supporting vaccination programs for major diseases such as polio, malaria, HIV, and cholera [Data: Reports (1091)]. </p>
-
-<p>### Conclusion </p>
-
-<p>The dataset reveals a complex landscape of vaccination rates influenced by regional policies, public health initiatives, and the impact of the COVID-19 pandemic. While some regions have managed to maintain high vaccination rates through strict policies and public health campaigns, others face significant challenges due to misinformation and exemption rates. Global efforts and collaborations remain crucial in addressing these challenges and improving vaccination coverage worldwide.</p>
-</td>
-    <td>
-
-<p>### Common Trends in Vaccination Rates for Major Diseases </p>
-
-<p>#### Decline in Vaccination Rates </p>
-
-<p>A significant trend observed across the dataset is the decline in vaccination rates for various diseases, including measles, mumps, rubella (MMR), and polio. <b>This decline is particularly evident among U.S. kindergartners, where vaccination coverage has dropped from 95.2% during the 2019-2020 school year to 93.1% in the 2022-2023 school year</b>. This reduction falls below the 95% threshold needed to achieve herd immunity, putting approximately 250,000 kindergartners at risk each year [Data: Reports (5668, 15469, 15703, 15481, 15471, +more)]. </p>
-
-<p>#### Impact of the COVID-19 Pandemic </p>
-
-<p>The COVID-19 pandemic has had a profound impact on vaccination rates. Efforts to promote COVID-19 vaccinations have been a major focus, with initiatives in regions like Michigan and Illinois offering free meals to students and promoting updated COVID-19 shots [Data: Reports (19125, 15466)]. However, the pandemic has also disrupted routine vaccination programs, leading to lower coverage for diseases such as measles and contributing to recent outbreaks [Data: Reports (15464, 15674, 15482, 15481, +more)]. </p>
-
-<p>#### Regional Variations and Legislative Measures </p>
-
-<p>There are notable regional variations in vaccination rates and exemption rates across the United States. For example, West Virginia has implemented strict immunization requirements for children entering school, resulting in high child immunization rates [Data: Reports (5674, 18874, 18899)]. In contrast, states like Minnesota and Illinois have seen increases in non-medical exemptions, contributing to lower vaccination rates and recent outbreaks [Data: Reports (15483, 15481, 108, 2705, +more)]. </p>
-
-<p>#### Efforts to Improve Vaccination Rates </p>
-
-<p>Various initiatives and legislative measures have been introduced to address declining vaccination rates. For instance, the Government of Sindh introduced a polio vaccination bill that includes provisions for imprisonment for parents who do not vaccinate their children [Data: Reports (15398)]. In the U.S., the CDC has recommended new COVID-19 shots for everyone aged 6 months and older and has launched initiatives to ensure equitable access to vaccines, especially in developing countries [Data: Reports (15847, 15571, 15691, 15694, +more)]. </p>
-
-<p>### Conclusion </p>
-
-<p>The dataset reveals a complex landscape of vaccination rates influenced by the COVID-19 pandemic, vaccine hesitancy, misinformation, and regional variations. While efforts to improve vaccination rates are ongoing, the decline in immunization coverage poses significant public health risks, highlighting the need for continued vigilance and proactive measures to ensure high vaccination rates and prevent outbreaks of vaccine-preventable diseases.</p>
-    </td>
-  </tr>
-</table>
-
-
-
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-text-align-center">Table 2. Generated response from static search (level 1) and dynamic search (level 3) to the same global question on the AP News dataset.&nbsp;</p>
-
-
-
-<p>Table 2 shows an example output from static search at level 1 and dynamic search at level 3 to the same question. While the two outputs contain similar high-level topics, the response from dynamic search provided specific data such as the reduction of vaccination rates in certain demographics. We also notice that the response from dynamic search made significantly more references to the source material, indicated by “[Data Reports]” in the text. By selectively providing information that is relevant to the question, this alleviates the map-reduce operation from having to filter and process all the community reports all at once, and therefore it can generate a response that is more comprehensive and specific to the user question.&nbsp;</p>
-
-
-
-<p>Overall, dynamic community selection proposes an alternative method to perform global search in GraphRAG by leveraging the indexed knowledge graph and the usage of cheaper LLM models in the rate relevancy operation. These changes led to lower total token cost and potential improvements to response detail and quality.&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="availability">Availability</h2>
-
-
-
-<div class="annotations " data-bi-aN="margin-callout">
-	<ul class="annotations__list card depth-16 bg-body p-4 annotations__list--right">
-		<li class="annotations__list-item">
-						<span class="annotations__type d-block text-uppercase font-weight-semibold text-neutral-300 small">Blog</span>
-			<a href="https://www.microsoft.com/en-us/research/blog/introducing-drift-search-combining-global-and-local-search-methods-to-improve-quality-and-efficiency/" target="_self" class="annotations__link font-weight-semibold text-decoration-none" data-bi-type="annotated-link" aria-label="Introducing DRIFT Search: Combining global and local search methods to improve quality and efficiency" data-bi-aN="margin-callout" data-bi-cN="Introducing DRIFT Search: Combining global and local search methods to improve quality and efficiency">
-				Introducing DRIFT Search: Combining global and local search methods to improve quality and efficiency&nbsp;<span class="glyph-append glyph-append-chevron-right glyph-append-xsmall"></span>
-			</a>
-					</li>
-	</ul>
-</div>
-
-
-
-<p><strong>You can experiment with dynamic global search on the <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/graphrag">GraphRAG GitHub repository<span class="sr-only"> (opens in new tab)</span></a>.<span data-contrast="auto" xml:lang="EN-US" lang="EN-US" class="TextRun EmptyTextRun SCXW249363172 BCX8" style="-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; font-size: 12pt; line-height: 20.7px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-variant-ligatures: none !important;"></span> </strong></p>
-
-
-
-<p>Dynamic global search is the second of several major optimizations to GraphRAG that are being explored. If you are interested in optimizations for local questions, please check out our recent blog post on <a href="https://www.microsoft.com/en-us/research/blog/introducing-drift-search-combining-global-and-local-search-methods-to-improve-quality-and-efficiency/" target="_blank" rel="noreferrer noopener">DRIFT search</a>. Stay tuned for our upcoming work, where we explore a radically different approach to graph-enabled RAG that is significantly more cost-efficient while improving answer quality for both local and global questions.&nbsp;</p>
-
-
-
-<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/graphrag-improving-global-search-via-dynamic-community-selection/">GraphRAG: Improving global search via dynamic community selection</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		

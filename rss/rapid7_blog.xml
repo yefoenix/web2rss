@@ -6,26 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 01:41:08 +0000</lastBuildDate>
-    <item>
-      <title>New IDR Log Search Enhancements: Accelerate, Streamline, and Simplify Investigations</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/15/new-idr-log-search-enhancements-accelerate-streamline-and-simplify-investigations/</link>
-      <description>Rapid7’s InsightIDR, the foundation of our Managed Detection and Response (MDR) service, empowers security teams with advanced analytics, automation, and expert-led investigations.</description>
-    </item>
-    <item>
-      <title>Metasploit Weekly Wrap-Up: 11/15/2024</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/15/metasploit-weekly-wrap-up-43/</link>
-      <description>Palo Alto Expedition RCE module
-This week's release includes an exploit module for the Palo Alto Expedition
-exploit chain that's been making headlines recently. The first vulnerability,
-CVE-2024-5910, allows attackers to reset the password of the admin user. The
-second vulnerability, CVE-2024-9464 is an authenticated OS command injection.
-The module makes use of both vulnerabilities in order to obtain unauthenticated
-RCE in the context of the user www-data.
-
-New module content (1)
-Palo Alto Expe</description>
-    </item>
+    <lastBuildDate>Sat, 07 Dec 2024 01:40:29 +0000</lastBuildDate>
     <item>
       <title>Unlock 24/7 SOC Coverage: Rapid7 MXDR Now Supports with Microsoft Security Products</title>
       <link>https://www.rapid7.com/blog/post/2024/11/18/unlock-24-7-soc-coverage-rapid7-mxdr-now-supports-with-microsoft-security-products/</link>
@@ -98,6 +79,23 @@ This week, Metasploit community member smashery</description>
       <title>Black Basta Ransomware Campaign Drops Zbot, DarkGate, and Custom Malware</title>
       <link>https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/</link>
       <description>Beginning in early October, Rapid7 has observed a resurgence of activity related to the ongoing social engineering campaign being conducted by Black Basta ransomware operators.</description>
+    </item>
+    <item>
+      <title>Rapid7 Extends Cloud Security Capabilities with Updates to Exposure Command</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/06/rapid7-extends-cloud-security-capabilities-with-updates-to-exposure-command/</link>
+      <description>With purpose-built harvesting technology providing real-time visibility into everything running across multi-cloud environments, Exposure Command from Rapid7 ensures teams have an up-to-date inventory, mapping their cloud attack surface and enriching asset data with risk and business context.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 12/06/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/06/metasploit-weekly-wrap-up-44/</link>
+      <description>Post-Thanksgiving Big Release
+This week's release is an impressive one. It adds 9 new modules, which will get
+you remote code execution on products such as Ivanti Connect Secure, VMware
+vCenter Server, Asterisk, Fortinet FortiManager and Acronis Cyber Protect. It
+also includes an account takeover on Wordpress, a local privilege escalation on
+Windows and a X11 keylogger module. Finally, this release improves the
+fingerprinting logic for the TeamCity login module and adds instructions about
+the in</description>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.anthropic.com/news. follow.is: feedId:71805759203098624+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 01:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 01:40:36 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -210,7 +210,7 @@
     <item>
       <title>Introducing the Claude Team plan and iOS app</title>
       <link>https://www.anthropic.com/news/team-plan-and-ios</link>
-      <description>Product·AnnouncementsIntroducing the Claude Team plan and iOS appMay 1, 2024</description>
+      <description>Product·  AnnouncementsIntroducing the Claude Team plan and iOS appMay 1, 2024</description>
     </item>
     <item>
       <title>Updating our Usage Policy</title>
@@ -270,7 +270,7 @@
     <item>
       <title>Testing and mitigating elections-related risks</title>
       <link>https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks</link>
-      <description>Policy·Societal ImpactsTesting and mitigating elections-related risksJun 6, 2024</description>
+      <description>Policy·  Societal ImpactsTesting and mitigating elections-related risksJun 6, 2024</description>
     </item>
     <item>
       <title>Challenges in red teaming AI systems</title>
@@ -355,7 +355,7 @@
     <item>
       <title>Introducing Contextual Retrieval</title>
       <link>https://www.anthropic.com/news/contextual-retrieval</link>
-      <description>Product·AnnouncementsIntroducing Contextual RetrievalSep 19, 2024</description>
+      <description>Product·  AnnouncementsIntroducing Contextual RetrievalSep 19, 2024</description>
     </item>
     <item>
       <title>Introducing the Message Batches API</title>
@@ -380,7 +380,7 @@
     <item>
       <title>Developing a computer use model</title>
       <link>https://www.anthropic.com/news/developing-computer-use</link>
-      <description>Announcements·ProductDeveloping a computer use modelOct 22, 2024</description>
+      <description>Announcements·  ProductDeveloping a computer use modelOct 22, 2024</description>
     </item>
     <item>
       <title>Introducing the analysis tool in Claude.ai</title>

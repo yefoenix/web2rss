@@ -6,16 +6,51 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 01:41:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 01:40:30 +0000</lastBuildDate>
     <item>
-      <title>sdmg15 /Best-websites-a-programmer-should-visit</title>
-      <link>https://github.com/sdmg15/Best-websites-a-programmer-should-visit</link>
-      <description>🔗 Some useful websites for programmers.</description>
+      <title>imputnet /cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>best way to save what you love</description>
     </item>
     <item>
-      <title>milanm /DevOps-Roadmap</title>
-      <link>https://github.com/milanm/DevOps-Roadmap</link>
-      <description>DevOps Roadmap for 2024. with learning resources</description>
+      <title>BerriAI /litellm</title>
+      <link>https://github.com/BerriAI/litellm</link>
+      <description>Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</description>
+    </item>
+    <item>
+      <title>Expensify /App</title>
+      <link>https://github.com/Expensify/App</link>
+      <description>Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.</description>
+    </item>
+    <item>
+      <title>dataease /dataease</title>
+      <link>https://github.com/dataease/dataease</link>
+      <description>🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。</description>
+    </item>
+    <item>
+      <title>skills /copilot-codespaces-vscode</title>
+      <link>https://github.com/skills/copilot-codespaces-vscode</link>
+      <description>Develop with AI-powered code suggestions using GitHub Copilot and VS Code</description>
+    </item>
+    <item>
+      <title>facebook /react</title>
+      <link>https://github.com/facebook/react</link>
+      <description>The library for web and native user interfaces.</description>
+    </item>
+    <item>
+      <title>bitcoin /bitcoin</title>
+      <link>https://github.com/bitcoin/bitcoin</link>
+      <description>Bitcoin Core integration/staging tree</description>
+    </item>
+    <item>
+      <title>sqlfluff /sqlfluff</title>
+      <link>https://github.com/sqlfluff/sqlfluff</link>
+      <description>A modular SQL linter and auto-formatter with support for multiple dialects and templated code.</description>
+    </item>
+    <item>
+      <title>qodo-ai /qodo-cover</title>
+      <link>https://github.com/qodo-ai/qodo-cover</link>
+      <description>Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞</description>
     </item>
     <item>
       <title>hashicorp /terraform-provider-aws</title>
@@ -23,54 +58,9 @@
       <description>The AWS Provider enables Terraform to manage AWS resources.</description>
     </item>
     <item>
-      <title>skills /github-pages</title>
-      <link>https://github.com/skills/github-pages</link>
-      <description>Create a site or blog from your GitHub repositories with GitHub Pages.</description>
-    </item>
-    <item>
-      <title>myhhub /stock</title>
-      <link>https://github.com/myhhub/stock</link>
-      <description>stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。</description>
-    </item>
-    <item>
-      <title>spaceandtimelabs /sxt-proof-of-sql</title>
-      <link>https://github.com/spaceandtimelabs/sxt-proof-of-sql</link>
-      <description>Space and Time | Proof of SQL</description>
-    </item>
-    <item>
-      <title>stanfordnlp /dspy</title>
-      <link>https://github.com/stanfordnlp/dspy</link>
-      <description>DSPy: The framework for programming—not prompting—language models</description>
-    </item>
-    <item>
-      <title>Tencent /rapidjson</title>
-      <link>https://github.com/Tencent/rapidjson</link>
-      <description>A fast JSON parser/generator for C++ with both SAX/DOM style API</description>
-    </item>
-    <item>
-      <title>nodejs /node</title>
-      <link>https://github.com/nodejs/node</link>
-      <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
-    </item>
-    <item>
-      <title>microsoft /BitNet</title>
-      <link>https://github.com/microsoft/BitNet</link>
-      <description>Official inference framework for 1-bit LLMs</description>
-    </item>
-    <item>
       <title>fishaudio /fish-speech</title>
       <link>https://github.com/fishaudio/fish-speech</link>
       <description>SOTA Open Source TTS</description>
-    </item>
-    <item>
-      <title>LadybirdBrowser /ladybird</title>
-      <link>https://github.com/LadybirdBrowser/ladybird</link>
-      <description>Truly independent web browser</description>
-    </item>
-    <item>
-      <title>648540858 /wvp-GB28181-pro</title>
-      <link>https://github.com/648540858/wvp-GB28181-pro</link>
-      <description>WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。</description>
     </item>
     <item>
       <title>FoundationVision /VAR</title>
@@ -78,14 +68,24 @@
       <description>[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!</description>
     </item>
     <item>
+      <title>pydantic /pydantic-ai</title>
+      <link>https://github.com/pydantic/pydantic-ai</link>
+      <description>Agent Framework / shim to use Pydantic with LLMs</description>
+    </item>
+    <item>
+      <title>TheAlgorithms /Python</title>
+      <link>https://github.com/TheAlgorithms/Python</link>
+      <description>All Algorithms implemented in Python</description>
+    </item>
+    <item>
       <title>lobehub /lobe-chat</title>
       <link>https://github.com/lobehub/lobe-chat</link>
       <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
     </item>
     <item>
-      <title>pydantic /pydantic-ai</title>
-      <link>https://github.com/pydantic/pydantic-ai</link>
-      <description>Agent Framework / shim to use Pydantic with LLMs</description>
+      <title>QuivrHQ /MegaParse</title>
+      <link>https://github.com/QuivrHQ/MegaParse</link>
+      <description>File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.</description>
     </item>
   </channel>
 </rss>
