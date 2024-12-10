@@ -6,17 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 01:45:37 +0000</lastBuildDate>
-    <item>
-      <title>(Re)Introducing IBM Power for Google Cloud</title>
-      <link>https://cloud.google.com/blog/products/infrastructure-modernization/converge-enterprise-cloud-with-ibm-power-for-google-cloud-ip4g</link>
-      <description>Infrastructure Modernization(Re)Introducing IBM Power for Google CloudBy Andy Waddell • 2-minute read</description>
-    </item>
-    <item>
-      <title>Fireworks.ai: Lighting up gen AI through a more efficient inference engine</title>
-      <link>https://cloud.google.com/blog/topics/startups/fireworks-ai-gen-ai-efficient-inference-engine</link>
-      <description>StartupsFireworks.ai: Lighting up gen AI through a more efficient inference engineBy Lin Qiao • 4-minute read</description>
-    </item>
+    <lastBuildDate>Tue, 10 Dec 2024 01:43:48 +0000</lastBuildDate>
     <item>
       <title>Faster food: How Gemini helps restaurants thrive through multimodal visual analysis</title>
       <link>https://cloud.google.com/blog/products/ai-machine-learning/use-gemini-to-optimize-restaurant-operations-through-ai-visual-analysis</link>
@@ -56,6 +46,16 @@
       <title>How HighLevel built an AI marketing platform with Firestore</title>
       <link>https://cloud.google.com/blog/products/databases/highlevel-migrates-workloads-to-firestore</link>
       <description>DatabasesHow HighLevel built an AI marketing platform with FirestoreBy Karan Agarwal • 4-minute read</description>
+    </item>
+    <item>
+      <title>Toyota shifts into overdrive: Developing an AI platform for enhanced manufacturing efficiency</title>
+      <link>https://cloud.google.com/blog/topics/hybrid-cloud/toyota-ai-platform-manufacturing-efficiency</link>
+      <description>Hybrid &amp; MulticloudToyota shifts into overdrive: Developing an AI platform for enhanced manufacturing efficiencyBy Kohdai Gotoh • 9-minute read</description>
+    </item>
+    <item>
+      <title>How Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 Pro</title>
+      <link>https://cloud.google.com/blog/topics/partners/how-fullstory-uses-vertex-ai-and-gemini-to-boost-conversion-rates</link>
+      <description>PartnersHow Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 ProBy Kevin Wang • 7-minute read</description>
     </item>
   </channel>
 </rss>

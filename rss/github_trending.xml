@@ -6,31 +6,21 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 01:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 01:43:34 +0000</lastBuildDate>
     <item>
-      <title>deskflow /deskflow</title>
-      <link>https://github.com/deskflow/deskflow</link>
-      <description>Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).</description>
+      <title>al1abb /invoify</title>
+      <link>https://github.com/al1abb/invoify</link>
+      <description>An invoice generator app built using Next.js, Typescript, and Shadcn</description>
     </item>
     <item>
-      <title>ChrisTitusTech /winutil</title>
-      <link>https://github.com/ChrisTitusTech/winutil</link>
-      <description>Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates</description>
+      <title>meta-llama /llama-models</title>
+      <link>https://github.com/meta-llama/llama-models</link>
+      <description>Utilities intended for use with Llama models.</description>
     </item>
     <item>
-      <title>pocketbase /pocketbase</title>
-      <link>https://github.com/pocketbase/pocketbase</link>
-      <description>Open Source realtime backend in 1 file</description>
-    </item>
-    <item>
-      <title>oven-sh /bun</title>
-      <link>https://github.com/oven-sh/bun</link>
-      <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
-    </item>
-    <item>
-      <title>n8n-io /self-hosted-ai-starter-kit</title>
-      <link>https://github.com/n8n-io/self-hosted-ai-starter-kit</link>
-      <description>The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.</description>
+      <title>iptv-org /iptv</title>
+      <link>https://github.com/iptv-org/iptv</link>
+      <description>Collection of publicly available IPTV channels from all over the world</description>
     </item>
     <item>
       <title>cline /cline</title>
@@ -38,14 +28,39 @@
       <description>Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.</description>
     </item>
     <item>
-      <title>skills /copilot-codespaces-vscode</title>
-      <link>https://github.com/skills/copilot-codespaces-vscode</link>
-      <description>Develop with AI-powered code suggestions using GitHub Copilot and VS Code</description>
+      <title>jdx /mise</title>
+      <link>https://github.com/jdx/mise</link>
+      <description>dev tools, env vars, task runner</description>
     </item>
     <item>
-      <title>BerriAI /litellm</title>
-      <link>https://github.com/BerriAI/litellm</link>
-      <description>Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</description>
+      <title>microsoft /torchgeo</title>
+      <link>https://github.com/microsoft/torchgeo</link>
+      <description>TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data</description>
+    </item>
+    <item>
+      <title>ollama /ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</description>
+    </item>
+    <item>
+      <title>koreader /koreader</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
+    </item>
+    <item>
+      <title>libsdl-org /SDL</title>
+      <link>https://github.com/libsdl-org/SDL</link>
+      <description>Simple Directmedia Layer</description>
+    </item>
+    <item>
+      <title>phidatahq /phidata</title>
+      <link>https://github.com/phidatahq/phidata</link>
+      <description>Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.</description>
+    </item>
+    <item>
+      <title>LizardByte /Sunshine</title>
+      <link>https://github.com/LizardByte/Sunshine</link>
+      <description>Self-hosted game stream host for Moonlight.</description>
     </item>
     <item>
       <title>daytonaio /daytona</title>
@@ -53,14 +68,29 @@
       <description>The Open Source Dev Environment Manager.</description>
     </item>
     <item>
-      <title>QuivrHQ /MegaParse</title>
-      <link>https://github.com/QuivrHQ/MegaParse</link>
-      <description>File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.</description>
+      <title>nexus-xyz /nexus-zkvm</title>
+      <link>https://github.com/nexus-xyz/nexus-zkvm</link>
+      <description>The Nexus zkVM: The zero-knowledge virtual machine</description>
     </item>
     <item>
-      <title>dortania /OpenCore-Legacy-Patcher</title>
-      <link>https://github.com/dortania/OpenCore-Legacy-Patcher</link>
-      <description>Experience macOS just like before</description>
+      <title>pocketbase /pocketbase</title>
+      <link>https://github.com/pocketbase/pocketbase</link>
+      <description>Open Source realtime backend in 1 file</description>
+    </item>
+    <item>
+      <title>fishaudio /fish-speech</title>
+      <link>https://github.com/fishaudio/fish-speech</link>
+      <description>SOTA Open Source TTS</description>
+    </item>
+    <item>
+      <title>lmarzen /esp32-weather-epd</title>
+      <link>https://github.com/lmarzen/esp32-weather-epd</link>
+      <description>A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.</description>
+    </item>
+    <item>
+      <title>DrKLO /Telegram</title>
+      <link>https://github.com/DrKLO/Telegram</link>
+      <description>Telegram for Android source</description>
     </item>
     <item>
       <title>bitcoin /bitcoin</title>
@@ -68,24 +98,9 @@
       <description>Bitcoin Core integration/staging tree</description>
     </item>
     <item>
-      <title>ollama /ollama</title>
-      <link>https://github.com/ollama/ollama</link>
-      <description>Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.</description>
-    </item>
-    <item>
-      <title>soxoj /maigret</title>
-      <link>https://github.com/soxoj/maigret</link>
-      <description>🕵️‍♂️ Collect a dossier on a person by username from thousands of sites</description>
-    </item>
-    <item>
-      <title>imputnet /cobalt</title>
-      <link>https://github.com/imputnet/cobalt</link>
-      <description>best way to save what you love</description>
-    </item>
-    <item>
-      <title>fishaudio /fish-speech</title>
-      <link>https://github.com/fishaudio/fish-speech</link>
-      <description>SOTA Open Source TTS</description>
+      <title>astral-sh /uv</title>
+      <link>https://github.com/astral-sh/uv</link>
+      <description>An extremely fast Python package and project manager, written in Rust.</description>
     </item>
   </channel>
 </rss>
