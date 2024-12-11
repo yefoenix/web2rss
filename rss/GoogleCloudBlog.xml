@@ -6,22 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 01:43:48 +0000</lastBuildDate>
-    <item>
-      <title>Faster food: How Gemini helps restaurants thrive through multimodal visual analysis</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/use-gemini-to-optimize-restaurant-operations-through-ai-visual-analysis</link>
-      <description>AI &amp; Machine LearningFaster food: How Gemini helps restaurants thrive through multimodal visual analysisBy Sagar Kewalramani • 4-minute read</description>
-    </item>
-    <item>
-      <title>Bridging the Gap: Elevating Red Team Assessments with Application Security Testing</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/red-team-application-security-testing</link>
-      <description>Threat IntelligenceBridging the Gap: Elevating Red Team Assessments with Application Security TestingBy Mandiant  • 13-minute read</description>
-    </item>
-    <item>
-      <title>Registration is open for Partner Summit at Google Cloud Next</title>
-      <link>https://cloud.google.com/blog/topics/partners/partner-summit-registration-open-next-25</link>
-      <description>PartnersRegistration is open for Partner Summit at Google Cloud NextBy Aimee Catalano • 2-minute read</description>
-    </item>
+    <lastBuildDate>Wed, 11 Dec 2024 01:43:22 +0000</lastBuildDate>
     <item>
       <title>Moloco: 10x faster model training times with TPUs on Google Kubernetes Engine</title>
       <link>https://cloud.google.com/blog/products/containers-kubernetes/moloco-uses-gke-and-tpus-for-ml-workloads</link>
@@ -48,14 +33,29 @@
       <description>DatabasesHow HighLevel built an AI marketing platform with FirestoreBy Karan Agarwal • 4-minute read</description>
     </item>
     <item>
-      <title>Toyota shifts into overdrive: Developing an AI platform for enhanced manufacturing efficiency</title>
-      <link>https://cloud.google.com/blog/topics/hybrid-cloud/toyota-ai-platform-manufacturing-efficiency</link>
-      <description>Hybrid &amp; MulticloudToyota shifts into overdrive: Developing an AI platform for enhanced manufacturing efficiencyBy Kohdai Gotoh • 9-minute read</description>
+      <title>Build and refine your audio generation end-to-end with Gemini 1.5 Pro</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/learn-how-to-build-a-podcast-with-gemini-1-5-pro</link>
+      <description>AI &amp; Machine LearningBuild and refine your audio generation end-to-end with Gemini 1.5 ProBy Krishna Chytanya Ayyagari • 4-minute read</description>
+    </item>
+    <item>
+      <title>To avoid “bill shocks,” Palo Alto Networks deploys custom AI-powered cost anomaly detection</title>
+      <link>https://cloud.google.com/blog/topics/cost-management/palo-alto-networks-custom-cost-anomaly-detection-with-ai-bill-shocks</link>
+      <description>Cost ManagementTo avoid “bill shocks,” Palo Alto Networks deploys custom AI-powered cost anomaly detectionBy Kuntal Patel • 8-minute read</description>
     </item>
     <item>
       <title>How Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 Pro</title>
       <link>https://cloud.google.com/blog/topics/partners/how-fullstory-uses-vertex-ai-and-gemini-to-boost-conversion-rates</link>
       <description>PartnersHow Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 ProBy Kevin Wang • 7-minute read</description>
+    </item>
+    <item>
+      <title>Looking back on a year of deeper connectivity across Earth Engine and Cloud</title>
+      <link>https://cloud.google.com/blog/topics/sustainability/look-back-at-a-year-of-earth-engine-advancements</link>
+      <description>SustainabilityLooking back on a year of deeper connectivity across Earth Engine and CloudBy Sheba Rasson • 5-minute read</description>
+    </item>
+    <item>
+      <title>Improve your security posture with expanded Custom Org Policy</title>
+      <link>https://cloud.google.com/blog/products/identity-security/announcing-expanded-custom-org-policy-portfolio-of-supported-products</link>
+      <description>Security &amp; IdentityImprove your security posture with expanded Custom Org PolicyBy Akshay Datar • 4-minute read</description>
     </item>
   </channel>
 </rss>

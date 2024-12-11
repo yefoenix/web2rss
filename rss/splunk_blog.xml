@@ -6,51 +6,51 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 01:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 01:43:02 +0000</lastBuildDate>
     <item>
-      <title>2025 Predictions: Driving Digital Resilience Forward</title>
-      <link>https://www.splunk.com/en_us/blog/leadership/2025-predictions-driving-digital-resilience-forward.html</link>
-      <description>Splunk’s 2025 Predictions explores how organizations can drive digital resilience forward, from advancements in AI to navigating new regulations and everything in between.</description>
+      <title>The API Testing Guide: Top Tools for Testing APIs</title>
+      <link>https://www.splunk.com/en_us/blog/learn/api-testing.html</link>
+      <description>API testing is incredibly important today. In this comprehensive article, learn how to do API testing the right way, and find out which tools are most popular.</description>
     </item>
     <item>
-      <title>What Are Distributed Systems?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/distributed-systems.html</link>
-      <description>Distributed systems consist of multiple devices that work together to perform a task that is beyond the capacity of a single system.</description>
+      <title>Introduction to Shadow AI</title>
+      <link>https://www.splunk.com/en_us/blog/learn/shadow-ai.html</link>
+      <description>Discover the risks and benefits of Shadow AI—unauthorized generative AI tools enhancing workplace productivity but challenging data security and IT governance.</description>
     </item>
     <item>
-      <title>11 Best Data Analysis Tools to Work With in 2025</title>
-      <link>https://www.splunk.com/en_us/blog/learn/data-analysis-tools.html</link>
-      <description>Data analysis is an imperative, but how do you do it well? Start with these top data analyst tools, put together like only professional data analysts can.</description>
+      <title>Announcing Our New 2024-2025 Grantees: Bridging the Data Divide</title>
+      <link>https://www.splunk.com/en_us/blog/splunk-for-good/bridge-data-divide-2024-2025-grantees.html</link>
+      <description>Splunk Social Impact is tackling the Data Divide—the gap between the growing use of data to drive commercial success and its limited application in addressing pressing social and environmental challenges.</description>
     </item>
     <item>
-      <title>Splunk Platform Use Cases, Written Just for You</title>
-      <link>https://www.splunk.com/en_us/blog/platform/splunk-platform-use-cases.html</link>
-      <description>Learn how to find use case guidance for the Splunk platform for key industries such as energy, manufacturing, finance, and retail.</description>
+      <title>What Is DevX/DevEx? Developer Experience, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/developer-experience-devex.html</link>
+      <description>Any software company relies on the work of its developers. Make sure your developers are having the best experience possible: learn all about DevEx here.</description>
     </item>
     <item>
-      <title>Disaster Recovery Planning: Getting Started</title>
-      <link>https://www.splunk.com/en_us/blog/learn/disaster-recovery-planning.html</link>
-      <description>In this post, we'll discuss a framework and steps for creating a disaster recovery plan, so you can stay resilient over the long-term.</description>
+      <title>OT Security is the New Avenger in Manufacturing</title>
+      <link>https://www.splunk.com/en_us/blog/industries/ot-security-is-the-new-avenger-in-manufacturing.html</link>
+      <description>Of all industries, manufacturing is the one targeted the most by cybercriminals. Why? One of the key reasons is that it is relatively easy since most manufacturers simply have no OT Security in place. Read on to learn how to build resilience with a secure factory and why it is a good idea to have an OT Security avenger in a plant manager's team.</description>
     </item>
     <item>
-      <title>Tech the Halls - Part 2: Naughty and Nice</title>
-      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/tech-the-halls-part-2-naughty-and-nice.html</link>
-      <description>In this second installment of our festive-themed series, we take you to the SOC, or Santa Operations Centre for those not familiar. This is where Santa and his elves monitor the delivery operations on the big day, using past Christmas data sets to optimise operations. From monitoring Key Performance Indicators from the CRM (Child Reputation Manifest) system to analysing the Naughty or Nice Lists, Splunk’s lookup functionality plays a starring role in ensuring the right presents go to the right children.</description>
+      <title>From Zero to LLM-Hero: Plan, Architect and Operationalize your AI Assistant in Splunk</title>
+      <link>https://www.splunk.com/en_us/blog/artificial-intelligence/from-zero-to-llm-hero-plan-architect-and-operationalize-your-ai-assistant-in-splunk.html</link>
+      <description>In this blog post we are going to show you how you can connect Splunk data with LLMs to interact with them, based on the way Zeppelin, a global leader in sales and services for construction machinery, power systems, rental equipment and plant engineering, achieved this.</description>
     </item>
     <item>
-      <title>DevOps Monitoring: What It Is &amp; How It Works</title>
-      <link>https://www.splunk.com/en_us/blog/learn/devops-monitoring.html</link>
-      <description>DevOps monitoring involves tracking and measuring app performance to help you identify and resolve issues faster. Learn how it works here.</description>
+      <title>What is IoT Monitoring? Why IoT Monitoring Matters</title>
+      <link>https://www.splunk.com/en_us/blog/learn/iot-monitoring.html</link>
+      <description>Discover how IoT monitoring transforms businesses with real-world examples, benefits like efficiency, predictive maintenance, cost savings, and enhanced security.</description>
     </item>
     <item>
-      <title>What's MTTR? Mean Time to Repair: Definitions, Tips, &amp; Challenges</title>
-      <link>https://www.splunk.com/en_us/blog/learn/mttr-mean-time-to-repair.html</link>
-      <description>MTTR refers to the amount of time it takes to repair or recover from an issue or failure. Learn more about what it is and how to track it.</description>
+      <title>The Very Best Cybersecurity Podcasts To Listen To in 2025</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-podcasts.html</link>
+      <description>Discover the top cybersecurity podcasts today, offering gripping stories, practical insights, and breaking news. Tune in and stay informed.</description>
     </item>
     <item>
-      <title>Splunk Executive Mary Lou Prevost Named to StateRAMP Standards &amp; Technical Committee</title>
-      <link>https://www.splunk.com/en_us/blog/industries/splunk-executive-mary-lou-prevost-named-to-stateramp-standards-technical-committee.html</link>
-      <description>Splunk's Mary Lou Prevost, GVP of State, Local and Higher Education has been selected as an Advisor Member to the StateRAMP Standards &amp; Technical Committee.</description>
+      <title>Data Warehouse vs. Database: Differences Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/database-vs-data-warehouse.html</link>
+      <description>Understand how databases and data warehouses work, how they vary and when to use which – all in this beginner’s guide to data warehousing and databases.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

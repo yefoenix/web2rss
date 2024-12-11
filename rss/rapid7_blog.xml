@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 01:43:33 +0000</lastBuildDate>
-    <item>
-      <title>Unlock 24/7 SOC Coverage: Rapid7 MXDR Now Supports with Microsoft Security Products</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/18/unlock-24-7-soc-coverage-rapid7-mxdr-now-supports-with-microsoft-security-products/</link>
-      <description>With the launch of Rapid7 MXDR’s SOC support for key Microsoft security products, we’re making it possible for organizations to layer security defenses and amplify outcomes.</description>
-    </item>
-    <item>
-      <title>Accelerate Mean Time to Exposure Remediation Across Hybrid Environments with Remediation Hub</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/19/accelerate-mean-time-to-exposure-remediation-across-hybrid-environments-with-remediation-hub/</link>
-      <description>Rapid7’s Remediation Hub, our newest addition to the Exposure Command platform. Remediation Hub automatically prioritizes various risk signals across your hybrid environment and suggests the actions your team can take that would have the largest impact on reducing your overall risk posture.</description>
-    </item>
+    <lastBuildDate>Wed, 11 Dec 2024 01:43:07 +0000</lastBuildDate>
     <item>
       <title>Rapid7 Recognized for ‘Excellence in Workplace Health and Wellbeing’ at the Belfast Telegraph IT Awards</title>
       <link>https://www.rapid7.com/blog/post/2024/11/19/rapid7-recognized-for-excellence-in-workplace-health-and-wellbeing-at-the-belfast-telegraph-it-awards/</link>
@@ -96,6 +86,24 @@ also includes an account takeover on Wordpress, a local privilege escalation on
 Windows and a X11 keylogger module. Finally, this release improves the
 fingerprinting logic for the TeamCity login module and adds instructions about
 the in</description>
+    </item>
+    <item>
+      <title>Widespread exploitation of Cleo file transfer software (CVE-2024-50623)</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/10/etr-widespread-exploitation-of-cleo-file-transfer-software-cve-2024-50623/</link>
+      <description>On Monday, December 9, multiple security firms began privately circulating
+reports of in-the-wild exploitation targeting Cleo file transfer software. Late
+the evening of December 9, security firm Huntress published a blog on active
+exploitation of three different Cleo products (docs
+
+):
+
+ * Cleo VLTrader, a server-side solution for “mid-enterprise organizations”
+ * Cleo Harmony, which provides file t</description>
+    </item>
+    <item>
+      <title>Patch Tuesday - December 2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/10/patch-tuesday-december-2024/</link>
+      <description>1 zero-day. CLFS EoP. 16 critical RCEs. Hyper-V container escape. Multiple Remote Desktop Services RCE.</description>
     </item>
   </channel>
 </rss>

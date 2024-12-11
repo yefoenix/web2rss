@@ -6,27 +6,7 @@
     <description>Latest posts from https://www.cve.org/Media/News/AllNews. follow.is: feedId:72158581942748160+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 01:43:44 +0000</lastBuildDate>
-    <item>
-      <title>Gridware Cybersecurity Added as CVE Numbering Authority (CNA)</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/11/12/Gridware-Cybersecurity-Added-as-CNA</link>
-      <description>Gridware Cybersecurity Added as CVE Numbering Authority (CNA)newsNovember 12, 2024Gridware Cybersecurityis now aCVE Numbering Authority (CNA)for Gridware software, services, and infrastructure issues, as well as vulnerabilities discovered by or reported to Gridware researchers that are not in another CNA’s scope.</description>
-    </item>
-    <item>
-      <title>Beckman Coulter Diagnostics Added as CVE Numbering Authority (CNA)</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/11/12/Beckman-Coulter-Diagnostics-Added-as-CNA</link>
-      <description>Beckman Coulter Diagnostics Added as CVE Numbering Authority (CNA)newsNovember 12, 2024Beckman Coulter Diagnosticsis now aCVE Numbering Authority (CNA)for Beckman Coulter Diagnostics manufactured products and technologies only.</description>
-    </item>
-    <item>
-      <title>Minutes from CVE Board Teleconference Meeting on October 30 Now Available</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/11/19/CVE-Board-Minutes-from-October-30</link>
-      <description>Minutes from CVE Board Teleconference Meeting on October 30 Now AvailablenewsNovember 19, 2024TheCVE Boardheld a teleconference meeting on October 30, 2024. Read themeeting minutes summary.</description>
-    </item>
-    <item>
-      <title>Vulnerability Data Enrichment for CVE Records: 224 CNAs on the Enrichment Recognition List for November 18, 2024</title>
-      <link>https://www.cve.org/Media/News/item/blog/2024/11/19/CNA-Enrichment-Recognition-List-Update</link>
-      <description>Vulnerability Data Enrichment for CVE Records: 224 CNAs on the Enrichment Recognition List for November 18, 2024blogBy CVE Program|November 19, 2024The “CNA Enrichment Recognition List” for November 18, 2024, is now available with 224 CNAs listed. Published every two weeks on the CVE website, the list recognizes thoseCVE Numbering Authorities (CNAs)that are actively providing enhanced vulnerability data in theirCVE Records. CNAs are added to the list if they provideCommon Vulnerability Scoring System (CVSS)andCommon Weakness Enumeration (CWE™)information 98% of the time or more within the two-week period of their last published CVE Record.</description>
-    </item>
+    <lastBuildDate>Wed, 11 Dec 2024 01:43:18 +0000</lastBuildDate>
     <item>
       <title>Omnissa Added as CVE Numbering Authority (CNA)</title>
       <link>https://www.cve.org/Media/News/item/news/2024/11/19/Omnissa-Added-as-CNA</link>
@@ -56,6 +36,26 @@
       <title>GraphQL Java Added as CVE Numbering Authority (CNA)</title>
       <link>https://www.cve.org/Media/News/item/news/2024/12/03/GraphQL-Java-Added-as-CNA</link>
       <description>GraphQL Java Added as CVE Numbering Authority (CNA)newsDecember 3, 2024GraphQL Javais now aCVE Numbering Authority (CNA)for GraphQL Java, Java DataLoader, GraphQL Java Extended Scalars, and GraphQL Java Extended Validation.</description>
+    </item>
+    <item>
+      <title>Registration Now Open forCVE/FIRST VulnCon 2025on April 7-10, 2025!</title>
+      <link>https://www.cve.org/Media/News/item/blog/2024/12/10/Registration-Open-for-VulnCon-2025</link>
+      <description>Registration Now Open forCVE/FIRST VulnCon 2025on April 7-10, 2025!blogBy CVE Program|December 10, 2024TheCVE ProgramandFIRSTwill co-hostVulnCon 2025at the McKimmon Center in Raleigh, North Carolina, USA, on April 7-10, 2025. Registration, both virtual and in-person, is now open onthis pageon the FIRST website.</description>
+    </item>
+    <item>
+      <title>Beckman Coulter Life Sciences Added as CVE Numbering Authority (CNA)</title>
+      <link>https://www.cve.org/Media/News/item/news/2024/12/10/Beckman-Coulter-Life-Sciences-Added-as-CNA</link>
+      <description>Beckman Coulter Life Sciences Added as CVE Numbering Authority (CNA)newsDecember 10, 2024Beckman Coulter Life Sciencesis now aCVE Numbering Authority (CNA)for Beckman Coulter Life Sciences manufactured products and technologies only.</description>
+    </item>
+    <item>
+      <title>Radiometer Medical Added as CVE Numbering Authority (CNA)</title>
+      <link>https://www.cve.org/Media/News/item/news/2024/12/10/Radiometer-Medical-Added-as-CNA</link>
+      <description>Radiometer Medical Added as CVE Numbering Authority (CNA)newsDecember 10, 2024Radiometer Medical ApSis now aCVE Numbering Authority (CNA)for Radiometer products only.</description>
+    </item>
+    <item>
+      <title>Delta Electronics Added as CVE Numbering Authority (CNA)</title>
+      <link>https://www.cve.org/Media/News/item/news/2024/12/10/Delta-Electronics-Added-as-CNA</link>
+      <description>Delta Electronics Added as CVE Numbering Authority (CNA)newsDecember 10, 2024Delta Electronics, Inc.is now aCVE Numbering Authority (CNA)for Delta Electronics products as listed onwww.deltaww.com.</description>
     </item>
   </channel>
 </rss>

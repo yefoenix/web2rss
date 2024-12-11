@@ -6,12 +6,7 @@
     <description>Latest posts from https://developer.nvidia.com/zh-cn/blog/recent-posts/. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 01:43:59 +0000</lastBuildDate>
-    <item>
-      <title>将实时 IoT 数据连接到数字孪生，实现 3D 远程监控</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/connect-real-time-iot-data-to-digital-twins-for-3d-remote-monitoring/</link>
-      <description>2024年 11月 19日将实时 IoT 数据连接到数字孪生，实现 3D 远程监控随着企业越来越多地将 AI 集成到其工业运营中，以提供更自动化和自主化的设施，越来越多的运营团队开始集中在远程运营中心。1 MIN READ</description>
-    </item>
+    <lastBuildDate>Wed, 11 Dec 2024 01:43:32 +0000</lastBuildDate>
     <item>
       <title>构建生成式 AI OpenUSD 应用，呈现准确品牌的营销视觉效果</title>
       <link>https://developer.nvidia.com/zh-cn/blog/building-a-generative-ai-openusd-app-for-brand-accurate-marketing-visuals/</link>
@@ -86,6 +81,11 @@
       <title>借助 2D 和 3D 数字人虚拟形象扩展 AI 智能体界面选项</title>
       <link>https://developer.nvidia.com/zh-cn/blog/expanding-ai-agent-interface-options-with-2d-and-3d-digital-human-avatars/</link>
       <description>2024年 11月 22日借助 2D 和 3D 数字人虚拟形象扩展 AI 智能体界面选项在与 生成式 AI 应用程序交互时，用户有多种通信选项 – 文本、语音或通过数字化的虚拟形象。1 MIN READ</description>
+    </item>
+    <item>
+      <title>如何使用 FP8 加速大模型训练</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/fp8-accelerate-llm-training/</link>
+      <description>2024年 12月 10日如何使用 FP8 加速大模型训练利用 FP8 技术加速 LLM 推理和训练越来越受到关注，本文主要和大家介绍如何使用 FP8 这项新技术加速大模型的训练。4 MIN READ</description>
     </item>
   </channel>
 </rss>
