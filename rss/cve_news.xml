@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.cve.org/Media/News/AllNews. follow.is: feedId:72158581942748160+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 01:43:18 +0000</lastBuildDate>
-    <item>
-      <title>Omnissa Added as CVE Numbering Authority (CNA)</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/11/19/Omnissa-Added-as-CNA</link>
-      <description>Omnissa Added as CVE Numbering Authority (CNA)newsNovember 19, 2024Omnissa, LLCis now aCVE Numbering Authority (CNA)for all Omnissa products and services, including Workspace ONE and Horizon.</description>
-    </item>
+    <lastBuildDate>Thu, 12 Dec 2024 01:41:55 +0000</lastBuildDate>
     <item>
       <title>Follow the CVE Program on Bluesky!</title>
       <link>https://www.cve.org/Media/News/item/news/2024/12/03/Follow-the-CVE-Program-on-Bluesky</link>
@@ -56,6 +51,11 @@
       <title>Delta Electronics Added as CVE Numbering Authority (CNA)</title>
       <link>https://www.cve.org/Media/News/item/news/2024/12/10/Delta-Electronics-Added-as-CNA</link>
       <description>Delta Electronics Added as CVE Numbering Authority (CNA)newsDecember 10, 2024Delta Electronics, Inc.is now aCVE Numbering Authority (CNA)for Delta Electronics products as listed onwww.deltaww.com.</description>
+    </item>
+    <item>
+      <title>“CVE List Keyword Search” Now Available on CVE.ORG Website</title>
+      <link>https://www.cve.org/Media/News/item/blog/2024/12/11/CVE-List-Keyword-Search-Now-Available</link>
+      <description>“CVE List Keyword Search” Now Available on CVE.ORG WebsiteblogBy CVE Program|December 11, 2024The ability to searchCVE Recordsby keyword is now available onCVE.ORG. Keywords may include aCVE ID(e.g., CVE-2024-1234), or one or more keywords separated by a space (e.g., authorization, SQL Injection, cross site scripting, etc.).</description>
     </item>
   </channel>
 </rss>

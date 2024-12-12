@@ -6,36 +6,26 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 01:43:08 +0000</lastBuildDate>
-    <item>
-      <title>leerob /next-saas-starter</title>
-      <link>https://github.com/leerob/next-saas-starter</link>
-      <description>Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.</description>
-    </item>
+    <lastBuildDate>Thu, 12 Dec 2024 01:41:45 +0000</lastBuildDate>
     <item>
       <title>bitcoin /bitcoin</title>
       <link>https://github.com/bitcoin/bitcoin</link>
       <description>Bitcoin Core integration/staging tree</description>
     </item>
     <item>
-      <title>tauri-apps /tauri</title>
-      <link>https://github.com/tauri-apps/tauri</link>
-      <description>Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</description>
+      <title>leerob /next-saas-starter</title>
+      <link>https://github.com/leerob/next-saas-starter</link>
+      <description>Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.</description>
     </item>
     <item>
-      <title>al1abb /invoify</title>
-      <link>https://github.com/al1abb/invoify</link>
-      <description>An invoice generator app built using Next.js, Typescript, and Shadcn</description>
+      <title>apache /dolphinscheduler</title>
+      <link>https://github.com/apache/dolphinscheduler</link>
+      <description>Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code</description>
     </item>
     <item>
-      <title>Alamofire /Alamofire</title>
-      <link>https://github.com/Alamofire/Alamofire</link>
-      <description>Elegant HTTP Networking in Swift</description>
-    </item>
-    <item>
-      <title>ollama /ollama</title>
-      <link>https://github.com/ollama/ollama</link>
-      <description>Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</description>
+      <title>langflow-ai /langflow</title>
+      <link>https://github.com/langflow-ai/langflow</link>
+      <description>Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.</description>
     </item>
     <item>
       <title>astral-sh /uv</title>
@@ -46,6 +36,36 @@
       <title>soxoj /maigret</title>
       <link>https://github.com/soxoj/maigret</link>
       <description>🕵️‍♂️ Collect a dossier on a person by username from thousands of sites</description>
+    </item>
+    <item>
+      <title>Alamofire /Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+    </item>
+    <item>
+      <title>lmarzen /esp32-weather-epd</title>
+      <link>https://github.com/lmarzen/esp32-weather-epd</link>
+      <description>A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.</description>
+    </item>
+    <item>
+      <title>0xPlaygrounds /rig</title>
+      <link>https://github.com/0xPlaygrounds/rig</link>
+      <description>⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</description>
+    </item>
+    <item>
+      <title>nexus-xyz /network-api</title>
+      <link>https://github.com/nexus-xyz/network-api</link>
+      <description>High-performance interface for supplying compute to the Nexus network.</description>
+    </item>
+    <item>
+      <title>DioxusLabs /dioxus</title>
+      <link>https://github.com/DioxusLabs/dioxus</link>
+      <description>Fullstack app framework for web, desktop, mobile, and more.</description>
+    </item>
+    <item>
+      <title>nexus-xyz /nexus-zkvm</title>
+      <link>https://github.com/nexus-xyz/nexus-zkvm</link>
+      <description>The Nexus zkVM: The zero-knowledge virtual machine</description>
     </item>
   </channel>
 </rss>

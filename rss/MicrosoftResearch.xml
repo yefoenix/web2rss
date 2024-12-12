@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Sat, 07 Dec 2024 00:48:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Dec 2024 20:27:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -45,7 +45,7 @@
 
 
 
-<p>In this episode, <a href="https://www.microsoft.com/en-us/research/people/wzchen/" target="_blank" rel="noreferrer noopener">Weizhu Chen</a>, vice president of Microsoft GenAI, joins host Amber Tingle to discuss the paper <a href="https://www.microsoft.com/en-us/research/publication/not-all-tokens-are-what-you-need-for-pretraining/" target="_blank" rel="noreferrer noopener">“Not All Tokens Are What You Need for Pretraining,”</a> an oral presentation at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/?msockid=35739e94ab6c69d41b738b93aa076831" target="_blank" rel="noreferrer noopener">Conference on Neural Information Processing Systems (NeurIPS)</a>. Based on an examination of model training at the token level, Chen and his coauthors present an alternate approach to model pretraining: instead of training language models to predict <em>all</em> tokens, they make a distinction between useful and “noisy” tokens. Doing so, the work shows, improves token efficiency and model performance.</p>
+<p>In this episode, <a href="https://www.microsoft.com/en-us/research/people/wzchen/" target="_blank" rel="noreferrer noopener">Weizhu Chen</a>, vice president of Microsoft GenAI, joins host Amber Tingle to discuss the paper <a href="https://www.microsoft.com/en-us/research/publication/not-all-tokens-are-what-you-need-for-pretraining/" target="_blank" rel="noreferrer noopener">“Not All Tokens Are What You Need for Pretraining,”</a> an oral presentation and a recipient of the Best Paper Runner-Up Award at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/?msockid=35739e94ab6c69d41b738b93aa076831" target="_blank" rel="noreferrer noopener">Conference on Neural Information Processing Systems (NeurIPS)</a>. Based on an examination of model training at the token level, Chen and his coauthors present an alternate approach to model pretraining: instead of training language models to predict <em>all</em> tokens, they make a distinction between useful and “noisy” tokens. Doing so, the work shows, improves token efficiency and model performance.</p>
 
 
 
@@ -99,7 +99,7 @@
 
 
 
-<p><strong>CHEN:</strong> So my team basically in Microsoft GenAI, we are working on model training. So one of the things actually we do in the pretraining, we realize the importance of the data. And we found that actually when we do this kind of data for each of the tokens, some token is more important than the other. That&#8217;s one. The other one actually is some token actually is very, very hard to be predicted during the pretraining. So, for example, just like if someone see the text of “Weizhu,” and what&#8217;s the next token? It can be “Chen”; it can be any of the last name. So it&#8217;s very hard to be predicted. And if we try to enforce a language model to focus on this, kind of, the hard-to-predict token, just like actually it&#8217;s going to confuse the language model. There are so many different kinds of the example like this. Just like, for example, the serial number in your UPS. So the focus of this paper is try to identify which token actually is more important for the language model to learn. And actually the other token maybe is just the noise. And how can we try to <em>discriminate</em> the token—which is good token, which is noise token. Basically, you try to understand this kind of dynamic of the tokens. </p>
+<p><strong>CHEN:</strong> So my team basically in Microsoft GenAI, we are working on model training. So one of the things actually we do in the pretraining, we realize the importance of the data. And we found that actually when we do this kind of data for each of the tokens, some token is more important than the other. That&#8217;s one. The other one actually is some token actually is very, very hard to be predicted during the pretraining. So, for example, just like if someone see the text of “Weizhu,” and what&#8217;s the next token? It can be “Chen”; it can be any of the last name. So it&#8217;s very hard to be predicted. And if we try to enforce a language model to focus on this, kind of, the hard-to-predict token, just like actually it&#8217;s going to confuse the language model. There are so many different kinds of the example like this. Just like, for example, the serial number in your UPS. So the focus of this paper is try to identify which token actually is more important for the language model to learn. And actually the other token maybe is just the noise. And how can we try to <em>discriminate</em> the token—which is good token, which is noise token. Basically, you try to understand this kind of dynamic of the tokens.&nbsp;</p>
 
 
 
@@ -115,7 +115,7 @@
 
 
 
-<p><strong>CHEN: </strong>Our major finding is about basically, definitely this works so well. And it&#8217;s so important that actually we are able to get the best token from the corpus and then make it available and try to ask the model during the pretraining to ignore the token we don&#8217;t want to get into the model itself. So that is one. The second thing definitely data is the other very important thing. If you&#8217;re able to figure out the better way to build a better data is most likely you’re able to build a much better foundation model. The third thing actually is also connected to a lot of other existing work, just like data synthesis, just like distillation, just like data filtering, and so a lot of things are really connected together. And actually, this work, basically, you can associate with also a lot of other work we are working on, just like distillation. You can think about, for example, for this work, we also try to build a model, a reference model—we call as the reference model—to try to identify actually this data, this token, is more important than the other and try to understand the discrepancy between the reference model and the running model, their prediction on each tokens. So you can think about also it&#8217;s some kind of the try to distill from the reference model to the existing model, as well. </p>
+<p><strong>CHEN: </strong>Our major finding is about basically, definitely this works so well. And it&#8217;s so important that actually we are able to get the best token from the corpus and then make it available and try to ask the model during the pretraining to ignore the token we don&#8217;t want to get into the model itself. So that is one. The second thing definitely data is the other very important thing. If you&#8217;re able to figure out the better way to build a better data is most likely you’re able to build a much better foundation model. The third thing actually is also connected to a lot of other existing work, just like data synthesis, just like distillation, just like data filtering, and so a lot of things are really connected together. And actually, this work, basically, you can associate with also a lot of other work we are working on, just like distillation. You can think about, for example, for this work, we also try to build a model, a reference model—we call as the reference model—to try to identify actually this data, this token, is more important than the other and try to understand the discrepancy between the reference model and the running model, their prediction on each tokens. So you can think about also it&#8217;s some kind of the try to distill from the reference model to the existing model, as well.&nbsp;</p>
 
 
 
@@ -182,6 +182,148 @@
 		
 			</item>
 		<item>
+		<title>Abstracts: NeurIPS 2024 with Dylan Foster</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 14:00:00 +0000</pubDate>
+				<category><![CDATA[Microsoft Research Podcast]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107372</guid>
+
+					<description><![CDATA[<p>Can existing algorithms designed for simple reinforcement learning problems be used to solve more complex RL problems? Researcher Dylan Foster discusses the modular approach he and his coauthors explored in their 2024 NeurIPS paper on RL under latent dynamics.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated image of Dylan Foster for the Abstracts series on the Microsoft Research Podcast." class="wp-image-1108887" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+<div class="wp-block-msr-podcast-container my-4">
+	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139303363&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+</div>
+
+
+
+<p>Members of the research community at Microsoft work continuously to advance their respective fields.<em> Abstracts&nbsp;</em>brings its audience to the cutting edge with them through short, compelling conversations about new and noteworthy achievements.&nbsp;</p>
+
+
+
+<p>In this episode, Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/dylanfoster/">Dylan Foster</a> joins host Amber Tingle to discuss the paper <a href="https://www.microsoft.com/en-us/research/publication/reinforcement-learning-under-latent-dynamics-toward-statistical-and-algorithmic-modularity/">“Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity,”</a> an oral presentation at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/">Conference on Neural Information Processing Systems</a> <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/">(NeurIPS)</a>. In the paper, Foster and his coauthors explore whether well-studied RL algorithms for simple problems can be leveraged to solve RL problems with high-dimensional observations and latent dynamics, part of larger efforts to identify algorithm design principles that can enable agents to learn quickly via trial and error in unfamiliar environments.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/reinforcement-learning-under-latent-dynamics-toward-statistical-and-algorithmic-modularity/">Read the paper</a></div>
+</div>
+
+
+<div class="wp-block-msr-show-more">
+	<div class="bg-neutral-100 p-5">
+		<div class="show-more-show-less" data-mount="show-more-show-less">
+			<div>
+				<span>
+					
+
+<h2 class="wp-block-heading" id="transcript">Transcript</h2>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p><strong>AMBER TINGLE:</strong> Welcome to <em>Abstracts</em>, a Microsoft Research Podcast that puts the spotlight on world-class research <em>in brief</em>. I’m Amber Tingle. In this series, members of the research community at Microsoft give us a quick snapshot—or a <em>podcast abstract</em>—of their new and noteworthy papers.</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+
+
+<p>Our guest today is Dylan Foster. He is a principal researcher at Microsoft Research and coauthor of a paper called “Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity.” The work is among the oral presentations at this year&#8217;s Conference on Neural Information Processing Systems, or <em>NeurIPS</em>, in Vancouver. Dylan, welcome and thank you for joining us on the podcast!</p>
+
+
+
+				</span>
+				<span id="show-more-show-less-toggle-2" class="show-more-show-less-toggleable-content">
+					
+
+
+
+<p><strong>DYLAN FOSTER:</strong> Thanks for having me.</p>
+
+
+
+<p><strong>TINGLE: </strong>Let&#8217;s start with a brief overview of this paper. Tell us about the problem this work addresses and why the research community should know about it.</p>
+
+
+
+<p><strong>FOSTER:</strong> So this is a, kind of, a theoretical work on reinforcement learning, or RL. When I say reinforcement learning, broadly speaking, this is talking about the question of how can we design AI agents that are capable of, like, interacting with unknown environments and learning how to solve problems through trial and error. So this is part of some broader agenda we&#8217;ve been doing on, kind of, theoretical foundations of RL. And the key questions we&#8217;re looking at here are what are called, like, exploration and sample efficiency. So this just means we&#8217;re trying to understand, like, what are the algorithm design principles that can allow you to explore an unknown environment and learn as quickly as possible? What we&#8217;re doing in this paper is we&#8217;re, kind of, looking at, how can you most efficiently solve reinforcement learning problems where you&#8217;re faced with very high-dimensional observations, but the underlying dynamics of the system you&#8217;re interacting with are simple? So this is a setting that occurs in a lot of natural reinforcement learning and control problems, especially in the context of, like, say, embodied decision-making. So if you think about, say, games like Pong, you know, the state of the game, like, the state of, like, Pong, is extremely simple. It&#8217;s just, you know, what is the position and velocity of the ball, and, like, where are the paddles? But what we&#8217;d like to be able to do is learn to, you know, like, control or, like, solve games like this from raw pixels or, like, images kind of in the same way that a human would, like, just solve them from vision. So if you look at these types of problems, you know, we call these, like, <em>RL with rich observations</em> or RL with <em>latent dynamics</em>. You know, these are interesting because they, kind of, require you to explore the system, but they also require, you know, representation learning. Like, you want to be able to use neural nets to learn a mapping from, say, the images you see to the latent state of the system. This is a pretty interesting and nontrivial algorithmic problem. And, kind of, what we do in this work is we take a first step towards something like a unified understanding for how to solve these sorts of, like, rich-observation, or latent dynamics, RL problems.</p>
+
+
+
+<p><strong>TINGLE:</strong> So how did you go about developing this theoretical framework?</p>
+
+
+
+<p><strong>FOSTER: </strong>Yeah, so if you look at these sort of RL problems with latent dynamics, this is something that&#8217;s actually received a lot of investigation in theory. And a lot of this goes back to, kind of, early work from our lab from, like, 2016, 2017 or so. There&#8217;s some really interesting results here, but progress was largely on a, like, case-by-case basis, meaning, you know, there are many different ways that you can try to model the latent dynamics of your problem, and, you know, each of these somehow leads to a different algorithm, right. So, like, you know, you think very hard about this modeling assumption. You think about, what would an optimal algorithm look like? And you end up, you know, writing an entire paper about it. And there&#8217;s nothing wrong with that per se, but if you want to be able to iterate quickly and, kind of, try different modeling assumptions and see what works in practice, you know, this is not really tenable. It&#8217;s just too slow. And so the starting point for this work was to, kind of, try to take a different and more modular approach. So the idea is, you know, there are many, many different types of, sort of, systems or modeling assumptions for the dynamics that have been already studied extensively and have entire papers about them for the simpler setting in which you can directly see the state of the system. And so what we wanted to ask here is, is it possible to use these existing results in more of, like, a modular fashion? Like, if someone has already written a paper on how to optimally solve a particular type of MDP, or <em>Markov decision process</em>, can we just take their algorithm as is and perhaps plug it into some kind of meta-algorithm that can directly, kind of, combine this with representation learning and use it to solve the corresponding rich-observation, or latent dynamics, RL problem?</p>
+
+
+
+<p><strong>TINGLE: </strong>What were your major findings? What did you learn during this process?</p>
+
+
+
+<p><strong>FOSTER:</strong> We started by asking the question sort of exactly the way that I just posed it, right. Like, can we take existing algorithms and use them to solve rich-observation RL problems in a modular fashion? And this turned out to be really tricky. Like, there&#8217;s a lot of natural algorithms you might try that seem promising at first but don&#8217;t exactly work out. And what this, kind of, led us to and, sort of, the first main result in this paper is actually a <em>negative</em> result. So what we actually showed is most, sort of, well-studied types of systems or, like, MDPs that have been studied in, like, the prior literature on RL, even if they&#8217;re tractable when you&#8217;re able to directly see the state of the system, they can become statistically intractable once you add, sort of, high-dimensional observations to the picture. And statistically tractable here means the amount of interaction that you need, like the amount of, sort of, attempts to explore the system that you need, in order to learn a good decision-making policy becomes, like, very, very large, like much, much larger than the corresponding, sort of, complexity if you were able to directly see the states of the system. You know, you could look at this and say, I guess we&#8217;re out of luck. You know, maybe there&#8217;s just no hope of solving these sorts of problems. But that&#8217;s perhaps a little too pessimistic. You know, really the way you should interpret this result is just that you need <em>more assumptions</em>. And that&#8217;s precisely what the, sort of, second result we have in this paper is. So our second result shows that you can, sort of, bypass this impossibility result and, you know, achieve truly modular algorithms under a couple different types of additional assumptions.</p>
+
+
+
+<p><strong>TINGLE: </strong>Dylan, I&#8217;d like to know—and I&#8217;m sure our audience would, too—what this work means when it comes to real-world application. What impact will this have on the research community?</p>
+
+
+
+<p><strong>FOSTER:</strong> Yeah, so maybe I&#8217;ll answer that, um, with two different points. The first one is a broader point, which is, why is it important to understand this problem of exploration and sample efficiency in reinforcement learning? If you look at the, sort of, setting we study in this paper—you know, this, like, RL or decision-making with high-dimensional observations—on the empirical side, people have made a huge amount of progress on this problem through deep reinforcement learning. This was what kind of led to these amazing breakthroughs in solving games like Atari in the last decade. But if you look at these results, the gains are somehow more coming from the, like, inductive bias or the, like, generalization abilities of deep learning and not necessarily from the specific algorithms. So, like, current algorithms do not actually explore very deliberately, and so their sample efficiency is very high. Like, it&#8217;s hard to draw a one-to-one comparison, but you can argue they need, like, far more experience than a human would to solve these sorts of problems. So it&#8217;s not clear that we&#8217;re really anywhere near the ceiling of what can be achieved in terms of, like, how efficiently can you have, you know, an agent learn to solve new problems from trial and error. And I think better algorithms here could potentially be, like, transformative in a lot of different domains. To get into this specific work, I think there&#8217;s a couple of important takeaways for researchers. One is that by giving this impossibility result that shows that RL with latent dynamics is impossible without further assumptions, we&#8217;re kind of narrowing down the search space where other researchers can look for efficient algorithms. The second takeaway is, you know, we are showing that this problem becomes tractable when you make additional assumptions. But I view these more as, like, a proof of concept. Like, we&#8217;re kind of, showing for the first time that it <em>is</em> possible to do something nontrivial, but I think a lot more work and research will be required in order to like, you know, build on this and take this to something that can lead to, like, practical algorithms.<s></s></p>
+
+
+
+<p><strong>TINGLE: </strong>Well, Dylan Foster, thank you for joining us today to discuss your paper on reinforcement learning under latent dynamics. We certainly appreciate it.</p>
+
+
+
+<p><strong>FOSTER: </strong>Thanks a lot. Thanks for having me.</p>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p><strong>TINGLE: </strong>And to our listeners, thank you all for tuning in. If you&#8217;d like to read Dylan&#8217;s paper, you may find a link at aka.ms/abstracts. You can also find the paper on arXiv and on the NeurIPS conference website. I&#8217;m Amber Tingle from Microsoft Research, and we hope you&#8217;ll join us next time on <em>Abstracts</em>!</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+				</span>
+			</div>
+			<button
+				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
+				aria-expanded="false"
+				data-show-less-text="Show less"
+				type="button"
+				aria-controls="show-more-show-less-toggle-2"
+				aria-label="Show more content"
+				data-alternate-aria-label="Show less content">
+				Show more			</button>
+		</div>
+	</div>
+</div>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Abstracts: NeurIPS 2024 with Pranjal Chitale</title>
 		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/</link>
 		
@@ -190,11 +332,11 @@
 				<category><![CDATA[Microsoft Research Podcast]]></category>
 		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107426</guid>
 
-					<description><![CDATA[<p>Pranjal Chitale discusses the ’24 NeurIPS work CVQA. Spanning 31 languages and the cultures of 30 countries, this VQA benchmark was created with native speakers and cultural experts to evaluate model performance across diverse linguistic and cultural contexts.</p>
+					<description><![CDATA[<p>Pranjal Chitale discusses the 2024 NeurIPS work CVQA. Spanning 31 languages and the cultures of 30 countries, this VQA benchmark was created with native speakers and cultural experts to evaluate model performance across diverse linguistic and cultural contexts.</p>
 <p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="diagram" class="wp-image-1108932" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="diagram" class="wp-image-1108932" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
@@ -248,7 +390,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-2" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-3" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -322,148 +464,6 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-2"
-				aria-label="Show more content"
-				data-alternate-aria-label="Show less content">
-				Show more			</button>
-		</div>
-	</div>
-</div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Abstracts: NeurIPS 2024 with Dylan Foster</title>
-		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/</link>
-		
-		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 14:00:00 +0000</pubDate>
-				<category><![CDATA[Microsoft Research Podcast]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107372</guid>
-
-					<description><![CDATA[<p>Can existing algorithms designed for simple reinforcement learning problems be used to solve more complex RL problems? Researcher Dylan Foster discusses the modular approach he and his coauthors explored in their 2024 NeurIPS paper on RL under latent dynamics.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated image of Dylan Foster for the Abstracts series on the Microsoft Research Podcast." class="wp-image-1108887" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-<div class="wp-block-msr-podcast-container my-4">
-	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139303363&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
-</div>
-
-
-
-<p>Members of the research community at Microsoft work continuously to advance their respective fields.<em> Abstracts&nbsp;</em>brings its audience to the cutting edge with them through short, compelling conversations about new and noteworthy achievements.&nbsp;</p>
-
-
-
-<p>In this episode, Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/dylanfoster/">Dylan Foster</a> joins host Amber Tingle to discuss the paper <a href="https://www.microsoft.com/en-us/research/publication/reinforcement-learning-under-latent-dynamics-toward-statistical-and-algorithmic-modularity/">“Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity,”</a> an oral presentation at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/">Conference on Neural Information Processing Systems</a> <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/">(NeurIPS)</a>. In the paper, Foster and his coauthors explore whether well-studied RL algorithms for simple problems can be leveraged to solve RL problems with high-dimensional observations and latent dynamics, part of larger efforts to identify algorithm design principles that can enable agents to learn quickly via trial and error in unfamiliar environments.</p>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/reinforcement-learning-under-latent-dynamics-toward-statistical-and-algorithmic-modularity/">Read the paper</a></div>
-</div>
-
-
-<div class="wp-block-msr-show-more">
-	<div class="bg-neutral-100 p-5">
-		<div class="show-more-show-less" data-mount="show-more-show-less">
-			<div>
-				<span>
-					
-
-<h2 class="wp-block-heading" id="transcript">Transcript</h2>
-
-
-
-<p>[MUSIC]</p>
-
-
-
-<p><strong>AMBER TINGLE:</strong> Welcome to <em>Abstracts</em>, a Microsoft Research Podcast that puts the spotlight on world-class research <em>in brief</em>. I’m Amber Tingle. In this series, members of the research community at Microsoft give us a quick snapshot—or a <em>podcast abstract</em>—of their new and noteworthy papers.</p>
-
-
-
-<p>[MUSIC FADES]</p>
-
-
-
-<p>Our guest today is Dylan Foster. He is a principal researcher at Microsoft Research and coauthor of a paper called “Reinforcement Learning Under Latent Dynamics: Toward Statistical and Algorithmic Modularity.” The work is among the oral presentations at this year&#8217;s Conference on Neural Information Processing Systems, or <em>NeurIPS</em>, in Vancouver. Dylan, welcome and thank you for joining us on the podcast!</p>
-
-
-
-				</span>
-				<span id="show-more-show-less-toggle-3" class="show-more-show-less-toggleable-content">
-					
-
-
-
-<p><strong>DYLAN FOSTER:</strong> Thanks for having me.</p>
-
-
-
-<p><strong>TINGLE: </strong>Let&#8217;s start with a brief overview of this paper. Tell us about the problem this work addresses and why the research community should know about it.</p>
-
-
-
-<p><strong>FOSTER:</strong> So this is a, kind of, a theoretical work on reinforcement learning, or RL. When I say reinforcement learning, broadly speaking, this is talking about the question of how can we design AI agents that are capable of, like, interacting with unknown environments and learning how to solve problems through trial and error. So this is part of some broader agenda we&#8217;ve been doing on, kind of, theoretical foundations of RL. And the key questions we&#8217;re looking at here are what are called, like, exploration and sample efficiency. So this just means we&#8217;re trying to understand, like, what are the algorithm design principles that can allow you to explore an unknown environment and learn as quickly as possible? What we&#8217;re doing in this paper is we&#8217;re, kind of, looking at, how can you most efficiently solve reinforcement learning problems where you&#8217;re faced with very high-dimensional observations, but the underlying dynamics of the system you&#8217;re interacting with are simple? So this is a setting that occurs in a lot of natural reinforcement learning and control problems, especially in the context of, like, say, embodied decision-making. So if you think about, say, games like Pong, you know, the state of the game, like, the state of, like, Pong, is extremely simple. It&#8217;s just, you know, what is the position and velocity of the ball, and, like, where are the paddles? But what we&#8217;d like to be able to do is learn to, you know, like, control or, like, solve games like this from raw pixels or, like, images kind of in the same way that a human would, like, just solve them from vision. So if you look at these types of problems, you know, we call these, like, <em>RL with rich observations</em> or RL with <em>latent dynamics</em>. You know, these are interesting because they, kind of, require you to explore the system, but they also require, you know, representation learning. Like, you want to be able to use neural nets to learn a mapping from, say, the images you see to the latent state of the system. This is a pretty interesting and nontrivial algorithmic problem. And, kind of, what we do in this work is we take a first step towards something like a unified understanding for how to solve these sorts of, like, rich-observation, or latent dynamics, RL problems.</p>
-
-
-
-<p><strong>TINGLE:</strong> So how did you go about developing this theoretical framework?</p>
-
-
-
-<p><strong>FOSTER: </strong>Yeah, so if you look at these sort of RL problems with latent dynamics, this is something that&#8217;s actually received a lot of investigation in theory. And a lot of this goes back to, kind of, early work from our lab from, like, 2016, 2017 or so. There&#8217;s some really interesting results here, but progress was largely on a, like, case-by-case basis, meaning, you know, there are many different ways that you can try to model the latent dynamics of your problem, and, you know, each of these somehow leads to a different algorithm, right. So, like, you know, you think very hard about this modeling assumption. You think about, what would an optimal algorithm look like? And you end up, you know, writing an entire paper about it. And there&#8217;s nothing wrong with that per se, but if you want to be able to iterate quickly and, kind of, try different modeling assumptions and see what works in practice, you know, this is not really tenable. It&#8217;s just too slow. And so the starting point for this work was to, kind of, try to take a different and more modular approach. So the idea is, you know, there are many, many different types of, sort of, systems or modeling assumptions for the dynamics that have been already studied extensively and have entire papers about them for the simpler setting in which you can directly see the state of the system. And so what we wanted to ask here is, is it possible to use these existing results in more of, like, a modular fashion? Like, if someone has already written a paper on how to optimally solve a particular type of MDP, or <em>Markov decision process</em>, can we just take their algorithm as is and perhaps plug it into some kind of meta-algorithm that can directly, kind of, combine this with representation learning and use it to solve the corresponding rich-observation, or latent dynamics, RL problem?</p>
-
-
-
-<p><strong>TINGLE: </strong>What were your major findings? What did you learn during this process?</p>
-
-
-
-<p><strong>FOSTER:</strong> We started by asking the question sort of exactly the way that I just posed it, right. Like, can we take existing algorithms and use them to solve rich-observation RL problems in a modular fashion? And this turned out to be really tricky. Like, there&#8217;s a lot of natural algorithms you might try that seem promising at first but don&#8217;t exactly work out. And what this, kind of, led us to and, sort of, the first main result in this paper is actually a <em>negative</em> result. So what we actually showed is most, sort of, well-studied types of systems or, like, MDPs that have been studied in, like, the prior literature on RL, even if they&#8217;re tractable when you&#8217;re able to directly see the state of the system, they can become statistically intractable once you add, sort of, high-dimensional observations to the picture. And statistically tractable here means the amount of interaction that you need, like the amount of, sort of, attempts to explore the system that you need, in order to learn a good decision-making policy becomes, like, very, very large, like much, much larger than the corresponding, sort of, complexity if you were able to directly see the states of the system. You know, you could look at this and say, I guess we&#8217;re out of luck. You know, maybe there&#8217;s just no hope of solving these sorts of problems. But that&#8217;s perhaps a little too pessimistic. You know, really the way you should interpret this result is just that you need <em>more assumptions</em>. And that&#8217;s precisely what the, sort of, second result we have in this paper is. So our second result shows that you can, sort of, bypass this impossibility result and, you know, achieve truly modular algorithms under a couple different types of additional assumptions.</p>
-
-
-
-<p><strong>TINGLE: </strong>Dylan, I&#8217;d like to know—and I&#8217;m sure our audience would, too—what this work means when it comes to real-world application. What impact will this have on the research community?</p>
-
-
-
-<p><strong>FOSTER:</strong> Yeah, so maybe I&#8217;ll answer that, um, with two different points. The first one is a broader point, which is, why is it important to understand this problem of exploration and sample efficiency in reinforcement learning? If you look at the, sort of, setting we study in this paper—you know, this, like, RL or decision-making with high-dimensional observations—on the empirical side, people have made a huge amount of progress on this problem through deep reinforcement learning. This was what kind of led to these amazing breakthroughs in solving games like Atari in the last decade. But if you look at these results, the gains are somehow more coming from the, like, inductive bias or the, like, generalization abilities of deep learning and not necessarily from the specific algorithms. So, like, current algorithms do not actually explore very deliberately, and so their sample efficiency is very high. Like, it&#8217;s hard to draw a one-to-one comparison, but you can argue they need, like, far more experience than a human would to solve these sorts of problems. So it&#8217;s not clear that we&#8217;re really anywhere near the ceiling of what can be achieved in terms of, like, how efficiently can you have, you know, an agent learn to solve new problems from trial and error. And I think better algorithms here could potentially be, like, transformative in a lot of different domains. To get into this specific work, I think there&#8217;s a couple of important takeaways for researchers. One is that by giving this impossibility result that shows that RL with latent dynamics is impossible without further assumptions, we&#8217;re kind of narrowing down the search space where other researchers can look for efficient algorithms. The second takeaway is, you know, we are showing that this problem becomes tractable when you make additional assumptions. But I view these more as, like, a proof of concept. Like, we&#8217;re kind of, showing for the first time that it <em>is</em> possible to do something nontrivial, but I think a lot more work and research will be required in order to like, you know, build on this and take this to something that can lead to, like, practical algorithms.<s></s></p>
-
-
-
-<p><strong>TINGLE: </strong>Well, Dylan Foster, thank you for joining us today to discuss your paper on reinforcement learning under latent dynamics. We certainly appreciate it.</p>
-
-
-
-<p><strong>FOSTER: </strong>Thanks a lot. Thanks for having me.</p>
-
-
-
-<p>[MUSIC]</p>
-
-
-
-<p><strong>TINGLE: </strong>And to our listeners, thank you all for tuning in. If you&#8217;d like to read Dylan&#8217;s paper, you may find a link at aka.ms/abstracts. You can also find the paper on arXiv and on the NeurIPS conference website. I&#8217;m Amber Tingle from Microsoft Research, and we hope you&#8217;ll join us next time on <em>Abstracts</em>!</p>
-
-
-
-<p>[MUSIC FADES]</p>
-
-				</span>
-			</div>
-			<button
-				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
-				aria-expanded="false"
-				data-show-less-text="Show less"
-				type="button"
 				aria-controls="show-more-show-less-toggle-3"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
@@ -471,7 +471,7 @@
 		</div>
 	</div>
 </div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -1157,30 +1157,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085514">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085526">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: blog post</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/graphrag-auto-tuning-provides-rapid-adaptation-to-new-domains/" aria-label="GraphRAG auto-tuning provides rapid adaptation to new domains" data-bi-cN="GraphRAG auto-tuning provides rapid adaptation to new domains" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/GraphRag-3-BlogHeroFeature-1400x788-1.png" alt="GraphRAG image on blue to green gradient" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/whats-your-story-lex-story/" aria-label="What’s Your Story: Lex Story" data-bi-cN="What’s Your Story: Lex Story" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Lex-Story_WYS_Hero_Feature_1400x788.jpg" alt="photo of Lex Story for the What's Your Story episode of the Microsoft Research podcast" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">GraphRAG auto-tuning provides rapid adaptation to new domains</h2>
+									<h2 class="h4">What’s Your Story: Lex Story</h2>
 				
-								<p class="large">GraphRAG uses LLM-generated knowledge graphs to substantially improve complex Q&A over retrieval-augmented generation (RAG). Discover automatic tuning of GraphRAG for new datasets, making it more accurate and relevant.</p>
+								<p class="large">Model maker and fabricator Lex Story helps bring research to life through prototyping. He discusses his take on failure; the encouragement and advice that has supported his pursuit of art and science; and the sabbatical that might inspire his next career move.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/graphrag-auto-tuning-provides-rapid-adaptation-to-new-domains/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="GraphRAG auto-tuning provides rapid adaptation to new domains" target="_blank">
-							Read more						</a>
+						<a href="https://www.microsoft.com/en-us/research/podcast/whats-your-story-lex-story/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="What’s Your Story: Lex Story" target="_blank">
+							Listen now						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1270,7 +1270,7 @@
 						<span>Can AI spot the next bomb cyclone far in advance? Microsoft hopes so</span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
 					</a>
 				</h3>
-										<div class="card__description">
+										<div class="card__description card__citation small">
 					<p>Seattle Times | November 23, 2024</p><p>Microsoft claims that Aurora, a deep-learning model that’s constantly being trained, can produce weather forecasts much faster than — and with accuracy that meets or exceeds — traditional forecasting models.</p>				</div>
 			
 					</div>
@@ -1290,7 +1290,7 @@
 						<span>How Microsoft's next-gen BitNet architecture is turbocharging LLM efficiency </span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
 					</a>
 				</h3>
-										<div class="card__description">
+										<div class="card__description card__citation small">
 					<p>VentureBeat | November 13, 2024</p><p>One-bit large language models (LLMs) have emerged as a promising approach to making generative AI more accessible and affordable. In a new paper, Microsoft researchers introduce Binet a4.8, a new technique that further improves the efficiency of one-bit LLMs without sacrificing their performance.</p>				</div>
 			
 					</div>
@@ -1310,7 +1310,7 @@
 						<span>2024 Ellison Cliffe Lecture: AI in science and medicine with Christopher Bishop</span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
 					</a>
 				</h3>
-										<div class="card__description">
+										<div class="card__description card__citation small">
 					<p>Royal Society of Medicine | November 13, 2024</p><p>Christopher Bishop, Technical Fellow and Director of Microsoft Research AI for Science, discusses the extraordinary advances in the deep learning technology that underpins the AI revolution, including crucial progress in the fields of scientific discovery and medicine. This recent speech at the Royal Society of Medicine includes current examples of AI’s impact in materials design, drug discovery, and healthcare.</p>				</div>
 			
 					</div>
@@ -1448,30 +1448,27 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="931956">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1045008">
 		
 
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: On-demand video</span>
-	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" aria-label="AI Explainer: Foundation models ​and the next era of AI" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AIEx01_blog_hero_1400x788.png" alt="a screenshot of a computer screen shot of a man" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/gigapath-whole-slide-foundation-model-for-digital-pathology/" aria-label="GigaPath: Whole-Slide Foundation Model for Digital Pathology" data-bi-cN="GigaPath: Whole-Slide Foundation Model for Digital Pathology" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/05/GigaPath-TW_FB_LI.png" alt="Digital pathology helps decode tumor microenvironments for precision immunotherapy. GigaPath is a novel vision transformer that can scale to gigapixel whole-slide images by adapting dilated attention for digital pathology. In joint work with Providence and UW, we’re sharing Prov-GigaPath, the first whole-slide pathology foundation model pretrained on large-scale real-world data, for advancing clinical research and discovery." />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">AI Explainer: Foundation models ​and the next era of AI</h2>
+									<h2 class="h4">GigaPath: Whole-Slide Foundation Model for Digital Pathology</h2>
 				
-								<p class="large">Explore how the transformer architecture, larger models and more data, and in-context learning have helped advance AI from perception to creation.</p>
+								<p class="large">Digital pathology helps decode tumor microenvironments for precision immunotherapy. In joint work with Providence and UW, we’re sharing Prov-GigaPath, the first whole-slide pathology foundation model, for advancing clinical research.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Watch video" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-							Watch video						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/gigapath-whole-slide-foundation-model-for-digital-pathology/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="GigaPath: Whole-Slide Foundation Model for Digital Pathology" target="_blank">
+							Read more						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1660,30 +1657,30 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085514">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044939">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: blog post</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">on-demand event</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/graphrag-auto-tuning-provides-rapid-adaptation-to-new-domains/" aria-label="GraphRAG auto-tuning provides rapid adaptation to new domains" data-bi-cN="GraphRAG auto-tuning provides rapid adaptation to new domains" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/GraphRag-3-BlogHeroFeature-1400x788-1.png" alt="GraphRAG image on blue to green gradient" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/story/sep-2024-brief/?OCID=msr_researchforum_MCR_Blog_Promo" aria-label="Microsoft Research Forum Episode 4" data-bi-cN="Microsoft Research Forum Episode 4" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/RF4_Panel_1400x788.jpg" alt="Research Forum | Episode 4 Panel | John Langford, Hoifung Poon, Katja Hofmann, Jianwei Yang" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">GraphRAG auto-tuning provides rapid adaptation to new domains</h2>
+									<h2 class="h4">Microsoft Research Forum Episode 4</h2>
 				
-								<p class="large">GraphRAG uses LLM-generated knowledge graphs to substantially improve complex Q&A over retrieval-augmented generation (RAG). Discover automatic tuning of GraphRAG for new datasets, making it more accurate and relevant.</p>
+								<p class="large">Learn about the latest multimodal AI models, advanced benchmarks for AI evaluation and model self-improvement, and an entirely new kind of computer for AI inference and hard optimization. </p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/graphrag-auto-tuning-provides-rapid-adaptation-to-new-domains/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="GraphRAG auto-tuning provides rapid adaptation to new domains" target="_blank">
-							Read more						</a>
+						<a href="https://www.microsoft.com/en-us/research/story/sep-2024-brief/?OCID=msr_researchforum_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Watch on-demand" data-bi-cN="Microsoft Research Forum Episode 4" target="_blank">
+							Watch on-demand						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->

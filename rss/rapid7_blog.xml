@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 01:43:07 +0000</lastBuildDate>
-    <item>
-      <title>Rapid7 Recognized for ‘Excellence in Workplace Health and Wellbeing’ at the Belfast Telegraph IT Awards</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/19/rapid7-recognized-for-excellence-in-workplace-health-and-wellbeing-at-the-belfast-telegraph-it-awards/</link>
-      <description>On Friday, November 15th, Rapid7 was awarded ‘Excellence in Workplace Health and Wellbeing’ at the Belfast Telegraph IT Awards. This award recognizes technology companies in Belfast that prioritize employee well-being.</description>
-    </item>
+    <lastBuildDate>Thu, 12 Dec 2024 01:41:44 +0000</lastBuildDate>
     <item>
       <title>Rapid7 Extends AWS Support to Include Coverage for Newly-Launched Resource Control Policies (RCPs)</title>
       <link>https://www.rapid7.com/blog/post/2024/11/20/rapid7-extends-aws-support-to-include-coverage-for-newly-launched-resource-control-policies-rcps/</link>
@@ -92,18 +87,23 @@ the in</description>
       <link>https://www.rapid7.com/blog/post/2024/12/10/etr-widespread-exploitation-of-cleo-file-transfer-software-cve-2024-50623/</link>
       <description>On Monday, December 9, multiple security firms began privately circulating
 reports of in-the-wild exploitation targeting Cleo file transfer software. Late
-the evening of December 9, security firm Huntress published a blog on active
-exploitation of three different Cleo products (docs
+the evening of December 9, security firm Huntress published a blog
+ 
+on active exploitation of three different Cleo products (docs
 
 ):
 
- * Cleo VLTrader, a server-side solution for “mid-enterprise organizations”
- * Cleo Harmony, which provides file t</description>
+ *</description>
     </item>
     <item>
       <title>Patch Tuesday - December 2024</title>
       <link>https://www.rapid7.com/blog/post/2024/12/10/patch-tuesday-december-2024/</link>
       <description>1 zero-day. CLFS EoP. 16 critical RCEs. Hyper-V container escape. Multiple Remote Desktop Services RCE.</description>
+    </item>
+    <item>
+      <title>Modular Java Backdoor Dropped in Cleo Exploitation Campaign</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/11/etr-modular-java-backdoor-dropped-in-cleo-exploitation-campaign/</link>
+      <description>While investigating incidents related to Cleo software exploitation, Rapid7 Labs and MDR team discovered a novel, multi-stage attack that deploys an encoded Java Archive (JAR) payload.</description>
     </item>
   </channel>
 </rss>
