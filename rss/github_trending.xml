@@ -6,41 +6,16 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 01:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 01:44:22 +0000</lastBuildDate>
     <item>
-      <title>bitcoin /bitcoin</title>
-      <link>https://github.com/bitcoin/bitcoin</link>
-      <description>Bitcoin Core integration/staging tree</description>
+      <title>huggingface /text-generation-inference</title>
+      <link>https://github.com/huggingface/text-generation-inference</link>
+      <description>Large Language Model Text Generation Inference</description>
     </item>
     <item>
-      <title>leerob /next-saas-starter</title>
-      <link>https://github.com/leerob/next-saas-starter</link>
-      <description>Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.</description>
-    </item>
-    <item>
-      <title>apache /dolphinscheduler</title>
-      <link>https://github.com/apache/dolphinscheduler</link>
-      <description>Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code</description>
-    </item>
-    <item>
-      <title>langflow-ai /langflow</title>
-      <link>https://github.com/langflow-ai/langflow</link>
-      <description>Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.</description>
-    </item>
-    <item>
-      <title>astral-sh /uv</title>
-      <link>https://github.com/astral-sh/uv</link>
-      <description>An extremely fast Python package and project manager, written in Rust.</description>
-    </item>
-    <item>
-      <title>soxoj /maigret</title>
-      <link>https://github.com/soxoj/maigret</link>
-      <description>🕵️‍♂️ Collect a dossier on a person by username from thousands of sites</description>
-    </item>
-    <item>
-      <title>Alamofire /Alamofire</title>
-      <link>https://github.com/Alamofire/Alamofire</link>
-      <description>Elegant HTTP Networking in Swift</description>
+      <title>electric-sql /electric</title>
+      <link>https://github.com/electric-sql/electric</link>
+      <description>Sync little subsets of your Postgres data into local apps and services.</description>
     </item>
     <item>
       <title>lmarzen /esp32-weather-epd</title>
@@ -48,24 +23,69 @@
       <description>A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.</description>
     </item>
     <item>
+      <title>wavetermdev /waveterm</title>
+      <link>https://github.com/wavetermdev/waveterm</link>
+      <description>An open-source, cross-platform terminal for seamless workflows</description>
+    </item>
+    <item>
+      <title>commaai /openpilot</title>
+      <link>https://github.com/commaai/openpilot</link>
+      <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.</description>
+    </item>
+    <item>
+      <title>tursodatabase /libsql</title>
+      <link>https://github.com/tursodatabase/libsql</link>
+      <description>libSQL is a fork of SQLite that is both Open Source, and Open Contributions.</description>
+    </item>
+    <item>
+      <title>Alamofire /Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+    </item>
+    <item>
+      <title>shardeum /shardeum</title>
+      <link>https://github.com/shardeum/shardeum</link>
+      <description>Shardeum is an EVM based autoscaling blockchain</description>
+    </item>
+    <item>
+      <title>DS4SD /docling</title>
+      <link>https://github.com/DS4SD/docling</link>
+      <description>Get your documents ready for gen AI</description>
+    </item>
+    <item>
       <title>0xPlaygrounds /rig</title>
       <link>https://github.com/0xPlaygrounds/rig</link>
       <description>⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</description>
     </item>
     <item>
-      <title>nexus-xyz /network-api</title>
-      <link>https://github.com/nexus-xyz/network-api</link>
-      <description>High-performance interface for supplying compute to the Nexus network.</description>
+      <title>Shubhamsaboo /awesome-llm-apps</title>
+      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</description>
     </item>
     <item>
-      <title>DioxusLabs /dioxus</title>
-      <link>https://github.com/DioxusLabs/dioxus</link>
-      <description>Fullstack app framework for web, desktop, mobile, and more.</description>
+      <title>gusmanb /logicanalyzer</title>
+      <link>https://github.com/gusmanb/logicanalyzer</link>
+      <description>24 channel, 100Msps logic analyzer hardware and software</description>
+    </item>
+    <item>
+      <title>leerob /next-saas-starter</title>
+      <link>https://github.com/leerob/next-saas-starter</link>
+      <description>Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.</description>
+    </item>
+    <item>
+      <title>soxoj /maigret</title>
+      <link>https://github.com/soxoj/maigret</link>
+      <description>🕵️‍♂️ Collect a dossier on a person by username from thousands of sites</description>
     </item>
     <item>
       <title>nexus-xyz /nexus-zkvm</title>
       <link>https://github.com/nexus-xyz/nexus-zkvm</link>
       <description>The Nexus zkVM: The zero-knowledge virtual machine</description>
+    </item>
+    <item>
+      <title>tursodatabase /limbo</title>
+      <link>https://github.com/tursodatabase/limbo</link>
+      <description>Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.</description>
     </item>
   </channel>
 </rss>

@@ -6,42 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 01:41:58 +0000</lastBuildDate>
-    <item>
-      <title>Registration is open for Partner Summit at Google Cloud Next</title>
-      <link>https://cloud.google.com/blog/topics/partners/partner-summit-registration-open-next-25</link>
-      <description>PartnersRegistration is open for Partner Summit at Google Cloud NextBy Aimee Catalano • 2-minute read</description>
-    </item>
-    <item>
-      <title>Moloco: 10x faster model training times with TPUs on Google Kubernetes Engine</title>
-      <link>https://cloud.google.com/blog/products/containers-kubernetes/moloco-uses-gke-and-tpus-for-ml-workloads</link>
-      <description>Containers &amp; KubernetesMoloco: 10x faster model training times with TPUs on Google Kubernetes EngineBy Shubhika Taneja • 5-minute read</description>
-    </item>
-    <item>
-      <title>How Current leveraged Spanner to build a resilient platform for banking services</title>
-      <link>https://cloud.google.com/blog/products/databases/current-challenger-bank-database-resilience-spanner</link>
-      <description>DatabasesHow Current leveraged Spanner to build a resilient platform for banking servicesBy Trevor Marshall • 4-minute read</description>
-    </item>
-    <item>
-      <title>How the Air Force Research Laboratory is Advancing Defense Research with AI</title>
-      <link>https://cloud.google.com/blog/topics/public-sector/how-the-air-force-research-laboratory-is-advancing-defense-research-with-ai</link>
-      <description>Public SectorHow the Air Force Research Laboratory is Advancing Defense Research with AIBy Zahra Najmi • 4-minute read</description>
-    </item>
-    <item>
-      <title>Locking down Cloud Run: Inside Commerzbank's adoption of custom org policies</title>
-      <link>https://cloud.google.com/blog/topics/financial-services/commerzbank-cloud-run-custom-org-policies</link>
-      <description>Financial ServicesLocking down Cloud Run: Inside Commerzbank's adoption of custom org policiesBy Christian Gorke • 3-minute read</description>
-    </item>
-    <item>
-      <title>Google Cloud named a Leader in the 2024 Gartner Magic Quadrant for Data Integration Tools</title>
-      <link>https://cloud.google.com/blog/products/data-analytics/a-leader-in-gartner-magic-quadrant-for-data-integration-tools</link>
-      <description>Data AnalyticsGoogle Cloud named a Leader in the 2024 Gartner Magic Quadrant for Data Integration ToolsBy Chai Pydimukkala • 6-minute read</description>
-    </item>
-    <item>
-      <title>How HighLevel built an AI marketing platform with Firestore</title>
-      <link>https://cloud.google.com/blog/products/databases/highlevel-migrates-workloads-to-firestore</link>
-      <description>DatabasesHow HighLevel built an AI marketing platform with FirestoreBy Karan Agarwal • 4-minute read</description>
-    </item>
+    <lastBuildDate>Fri, 13 Dec 2024 01:44:36 +0000</lastBuildDate>
     <item>
       <title>Build and refine your audio generation end-to-end with Gemini 1.5 Pro</title>
       <link>https://cloud.google.com/blog/products/ai-machine-learning/learn-how-to-build-a-podcast-with-gemini-1-5-pro</link>
@@ -56,6 +21,41 @@
       <title>How Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 Pro</title>
       <link>https://cloud.google.com/blog/topics/partners/how-fullstory-uses-vertex-ai-and-gemini-to-boost-conversion-rates</link>
       <description>PartnersHow Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 ProBy Kevin Wang • 7-minute read</description>
+    </item>
+    <item>
+      <title>How Google Cloud helps navigate your DPIA and AI privacy compliance journey</title>
+      <link>https://cloud.google.com/blog/products/identity-security/how-google-cloud-helps-navigate-your-dpia-and-ai-privacy-compliance-journey</link>
+      <description>Security &amp; IdentityHow Google Cloud helps navigate your DPIA and AI privacy compliance journeyBy Marc Crandall • 3-minute read</description>
+    </item>
+    <item>
+      <title>How Ford Pro uses Bigtable to harness connected vehicle telemetry data</title>
+      <link>https://cloud.google.com/blog/products/databases/ford-pro-intelligence-built-on-bigtable-nosql-database</link>
+      <description>DatabasesHow Ford Pro uses Bigtable to harness connected vehicle telemetry dataBy Gavarraju Nanduri • 8-minute read</description>
+    </item>
+    <item>
+      <title>Google Cloud first CSP to join BRC, MFG-ISAC, and affiliates to advance security</title>
+      <link>https://cloud.google.com/blog/products/identity-security/google-cloud-first-csp-to-join-brc-mfg-isac-and-affiliates-to-advance-security</link>
+      <description>Security &amp; IdentityGoogle Cloud first CSP to join BRC, MFG-ISAC, and affiliates to advance securityBy Vinod D’Souza • 4-minute read</description>
+    </item>
+    <item>
+      <title>How Dun &amp; Bradstreet is transforming software development with Gemini Code Assist</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/dun-bradstreet-gemini-code-assist-software-development-lifecycle</link>
+      <description>AI &amp; Machine LearningHow Dun &amp; Bradstreet is transforming software development with Gemini Code AssistBy Ryan J. Salva • 5-minute read</description>
+    </item>
+    <item>
+      <title>Scaling to zero on Google Kubernetes Engine with KEDA</title>
+      <link>https://cloud.google.com/blog/products/containers-kubernetes/scale-to-zero-on-gke-with-keda</link>
+      <description>Containers &amp; KubernetesScaling to zero on Google Kubernetes Engine with KEDABy Michal Golda • 4-minute read</description>
+    </item>
+    <item>
+      <title>Boost your Looker Studio Pro skills with new on-demand course from Google Cloud</title>
+      <link>https://cloud.google.com/blog/products/business-intelligence/new-looker-studio-pro-essentials-on-demand-course</link>
+      <description>Business IntelligenceBoost your Looker Studio Pro skills with new on-demand course from Google CloudBy Rishabh Dhingra • 2-minute read</description>
+    </item>
+    <item>
+      <title>A look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browser</title>
+      <link>https://cloud.google.com/blog/products/chrome-enterprise/a-look-back-at-chrome-enterprise-in-2024-strengthening-security-and-improving-productivity-in-the-browser</link>
+      <description>Chrome EnterpriseA look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browserBy Hakan Kilic • 3-minute read</description>
     </item>
   </channel>
 </rss>

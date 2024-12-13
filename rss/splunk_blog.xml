@@ -6,53 +6,53 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 01:41:39 +0000</lastBuildDate>
-    <item>
-      <title>The API Testing Guide: Top Tools for Testing APIs</title>
-      <link>https://www.splunk.com/en_us/blog/learn/api-testing.html</link>
-      <description>API testing is incredibly important today. In this comprehensive article, learn how to do API testing the right way, and find out which tools are most popular.</description>
-    </item>
-    <item>
-      <title>Introduction to Shadow AI</title>
-      <link>https://www.splunk.com/en_us/blog/learn/shadow-ai.html</link>
-      <description>Discover the risks and benefits of Shadow AI—unauthorized generative AI tools enhancing workplace productivity but challenging data security and IT governance.</description>
-    </item>
-    <item>
-      <title>Announcing Our New 2024-2025 Grantees: Bridging the Data Divide</title>
-      <link>https://www.splunk.com/en_us/blog/splunk-for-good/bridge-data-divide-2024-2025-grantees.html</link>
-      <description>Splunk Social Impact is tackling the Data Divide—the gap between the growing use of data to drive commercial success and its limited application in addressing pressing social and environmental challenges.</description>
-    </item>
-    <item>
-      <title>What Is DevX/DevEx? Developer Experience, Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/developer-experience-devex.html</link>
-      <description>Any software company relies on the work of its developers. Make sure your developers are having the best experience possible: learn all about DevEx here.</description>
-    </item>
-    <item>
-      <title>OT Security is the New Avenger in Manufacturing</title>
-      <link>https://www.splunk.com/en_us/blog/industries/ot-security-is-the-new-avenger-in-manufacturing.html</link>
-      <description>Of all industries, manufacturing is the one targeted the most by cybercriminals. Why? One of the key reasons is that it is relatively easy since most manufacturers simply have no OT Security in place. Read on to learn how to build resilience with a secure factory and why it is a good idea to have an OT Security avenger in a plant manager's team.</description>
-    </item>
-    <item>
-      <title>From Zero to LLM-Hero: Plan, Architect and Operationalize your AI Assistant in Splunk</title>
-      <link>https://www.splunk.com/en_us/blog/artificial-intelligence/from-zero-to-llm-hero-plan-architect-and-operationalize-your-ai-assistant-in-splunk.html</link>
-      <description>In this blog post we are going to show you how you can connect Splunk data with LLMs to interact with them, based on the way Zeppelin, a global leader in sales and services for construction machinery, power systems, rental equipment and plant engineering, achieved this.</description>
-    </item>
-    <item>
-      <title>What is IoT Monitoring? Why IoT Monitoring Matters</title>
-      <link>https://www.splunk.com/en_us/blog/learn/iot-monitoring.html</link>
-      <description>Discover how IoT monitoring transforms businesses with real-world examples, benefits like efficiency, predictive maintenance, cost savings, and enhanced security.</description>
-    </item>
-    <item>
-      <title>The Very Best Cybersecurity Podcasts To Listen To in 2025</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-podcasts.html</link>
-      <description>Discover the top cybersecurity podcasts today, offering gripping stories, practical insights, and breaking news. Tune in and stay informed.</description>
-    </item>
+    <lastBuildDate>Fri, 13 Dec 2024 01:44:15 +0000</lastBuildDate>
     <item>
       <title>Data Warehouse vs. Database: Differences Explained</title>
       <link>https://www.splunk.com/en_us/blog/learn/database-vs-data-warehouse.html</link>
       <description>Understand how databases and data warehouses work, how they vary and when to use which – all in this beginner’s guide to data warehousing and databases.</description>
     </item>
     <item>
+      <title>Bridging the Cyber Confidence Gap: Digital Resilience in the Public Sector</title>
+      <link>https://www.splunk.com/en_us/blog/industries/bridging-the-cyber-confidence-gap-digital-resilience-in-the-public-sector.html</link>
+      <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
+    </item>
+    <item>
+      <title>Zero Trust &amp; Zero Trust Network Architecture (ZTNA), Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/zero-trust.html</link>
+      <description>Let's break down the popular zero trust security concept and look at how to get started with ZTNA: zero trust network architecture.</description>
+    </item>
+    <item>
+      <title>Indicators of Attack (IoAs): A Complete Introduction</title>
+      <link>https://www.splunk.com/en_us/blog/learn/ioa-indicators-of-attack.html</link>
+      <description>In this post, we are going to discuss Indicators of Attack in detail. We will cover the importance of understanding IoAs and more.</description>
+    </item>
+    <item>
+      <title>Chargebacks vs. Showbacks: Everything You Need to Know</title>
+      <link>https://www.splunk.com/en_us/blog/learn/chargeback-vs-showback.html</link>
+      <description>Managing IT costs internally isn’t easy, but two methods can help: learn all about showbacks and chargebacks in this article.</description>
+    </item>
+    <item>
+      <title>What Is MTTD? The Mean Time to Detect Metric, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/mean-time-to-detect-mttd.html</link>
+      <description>MTTD is the average time it takes to detect a fault. In this in-depth article, see why MTTD is not an output of the system, but actually of the entire environment.</description>
+    </item>
+    <item>
+      <title>Introduction to the OpenTelemetry Sum Connector</title>
+      <link>https://www.splunk.com/en_us/blog/observability/opentelemetry-sum-connector.html</link>
+      <description>Uncover the magic of the Sum Connector module in OpenTelemetry! Transform attribute data into clear, insightful metric sums and uncover the buried treasure in your already existing data!</description>
+    </item>
+    <item>
+      <title>Indicators of Compromise (IoCs): An Introductory Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html</link>
+      <description>In this post, we’ll discuss indicators of compromise including their types and their relevance to threat intelligence teams.</description>
+    </item>
+    <item>
+      <title>What Is Cloud Infrastructure?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-infrastructure.html</link>
+      <description>Cloud infrastructure runs so much of the world’s daily operations. What is it and what does it mean? Find out in this comprehensive article.</description>
+    </item>
+    <item>
       <title>What is Observability? An Introduction</title>
       <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
       <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
@@ -208,9 +208,34 @@
       <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
     </item>
     <item>
-      <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
-      <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
-      <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
+      <title>Splunk Now Generally Available on Microsoft Azure</title>
+      <link>https://www.splunk.com/en_us/blog/partners/splunk-now-generally-available-on-microsoft-azure.html</link>
+      <description>Splunk arrives on Microsoft Azure, giving the vast majority of Fortune 2000 companies an easier way to enable enterprise-grade security and observability.</description>
+    </item>
+    <item>
+      <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
+      <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
+      <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
+    </item>
+    <item>
+      <title>Reflections from Cisco Partner Summit 2024: Building the Future as One</title>
+      <link>https://www.splunk.com/en_us/blog/partners/reflections-from-cisco-partner-summit-2024-building-the-future-as-one.html</link>
+      <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
+    </item>
+    <item>
+      <title>Bridging the Cyber Confidence Gap: Digital Resilience in the Public Sector</title>
+      <link>https://www.splunk.com/en_us/blog/industries/bridging-the-cyber-confidence-gap-digital-resilience-in-the-public-sector.html</link>
+      <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
+    </item>
+    <item>
+      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
+      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
+      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
+    </item>
+    <item>
+      <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
+      <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
+      <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
     </item>
     <item>
       <title>Splunk Now Generally Available on Microsoft Azure</title>
@@ -228,6 +253,11 @@
       <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
     </item>
     <item>
+      <title>Bridging the Cyber Confidence Gap: Digital Resilience in the Public Sector</title>
+      <link>https://www.splunk.com/en_us/blog/industries/bridging-the-cyber-confidence-gap-digital-resilience-in-the-public-sector.html</link>
+      <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
+    </item>
+    <item>
       <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
       <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
       <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
@@ -236,11 +266,6 @@
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
       <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
       <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
-    </item>
-    <item>
-      <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
-      <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
-      <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
     </item>
     <item>
       <title>Splunk Now Generally Available on Microsoft Azure</title>
@@ -251,31 +276,6 @@
       <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
       <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
       <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
-    </item>
-    <item>
-      <title>Reflections from Cisco Partner Summit 2024: Building the Future as One</title>
-      <link>https://www.splunk.com/en_us/blog/partners/reflections-from-cisco-partner-summit-2024-building-the-future-as-one.html</link>
-      <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
-    </item>
-    <item>
-      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
-      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
-      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
-    </item>
-    <item>
-      <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
-      <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
-      <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
-    </item>
-    <item>
-      <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
-      <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
-      <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
-    </item>
-    <item>
-      <title>Splunk Now Generally Available on Microsoft Azure</title>
-      <link>https://www.splunk.com/en_us/blog/partners/splunk-now-generally-available-on-microsoft-azure.html</link>
-      <description>Splunk arrives on Microsoft Azure, giving the vast majority of Fortune 2000 companies an easier way to enable enterprise-grade security and observability.</description>
     </item>
   </channel>
 </rss>

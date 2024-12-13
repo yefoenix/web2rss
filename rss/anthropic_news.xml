@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.anthropic.com/news. follow.is: feedId:71805759203098624+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 01:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 01:44:27 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -426,6 +426,11 @@
       <title>Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock</title>
       <link>https://www.anthropic.com/news/trainium2-and-distillation</link>
       <description>ProductClaude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon BedrockDec 3, 2024</description>
+    </item>
+    <item>
+      <title>Elections and AI in 2024: observations and learnings</title>
+      <link>https://www.anthropic.com/news/elections-ai-2024</link>
+      <description>Societal ImpactsElections and AI in 2024: observations and learningsDec 12, 2024</description>
     </item>
   </channel>
 </rss>
