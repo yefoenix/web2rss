@@ -6,11 +6,11 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 01:44:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 01:38:54 +0000</lastBuildDate>
     <item>
-      <title>Build and refine your audio generation end-to-end with Gemini 1.5 Pro</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/learn-how-to-build-a-podcast-with-gemini-1-5-pro</link>
-      <description>AI &amp; Machine LearningBuild and refine your audio generation end-to-end with Gemini 1.5 ProBy Krishna Chytanya Ayyagari • 4-minute read</description>
+      <title>Understand how your users are using Gemini for Google Cloud with Cloud Logging and Monitoring</title>
+      <link>https://cloud.google.com/blog/products/management-tools/cloud-logging-and-monitoring-support-gemini-for-google-cloud</link>
+      <description>Management ToolsUnderstand how your users are using Gemini for Google Cloud with Cloud Logging and MonitoringBy Calvin Cheng • 4-minute read</description>
     </item>
     <item>
       <title>To avoid “bill shocks,” Palo Alto Networks deploys custom AI-powered cost anomaly detection</title>
@@ -23,19 +23,24 @@
       <description>PartnersHow Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 ProBy Kevin Wang • 7-minute read</description>
     </item>
     <item>
+      <title>How Vertex AI’s vector search helps unlock high-performance gen AI apps</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/build-fast-and-scalable-ai-applications-with-vertex-ai</link>
+      <description>AI &amp; Machine LearningHow Vertex AI’s vector search helps unlock high-performance gen AI appsBy Eran Lewis • 7-minute read</description>
+    </item>
+    <item>
+      <title>Google Cloud and Swift pioneer advanced AI and federated learning tech to help combat payments fraud</title>
+      <link>https://cloud.google.com/blog/products/identity-security/google-cloud-and-swift-pioneer-advanced-ai-and-federated-learning-tech</link>
+      <description>Security &amp; IdentityGoogle Cloud and Swift pioneer advanced AI and federated learning tech to help combat payments fraudBy Vineet Dave • 7-minute read</description>
+    </item>
+    <item>
+      <title>Improve your security posture with expanded Custom Org Policy</title>
+      <link>https://cloud.google.com/blog/products/identity-security/announcing-expanded-custom-org-policy-portfolio-of-supported-products</link>
+      <description>Security &amp; IdentityImprove your security posture with expanded Custom Org PolicyBy Akshay Datar • 4-minute read</description>
+    </item>
+    <item>
       <title>How Google Cloud helps navigate your DPIA and AI privacy compliance journey</title>
       <link>https://cloud.google.com/blog/products/identity-security/how-google-cloud-helps-navigate-your-dpia-and-ai-privacy-compliance-journey</link>
       <description>Security &amp; IdentityHow Google Cloud helps navigate your DPIA and AI privacy compliance journeyBy Marc Crandall • 3-minute read</description>
-    </item>
-    <item>
-      <title>How Ford Pro uses Bigtable to harness connected vehicle telemetry data</title>
-      <link>https://cloud.google.com/blog/products/databases/ford-pro-intelligence-built-on-bigtable-nosql-database</link>
-      <description>DatabasesHow Ford Pro uses Bigtable to harness connected vehicle telemetry dataBy Gavarraju Nanduri • 8-minute read</description>
-    </item>
-    <item>
-      <title>Google Cloud first CSP to join BRC, MFG-ISAC, and affiliates to advance security</title>
-      <link>https://cloud.google.com/blog/products/identity-security/google-cloud-first-csp-to-join-brc-mfg-isac-and-affiliates-to-advance-security</link>
-      <description>Security &amp; IdentityGoogle Cloud first CSP to join BRC, MFG-ISAC, and affiliates to advance securityBy Vinod D’Souza • 4-minute read</description>
     </item>
     <item>
       <title>How Dun &amp; Bradstreet is transforming software development with Gemini Code Assist</title>
@@ -43,19 +48,14 @@
       <description>AI &amp; Machine LearningHow Dun &amp; Bradstreet is transforming software development with Gemini Code AssistBy Ryan J. Salva • 5-minute read</description>
     </item>
     <item>
-      <title>Scaling to zero on Google Kubernetes Engine with KEDA</title>
-      <link>https://cloud.google.com/blog/products/containers-kubernetes/scale-to-zero-on-gke-with-keda</link>
-      <description>Containers &amp; KubernetesScaling to zero on Google Kubernetes Engine with KEDABy Michal Golda • 4-minute read</description>
-    </item>
-    <item>
-      <title>Boost your Looker Studio Pro skills with new on-demand course from Google Cloud</title>
-      <link>https://cloud.google.com/blog/products/business-intelligence/new-looker-studio-pro-essentials-on-demand-course</link>
-      <description>Business IntelligenceBoost your Looker Studio Pro skills with new on-demand course from Google CloudBy Rishabh Dhingra • 2-minute read</description>
-    </item>
-    <item>
       <title>A look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browser</title>
       <link>https://cloud.google.com/blog/products/chrome-enterprise/a-look-back-at-chrome-enterprise-in-2024-strengthening-security-and-improving-productivity-in-the-browser</link>
       <description>Chrome EnterpriseA look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browserBy Hakan Kilic • 3-minute read</description>
+    </item>
+    <item>
+      <title>What’s new with Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 01:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 01:38:35 +0000</lastBuildDate>
     <item>
       <title>Data Warehouse vs. Database: Differences Explained</title>
       <link>https://www.splunk.com/en_us/blog/learn/database-vs-data-warehouse.html</link>
@@ -228,11 +228,6 @@
       <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
     </item>
     <item>
-      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
-      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
-      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
-    </item>
-    <item>
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
       <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
       <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
@@ -256,11 +251,6 @@
       <title>Bridging the Cyber Confidence Gap: Digital Resilience in the Public Sector</title>
       <link>https://www.splunk.com/en_us/blog/industries/bridging-the-cyber-confidence-gap-digital-resilience-in-the-public-sector.html</link>
       <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
-    </item>
-    <item>
-      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
-      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
-      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
     </item>
     <item>
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>

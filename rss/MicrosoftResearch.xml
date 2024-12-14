@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Dec 2024 20:27:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Dec 2024 18:17:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,161 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
-		<title>Abstracts: NeurIPS 2024 with Weizhu Chen</title>
+		<title>Abstracts: NeurIPS 2024 with Jindong Wang and Steven Euijong Whang</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2024 14:30:00 +0000</pubDate>
+				<category><![CDATA[Microsoft Research Podcast]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107435</guid>
+
+					<description><![CDATA[<p>Researcher Jindong Wang and Associate Professor Steven Euijong Whang explore the NeurIPS 2024 work ERBench. ERBench leverages relational databases to create LLM benchmarks that can verify model rationale via keywords in addition to checking answer correctness. </p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/">Abstracts: NeurIPS 2024 with Jindong Wang and Steven Euijong Whang</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1.jpg" alt="Illustrated image of Jindong Wang and Steven Euijong Whang" class="wp-image-1110141" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+<div class="wp-block-msr-podcast-container my-4">
+	<iframe src="https://player.blubrry.com/?podcast_id=139666634&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+</div>
+
+
+
+<p>Members of the research community at Microsoft work continuously to advance their respective fields.<em> Abstracts </em>brings its audience to the cutting edge with them through short, compelling conversations about new and noteworthy achievements. </p>
+
+
+
+<p>In this episode, <a href="https://www.microsoft.com/en-us/research/people/jindwang/">Jindong Wang</a>, a senior researcher at Microsoft Research, and <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://ee.kaist.ac.kr/en/professor/15613/" target="_blank" rel="noreferrer noopener">Steven Euijong Whang</a>, a tenured associate professor at Korea Advanced Institute of Science and Technology&nbsp;(KAIST), join host Gretchen Huizinga to discuss&nbsp;the paper <a href="https://www.microsoft.com/en-us/research/publication/erbench-an-entity-relationship-based-automatically-verifiable-hallucination-benchmark-for-large-language-models/">“ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models,”</a> a spotlight session at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/?msockid=35739e94ab6c69d41b738b93aa076831">Conference on Neural Information Processing Systems (NeurIPS)</a>. ERBench leverages the integrity constraints of relational databases to create LLM benchmarks that can verify model rationale via keywords as well as check for answer correctness.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/erbench-an-entity-relationship-based-automatically-verifiable-hallucination-benchmark-for-large-language-models/">Read the paper</a></div>
+</div>
+
+
+<div class="wp-block-msr-show-more">
+	<div class="bg-neutral-100 p-5">
+		<div class="show-more-show-less" data-mount="show-more-show-less">
+			<div>
+				<span>
+					
+
+<h2 class="wp-block-heading" id="transcript">Transcript</h2>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p><strong>GRETCHEN HUIZINGA: </strong>Welcome to <em>Abstracts</em>, a Microsoft Research Podcast that puts the spotlight on world-class research in brief. I’m Gretchen Huizinga. In this series, members of the research community at Microsoft give us a quick snapshot—or a <em>podcast abstract</em>—of their new and noteworthy papers.</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+
+
+<p>Today I&#8217;m talking to Jindong Wang, a senior researcher at Microsoft Research, and Steven Whang, a tenured associate professor at the Korea Advanced Institute of Science and Technology. Jindong and Steven are coauthors of a paper called “ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models,” and this paper is a spotlight at this year&#8217;s conference on Neural Information Processing Systems, or NeurIPS, in Vancouver, BC, <em>this</em> week. Jindong and Steven, thanks for joining us on <em>Abstracts</em>!</p>
+
+
+
+				</span>
+				<span id="show-more-show-less-toggle-1" class="show-more-show-less-toggleable-content">
+					
+
+
+
+<p><strong>JINDONG WANG:</strong> Thank you. Nice to be here.</p>
+
+
+
+<p><strong>STEVEN EUIJONG WHANG: </strong>It&#8217;s great to be here.</p>
+
+
+
+<p><strong>HUIZINGA: </strong>So, Jindong, I&#8217;ll start with you. In just a few sentences, tell us what problem your research addresses and why people should care about it.</p>
+
+
+
+<p><strong>JINDONG WANG:</strong> OK, everybody knows that with the widespread usage of large language models, hallucination has become a crucial factor of concern. Hallucination occurs when models generate false or nonexistent information. In particular, factual hallucination greatly undermines the reliability of the large language models. To correctly evaluate the hallucination, evaluating the model&#8217;s rationale is also important. Up to date, when the paper, you know, was submitted, there were no works dealing with automatic rationale evaluation systematically because, you know, most of them focused on manual evaluation or just using GPT-judge. ERBench is the first one to generate a large language model evaluation benchmark utilizing relational databases. Relational databases are based on the relational data model assuming a fixed schema. The fixed schema enables relational databases to have data integrity that are based on database design theories, so that integrity constraints in relational databases allows better evaluation of the large language models. Functional dependencies allow automatic rationale evaluation using the functional dependency inferred keywords, and foreign key constraints also allow for easy generation of the multi-hop questions, which are usually very complicated to generate with other techniques. So that&#8217;s basically what we want to do. So in one sentence, we try to build an automatic evaluation benchmark for evaluation of the hallucination.</p>
+
+
+
+<p><strong>HUIZINGA: </strong>Steven, give us a quick overview of your research methodology and findings. How did you conduct your research, and what were your major takeaways?</p>
+
+
+
+<p><strong>STEVEN EUIJONG WHANG: </strong>Sure. So this was a collaboration between our group at KAIST, and Dr. Xing Xie&#8217;s group at MSRA (Microsoft Research Asia). KAIST is Korea Advanced Institute of Science and Technology. So we had the privilege to closely work with our LLM expert, Dr. Jindong Wang, here. We also acknowledge the Microsoft Accelerating Foundation Models Research, or AFMR, program for using Azure quota for our experiments. So we had some biweekly meetings for maybe over a year, and at some point, we figured that relational databases could be really important for LLM evaluation. I personally have a background in databases, which I studied at Stanford University as a PhD student. So relational databases have integrity constraints that can be used to better construct complex, in-depth questions and verify answers. So the first ingredient is functional dependencies. So these are constraints where, given a few attributes, you can determine another attribute. So I&#8217;ll just give an example because I think that helps the understanding. So suppose that you have, like, a movie table, and in a movie, you have the title of the movie, the year of production, and the director of the movie, and the length of the movie, and so on and so forth. So if you know the title and year of the movie, that pretty much identifies the movie, and you can actually determine the director of the movie, as well. So, for example, if you know that there&#8217;s a movie called <em>Star Wars</em>, which is a very popular movie produced in 1977, that determines the director. We know it&#8217;s George Lucas, right. So, basically, it&#8217;s like a function. It receives the <em>Star Wars</em> <em>1977</em> and determines, gives the output, <em>George Lucas</em>. So that&#8217;s the first ingredient. Now, the reason this is important is that we can use these functional dependencies to pinpoint critical keywords that an LLM must know to properly answer a given question containing certain attribute values. For example, we may ask the LLM, is there a director of a movie called <em>Star Wars</em> produced in 1977? And the LLM can say yes. And it is the right answer, but we&#8217;d like to know if the LLM is knowing what it&#8217;s saying, right. And so we look at the rationale. That&#8217;s why looking at the rationale is important. We just can&#8217;t say it&#8217;s doing the correct thing. So if the LLM mentions George Lucas, bingo, that&#8217;s a great answer. However, if the LLM mentions some other director, like Steven Spielberg, that&#8217;s not a correct rationale. So that&#8217;s exactly what we&#8217;re trying to evaluate. Functional dependency is key to being able to do that kind of verification.</p>
+
+
+
+<p>The second ingredient is foreign key constraints. So foreign key constraint is where one of the attributes in one table can intuitively link to another attribute of another table. So in our movie table, we had the director attribute. Now we may also have a separate table called the <em>director table</em>, and maybe we might have some more information about the director in that table, like the director name, the director&#8217;s age, all sorts of information about the director. So foreign key constraint basically requires that if there is some director mentioned in the movie table, it has to be one of the directors in the director table. So this basically links a table to another table. It&#8217;s very useful. So using this, what we can do is we can join the two tables, right. So now we can join the movie and director table and generate a bigger table. The reason this is useful is that we can also chain together functional dependencies that I just mentioned into longer functional dependencies. So what this enables is us to construct more complex questions, arbitrarily, that are multi-hop. So using these integrity constraints, we can basically convert any relational database into an LLM benchmark, and this supports continuous evaluation as the database changes. We can also support multimodal questions and also support various prompt engineering techniques.</p>
+
+
+
+<p><strong>HUIZINGA: </strong>Well, I would ask you to, kind of, drill in on what you found in how ERBench compares to other benchmark tests.<s></s></p>
+
+
+
+<p><strong>STEVEN EUIJONG WHANG:</strong> So we evaluated our benchmark on five domains and performed comprehensive analyses in terms of answer and rationale accuracies and hallucination rates using single, multi-hop, and multimodal questions and also performed prompt engineering and fine-tuning. And what we found is that some LLMs, like GPT-4, are relatively aggressive and good at answering lots of questions. Other LLMs, like Gemini, tend to be a bit more conservative and do not answer as many questions but instead hallucinate less as a result. So the key conclusion is that no LLM, like, totally subsumes the other in all aspects, which is the reason why we use multiple measures. And the key message we want to make is that overall, ERBench is effective in evaluating any LLM’s thought process by pinpointing critical keywords within the rationale.</p>
+
+
+
+<p><strong>HUIZINGA:</strong> Well, Jindong, back to you. Research settings are one thing, but tell us how your work is significant in real-world settings, and who does this impact most and how?</p>
+
+
+
+<p><strong>JINDONG WANG:</strong> Relational databases, you know, they are everywhere across various domains. Anyone can easily get access from Google or from Kaggle or even create them targeting the domain or subject that one wants to test the model on. So taking into account that ERBench is the first work to utilize the relational database for generating large language model hallucination benchmarks … so this work will lead a new research direction of integrating database design theories and techniques, a long-studied field—you know, database is very traditional, old, and classic, but, you know, they’re still operating right now—into the large language model field, a recently emerging area.</p>
+
+
+
+<p><strong>HUIZINGA: </strong>Right. Well, Steven, as we close, I assume there are still a few unanswered questions or unsolved problems in the field. What do you propose to do about those, and what&#8217;s next on your research agenda?</p>
+
+
+
+<p><strong>STEVEN EUIJONG WHANG: </strong>Sure, so the big picture is that we basically proposed the first work to properly evaluate the rationale of LLMs, right. This is very important because LLMs are being used in our everyday lives, and everyone has the question, is the LLM suitable for my task? Can I benefit from the LLM? So it&#8217;s very important to verify if the LLM knows what it&#8217;s saying. So I just mentioned that we use functional dependencies to pinpoint critical keywords in the rationale. And we believe that&#8217;s just the first step. It&#8217;s very effective, by the way. So you may have the question, is it enough to just look at, like, the George Lucas within the long rationale? And it turns out 95% of the cases, it is actually effective, so we did human studies and also used GPT-judge to verify that. But these are factual questions and there could be various other questions that require long answers, right. Long rationales. And so the important question is, can we also verify all the rest of the rationales, the complicated rationales, as well? And so in order to properly do that, we need a lot of technology. So first we need to understand the rationales using NLP techniques, and we need to know if it&#8217;s properly answering the question, and so on and so forth. And so we believe that there&#8217;s a lot of opportunity to expand from that. So we basically, you know, proposed an initial work towards this direction, but we believe that there are many more interesting challenges that remain.</p>
+
+
+
+<p><strong>HUIZINGA: </strong>Well, Jindong Wang and Steven Whang, thanks for joining us today, and to our listeners, thanks for tuning in. If you&#8217;re interested in learning more about this paper, you can find a link at aka.ms/abstracts.</p>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p>You can also find it on arXiv and on the NeurIPS website. <em>And</em> if you&#8217;re at the NeurIPS conference this week, go to the poster session and talk to the authors! See you next time on <em>Abstracts</em>!</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+				</span>
+			</div>
+			<button
+				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
+				aria-expanded="false"
+				data-show-less-text="Show less"
+				type="button"
+				aria-controls="show-more-show-less-toggle-1"
+				aria-label="Show more content"
+				data-alternate-aria-label="Show less content">
+				Show more			</button>
+		</div>
+	</div>
+</div>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/">Abstracts: NeurIPS 2024 with Jindong Wang and Steven Euijong Whang</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Abstracts: NeurIPS 2024 with Weizhu Chen</title>
 		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-weizhu-chen/</link>
 		
 		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
@@ -29,14 +183,14 @@
 		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107414</guid>
 
 					<description><![CDATA[<p>Next-token prediction trains a language model on all tokens in a sequence. VP Weizhu Chen discusses his team’s 2024 NeurIPS paper on how distinguishing between useful and “noisy” tokens in pretraining can improve token efficiency and model performance.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-weizhu-chen/">Abstracts: NeurIPS 2024 with Weizhu Chen</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-weizhu-chen/">Abstracts: NeurIPS 2024 with Weizhu Chen</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated image of Weizhu Chen." class="wp-image-1108905" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated image of Weizhu Chen." class="wp-image-1108905" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Weizhu-Chen_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
-	<iframe src="https://player.blubrry.com/?podcast_id=139393524&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139393524&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
 </div>
 
 
@@ -86,7 +240,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-1" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-2" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -168,21 +322,21 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-1"
+				aria-controls="show-more-show-less-toggle-2"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
 		</div>
 	</div>
 </div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-weizhu-chen/">Abstracts: NeurIPS 2024 with Weizhu Chen</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-weizhu-chen/">Abstracts: NeurIPS 2024 with Weizhu Chen</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Abstracts: NeurIPS 2024 with Dylan Foster</title>
+		<title>Abstracts: NeurIPS 2024 with Dylan Foster</title>
 		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/</link>
 		
 		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
@@ -191,10 +345,10 @@
 		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107372</guid>
 
 					<description><![CDATA[<p>Can existing algorithms designed for simple reinforcement learning problems be used to solve more complex RL problems? Researcher Dylan Foster discusses the modular approach he and his coauthors explored in their 2024 NeurIPS paper on RL under latent dynamics.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated image of Dylan Foster for the Abstracts series on the Microsoft Research Podcast." class="wp-image-1108887" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated image of Dylan Foster for the Abstracts series on the Microsoft Research Podcast." class="wp-image-1108887" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Dylan-Foster_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
@@ -244,7 +398,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-2" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-3" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -310,21 +464,21 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-2"
+				aria-controls="show-more-show-less-toggle-3"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
 		</div>
 	</div>
 </div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Abstracts: NeurIPS 2024 with Pranjal Chitale</title>
+		<title>Abstracts: NeurIPS 2024 with Pranjal Chitale</title>
 		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/</link>
 		
 		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
@@ -333,7 +487,7 @@
 		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107426</guid>
 
 					<description><![CDATA[<p>Pranjal Chitale discusses the 2024 NeurIPS work CVQA. Spanning 31 languages and the cultures of 30 countries, this VQA benchmark was created with native speakers and cultural experts to evaluate model performance across diverse linguistic and cultural contexts.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="diagram" class="wp-image-1108932" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
@@ -390,7 +544,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-3" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-4" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -464,14 +618,14 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-3"
+				aria-controls="show-more-show-less-toggle-4"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
 		</div>
 	</div>
 </div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -619,7 +773,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-4" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-5" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1061,7 +1215,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-4"
+				aria-controls="show-more-show-less-toggle-5"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1114,8 +1268,8 @@
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--5"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Read the paper</a></div>
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--6"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Read the paper</a></div>
 </div>
 
 
@@ -1146,8 +1300,8 @@
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--6"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/">Read the paper</a></div>
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-6 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--7"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/">Read the paper</a></div>
 </div>
 
 
@@ -1157,30 +1311,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1002645">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="999693">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: AI-POWERED EXPERIENCE</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Event Series</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/01/MSR-Chat-Promo.png" alt="" />
+				<a class="bg-gray-300" href="https://researchforum.microsoft.com/?OCID=msr_researchforum_MCR_Blog_Promo" aria-label="Microsoft Research Forum" data-bi-cN="Microsoft Research Forum" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/01/MRF-24_WebImage_1400x788.png" alt="various abstract 3D shapes on a light blue background" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Microsoft research copilot experience</h2>
+									<h2 class="h4">Microsoft Research Forum</h2>
 				
-								<p class="large">Discover more about research at Microsoft through our AI-powered experience</p>
+								<p class="large">Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
-							Start now						</a>
+						<a href="https://researchforum.microsoft.com/?OCID=msr_researchforum_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Register for series" data-bi-cN="Microsoft Research Forum" target="_blank">
+							Register for series						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1206,12 +1360,12 @@
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-6 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--7"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">Read the paper</a></div>
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-7 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--8"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">Read the paper</a></div>
 
 
 
-<div class="wp-block-button is-style-outline is-style-outline--8"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://aka.ms/llm2clip" target="_blank" rel="noreferrer noopener">Learn more about LLM2CLIP</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--9"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://aka.ms/llm2clip" target="_blank" rel="noreferrer noopener">Learn more about LLM2CLIP</a></div>
 </div>
 
 
@@ -1238,8 +1392,8 @@
 
 
 
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-7 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--9"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">Read the paper</a></div>
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-8 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--10"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">Read the paper</a></div>
 </div>
 </div>
 
@@ -1448,30 +1602,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="999693">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="931956">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Event Series</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: On-demand video</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://researchforum.microsoft.com/?OCID=msr_researchforum_MCR_Blog_Promo" aria-label="Microsoft Research Forum" data-bi-cN="Microsoft Research Forum" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/01/MRF-24_WebImage_1400x788.png" alt="various abstract 3D shapes on a light blue background" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" aria-label="AI Explainer: Foundation models ​and the next era of AI" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AIEx01_blog_hero_1400x788.png" alt="a screenshot of a computer screen shot of a man" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Microsoft Research Forum</h2>
+									<h2 class="h4">AI Explainer: Foundation models ​and the next era of AI</h2>
 				
-								<p class="large">Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.</p>
+								<p class="large">Explore how the transformer architecture, larger models and more data, and in-context learning have helped advance AI from perception to creation.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://researchforum.microsoft.com/?OCID=msr_researchforum_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Register for series" data-bi-cN="Microsoft Research Forum" target="_blank">
-							Register for series						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Watch video" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
+							Watch video						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1660,30 +1814,30 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="931956">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="670821">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: On-demand video</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Microsoft research newsletter</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" aria-label="AI Explainer: Foundation models ​and the next era of AI" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AIEx01_blog_hero_1400x788.png" alt="a screenshot of a computer screen shot of a man" />
+				<a class="bg-gray-300" href="https://info.microsoft.com/ww-landing-microsoft-research-newsletter.html" aria-label="Microsoft Research Newsletter" data-bi-cN="Microsoft Research Newsletter" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Newsletter_Banner_08_2019_v1_1920x1080.png" alt="" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">AI Explainer: Foundation models ​and the next era of AI</h2>
+									<h2 class="h4">Microsoft Research Newsletter</h2>
 				
-								<p class="large">Explore how the transformer architecture, larger models and more data, and in-context learning have helped advance AI from perception to creation.</p>
+								<p class="large">Stay connected to the research community at Microsoft.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Watch video" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-							Watch video						</a>
+					<div class="wp-block-button is-style-fill-chevron">
+						<a href="https://info.microsoft.com/ww-landing-microsoft-research-newsletter.html" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Microsoft Research Newsletter" data-bi-cN="Microsoft Research Newsletter" target="_blank">
+							Subscribe today						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -2127,417 +2281,6 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 <p>We will be exploring these directions in the coming period, with all advances (including LazyGraphRAG itself) released via the <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/graphrag" target="_blank" rel="noreferrer noopener">GraphRAG GitHub repository<span class="sr-only"> (opens in new tab)</span></a>. Stay tuned!&nbsp;</p>
 <span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/">LazyGraphRAG: Setting a new standard for quality and cost</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ideas: The journey to DNA data storage</title>
-		<link>https://www.microsoft.com/en-us/research/podcast/ideas-the-journey-to-dna-data-storage/</link>
-		
-		<dc:creator><![CDATA[Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)]]></dc:creator>
-		<pubDate>Tue, 19 Nov 2024 14:00:00 +0000</pubDate>
-				<category><![CDATA[Microsoft Research Podcast]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1103874</guid>
-
-					<description><![CDATA[<p>Research manager Karin Strauss and members of the DNA Data Storage Project reflect on the path to developing a synthetic DNA–based system for archival data storage, including the recent open-source release of its most powerful algorithm for DNA error correction.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-the-journey-to-dna-data-storage/">Ideas: The journey to DNA data storage</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1401" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788.jpg" alt="Outlined illustrations of Karin Strauss, Jake Smith, Bichlien Nguyen, and Sergey Yekhanin for the Microsoft Research Podcast, Ideas series." class="wp-image-1103877" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788.jpg 1401w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Karin-Jake-Bichlien-Sergey_Ideas_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="auto, (max-width: 1401px) 100vw, 1401px" /></figure>
-
-
-<div class="wp-block-msr-podcast-container my-4">
-	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=138524698&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
-</div>
-
-
-
-<p>Behind every emerging technology is a great idea propelling it forward. In the Microsoft Research Podcast series <em>Ideas</em>, members of the research community at Microsoft discuss the beliefs that animate their research, the experiences and thinkers that inform it, and the positive human impact it targets.</p>
-
-
-
-<p>Accommodating the increasing amounts of digital data the world is producing requires out-of-the-box thinking. In this episode, guest host <a href="https://www.microsoft.com/en-us/research/people/kstrauss/?msockid=35739e94ab6c69d41b738b93aa076831">Karin Strauss</a>, an innovation strategist and senior principal research manager at Microsoft, brings together members of her team to explore a more sustainable, more cost-effective alternative for archival data storage: synthetic DNA. Strauss, Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/bnguy/?msockid=35739e94ab6c69d41b738b93aa076831">Bichlien Nguyen</a>, Senior Researcher <a href="https://www.microsoft.com/en-us/research/people/jakesmith/?msockid=35739e94ab6c69d41b738b93aa076831">Jake Smith</a>, and Partner Research Manager <a href="https://www.microsoft.com/en-us/research/people/yekhanin/?msockid=35739e94ab6c69d41b738b93aa076831">Sergey Yekhanin</a> discuss how Microsoft Research’s contributions have helped bring “science fiction,” as Strauss describes it, closer to reality, including its role in establishing the DNA Data Storage Alliance to foster collaboration in developing the technology and to establish specifications for interoperability. They also talk about the scope of collaboration with other fields, such as the life sciences and electrical and mechanical engineering, and the coding theory behind the project, including the group’s most powerful algorithm for DNA error correction, Trellis BMA, which is now open source.&nbsp;</p>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill-github"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://github.com/microsoft/TrellisBMA">Get the Trellis BMA code</a></div>
-</div>
-
-
-
-<div class="wp-block-group msr-pattern-link-list is-layout-flow wp-block-group-is-layout-flow">
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<h2 class="wp-block-heading h5" id="learn-more-1">Learn more:</h2>
-
-
-
-<ul class="wp-block-list list-unstyled">
-<li><a href="https://www.microsoft.com/en-us/research/publication/trellis-bma-coded-trace-reconstruction-on-ids-channels-for-dna-storage/">Trellis BMA: coded trace reconstruction on IDS channels for DNA storage<br></a>Publication, July 2021</li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/publication/evaluating-the-risk-of-data-loss-due-to-particle-radiation-damage-in-a-dna-data-storage-system/">Evaluating the risk of data loss due to particle radiation damage in a DNA data storage system | Nature Communications<br></a>Publication, September 2024</li>
-
-
-
-<li><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://dnastoragealliance.org/" target="_blank" rel="noreferrer noopener">DNA Data Storage Alliance<span class="sr-only"> (opens in new tab)</span></a><br>Alliance homepage</li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/publication/architecting-datacenters-for-sustainability-greener-data-storage-using-synthetic-dna/">Architecting Datacenters for Sustainability: Greener Data Storage using Synthetic DNA</a><br>Publication, September 2021</li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/video/microsoft-and-uw-demonstrate-first-fully-automated-dna-data-storage/">Microsoft and UW demonstrate first fully automated DNA data storage</a><br>Video, March 2019</li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/podcast/storing-digital-data-in-synthetic-dna-with-dr-karin-strauss/">Storing digital data in synthetic DNA with Dr. Karin Strauss</a><br>Microsoft Research Podcast, October 2018</li>
-
-
-
-<li><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://www.youtube.com/watch?v=mILu11yqtG8" target="_blank" rel="noreferrer noopener">Microsoft and University of Washington DNA Storage Research Project<span class="sr-only"> (opens in new tab)</span></a><br>Video, July 2016</li>
-</ul>
-</div>
-
-
-
-<section class="wp-block-msr-subscribe-to-podcast subscribe-to-podcast">
-	<div class="subscribe-to-podcast__inner border-top border-bottom border-width-2">
-		<h2 class="h5 subscribe-to-podcast__heading">
-			Subscribe to the <a href="https://www.microsoft.com/en-us/research/podcast">Microsoft Research Podcast</a>:		</h2>
-		<ul class="subscribe-to-podcast__list list-unstyled">
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://itunes.apple.com/us/podcast/microsoft-research-a-podcast/id1318021537?mt=2" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 32 32">  <path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg>
-						<span class="subscribe-to-podcast__link-text">Apple Podcasts</span>
-					</a>
-				</li>
-			
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://subscribebyemail.com/www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M6.4 6a2.392 2.392 0 00-2.372 2.119L16 15.6l11.972-7.481A2.392 2.392 0 0025.6 6H6.4zM4 10.502V22.8a2.4 2.4 0 002.4 2.4h19.2a2.4 2.4 0 002.4-2.4V10.502l-11.365 7.102a1.2 1.2 0 01-1.27 0L4 10.502z"/></svg>
-						<span class="subscribe-to-podcast__link-text">Email</span>
-					</a>
-				</li>
-			
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://subscribeonandroid.com/www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M12.414 4.02c-.062.012-.126.023-.18.06a.489.489 0 00-.12.675L13.149 6.3c-1.6.847-2.792 2.255-3.18 3.944h13.257c-.388-1.69-1.58-3.097-3.179-3.944l1.035-1.545a.489.489 0 00-.12-.675.492.492 0 00-.675.135l-1.14 1.68a7.423 7.423 0 00-2.55-.45c-.899 0-1.758.161-2.549.45l-1.14-1.68a.482.482 0 00-.494-.195zm1.545 3.824a.72.72 0 110 1.44.72.72 0 010-1.44zm5.278 0a.719.719 0 110 1.44.719.719 0 110-1.44zM8.44 11.204A1.44 1.44 0 007 12.644v6.718c0 .795.645 1.44 1.44 1.44.168 0 .33-.036.48-.09v-9.418a1.406 1.406 0 00-.48-.09zm1.44 0V21.76c0 .793.646 1.44 1.44 1.44h10.557c.793 0 1.44-.647 1.44-1.44V11.204H9.878zm14.876 0c-.169 0-.33.035-.48.09v9.418c.15.052.311.09.48.09a1.44 1.44 0 001.44-1.44v-6.719a1.44 1.44 0 00-1.44-1.44zM11.8 24.16v1.92a1.92 1.92 0 003.84 0v-1.92h-3.84zm5.759 0v1.92a1.92 1.92 0 003.84 0v-1.92h-3.84z"/></svg>
-						<span class="subscribe-to-podcast__link-text">Android</span>
-					</a>
-				</li>
-			
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://open.spotify.com/show/4ndjUXyL0hH1FXHgwIiTWU" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M16 4C9.383 4 4 9.383 4 16s5.383 12 12 12 12-5.383 12-12S22.617 4 16 4zm5.08 17.394a.781.781 0 01-1.086.217c-1.29-.86-3.477-1.434-5.303-1.434-1.937.002-3.389.477-3.403.482a.782.782 0 11-.494-1.484c.068-.023 1.71-.56 3.897-.562 1.826 0 4.365.492 6.171 1.696.36.24.457.725.217 1.085zm1.56-3.202a.895.895 0 01-1.234.286c-2.338-1.457-4.742-1.766-6.812-1.747-2.338.02-4.207.466-4.239.476a.895.895 0 11-.488-1.723c.145-.041 2.01-.5 4.564-.521 2.329-.02 5.23.318 7.923 1.995.419.26.547.814.286 1.234zm1.556-3.745a1.043 1.043 0 01-1.428.371c-2.725-1.6-6.039-1.94-8.339-1.942h-.033c-2.781 0-4.923.489-4.944.494a1.044 1.044 0 01-.474-2.031c.096-.023 2.385-.55 5.418-.55h.036c2.558.004 6.264.393 9.393 2.23.497.292.663.931.371 1.428z"/></svg>
-						<span class="subscribe-to-podcast__link-text">Spotify</span>
-					</a>
-				</li>
-			
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M6.667 4a2.676 2.676 0 00-2.612 2.13v.003c-.036.172-.055.35-.055.534v18.666c0 .183.019.362.055.534v.003a2.676 2.676 0 002.076 2.075h.002c.172.036.35.055.534.055h18.666A2.676 2.676 0 0028 25.333V6.667a2.676 2.676 0 00-2.13-2.612h-.003A2.623 2.623 0 0025.333 4H6.667zM8 8h1.333C17.42 8 24 14.58 24 22.667V24h-2.667v-1.333c0-6.618-5.382-12-12-12H8V8zm0 5.333h1.333c5.146 0 9.334 4.188 9.334 9.334V24H16v-1.333A6.674 6.674 0 009.333 16H8v-2.667zM10 20a2 2 0 11-.001 4.001A2 2 0 0110 20z"/></svg>
-						<span class="subscribe-to-podcast__link-text">RSS Feed</span>
-					</a>
-				</li>
-					</ul>
-	</div>
-</section>
-
-
-<div class="wp-block-msr-show-more">
-	<div class="bg-neutral-100 p-5">
-		<div class="show-more-show-less" data-mount="show-more-show-less">
-			<div>
-				<span>
-					
-
-<h2 class="wp-block-heading" id="transcript-1">Transcript</h2>
-
-
-
-<p>[TEASER]</p>
-
-
-
-<p>[MUSIC PLAYS UNDER DIALOGUE]</p>
-
-
-
-<p><strong>JAKE SMITH: </strong>This really starts from the fundamental data production–data storage gap, where we produce way more data nowadays than we could ever have imagined years ago. And it&#8217;s more than we can practically store in magnetic media. And so we really need a denser medium on the other side to contain that. DNA is extremely dense. It holds far, far more information per unit volume, per unit mass than any storage media that we have available today. This, along with the fact that DNA is itself a relatively rugged molecule—it lives in our body; it lives outside our body for thousands and thousands of years if we, you know, leave it alone to do its thing—makes it a very attractive media. </p>
-
-
-
-<p><strong>BICHLIEN NGUYEN:</strong> It&#8217;s such a futuristic technology, right? When you begin to work on the tech, you realize how many disciplines and domains you actually have to reach in and leverage. It&#8217;s really interesting, this multidisciplinarity, because we&#8217;re, in a way, bridging software with wetware with hardware. And so you, kind of, need <em>all</em> the different disciplines to actually get you to where you need to go.&nbsp;</p>
-
-
-
-<p><strong>SERGEY YEKHANIN:</strong> We all work for Microsoft; we are all Microsoft researchers. Microsoft isn’t a startup. But that team, the team that drove the DNA Data Storage Project, it did feel like a startup, and it was something unusual and exciting for me.</p>
-
-
-
-<p><strong>SERIES INTRO: </strong>You’re listening to <em>Ideas</em>, a Microsoft Research Podcast that dives deep into the world of technology research and the profound questions behind the code. In this series, we’ll explore the technologies that are shaping our future and the big ideas that propel them forward.</p>
-
-
-
-				</span>
-				<span id="show-more-show-less-toggle-10" class="show-more-show-less-toggleable-content">
-					
-
-
-
-<p>[MUSIC FADES]</p>
-
-
-
-<p><strong>GUEST HOST KARIN STRAUSS:</strong> I&#8217;m your guest host Karin Strauss, a senior principal research manager at Microsoft. For nearly a decade, my colleagues and I—along with a fantastic and talented group of collaborators from academia and industry—have been working together to help close the data creation–data storage gap. We&#8217;re producing far more digital information than we can possibly store. One solution we&#8217;ve explored uses synthetic DNA as a medium, and over the years, we&#8217;ve contributed to steady and promising progress in the area. We&#8217;ve helped push the boundaries of how much DNA writer can simultaneously store, shown that full automation is possible, and helped create an ecosystem for the commercial success of DNA data storage. And just this week, we&#8217;ve made one of our most advanced tools for encoding and decoding data in DNA open source. Joining me today to discuss the state of DNA data storage and some of our contributions are several members of the DNA Data Storage Project at Microsoft Research: Principal Researcher Bichlien Nguyen, Senior Researcher Jake Smith, and Partner Research Manager Sergey Yekhanin. Bichlien, Jake, and Sergey, welcome to the podcast.<s></s></p>
-
-
-
-<p><strong>BICHLIEN NGUYEN:</strong> Thanks for having us, Karin.</p>
-
-
-
-<p><strong>SERGEY YEKHANIN:</strong> Thank you so much.</p>
-
-
-
-<p><strong>JAKE SMITH: </strong>Yes, thank you.</p>
-
-
-
-<p><strong>STRAUSS:</strong> So before getting into the details of DNA data storage and our work, I&#8217;d like to talk about the big idea behind the work and how we all got here. I&#8217;ve often described the DNA Data Storage Project as turning science fiction into reality. When we started the project in 2015, though, the idea of using DNA for archival storage was already out there and had been for over five decades. Still, when I talked about the work in the area, people were pretty skeptical in the beginning, and I heard things like, “Wow, why are you thinking about that? It&#8217;s so far off.” So, first, please share a bit of your research backgrounds and then how you came to work on this project. Where did you first encounter this idea, what do you remember about your initial impressions—<em>or</em> the impressions of others—and what made you want to get involved? Sergey, why don’t you start.</p>
-
-
-
-<p><strong>YEKHANIN:</strong> Thanks so much. So I’m a coding theorist by training, so, like, my core areas of research have been error-correcting codes and also computational complexity theory. So I joined the project probably, like, within half a year of the time that it was born, and thanks, Karin, for inviting me to join. So, like, that was roughly the time when I moved from a different lab, from the Silicon Valley lab in California to the Redmond lab, and actually, it just so happened that at that moment, I was thinking about what to do next. Like, in California, I was mostly working on coding for distributed storage, and when I joined here, that effort kept going. But I had some free cycles, and that was the moment when Karin came just to my office and told me about the project. So, indeed, initially, it did feel a lot like science fiction. Because, I mean, we are used to coding for digital storage media, like for magnetic storage media, and here, like, this is biology, and, like, why exactly these kind of molecules? There are so many different molecules. Like, why that? But honestly, like, I didn&#8217;t try to pretend to be a biologist and make conclusions about whether this is the right medium or the wrong medium. So I tried to look into these kinds of questions from a technical standpoint, and there was a lot of, kind of, deep, interesting coding questions, and that was the main attraction for me. At the same time, I wasn’t convinced that we will get as far as we actually got, and I wasn&#8217;t immediately convinced about the future of the field, but, kind of, just the depth and the richness of the, what I’ll call, technical problems, that&#8217;s what made it appealing for me, and I, kind of, enthusiastically joined. And also, I guess, the culture of the team. So, like, it did feel like a startup. Like, we all work for Microsoft; we’re all Microsoft researchers. Microsoft isn’t a startup. But that team, the team that drove the DNA Data Storage Project, it did feel like a startup, and it was something unusual and exciting for me.</p>
-
-
-
-<p><strong>NGUYEN: </strong>Oh, I love that, Sergey. So my background is in organic chemistry, and Karin had reached out to me, and I interviewed not knowing what Karin wanted. Actually … so I took the job kind of blind because I was like, “Hmm, Microsoft Research? … DNA biotech? &#8230;” I was very, very curious, and then when she told me that this project was about DNA data storage, I was like, this is a crazy, crazy idea. I definitely was not sold on it, but I was like, well, look, I get to meet and work with so many interesting people from different backgrounds that, one, even if it doesn&#8217;t work out, I’m going to learn something, and, two, I think it <em>could</em> work, like it could work. And so I think that&#8217;s really what motivated me to join.</p>
-
-
-
-<p><strong>SMITH: </strong>The first thing that you think when you hear about we&#8217;re going to take what is our hard drive and we&#8217;re going to turn that into DNA is that this is nuts. But, you know, it didn&#8217;t take very long after that. I come from a chemistry, biotech-type background where I&#8217;ve been working on designing drugs, and there, DNA is this thing off in the nethers, you know. You look at it every now and then to see what information it can tell you about, you know, what maybe your drug might be hitting on the target side, and it&#8217;s, you know, that connection—that the DNA <em>contains</em> the information in the living systems, the DNA <em>contains</em> the information in our assays, and why could the DNA not contain the information that we, you know, think more about every day, that information that lives in our computers—as an extremely cool idea.</p>
-
-
-
-<p><strong>STRAUSS:</strong> Through our work, we&#8217;ve had years to wrap our heads around DNA data storage. But, Jake, could you tell us a little bit about how DNA data storage works and why we&#8217;re interested in looking into the technology?</p>
-
-
-
-<p><strong>SMITH: </strong>So you mentioned it earlier, Karin, that this really starts from the fundamental data production–data storage gap, where we produce way more data nowadays than we could ever have imagined years ago. And it&#8217;s more than we can practically store in magnetic media. This is a problem because, you know, we have data; we have recognized the <em>value</em> of data with the rise of large language models and these other big generative models. The data that we do produce, our video has gone from, you know, substantially small, down at 480 resolution, all the way up to things at 8K resolution that now take orders of magnitude more storage. And so we really need a denser medium on the other side to contain that. DNA is extremely dense. It holds far, far more information per unit volume, per unit mass than any storage media that we have available today. This, along with the fact that DNA is itself a relatively rugged molecule—it lives in our body; it lives outside our body for thousands and thousands of years if we, you know, leave it alone to do its thing—makes it a very attractive media, particularly compared to the traditional magnetic media, which has lower density and a much shorter lifetime on the, you know, scale of decades at most.</p>
-
-
-
-<p>So how does DNA data storage actually work? Well, at a very high level, we start out in the digital domain, where we have our information represented as ones and zeros, and we need to convert that into a series of A&#8217;s, C&#8217;s, T&#8217;s, and G&#8217;s that we could then actually produce, and this is really the domain of Sergey. He&#8217;ll tell us much more about how this works later on. For now, let&#8217;s just assume we&#8217;ve done this. And now our information, you know, lives in the DNA base domain. It&#8217;s still in the digital world. It&#8217;s just represented as A’s, C’s, T’s, and G’s, and we now need to make this <em>physical</em> so that we can store it. This is accomplished through large-scale DNA synthesis. Once the DNA has been synthesized with the sequences that we specified, we need to store it. There&#8217;s a lot of ways we can think about storing it. Bichlien’s done great work looking at DNA encapsulation, as well as, you know, other more raw just DNA-on-glass-type techniques. And we&#8217;ve done some work looking at the susceptibility of DNA stored in this unencapsulated form to things like atmospheric humidity, to temperature changes and, most excitingly, to things like neutron radiation. So we&#8217;ve stored our data in this physical form, we&#8217;ve archived it, and coming back to it, likely many years in the future because the properties of DNA match up very well with archival storage, we need to convert it back into the digital domain. And this is done through a technique called DNA sequencing. What this does is it puts the molecules through some sort of machine, and on the other side of the machine, we get out, you know, a noisy representation of what the actual sequence of bases in the molecules were. We have one final step. We need to take this series of noisy sequences and convert it back into ones and zeros. Once we do this, we return to our original data and we&#8217;ve completed, let&#8217;s call it, one DNA data storage cycle.</p>
-
-
-
-<p><strong>STRAUSS:</strong> We&#8217;ll get into this in more detail later, but maybe, Sergey, we dig a little bit on encoding-decoding end of things and how DNA is different as a medium from other types of media.</p>
-
-
-
-<p><strong>YEKHANIN:</strong> Sure. So, like, I mean, coding is an important aspect of this whole idea of DNA data storage because we have to deal with errors—it’s a new medium—but talking about error-correcting codes in the context of DNA data storage, so, I mean, usually, like … what are error-correcting codes about? Like, on the very high level, right, I mean, you have some data—think of it as a binary string—you want to store it, but there are errors. So usually, like, in most, kind of, forms of media, the errors are bit flips. Like, you store a 0; you get a 1. Or you store a 1; you get a 0. So these are called substitution errors. The field of error-correcting codes, it started, like, in the 1950s, so, like, it’s 70 years old at least. So we, kind of, we understand how to deal with this kind of error reasonably well, so with substitution errors. In DNA data storage, the way you store your data is that given, like, some large amount of digital data, you have the freedom of choosing which short DNA molecules to generate. So in a DNA molecule, it’s a sequence of the bases A, G, C, and T, and you have the freedom to decide, like, which of the short molecules you need to generate, and then those molecules get stored, and then during the storage, some of them are lost; some of them can be damaged. There can be insertions and deletions of bases on every molecule. Like, we call them strands. So you need redundancy, and there are two forms of redundancy. There&#8217;s redundancy that goes across strands, and there is redundancy on the strand. And so, yeah, so, kind of, from the error-correcting side of things, like, we get to decide what kind of redundancy we want to introduce—across strands, on the strand—and then, like, we want to make sure that our encoding and decoding algorithms are efficient. So that&#8217;s the coding theory angle on the field.</p>
-
-
-
-<p><strong>NGUYEN: </strong>Yeah, and then, you know, from there, once you have that data encoded into DNA, the question is how do you <em>make</em> that data on a scale that&#8217;s compatible with digital data storage? And so that&#8217;s where a lot of the work came in for really automating the synthesis process and also the reading process, as well. So synthesis is what we consider the writing process of DNA data storage. And so, you know, we came up with some unique ideas there. We made a chip that enabled us to get to the densities that we needed. And then on the reading side, we used different sequencing technologies. And it was great to see that we could actually just, kind of, pull sequencing technologies off the shelf because people are so interested in reading biological DNA. So we explored the Illumina technologies and also Oxford Nanopore, which is a new technology coming in the horizon. And then preservation, too, because we have to make sure that the data that’s stored in the DNA doesn&#8217;t get damaged and that we can recover it using the error-correcting codes.</p>
-
-
-
-<p><strong>STRAUSS:</strong> Yeah, absolutely. And it&#8217;s clear that—and it&#8217;s also been our experience that—DNA data storage and projects like this require more than just a team of computer scientists. Bichlien, you’ve had the opportunity to collaborate with many people in all different disciplines. So do you want to talk a little bit about that? What kind of expertise, you know, other disciplines that are relevant to bringing DNA data storage to reality?</p>
-
-
-
-<p><strong>NGUYEN: </strong>Yeah, well, it&#8217;s such a futuristic technology, right? When you begin to work on the tech, you realize how many disciplines and domains you actually have to reach in and leverage. One concrete example is that in order to fabricate an electronic chip to synthesize DNA, we really had to pull in a lot of material science research because there&#8217;s different capabilities that are needed when trying to use liquid on a chip. We, you know, have to think about DNA data <em>storage</em> itself. And that&#8217;s a very different beast than, you know, the traditional storage mediums. And so we worked with teams who literally create, you know, these little tiny micro- or nanocapsules in glass and being able to store that there. It&#8217;s really interesting, this multidisciplinarity, because we&#8217;re, in a way, bridging software with wetware with hardware. And so you, kind of, need <em>all</em> the different disciplines to actually get you to where you need to go.</p>
-
-
-
-<p><strong>STRAUSS:</strong> Yeah, absolutely. And, you know, building on, you know, collaborators, I think one area that was super interesting, as well, and was pretty early on in the project was building that first end-to-end system that we collaborated with University of Washington, the Molecular Information Systems Lab there, to build. And really, at that point, you know, there had been work suggesting that DNA data storage was viable, but nobody had really shown an end-to-end system, from beginning to end, and in fact, my manager at the time, Doug Carmean, used to call it the “bubble gum and shoestring” system. But it was a crucial first step because it shows it was possible to really fully automate the process. And there have been several interesting challenges there in the system, but we noticed that one particularly challenging one was synthesis. That first system that we built was capable of storing the word “hello,” and that was <em>all</em> we could store. So it wasn&#8217;t a very high-capacity system. But in order to be able to store a lot more volumes of data instead of a simple word, we really needed much more advanced synthesis systems. And this is what both Bichlien and Jake ended up working on, so do you want to talk a little bit about that and the importance of that particular work?</p>
-
-
-
-<p><strong>SMITH: </strong>Yeah, absolutely. As you said, Karin, the amount of DNA that is required to store the massive amount of data we spoke about earlier is far beyond the amount of DNA that&#8217;s needed for any, air quotes, traditional applications of synthetic DNA, whether it&#8217;s your gene construction or it&#8217;s your primer synthesis or such. And so we really had to rethink how you make DNA at scale and think about how could this actually scale to meet the demand. And so Bichlien started out looking at a thing called a <em>microelectrode array</em>, where you have this big checkerboard of small individual reaction sites, and in each reaction site, we used electrochemistry in order to control base by base—A, C, T, or G by A, C, T, or G—the sequence that was growing at that particular reaction site. We got this down to the nanoscale. And so what this means practically is that on one of these chips, we could synthesize at any given time on the order of hundreds of millions of individual strands. So once we had the synthesis working with the traditional chemistry where you&#8217;re doing chemical synthesis—each base is added in using a mixture of chemicals that are added to the individual spots—they&#8217;re activated. But each coupling happens due to some energy you <em>prestored</em> in the synthesis of your reagents. And this makes the synthesis of those reagents costly and themselves a bottleneck. And so taking, you know, a look forward at what else was happening in the synthetic biology world, the, you know, next big word in DNA synthesis was and still is <em>enzymatic synthesis</em>, where rather than having to, you know, spend a lot of energy to chemically <em>pre</em>-activate reagents that will go in to make your actual DNA strands, we capitalize on nature&#8217;s synthetic robots—<em>enzymes</em>—to start with less-activated, less-expensive-to-get-to, cheaply-produced-through-natural-processes substrates, and we use the enzymes themselves, toggling <em>their</em> activity over each of the individual chips, or each of the individual spots on our checkerboard, to construct DNA strands. And so we got a little bit into this project. You know, we successfully showed that we could put down selectively one base at a given time. We hope that others will, kind of, take up the work that we&#8217;ve put out there, you know, particularly our wonderful collaborators at Ansa who helped us design the enzymatic system. And one day we will see, you know, a truly parallelized, in this fashion, enzymatic DNA system that can achieve the scales necessary.</p>
-
-
-
-<p><strong>NGUYEN: </strong>It&#8217;s interesting to note that even though it&#8217;s DNA and we&#8217;re still storing data in these DNA strands, chemical synthesis and enzymatic synthesis provide different errors that you see in the actual files, right, in the DNA files. And so I know that we talked to Sergey about how do we deal with these new types of errors and also the new capabilities that you can have, for example, if you don&#8217;t control base by base the DNA synthesis.</p>
-
-
-
-<p><strong>YEKHANIN:</strong> This whole field of DNA data storage, like, the technologies on the biology side are advancing rapidly, right. And there are different approaches to synthesis. There are different approaches to sequencing. And, presumably, the way the storage is actually done, like, is also progressing, right, and we had works on that. So there is, kind of, this very general, kind of, high-level error profile that you can say that these are the type of errors that you encounter in DNA data storage. Like, in DNA molecules—just the sequence of these bases, A, G, C, T, in maybe a length of, like, 200 or so and you store a very, very large number of them—the errors that you see is that some of these strands, kind of, will disappear. Some of these strings can be torn apart like, let’s say, in two pieces, maybe even more. And then on every strand, you also encounter these errors—insertions, deletions, substitutions—with different rates. Like, the likelihood of all kinds of these errors may differ very significantly across different technologies that you use on the biology side. And also there can be error bursts somehow. Maybe you can get an insertion of, I don’t know, 10 A’s, like, in a row, or you can <em>lose</em>, like, you know, 10 bases in a row. So if you don&#8217;t, kind of, quantify, like, what are the likelihoods of all these bad events happening, then I think this still, kind of, fits at least the majority of approaches to DNA data storage, maybe not exactly all of them, but it fits the majority. So when we design coding schemes, we are trying also, kind of, to look ahead in the sense that, like, we don&#8217;t know, like, in five years, like, how will these error profiles, how will it look like. So the technologies that we develop on the error-correction side, we try to keep them very flexible, so whether it&#8217;s enzymatic synthesis, whether it&#8217;s Nanopore technology, whether it’s Illumina technology that is being used, the error-correction algorithms would be able to adapt and would still be useful. But, I mean, this makes also coding aspect harder because, [LAUGHTER] kind of, you want to keep all this flexibility in mind.</p>
-
-
-
-<p><strong>STRAUSS:</strong> So, Sergey, we are at an interesting moment now because you’re open sourcing the Trellis BMA piece of code, right, that you published a few years ago. Can you talk a little bit about that specific problem of trace reconstruction and then the paper specifically and how it solves it?</p>
-
-
-
-<p><strong>YEKHANIN:</strong> Absolutely, yeah, so this Trellis BMA paper for that we are releasing the source code right now, this is, kind of, this is the latest in our sequence of publications on error-correction for DNA data storage. And I should say that, like, we already discussed that the project is, kind of, very interdisciplinary. So, like, we have experts from all kinds of fields. But really even within, like, within this coding theory, like, within computer science/information theory, coding theory, in our algorithms, we use ideas from very different branches. I mean, there are some core ideas from, like, core algorithm space, and I won’t go into these, but let me just focus, kind of, on two aspects. So when we just faced this problem of coding for DNA data storage and we were thinking about, OK, so how to exactly design the coding scheme and what are the algorithms that we’ll be using for error correction, so, I mean, we’re always studying the literature, and we came up on this problem called <em>trace reconstruction</em> that was pretty popular—I mean, somewhat popular, I would say—in computer science and in statistics. It didn’t have much motivation, but very strong mathematicians had been looking at it. And the problem is as follows. So, like, there is a long binary string picked at random, and then it’s transmitted over a deletion channel, so some bits—some zeros and some ones—at certain coordinates get deleted and you get to see, kind of, the shortened version of the string. But you get to see it multiple times. And the question is, like, how many times do you need to see it so that you can get a reasonably accurate estimate of the original string that was transmitted? So that was called trace reconstruction, and we took a lot of motivation—we took a lot of inspiration—from the problem, I would say, because really, in DNA data storage, if we think about a single strand, like, a single strand which is being stored, after we read it, we usually get multiple reads of this string. And, well, the errors there are not just deletions. There are insertions, substitutions, and, like, inversive errors, but still we could rely on this literature in computer science that already had some ideas. So there was an algorithm called BMA, <em>Bitwise Majority Alignment</em>. We extended it—we adopted it, kind of, for the needs of DNA data storage—and it became, kind of, one of the tools in our toolbox for error correction.</p>
-
-
-
-<p>So we also started to use ideas from literature on electrical engineering, what are called <em>convolutional error-correcting codes</em> and a certain, kind of, class of algorithms for decoding errors in these convolutional error-correcting codes called, like, I mean, Trellis is the main data structure, like, Trellis-based algorithms for decoding convolutional codes, like, Viterbi algorithm or BCJR algorithm. Convolutional codes allow you to introduce redundancy on the string. So, like, with algorithms kind of similar to BMA, like, they were good for doing error correction when there was no redundancy on the strand itself. Like, when there is redundancy on the strand, kind of, we could do some things, but really it was very limited. With Trellis-based approaches, like, again inspired by the literature in electrical engineering, we had an approach to introduce redundancy on the strand, so that allowed us to have more powerful error-correction algorithms. And then in the end, we have this algorithm, which we call Trellis BMA, which, kind of, combines ideas from both fields. So it&#8217;s based on Trellis, but it&#8217;s also more efficient than standard Trellis-based algorithms because it uses ideas from BMA from computer science literature. So this is, kind of, this is a mix of these two approaches. And, yeah, that’s the paper that we wrote about three years ago. And now we&#8217;re open sourcing it. So it is the most powerful algorithm for DNA error correction that we developed in the group. We’re really happy that now we are making it publicly available so that anybody can experiment with the source code. Because, again, the field has expanded a lot, and now there are multiple groups around the globe that work just specifically on error correction apart from all other aspects, so, yeah, so we are really happy that it’s become publicly available to hopefully further advance the field.</p>
-
-
-
-<p><strong>STRAUSS:</strong> Yeah, absolutely, and I&#8217;m always amazed by, you know, how, <em>it</em> <em>is</em> really about building on other people&#8217;s work. Jake and Bichlien, you recently published a paper in <em>Nature Communications</em>. Can you tell us a little bit about what it was, what you exposed the DNA to, and what it was specifically about?</p>
-
-
-
-<p><strong>NGUYEN:</strong>&nbsp;Yeah. So that paper was on the effects of neutron radiation on DNA data storage. So, you know, when we started the DNA Data Storage Project, it was really a comparison, right, between the different storage medias that exist today. And one of the issues that have come up through the years of development of those technologies was, you know, hard errors and soft errors that were induced by radiation. So we wanted to know, does that <em>maybe</em> happen in DNA? We know that DNA, in humans at least, is affected by radiation from cosmic rays. And so that was really the motivation for this type of experiment. So what we did was we essentially took our DNA files and dried them and threw them in a neutron accelerator, which was fantastic. It was so exciting. That&#8217;s, kind of, the merge of, you know, sci fi <em>with</em> sci fi at the same time. [LAUGHS] It was fantastic. And we irradiated for over 80 million years—</p>
-
-
-
-<p><strong>STRAUSS: </strong>The equivalent of …</p>
-
-
-
-<p><strong>NGUYEN: </strong>The <em>equivalent</em> of 80 million years.</p>
-
-
-
-<p><strong>STRAUSS: </strong>Yes, because it&#8217;s a lot of radiation all at the same time, …</p>
-
-
-
-<p><strong>NGUYEN: </strong>It’s a lot of radiation …</p>
-
-
-
-<p><strong>STRAUSS:</strong> … and it&#8217;s <em>accelerated</em> radiation exposure?</p>
-
-
-
-<p><strong>NGUYEN: </strong>Yeah, I would say it&#8217;s accelerated <em>aging</em> with radiation. It&#8217;s an insane amount of radiation. And it was surprising that even though we irradiated our DNA files with that much radiation, there wasn&#8217;t that much damage. And that&#8217;s surprising because, you know, we know that humans, if we were to be irradiated like that, it would be disastrous. But in, you know, DNA, our files were able to be recovered with zero bit errors.</p>
-
-
-
-<p><strong>STRAUSS:</strong> And why that difference?</p>
-
-
-
-<p><strong>NGUYEN: </strong>Well, we think there&#8217;s a few reasons. One is that when you look at the interaction between a neutron and the actual elemental composition of DNA—which is basically carbons, oxygens, and hydrogens, maybe a phosphorus—the neutrons don&#8217;t interact with the DNA much. And if it did interact, we would have, for example, a strand break, which based on the error-correcting codes, we can recover from. So essentially, there&#8217;s not much … one, there&#8217;s not much interaction between neutrons and DNA, and second, we have error-correcting codes that would prevent any data loss.</p>
-
-
-
-<p><strong>STRAUSS:</strong> Awesome, so yeah, this is another milestone that contributes towards the technology becoming a reality. There are also other conditions that are needed for technology to be brought to the market. And one thing I&#8217;ve worked on is to, you know, create the DNA Data Storage Alliance; this is something Microsoft co-founded with Illumina, Twist Bioscience, and Western Digital. And the goal there was to essentially provide the right conditions for the technology to thrive commercially. We did bring together multiple universities and companies that were interested in the technology. And one thing that we&#8217;ve seen with storage technologies that&#8217;s been pretty important is standardization and making sure that the technology’s interoperable. And, you know, we&#8217;ve seen stalemate situations like Blu-ray and high-definition DVD, where, you know, really we couldn&#8217;t decide on a standard, and the technology, it took a while for the technology to be picked up, and the intent of the DNA Data Storage [Alliance] is to provide an ecosystem of companies, universities, groups interested in making sure that this time, it&#8217;s an interoperable technology from the get-go, and that increases the chances of commercial adoption.<strong> </strong>As a group, we often talk about how amazing it is to work for a company that empowers us to do this kind of research. And for me, one of Microsoft Research’s unique strengths, particularly in this project, is the opportunity to work with such a diverse set of collaborators on such a multidisciplinary project like we have. How do you all think <em>where</em> you&#8217;ve done this work has impacted how you&#8217;ve gone about it and the contributions you’ve been able to make?</p>
-
-
-
-<p><strong>NGUYEN:</strong>&nbsp;I&#8217;m going to start with if we look around this table and we see who&#8217;s sitting at it, which is two chemists, a computer architect, and a coding theorist, and we come together and we&#8217;re like, what can we make that would be super, super impactful? I think that&#8217;s the answer right there, is that being at Microsoft and being in a culture that really fosters this type of interdisciplinary collaboration <em>is</em> the key to getting a project like this off the ground.</p>
-
-
-
-<p><strong>SMITH:</strong>&nbsp;Yeah, absolutely. And we should acknowledge the gigantic contributions made by our collaborators at the University of Washington. Many of them would fall in <em>not</em> any of these three categories. They’re electrical engineers, they&#8217;re mechanical engineers, they&#8217;re pure biologists that we worked with. And each of them brought their own perspective, and particularly when you talk about going to a true end-to-end system, those perspectives were invaluable as we were trying to fit all the puzzle pieces together.</p>
-
-
-
-<p><strong>STRAUSS:</strong> Yeah, absolutely. We&#8217;ve had great collaborations over time—University of Washington, ETH Zürich, Los Alamos National Lab, ChipIr, Twist Bioscience, Ansa Biotechnologies. Yeah, it’s been really great and a great set of different disciplines, all the way from coding theorists to the molecular biology and chemistry, electrical and mechanical engineering. One of the great things about research is there&#8217;s never a shortage of interesting questions to pursue, and for us, this particular work has opened the door to research in adjacent domains, including sustainability fields. DNA data storage requires small amounts of materials to accommodate the large amounts of data, and early on, we wanted to understand if DNA data storage was, as it seemed, a more sustainable way to store information. And we learned a lot. Bichlien and Jake, you had experience in green chemistry when you came to Microsoft. What new findings did we make, and what sustainability benefits do we get with DNA data storage? And, finally, what new sustainability work has the project led to?</p>
-
-
-
-<p><strong>NGUYEN: </strong>As a part of this project, if we&#8217;re going to bring new technologies to the forefront, you know, to the world, we should make sure that they have a lower carbon footprint, for example, than previous technologies. And so we ran a life cycle assessment—which is a way to systematically evaluate the environmental impacts of anything of interest—and we did this on DNA data storage and compared it to electronic storage medium<a id="_ftnref1" href="#_ftn1">[1]</a>, and we noticed that if we were able to store all of our digital information in DNA, that we would have benefits associated with carbon emissions. We would be able to reduce that because we don&#8217;t need as much infrastructure compared to the traditional storage methods. And there would be an energy reduction, as well, because this is a passive way of archival data storage. So that was, you know, the main takeaways that we had. But that also, kind of, led us to think about other technologies that would be beneficial beyond data storage and how we could use the same kind of life cycle thinking towards that.</p>
-
-
-
-<p><strong>SMITH:</strong> This design approach that you&#8217;ve, you know, talked about us stumbling on, not inventing but seeing other people doing in the literature and trying to implement ourselves on the DNA Data Storage Project, you know, is something that can be much bigger than any single material. And where we think there&#8217;s a, you know, chance for folks like ourselves at Microsoft Research to make a real impact on this sustainability-focused design is through the application of machine learning, artificial intelligence—the <em>new</em> tools that will allow us to look at much bigger design spaces than we could previously to evaluate sustainability metrics that were not possible when everything was done manually and to ultimately, you know, at the end of the day, take a sustainability-first look at what a material should be composed of. And so we&#8217;ve tried to prototype this with a few projects. We had another wonderful collaboration with the University of Washington where we looked at recyclable circuit boards and a novel material called a vitrimer that it could possibly be made out of<a href="#_ftn2" id="_ftnref2">[2]</a>. We&#8217;ve had another great collaboration with the University of Michigan, where we&#8217;ve looked at the design of charge-carrying molecules in these things called flow batteries that have good potential for energy smoothing in, you know, renewables production, trying to get us out of that day-night, boom-bust cycle<a href="#_ftn3" id="_ftnref3">[3]</a>. And we had one more project, you know, this time with collaborators at the University of Berkeley, where we looked at, you know, design of a class of materials called a metal organic framework, which have great promise in low-energy-cost gas separation, such as pulling CO<sub>2</sub> out of the, you know, plume of a smokestack or, you know, ideally out of the air itself<a href="#_ftn4" id="_ftnref4">[4]</a>.</p>
-
-
-
-<p><strong>STRAUSS:</strong> For me, the DNA work has made me much more open to projects outside my own research area—as Bichlien mentioned, my core research area is computer architecture, but we&#8217;ve ventured in quite a bit of other areas here—and going way beyond my own comfort zone and really made me love interdisciplinary projects like this and try, really try, to do the most important work I can. And this is what attracted me to these other areas of environmental sustainability that Bichlien and Jake covered, where there&#8217;s absolutely no lack of problems. Like them, I&#8217;m super interested in using AI to solve many of them. So how do each of you think working on the DNA Data Storage Project has influenced your research approach more generally and how you think about research questions to pursue next?</p>
-
-
-
-<p><strong>YEKHANIN:</strong> It definitely expanded the horizons a lot, like, just, kind of, just having this interactions with people, kind of, whose core areas of research are so different from my own and also a lot of learning even within my own field that we had to do to, kind of, carry this project out. So, I mean, it was a great and rewarding experience.</p>
-
-
-
-<p><strong>NGUYEN: </strong>Yeah, for me, it&#8217;s kind of the opposite of Karin, right. I started as an organic chemist and then now really, one, appreciate the breadth and depth of going from a concept to a real end-to-end prototype and all the requirements that you need to get there. And then also, really the importance of having, you know, a background in computer science and really being able to understand the lingo that is used <em>in</em> multidisciplinary projects because you might say something and someone else interprets it very differently, and it&#8217;s because you&#8217;re not speaking the same language. And so that understanding that you have to really be … you have to learn a little bit of vocabulary from each person and understand how they contribute and then how <em>your</em> ideas can contribute to their ideas has been really impactful in my career here.</p>
-
-
-
-<p><strong>SMITH: </strong>Yeah, I think the key change in approach that I took away—and I think many of us took away from the DNA Data Storage Project—was rather than starting with an academic question, we started with a vision of what we wanted to happen, and then we derived the research questions from analyzing what would need to happen in the world—what are the bottlenecks that need to be solved in order for us to achieve, you know, that goal? And this is something that we&#8217;ve taken with us into the sustainability-focused research and, you know, something that I think will affect all the research I do going forward.</p>
-
-
-
-<p><strong>STRAUSS:</strong> Awesome. As we close, let&#8217;s reflect a bit on what a world in which DNA data storage is widely used might look like. If everything goes as planned, what do you hope the lasting impact of this work will be? Sergey, why don’t you lead us off.</p>
-
-
-
-<p><strong>YEKHANIN:</strong> Sure, I remember that, like, when … in the early days when I started working on this project actually, you, Karin, told me that you were taking an Uber ride somewhere and you were talking to the taxi driver, and the taxi driver—I don&#8217;t know if you remember that—but the taxi driver mentioned that he has a camera which is recording everything that&#8217;s happening in the car. And then you had a discussion with him about, like, how long does he keep the data, how long does he keep the videos. And he told you that he keeps it for about a couple of days because it&#8217;s too expensive. But otherwise, like, if it weren&#8217;t that expensive, he would keep it for much, much longer because, like, he wants to have these recordings if later somebody is upset about the ride and, I don’t know, he is getting sued or something. So this is, like, this is one small narrow application area where DNA data storage would clearly, kind of, if it happens, then it will solve it. Because then, kind of, this long-term archival storage will become very cheap, available to everybody; it would become a commodity basically. There are many things that will be enabled, like this helping the Uber drivers, for instance. But also one has to think of, of course, like, about, kind of, the broader implications so that we don&#8217;t get into something negative because again this power of recording everything and storing everything, it can also lead to some use cases that might be, kind of, morally wrong. So, again, hopefully by the time that we get to, like, really wide deployments of this technology, the regulation will also be catching up and the, like, we will have great use cases and we won’t have bad ones. I mean, that&#8217;s how I think of it. But definitely there are lots of, kind of, great scenarios that this can enable.</p>
-
-
-
-<p><strong>SMITH: </strong>Yeah. I&#8217;ll grab onto the word you use there, which is making DNA a <em>commodity</em>. And one of the things that I hope comes out of this project, you know, besides all the great benefits of DNA data storage itself is spillover benefits into the field of health—where if we make DNA synthesis at large scale truly a commodity thing, which I hope some of the work that we&#8217;ve done to really accelerate the throughput of synthesis will do—then this will open new doors in what we can do in terms of gene synthesis, in terms of, like, fundamental biotech research that will lead to that next set of drugs and, you know, give us medications or treatments that we could not have thought possible if we were not able to synthesize DNA and related molecules at that scale.</p>
-
-
-
-<p><strong>NGUYEN: </strong>So much information gets lost because of just time. And so I think being able to recover really ancient history that humans wrote in the future, I think, is something that I really hope could be achieved because we&#8217;re so information rich, but in the course of time, we become information poor, and so I would like for our future generations to be able to understand the life of, you know, an everyday 21st-century person.</p>
-
-
-
-<p><strong>STRAUSS:</strong> Well, Bichlien, Jake, Sergey, it&#8217;s been fun having this conversation with you today and collaborating with you in all of this amazing project [MUSIC] and all the research we&#8217;ve done together. Thank you so much.</p>
-
-
-
-<p><strong>YEKHANIN:</strong>&nbsp;Thank you, Karin.</p>
-
-
-
-<p><strong>SMITH: </strong>Thank you.</p>
-
-
-
-<p><strong>NGUYEN: </strong>Thanks.</p>
-
-
-
-<p>[MUSIC FADES]</p>
-
-				</span>
-			</div>
-			<button
-				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
-				aria-expanded="false"
-				data-show-less-text="Show less"
-				type="button"
-				aria-controls="show-more-show-less-toggle-10"
-				aria-label="Show more content"
-				data-alternate-aria-label="Show less content">
-				Show more			</button>
-		</div>
-	</div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p><a id="_ftn1" href="#_ftnref1">[1]</a> The team presented the findings from their life cycle assessment of DNA data storage in the paper <a href="https://www.microsoft.com/en-us/research/publication/architecting-datacenters-for-sustainability-greener-data-storage-using-synthetic-dna/">Architecting Datacenters for Sustainability: Greener Data Storage using Synthetic DNA</a>.</p>
-
-
-
-<p><a href="#_ftnref2" id="_ftn2">[2]</a> For more information, check out the podcast episode <a href="https://www.microsoft.com/en-us/research/podcast/collaborators-sustainable-electronics-with-jake-smith-and-aniruddh-vashisth/">Collaborators: Sustainable electronics with Jake Smith and Aniruddh Vashisth</a> and the paper <a href="https://www.microsoft.com/en-us/research/publication/recyclable-vitrimer-based-printed-circuit-boards-for-sustainable-electronics/">Recyclable vitrimer-based printed circuit boards for sustainable electronics</a>.</p>
-
-
-
-<p><a href="#_ftnref3" id="_ftn3">[3]</a> For more information, check out the podcast episode <a href="https://www.microsoft.com/en-us/research/podcast/collaborators-renewable-energy-storage-with-bichlien-nguyen-and-david-kwabi/">Collaborators: Renewable energy storage with Bichlien Nguyen and David Kwabi</a>.</p>
-
-
-
-<p><a href="#_ftnref4" id="_ftn4">[4]</a> For more information, check out the paper <a href="https://www.microsoft.com/en-us/research/publication/mofdiff-coarse-grained-diffusion-for-metal-organic-framework-design/?msockid=3be03cfe91b667f415c429e2900566db">MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design</a>.</p>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-the-journey-to-dna-data-storage/">Ideas: The journey to DNA data storage</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		

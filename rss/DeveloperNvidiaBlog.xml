@@ -6,17 +6,7 @@
     <description>Latest posts from https://developer.nvidia.com/zh-cn/blog/recent-posts/. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 01:44:46 +0000</lastBuildDate>
-    <item>
-      <title>构建生成式 AI OpenUSD 应用，呈现准确品牌的营销视觉效果</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/building-a-generative-ai-openusd-app-for-brand-accurate-marketing-visuals/</link>
-      <description>2024年 11月 19日构建生成式 AI OpenUSD 应用，呈现准确品牌的营销视觉效果如今，品牌及其创意机构承受着巨大的压力，需要大规模地创建和提供高质量、准确的产品图片，从活动关键视觉效果到电子商务包装截图等。面向受众的内容，2 MIN READ</description>
-    </item>
-    <item>
-      <title>基于大语言模型的Agent智能体在金融行业中的应用</title>
-      <link>https://developer.nvidia.com/zh-cn/blog/llm-agent-for-finance/</link>
-      <description>2024年 11月 20日基于大语言模型的Agent智能体在金融行业中的应用大型语言模型(Large Language Models, LLM)已经取得了显著的进展，并展示了类人智能的潜力，它可以完成问题的拆解、4 MIN READ</description>
-    </item>
+    <lastBuildDate>Sat, 14 Dec 2024 01:39:05 +0000</lastBuildDate>
     <item>
       <title>TensorRT-LLM 低精度推理优化：从速度和精度角度的 FP8 vs INT8 的全面解析</title>
       <link>https://developer.nvidia.com/zh-cn/blog/tensorrt-llm-low-precision-inference-optimization-fp8-int8/</link>
@@ -86,6 +76,16 @@
       <title>如何使用 FP8 加速大模型训练</title>
       <link>https://developer.nvidia.com/zh-cn/blog/fp8-accelerate-llm-training/</link>
       <description>2024年 12月 10日如何使用 FP8 加速大模型训练利用 FP8 技术加速 LLM 推理和训练越来越受到关注，本文主要和大家介绍如何使用 FP8 这项新技术加速大模型的训练。4 MIN READ</description>
+    </item>
+    <item>
+      <title>NVIDIA Air 简要介绍</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/an-introduction-to-nvidia-air/</link>
+      <description>2024年 12月 12日NVIDIA Air 简要介绍AI 的出现带来了一种新型数据中心，即 AI 工厂 ，专门用于处理 AI 工作负载。AI 工作负载的范围和规模可能会有很大差异，2 MIN READ</description>
+    </item>
+    <item>
+      <title>借助 NVIDIA Earth-2 推进太阳辐射预测</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/advancing-solar-irradiance-prediction-with-nvidia-earth-2/</link>
+      <description>2024年 12月 12日借助 NVIDIA Earth-2 推进太阳辐射预测随着全球电力需求持续上升，传统能源的可持续性与日俱增。能源提供商面临的压力是，减少对矿物燃料的依赖，同时确保电网供应充足且稳定。在这种背景下，3 MIN READ</description>
     </item>
   </channel>
 </rss>
