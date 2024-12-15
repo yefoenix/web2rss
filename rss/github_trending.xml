@@ -6,56 +6,11 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Dec 2024 01:38:41 +0000</lastBuildDate>
-    <item>
-      <title>nexus-xyz /network-api</title>
-      <link>https://github.com/nexus-xyz/network-api</link>
-      <description>High-performance interface for supplying compute to the Nexus network.</description>
-    </item>
+    <lastBuildDate>Sun, 15 Dec 2024 01:48:26 +0000</lastBuildDate>
     <item>
       <title>commaai /openpilot</title>
       <link>https://github.com/commaai/openpilot</link>
       <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.</description>
-    </item>
-    <item>
-      <title>langflow-ai /langflow</title>
-      <link>https://github.com/langflow-ai/langflow</link>
-      <description>Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.</description>
-    </item>
-    <item>
-      <title>ethereum /EIPs</title>
-      <link>https://github.com/ethereum/EIPs</link>
-      <description>The Ethereum Improvement Proposal repository</description>
-    </item>
-    <item>
-      <title>shardeum /shardeum</title>
-      <link>https://github.com/shardeum/shardeum</link>
-      <description>Shardeum is an EVM based autoscaling blockchain</description>
-    </item>
-    <item>
-      <title>soxoj /maigret</title>
-      <link>https://github.com/soxoj/maigret</link>
-      <description>🕵️‍♂️ Collect a dossier on a person by username from thousands of sites</description>
-    </item>
-    <item>
-      <title>GoogleCloudPlatform /generative-ai</title>
-      <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
-      <description>Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</description>
-    </item>
-    <item>
-      <title>andrewyng /aisuite</title>
-      <link>https://github.com/andrewyng/aisuite</link>
-      <description>Simple, unified interface to multiple Generative AI providers</description>
-    </item>
-    <item>
-      <title>gruntwork-io /terragrunt</title>
-      <link>https://github.com/gruntwork-io/terragrunt</link>
-      <description>Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</description>
-    </item>
-    <item>
-      <title>typeorm /typeorm</title>
-      <link>https://github.com/typeorm/typeorm</link>
-      <description>ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</description>
     </item>
     <item>
       <title>tursodatabase /limbo</title>
@@ -63,9 +18,49 @@
       <description>Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.</description>
     </item>
     <item>
-      <title>bluewave-labs /checkmate</title>
-      <link>https://github.com/bluewave-labs/checkmate</link>
-      <description>Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.</description>
+      <title>PaperMC /Paper</title>
+      <link>https://github.com/PaperMC/Paper</link>
+      <description>The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</description>
+    </item>
+    <item>
+      <title>curl /curl</title>
+      <link>https://github.com/curl/curl</link>
+      <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
+    </item>
+    <item>
+      <title>ai16z /eliza</title>
+      <link>https://github.com/ai16z/eliza</link>
+      <description>Autonomous agents for everyone</description>
+    </item>
+    <item>
+      <title>Saghen /blink.cmp</title>
+      <link>https://github.com/Saghen/blink.cmp</link>
+      <description>Performant, batteries-included completion plugin for Neovim</description>
+    </item>
+    <item>
+      <title>go-gitea /gitea</title>
+      <link>https://github.com/go-gitea/gitea</link>
+      <description>Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</description>
+    </item>
+    <item>
+      <title>Byaidu /PDFMathTranslate</title>
+      <link>https://github.com/Byaidu/PDFMathTranslate</link>
+      <description>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</description>
+    </item>
+    <item>
+      <title>TEN-framework /TEN-Agent</title>
+      <link>https://github.com/TEN-framework/TEN-Agent</link>
+      <description>TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).</description>
+    </item>
+    <item>
+      <title>gusmanb /logicanalyzer</title>
+      <link>https://github.com/gusmanb/logicanalyzer</link>
+      <description>24 channel, 100Msps logic analyzer hardware and software</description>
+    </item>
+    <item>
+      <title>andrewyng /aisuite</title>
+      <link>https://github.com/andrewyng/aisuite</link>
+      <description>Simple, unified interface to multiple Generative AI providers</description>
     </item>
     <item>
       <title>google-gemini /cookbook</title>
@@ -73,29 +68,9 @@
       <description>Examples and guides for using the Gemini API</description>
     </item>
     <item>
-      <title>lmarzen /esp32-weather-epd</title>
-      <link>https://github.com/lmarzen/esp32-weather-epd</link>
-      <description>A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.</description>
-    </item>
-    <item>
-      <title>DS4SD /docling</title>
-      <link>https://github.com/DS4SD/docling</link>
-      <description>Get your documents ready for gen AI</description>
-    </item>
-    <item>
-      <title>mherrmann /helium</title>
-      <link>https://github.com/mherrmann/helium</link>
-      <description>Lighter web automation with Python</description>
-    </item>
-    <item>
-      <title>DioxusLabs /dioxus</title>
-      <link>https://github.com/DioxusLabs/dioxus</link>
-      <description>Fullstack app framework for web, desktop, mobile, and more.</description>
-    </item>
-    <item>
-      <title>Byaidu /PDFMathTranslate</title>
-      <link>https://github.com/Byaidu/PDFMathTranslate</link>
-      <description>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</description>
+      <title>wavetermdev /waveterm</title>
+      <link>https://github.com/wavetermdev/waveterm</link>
+      <description>An open-source, cross-platform terminal for seamless workflows</description>
     </item>
   </channel>
 </rss>
