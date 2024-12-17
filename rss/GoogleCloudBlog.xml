@@ -6,22 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 01:46:22 +0000</lastBuildDate>
-    <item>
-      <title>Understand how your users are using Gemini for Google Cloud with Cloud Logging and Monitoring</title>
-      <link>https://cloud.google.com/blog/products/management-tools/cloud-logging-and-monitoring-support-gemini-for-google-cloud</link>
-      <description>Management ToolsUnderstand how your users are using Gemini for Google Cloud with Cloud Logging and MonitoringBy Calvin Cheng • 4-minute read</description>
-    </item>
-    <item>
-      <title>To avoid “bill shocks,” Palo Alto Networks deploys custom AI-powered cost anomaly detection</title>
-      <link>https://cloud.google.com/blog/topics/cost-management/palo-alto-networks-custom-cost-anomaly-detection-with-ai-bill-shocks</link>
-      <description>Cost ManagementTo avoid “bill shocks,” Palo Alto Networks deploys custom AI-powered cost anomaly detectionBy Kuntal Patel • 8-minute read</description>
-    </item>
-    <item>
-      <title>How Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 Pro</title>
-      <link>https://cloud.google.com/blog/topics/partners/how-fullstory-uses-vertex-ai-and-gemini-to-boost-conversion-rates</link>
-      <description>PartnersHow Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 ProBy Kevin Wang • 7-minute read</description>
-    </item>
+    <lastBuildDate>Tue, 17 Dec 2024 01:42:11 +0000</lastBuildDate>
     <item>
       <title>How Vertex AI’s vector search helps unlock high-performance gen AI apps</title>
       <link>https://cloud.google.com/blog/products/ai-machine-learning/build-fast-and-scalable-ai-applications-with-vertex-ai</link>
@@ -48,6 +33,11 @@
       <description>AI &amp; Machine LearningHow Dun &amp; Bradstreet is transforming software development with Gemini Code AssistBy Ryan J. Salva • 5-minute read</description>
     </item>
     <item>
+      <title>Scaling to zero on Google Kubernetes Engine with KEDA</title>
+      <link>https://cloud.google.com/blog/products/containers-kubernetes/scale-to-zero-on-gke-with-keda</link>
+      <description>Containers &amp; KubernetesScaling to zero on Google Kubernetes Engine with KEDABy Michal Golda • 4-minute read</description>
+    </item>
+    <item>
       <title>A look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browser</title>
       <link>https://cloud.google.com/blog/products/chrome-enterprise/a-look-back-at-chrome-enterprise-in-2024-strengthening-security-and-improving-productivity-in-the-browser</link>
       <description>Chrome EnterpriseA look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browserBy Hakan Kilic • 3-minute read</description>
@@ -56,6 +46,16 @@
       <title>What’s new with Google Cloud</title>
       <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
       <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
+    </item>
+    <item>
+      <title>Become Among the First Certified Chrome Enterprise Administrators</title>
+      <link>https://cloud.google.com/blog/products/chrome-enterprise/become-among-the-first-certified-chrome-enterprise-administrators</link>
+      <description>Chrome EnterpriseBecome Among the First Certified Chrome Enterprise AdministratorsBy Ankit Mohanty • 2-minute read</description>
+    </item>
+    <item>
+      <title>AI Playground: Where learning and innovation converge in the heart of London</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/ai-playground-where-learning-and-innovation-converge-in-the-heart-of-london</link>
+      <description>AI &amp; Machine LearningAI Playground: Where learning and innovation converge in the heart of LondonBy Olly Grundy • 2-minute read</description>
     </item>
   </channel>
 </rss>

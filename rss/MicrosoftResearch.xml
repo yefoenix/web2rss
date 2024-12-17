@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Sat, 14 Dec 2024 02:01:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Dec 2024 23:59:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,162 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
+		<title>Moving to GraphRAG 1.0 &#8211; Streamlining ergonomics for developers and users</title>
+		<link>https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2024 17:00:00 +0000</pubDate>
+				<category><![CDATA[Research Blog]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1111143</guid>
+
+					<description><![CDATA[<p>GraphRAG helps advance AI use in complex domains like science. Thanks to enthusiastic adoption and community engagement, we’ve upgraded the pre-release version. Check out the major ergonomic and structural updates in GraphRAG 1.0.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/">Moving to GraphRAG 1.0 &#8211; Streamlining ergonomics for developers and users</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1.png" alt="GraphRAG blog hero - cluster of small circular nodes on a blue/green gradient background" class="wp-image-1111170" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<h2 class="wp-block-heading" id="introducing-graphrag-1-0">Introducing GraphRAG 1.0</h2>
+
+
+
+<p>Microsoft <a href="https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/" target="_blank" rel="noreferrer noopener">debuted<span class="sr-only"> (opens in new tab)</span></a> the pre-release version of <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/graphrag" target="_blank" rel="noreferrer noopener">GraphRAG<span class="sr-only"> (opens in new tab)</span></a> in July 2024 to advance AI use in complex domains. Since that time, we’ve seen incredible adoption and community engagement (over 20k stars and 2k forks on GitHub as of this writing), with numerous fixes and improvements by the core team and community contributors. We’re deeply grateful for the contributions and feedback we’ve received and are excited to share a number of major ergonomic and structural improvements that culminate in the official release of GraphRAG 1.0.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="ergonomic-refactors">Ergonomic refactors</h2>
+
+
+
+<h3 class="wp-block-heading" id="easier-setup-for-new-projects">Easier setup for new projects</h3>
+
+
+
+<p>When we first launched GraphRAG, most config was done using environment variables, which could be daunting, given the many options available. We’ve reduced the friction on setup by adding an <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://microsoft.github.io/graphrag/config/init/" target="_blank" rel="noreferrer noopener">init command<span class="sr-only"> (opens in new tab)</span></a> that generates a simplified starter settings.yml file with all core required config already set. We recommend developers start here to ensure they get the clearest initial config. With this update, a minimal starting config does not require the user to have expertise with GraphRAG for a quick setup, only an OpenAI API key in their environment.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="new-and-expanded-command-line-interface">New and expanded command line interface</h3>
+
+
+
+<p>We expanded the functionality and ease of use of the <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://microsoft.github.io/graphrag/cli/" target="_blank" rel="noreferrer noopener">command line interface<span class="sr-only"> (opens in new tab)</span></a> (CLI) and adopted <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/fastapi/typer" target="_blank" rel="noreferrer noopener">Typer<span class="sr-only"> (opens in new tab)</span></a> to provide better inline documentation and a richer CLI experience. The original CLI was intended as a starter demo for users to try GraphRAG on a sample dataset. We’ve since learned from the community that most people actually want to use this as their primary interaction mode for GraphRAG, so as part of this milestone release, we’ve incorporated enhancements that result in a more streamlined experience. From this work, CLI startup times dropped from an average of 148 seconds to 2 seconds. </p>
+
+
+
+<h3 class="wp-block-heading" id="consolidated-api-layer">Consolidated API layer</h3>
+
+
+
+<p>In August 2024 we introduced a standalone API layer to simplify developer usage. The original CLI contained all the code required to instantiate and execute basic indexing and query commands, which users often needed to replicate. The API layer is still considered provisional as we gather feedback, but is intended to be the primary entry point for developers who wish to integrate GraphRAG functionality into their own applications without deep pipeline or query class customization. In fact, the CLI and <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/azure-samples/graphrag-accelerator" target="_blank" rel="noreferrer noopener">Accelerator<span class="sr-only"> (opens in new tab)</span></a> are built entirely on top of the API layer, acting as a documented example of how to interact with the API. We have also added examples of how to use this API to our <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://microsoft.github.io/graphrag/query/notebooks/overview/" target="_blank" rel="noreferrer noopener">notebook collection<span class="sr-only"> (opens in new tab)</span></a> that we will continue to update as we iterate in future releases.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="simplified-data-model">Simplified data model</h3>
+
+
+
+<p>GraphRAG creates several output artifacts to store the indexed knowledge model. The initial model contained a large number of files, fields, and cross-references based on experimental ideas during the early research, which can be overwhelming for both new and routine users. We performed a comprehensive review of the data model and incorporated fixes to add clarity and consistency, remove redundant or unused fields, improve storage space, and simplify the data models. Previously, the output lacked standardization, and relevant outputs could easily be confused with non-critical intermediary output files. Now with GraphRAG 1.0, the output will only include relevant outputs that are easily readable and traceable.&nbsp;</p>
+
+
+
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="931956">
+		
+
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: On-demand video</span>
+	</p>
+	
+	<div class="row pt-3 pb-4 align-items-center">
+						<div class="msr-promo__media col-12 col-md-5">
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" aria-label="AI Explainer: Foundation models ​and the next era of AI" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AIEx01_blog_hero_1400x788.png" alt="a screenshot of a computer screen shot of a man" />
+				</a>
+			</div>
+			
+			<div class="msr-promo__content p-3 px-5 col-12 col-md">
+
+									<h2 class="h4">AI Explainer: Foundation models ​and the next era of AI</h2>
+				
+								<p class="large">Explore how the transformer architecture, larger models and more data, and in-context learning have helped advance AI from perception to creation.</p>
+				
+								<div class="wp-block-buttons justify-content-center justify-content-md-start">
+					<div class="wp-block-button">
+						<a href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Watch video" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
+							Watch video						</a>
+					</div>
+				</div>
+							</div><!--/.msr-promo__content-->
+	</div><!--/.msr-promo__inner-wrap-->
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
+	
+
+
+<h3 class="wp-block-heading" id="streamlined-vector-stores">Streamlined vector stores</h3>
+
+
+
+<p>Embeddings and their vector stores are some of the primary drivers of  GraphRAG’s storage needs. Our original data model stored all embeddings within the parquet output files after data ingestion and indexing. This made the files portable, which was convenient for early research, but for many users it became unnecessary as they configured their own vector stores and the scale of data ingestion grew. We have updated the GraphRAG pipeline to create a default vector store <em>during indexing,</em> so no post-processing is needed, and the query library shares this configuration for seamless use. The benefit of this change is that those vectors (which can be quite large) no longer need to be loaded when the output files are read from disk, saving read time and memory during every query. Coupled with the simplified data model, this resulted in output parquet disk savings of 80%, and total disk space (including embeddings in the vector store) reduction of 43%. GraphRAG supports LanceDB and Azure AI Search out-of-the-box for vector stores. For simple startup, LanceDB is used as the default, and is written to a local database alongside the knowledge model artifacts. </p>
+
+
+
+<h3 class="wp-block-heading" id="flatter-clearer-code-structure">Flatter, clearer code structure</h3>
+
+
+
+<p>A key initiative on the road to version 1.0 has been to simplify the codebase so it is easier to maintain and more approachable for third-party users. We’ve removed much of the code depth from the organization to make it easier to browse, and co-located more code that our own usage patterns indicate was not required to be in separate functional areas. </p>
+
+
+
+<p>We have also found that very few users need the declarative configuration that the underlying <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/datashaper" target="_blank" rel="noreferrer noopener">DataShaper<span class="sr-only"> (opens in new tab)</span></a> engine provides, so we collapsed these 88 verbose workflow definitions into a smaller set of 11 workflows that operate in a functional versus composed manner. This makes the pipeline easier to understand and is a step toward an architecture that is better suited for our future research plans and improves performance across the board. By collapsing workflows, we now have fewer unused output artifacts, reduced data duplication, and fewer disk I/O operations. This streamlining has also reduced the in-memory footprint of the pipeline, enabling users to index and analyze larger datasets with GraphRAG.</p>
+
+
+
+<h3 class="wp-block-heading" id="incremental-ingest">Incremental ingest</h3>
+
+
+
+<p>Until now, an evolving dataset needed complete re-indexing every time new information was acquired in order to re-generate the knowledge model. In GraphRAG 1.0 we are including a new <strong>update</strong> command in the CLI that computes the deltas between an existing index and newly added content and intelligently merges the updates to minimize re-indexing. GraphRAG uses an LLM caching mechanism to save as much cost as possible when re-indexing, so re-runs over a dataset are often significantly faster and cheaper than an initial run. Adding brand new content can alter the community structure such that much of an index needs to be re-computed – the <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://microsoft.github.io/graphrag/cli/#update" target="_blank" rel="noreferrer noopener">update command<span class="sr-only"> (opens in new tab)</span></a> resolves this while also improving answer quality.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="availability">Availability</h2>
+
+
+
+<p>GraphRAG version 1.0 is now available on <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/graphrag" target="_blank" rel="noreferrer noopener">GitHub<span class="sr-only"> (opens in new tab)</span></a>, and published to <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://pypi.org/project/graphrag/">PyPI<span class="sr-only"> (opens in new tab)</span></a>. Check out the <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://microsoft.github.io/graphrag/get_started/" target="_blank" rel="noreferrer noopener">Getting Started<span class="sr-only"> (opens in new tab)</span></a> guide to use GraphRAG 1.0 today. today. </p>
+
+
+
+<h3 class="wp-block-heading" id="migrating">Migrating</h3>
+
+
+
+<p>We recommend users migrate to GraphRAG 1.0, which offers a streamlined experience including multiple improvements for both users and developers. However, because of the breadth of its updates, version 1.0 is not backwards compatible. If you’ve used GraphRAG prior to version 1.0 and have existing indexes, there are a handful of breaking changes that need to be addressed, but this should be a straightforward process. To support the community in this migration, we’ve created a <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/graphrag/blob/main/v1-breaking-changes.md" target="_blank" rel="noreferrer noopener">migration guide<span class="sr-only"> (opens in new tab)</span></a> in the repository with more information. </p>
+
+
+
+<h3 class="wp-block-heading" id="future-directions">Future directions</h3>
+
+
+
+<p>We recently posted about a brand-new approach to GraphRAG called <a href="https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/" target="_blank" rel="noreferrer noopener">LazyGraphRAG</a>, which performs minimal up-front indexing to avoid LLM usage until user queries are executed. This avoids LLM-based summarization of large volumes of content that may not be interesting to users – and therefore never explored even after expensive processing. This approach shows strong performance at a fraction of the cost of GraphRAG, and will be added to the core GraphRAG codebase in the near future as a new option for users.&nbsp;</p>
+
+
+
+<p>Additionally, Microsoft has been active in exploring how GraphRAG can advance the rate of scientific progress, and is in the process of building relevant GraphRAG capabilities to align with our broader work in <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://blogs.microsoft.com/blog/2024/06/18/empowering-every-scientist-with-ai-augmented-scientific-discovery/" target="_blank" rel="noreferrer noopener">AI-enabled scientific discovery<span class="sr-only"> (opens in new tab)</span></a>.</p>
+
+
+
+<p>We continue to refine the codebase and investigate architectural changes that will enable users to use their own language model APIs, storage providers, and vector stores. We’re excited about this major milestone, and the foundation that this refactoring lays for our continued research in the GraphRAG space.</p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/">Moving to GraphRAG 1.0 &#8211; Streamlining ergonomics for developers and users</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>NeurIPS 2024: AI for Science with Chris Bishop</title>
 		<link>https://www.microsoft.com/en-us/research/podcast/neurips-2024-ai-for-science-with-chris-bishop/</link>
 		
@@ -32,7 +188,7 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/podcast/neurips-2024-ai-for-science-with-chris-bishop/">NeurIPS 2024: AI for Science with Chris Bishop</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Chris Bishop and Eliza Strickland." class="wp-image-1112250" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Chris Bishop and Eliza Strickland." class="wp-image-1112250" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
@@ -317,7 +473,7 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/">Abstracts: NeurIPS 2024 with Jindong Wang and Steven Euijong Whang</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1.jpg" alt="Illustrated image of Jindong Wang and Steven Euijong Whang" class="wp-image-1110141" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1.jpg" alt="Illustrated image of Jindong Wang and Steven Euijong Whang" class="wp-image-1110141" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Jindong-and-Steven-_Abstracts_Hero_Feature_No_Text_1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
@@ -330,7 +486,7 @@
 
 
 
-<p>In this episode, <a href="https://www.microsoft.com/en-us/research/people/jindwang/">Jindong Wang</a>, a senior researcher at Microsoft Research, and <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://ee.kaist.ac.kr/en/professor/15613/" target="_blank" rel="noreferrer noopener">Steven Euijong Whang</a>, a tenured associate professor at Korea Advanced Institute of Science and Technology&nbsp;(KAIST), join host Gretchen Huizinga to discuss&nbsp;the paper <a href="https://www.microsoft.com/en-us/research/publication/erbench-an-entity-relationship-based-automatically-verifiable-hallucination-benchmark-for-large-language-models/">“ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models,”</a> a spotlight session at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/?msockid=35739e94ab6c69d41b738b93aa076831">Conference on Neural Information Processing Systems (NeurIPS)</a>. ERBench leverages the integrity constraints of relational databases to create LLM benchmarks that can verify model rationale via keywords as well as check for answer correctness.</p>
+<p>In this episode, <a href="https://www.microsoft.com/en-us/research/people/jindwang/">Jindong Wang</a>, a senior researcher at Microsoft Research, and <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://ee.kaist.ac.kr/en/professor/15613/" target="_blank" rel="noreferrer noopener">Steven Euijong Whang</a>, a tenured associate professor at Korea Advanced Institute of Science and Technology (KAIST), join host Gretchen Huizinga to discuss the paper <a href="https://www.microsoft.com/en-us/research/publication/erbench-an-entity-relationship-based-automatically-verifiable-hallucination-benchmark-for-large-language-models/">“ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models,”</a> a spotlight session at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/?msockid=35739e94ab6c69d41b738b93aa076831">Conference on Neural Information Processing Systems (NeurIPS)</a>. ERBench leverages the integrity constraints of relational databases to create LLM benchmarks that can verify model rationale via keywords as well as check for answer correctness. This work is supported by the Microsoft Research initiative <a href="https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/?msockid=35739e94ab6c69d41b738b93aa076831" target="_blank" rel="noreferrer noopener">Accelerate Foundation Models Research</a>, or AFMR.</p>
 
 
 
@@ -1596,27 +1752,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1061244">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1002645">
 		
 
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: AI-POWERED EXPERIENCE</span>
+	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/about-microsoft-research/" aria-label="About Microsoft Research" data-bi-cN="About Microsoft Research" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/07/About-page-promo_1066x600.jpg" alt="" />
+				<a class="bg-gray-300" href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/01/MSR-Chat-Promo.png" alt="" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">About Microsoft Research</h2>
+									<h2 class="h4">Microsoft research copilot experience</h2>
 				
-								<p class="large">Advancing science and technology to benefit humanity</p>
+								<p class="large">Discover more about research at Microsoft through our AI-powered experience</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/about-microsoft-research/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="View our story" data-bi-cN="About Microsoft Research" target="_blank">
-							View our story						</a>
+						<a href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
+							Start now						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1884,27 +2043,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1061244">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044936">
 		
 
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
+	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/about-microsoft-research/" aria-label="About Microsoft Research" data-bi-cN="About Microsoft Research" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/07/About-page-promo_1066x600.jpg" alt="" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" aria-label="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/06/RF-Ep3-Recap-BlogHeroFeature-1400x788-1.jpg" alt="Microsoft Research Forum | Episode 3 | panel discussion" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">About Microsoft Research</h2>
+									<h2 class="h4">Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more</h2>
 				
-								<p class="large">Advancing science and technology to benefit humanity</p>
+								<p class="large">In the latest episode of Microsoft Research Forum, researchers explored the importance of globally inclusive and equitable AI, shared updates on AutoGen and MatterGen, presented novel use cases for AI, including industrial applications and the potential of multimodal models to improve assistive technologies.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/about-microsoft-research/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="View our story" data-bi-cN="About Microsoft Research" target="_blank">
-							View our story						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+							Read more						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -2093,30 +2255,30 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="931956">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085508">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: On-demand video</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Blog post</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" aria-label="AI Explainer: Foundation models ​and the next era of AI" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AIEx01_blog_hero_1400x788.png" alt="a screenshot of a computer screen shot of a man" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/medfuzz-exploring-the-robustness-of-llms-on-medical-challenge-problems/" aria-label="MedFuzz: Exploring the robustness of LLMs on medical challenge problems" data-bi-cN="MedFuzz: Exploring the robustness of LLMs on medical challenge problems" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/MedFuzz-BlogHeroFeature-1400x788-1.jpg" alt="MedFuzz blog hero (decorative)" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">AI Explainer: Foundation models ​and the next era of AI</h2>
+									<h2 class="h4">MedFuzz: Exploring the robustness of LLMs on medical challenge problems</h2>
 				
-								<p class="large">Explore how the transformer architecture, larger models and more data, and in-context learning have helped advance AI from perception to creation.</p>
+								<p class="large">Medfuzz tests LLMs by breaking benchmark assumptions, exposing vulnerabilities to bolster real-world accuracy.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Watch video" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-							Watch video						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/medfuzz-exploring-the-robustness-of-llms-on-medical-challenge-problems/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="MedFuzz: Exploring the robustness of LLMs on medical challenge problems" target="_blank">
+							Read more						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -2207,187 +2369,6 @@ Open AI o1-preview model achieves the highest result at 96.0% accuracy followed 
 <li><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://arxiv.org/abs/2303.13375" target="_blank" rel="noreferrer noopener">Capabilities of GPT-4 on Medical Challenge Problems<span class="sr-only"> (opens in new tab)</span></a></li>
 </ul>
 <span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/advances-in-run-time-strategies-for-next-generation-foundation-models/">Advances in run-time strategies for next-generation foundation models</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Accelerating drug discovery with TamGen: A generative AI approach to target-aware molecule generation</title>
-		<link>https://www.microsoft.com/en-us/research/blog/accelerating-drug-discovery-with-tamgen-a-generative-ai-approach-to-target-aware-molecule-generation/</link>
-		
-		<dc:creator><![CDATA[Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)]]></dc:creator>
-		<pubDate>Mon, 25 Nov 2024 21:02:26 +0000</pubDate>
-				<category><![CDATA[Research Blog]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1105683</guid>
-
-					<description><![CDATA[<p>TamGen uses generative AI to design new drug candidate compounds to treat TB, going beyond traditional methods by generating novel chemical structures. Learn how a collaboration with the Global Health Drug Discovery Institute is making this possible.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/blog/accelerating-drug-discovery-with-tamgen-a-generative-ai-approach-to-target-aware-molecule-generation/">Accelerating drug discovery with TamGen: A generative AI approach to target-aware molecule generation</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1.jpg" alt="TamGen logo on a gradient background." class="wp-image-1105698" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-
-<p>The <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="http://www.ghddi.org/" target="_blank" rel="noreferrer noopener">Global Health Drug Discovery Institute<span class="sr-only"> (opens in new tab)</span></a> (GHDDI) and Microsoft Research have reached a milestone in tuberculosis (TB) drug research with <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://www.nature.com/articles/s41467-024-53632-4" target="_blank" rel="noreferrer noopener">TamGen<span class="sr-only"> (opens in new tab)</span></a>, an <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/TamGen" target="_blank" rel="noreferrer noopener">open-source<span class="sr-only"> (opens in new tab)</span></a>, transformer-based chemical language model for developing target-specific drug compounds. Working in collaboration, the joint team successfully identified several promising inhibitors for a TB protease, with the most effective compound showing significant bioactivity. Research shows that TamGen can also optimize existing molecules by designing target-aware molecule fragments, potentially enabling the discovery of novel compounds that build on a known molecular core structure.&nbsp;&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="generative-ai-helps-overcome-limitations-in-drug-discovery">Generative AI helps overcome limitations in drug discovery</h2>
-
-
-
-<p>Generative AI is opening new avenues for scientific exploration by allowing computers to autonomously learn and produce original content. TamGen offers a new approach to drug discovery by applying the principles of generative AI to molecular design. Unlike traditional methods, which depend on systematically screening known compounds—a process that is long, complex, and costly due to its reliance on empirical knowledge and the time-consuming task of exploring a vast chemical library—generative AI provides opportunities for designing entirely new chemical structures.&nbsp;&nbsp;</p>
-
-
-
-<p>TamGen goes beyond analyzing existing data by generating chemically diverse compounds that conventional approaches might miss. Figure 1 shows that generative AI expands chemical exploration, allowing for a deeper and more comprehensive search for therapeutic solutions compared to traditional methods.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="2560" height="1441" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-scaled.jpg" alt="Two funnels that illustrate compared to the traditional screening-based approach, the generative AI-based approach enables the exploration of a broader range of novel compounds. The table below the two funnels has two rows labeled “Valuable cmpd%” and “Novel cmpd” to compare “Screening-based” approach and “Generative-based” approach. The “Screening-based” column shows “Low”, “No”, “High” verse to “Generative-based” shows “High” “Yes”, “Low”" class="wp-image-1106838" style="object-fit:cover" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-scaled.jpg 2560w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-1536x865.jpg 1536w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-2048x1153.jpg 2048w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-1280x720.jpg 1280w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGenFig1_1400x788-1920x1080.jpg 1920w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /><figcaption class="wp-element-caption">Figure 1. Compared with the traditional screening-based approach to drug discovery, a generative AI-based approach enables the discovery of novel compounds. </figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="tamgen-workflow">TamGen workflow&nbsp;</h2>
-
-
-
-<p>TamGen’s workflow uses generative AI to design target-specific chemical compounds. Building on the success of large language models (LLMs), we adapted a similar approach for molecular generation, using a training method like that of GPT models, which involves next-token prediction. Molecules were first converted into a simplified molecular input line entry system (SMILES)—a notation representing molecular structures as symbol sequences, similar to text. We then developed a protein encoder to process information about proteins, including their 3D structure.&nbsp;&nbsp;</p>
-
-
-
-<p>A contextual encoder<strong> </strong>combines insights from medical professionals with data on the protein target and existing compounds that have proven to be effective or promising. Using expert knowledge and computational analysis, this encoder guides the compound generator to produce new molecules that are more likely to bind to a given protein. This workflow is illustrated in Figure 2.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="1468" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig2-v2.jpg" alt="The protein encoder process proteins information, including 3D information, to help with protein representation. The contextual encoder captures protein-ligand information to generate new molecules bind to proteins. Then the new molecules will be converted into SMILES and pre-trained a GPT-like model to generate molecular compounds." class="wp-image-1106658" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig2-v2.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig2-v2-286x300.jpg 286w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig2-v2-977x1024.jpg 977w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig2-v2-768x805.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig2-v2-172x180.jpg 172w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 2. TamGen’s workflow&nbsp;</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="evaluating-tamgen-computationally">Evaluating TamGen computationally&nbsp;</h2>
-
-
-
-<div class="annotations " data-bi-aN="margin-callout">
-	<ul class="annotations__list card depth-16 bg-body p-4 annotations__list--right">
-		<li class="annotations__list-item">
-						<span class="annotations__type d-block text-uppercase font-weight-semibold text-neutral-300 small">Download</span>
-			<a href="https://github.com/microsoft/TamGen" target="_self" class="annotations__link font-weight-semibold text-decoration-none" data-bi-type="annotated-link" aria-label="TamGen" data-bi-aN="margin-callout" data-bi-cN="TamGen">
-				TamGen&nbsp;<span class="glyph-append glyph-append-share glyph-append-xsmall"></span>
-			</a>
-					</li>
-	</ul>
-</div>
-
-
-
-<p>To evaluate TamGen’s performance, we compared it to five other common methods used to create 3D shapes of molecules intended to bind to certain proteins. We evaluated these methods using the CrossDocked benchmark, a dataset used in AI research to assess the quality of molecule generation conditioned on a target protein.</p>
-
-
-
-<p>Evaluation metrics:&nbsp;</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Docking score</strong>: Measures how well a molecule binds to a target protein. </li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Quantitative estimate of drug-likeness (QED)</strong>: Assesses how good a candidate a molecule is for a drug. </li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Synthesis accessibility score (SAS)</strong>:<strong> </strong>Measures how easy or difficult it is to synthesize a particular chemical compound in a lab. </li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Ro5 (Lipinski&#8217;s rule of five)</strong>: Determines how likely a compound can be developed into an oral drug.  </li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li><strong>LogP</strong>: Tests a compound&#8217;s ability to move between water and fats. </li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Diversity</strong>: Measures the range of different molecular structures and properties in a collection of compounds.  </li>
-</ul>
-
-
-
-<p>The findings, illustrated in Figure 3, show TamGen’s overall performance. While other methods may produce compounds that bind more strongly, they often include multiple interconnected ring structures. Research indicates that more of these structures can lower synthesis accessibility (SAS) and increase cellular toxicity, making these compounds harder to develop. We believe that molecular pretraining of the model contributed to the overall effectiveness of the compounds TamGen generated.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="1074" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig3-v2.jpg" alt="The figure uses the shade of the color to illustrate the performance of “Docking”, “QED”, “Lipinski”, “SAS”, “logP”, “Diversity” between TamGen 5 other methods including “Pocket2Mol”, “ResGen”, “TargeDiff”, “3D-AR”, “LiGAN”. The results show that TamGen achieved the best overall performance." class="wp-image-1106661" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig3-v2.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig3-v2-300x230.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig3-v2-1024x786.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig3-v2-768x589.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig3-v2-80x60.jpg 80w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig3-v2-235x180.jpg 235w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 3. Results from TamGen’s computational performance verification</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="experimental-lab-verification">Experimental lab verification&nbsp;</h2>
-
-
-
-<p>To ensure real-world applicability, we also validated our findings in a hands-on lab environment. Here, we focused on the ClpP protease in <em>Mycobacterium tuberculosis</em> as the target because it plays a significant role in the bacterium’s survival under stress conditions. We proposed the Design-Refine-Test pipeline to effectively identify molecular compounds for TB drug discovery.</p>
-
-
-
-<p><strong>Design stage</strong>: We began by using TamGen to analyze the <em>binding pocket</em> of the protease, where molecules can attach and influence its function. TamGen generated about 2,600 potential compounds that could fit into this pocket. We assessed these compounds based on how well they could attach to the protease and their predicted biological effects, narrowing it down to four promising candidates. </p>
-
-
-
-<p><strong>Refine stage</strong>: Next, we entered the four compounds into TamGen, along with three molecular fragments that had been validated in previous lab experiments. This generated a total of 8,600 new compounds, which we screened again using the same criteria, eventually narrowing the selection to 296 compounds.</p>
-
-
-
-<p><strong>Test stage</strong>: Because synthesizing all 296 compounds wasn’t feasible, we identified similar compounds available in commercial libraries and tested their initial activity against TB. Five compounds showed promising results. We then synthesized one of the originals and two variants of another. Additionally, we categorized the generated compounds into clusters, selected the top 10% from each cluster based on docking scores, and after manual review, synthesized eight more compounds. </p>
-
-
-
-<p>The team from Microsoft Research generated the compounds by TamGen, and the GHDDI team conducted binding analysis, structure–activity relationship studies, and lab experiments to verify the compounds’ inhibitory effect on the ClpP protease, measuring their capacity to interfere with or reduce its activity. Lower IC50 values signify greater potency. Out of the 16 compounds tested, 14 showed strong inhibitory activity measuring under 40 µM, indicating high potential. The most effective compound had a measured IC50 value of 1.88 µM.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="677" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig4-v2.jpg" alt="The figure shows step by step the process and results, as the context described, of how TamGen analyzes the binding pocket of the protease on Design stage, Refine stage and Test stage." class="wp-image-1106655" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig4-v2.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig4-v2-300x145.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig4-v2-1024x495.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig4-v2-768x371.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/TamGen_blog_Fig4-v2-240x116.jpg 240w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 4. The hands-on lab verification process  </figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="from-molecule-to-fragment-generation">From molecule to fragment generation&nbsp;</h2>
-
-
-
-<p>In addition to generating new molecules, TamGen can optimize existing ones by designing smaller molecular fragments. In this fragment generation process, TamGen builds on a given protein target and a molecular core structure to design new compounds around that core. By incorporating information about the target protein, it generates fragments that are highly specific to the target. This approach moves beyond traditional methods that rely on pre-existing databases, which often limit both novelty and effectiveness of molecular fragments.</p>
-
-
-
-<p>For fragment generation, we adjusted the input to TamGen’s compound generator. We modified the SMILES string to ensure it ended at the desired growth site. This was done by specifying the fragment we wanted to retain and its connection point for further growth. The tailored SMILES string was then fed into the compound generator to extend the molecule.&nbsp;</p>
-
-
-
-<p>We evaluated this method by targeting the ClpP protease for TB, achieving a more than tenfold improvement in the binding affinity of the generated compound compared to the original. Some compounds also demonstrated slow binding, indicating potential for prolonged action and improved selectivity for the target protein.</p>
-
-
-
-<h2 class="wp-block-heading" id="ai-s-potential-in-drug-discovery">AI’s potential in drug discovery&nbsp;</h2>
-
-
-
-<p>TamGen showcases the transformative potential of generative AI in drug design, combining advanced molecular modeling with researcher-AI collaboration. Tasks that once took years can now be accomplished in a fraction of the time. This research underscores AI&#8217;s expanding role in drug discovery and its promise for developing effective treatments against persistent infectious diseases like TB.&nbsp;</p>
-
-
-
-<p>Looking ahead, we plan to integrate advanced techniques into TamGen, including diffusion models for generating 3D structures, reinforcement learning to apply physical constraints, and molecular dynamics simulations to capture proteins&#8217; shifting shapes. These enhancements aim to improve how well generated compounds bind to target proteins, increase their ability to be synthesized, and strengthen other critical drug properties.</p>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/accelerating-drug-discovery-with-tamgen-a-generative-ai-approach-to-target-aware-molecule-generation/">Accelerating drug discovery with TamGen: A generative AI approach to target-aware molecule generation</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		

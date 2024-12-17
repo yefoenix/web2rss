@@ -6,37 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 01:46:02 +0000</lastBuildDate>
-    <item>
-      <title>Data Warehouse vs. Database: Differences Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/database-vs-data-warehouse.html</link>
-      <description>Understand how databases and data warehouses work, how they vary and when to use which – all in this beginner’s guide to data warehousing and databases.</description>
-    </item>
-    <item>
-      <title>Bridging the Cyber Confidence Gap: Digital Resilience in the Public Sector</title>
-      <link>https://www.splunk.com/en_us/blog/industries/bridging-the-cyber-confidence-gap-digital-resilience-in-the-public-sector.html</link>
-      <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
-    </item>
-    <item>
-      <title>Zero Trust &amp; Zero Trust Network Architecture (ZTNA), Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/zero-trust.html</link>
-      <description>Let's break down the popular zero trust security concept and look at how to get started with ZTNA: zero trust network architecture.</description>
-    </item>
-    <item>
-      <title>Indicators of Attack (IoAs): A Complete Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/ioa-indicators-of-attack.html</link>
-      <description>In this post, we are going to discuss Indicators of Attack in detail. We will cover the importance of understanding IoAs and more.</description>
-    </item>
-    <item>
-      <title>Chargebacks vs. Showbacks: Everything You Need to Know</title>
-      <link>https://www.splunk.com/en_us/blog/learn/chargeback-vs-showback.html</link>
-      <description>Managing IT costs internally isn’t easy, but two methods can help: learn all about showbacks and chargebacks in this article.</description>
-    </item>
-    <item>
-      <title>What Is MTTD? The Mean Time to Detect Metric, Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/mean-time-to-detect-mttd.html</link>
-      <description>MTTD is the average time it takes to detect a fault. In this in-depth article, see why MTTD is not an output of the system, but actually of the entire environment.</description>
-    </item>
+    <lastBuildDate>Tue, 17 Dec 2024 01:41:53 +0000</lastBuildDate>
     <item>
       <title>Introduction to the OpenTelemetry Sum Connector</title>
       <link>https://www.splunk.com/en_us/blog/observability/opentelemetry-sum-connector.html</link>
@@ -53,6 +23,36 @@
       <description>Cloud infrastructure runs so much of the world’s daily operations. What is it and what does it mean? Find out in this comprehensive article.</description>
     </item>
     <item>
+      <title>What Is OpenTelemetry? A Complete Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/opentelemetry.html</link>
+      <description>In this article, you'll learn how OpenTelemetry works, how it's used, and its importance in improving your observability practices and overall business operations.</description>
+    </item>
+    <item>
+      <title>Generative AI in 2025: What Is GenAI?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/generative-ai.html</link>
+      <description>Did ChatGPT or Bard write this article? Are those dogs AI-created? We’ll let you decide, as you read the greatest explainer of Generative AI today.</description>
+    </item>
+    <item>
+      <title>What is SQL Injection?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/sql-injection.html</link>
+      <description>Injecting anything is rarely a good thing. When injection hijacks your SQL and interferes with your primary web systems, you’re in real trouble. Find out here.</description>
+    </item>
+    <item>
+      <title>Education Empowerment: Insights from the 2024 Splunk Career Impact Report</title>
+      <link>https://www.splunk.com/en_us/blog/leadership/insights-from-2024-splunk-career-impact-report.html</link>
+      <description>The 2024 Splunk Career Impact Report shares how Splunk learners who commit to building their skills and earning certifications are laying the groundwork for incredible career success.</description>
+    </item>
+    <item>
+      <title>Logs Are For Campfires: Log Data, Big Data, and Splunk Asset &amp; Risk Intelligence</title>
+      <link>https://www.splunk.com/en_us/blog/security/log-data-asset-risk-intelligence.html</link>
+      <description>Discover how Splunk Asset and Risk Intelligence (ARI) transforms log data into actionable insights. From automated asset discovery to risk and compliance management, ARI empowers organizations with real-time visibility, vulnerability tracking, and proactive threat mitigation. Elevate your security posture today.</description>
+    </item>
+    <item>
+      <title>Cisco Intends to Acquire Threat Detection and Defense Company SnapAttack, Driving Further Splunk Innovation to Power the SOC of the Future</title>
+      <link>https://www.splunk.com/en_us/blog/security/cisco-intends-to-acquire-threat-detection-and-defense-company-snapattack.html</link>
+      <description>Cisco announces it intent to acquire threat detection and defense company SnapAttack, driving further Splunk innovation to power the SOC of the future.</description>
+    </item>
+    <item>
       <title>What is Observability? An Introduction</title>
       <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
       <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
@@ -228,6 +228,11 @@
       <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
     </item>
     <item>
+      <title>Cisco Intends to Acquire Threat Detection and Defense Company SnapAttack, Driving Further Splunk Innovation to Power the SOC of the Future</title>
+      <link>https://www.splunk.com/en_us/blog/security/cisco-intends-to-acquire-threat-detection-and-defense-company-snapattack.html</link>
+      <description>Cisco announces it intent to acquire threat detection and defense company SnapAttack, driving further Splunk innovation to power the SOC of the future.</description>
+    </item>
+    <item>
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
       <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
       <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
@@ -251,6 +256,11 @@
       <title>Bridging the Cyber Confidence Gap: Digital Resilience in the Public Sector</title>
       <link>https://www.splunk.com/en_us/blog/industries/bridging-the-cyber-confidence-gap-digital-resilience-in-the-public-sector.html</link>
       <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
+    </item>
+    <item>
+      <title>Cisco Intends to Acquire Threat Detection and Defense Company SnapAttack, Driving Further Splunk Innovation to Power the SOC of the Future</title>
+      <link>https://www.splunk.com/en_us/blog/security/cisco-intends-to-acquire-threat-detection-and-defense-company-snapattack.html</link>
+      <description>Cisco announces it intent to acquire threat detection and defense company SnapAttack, driving further Splunk innovation to power the SOC of the future.</description>
     </item>
     <item>
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>

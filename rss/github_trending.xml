@@ -6,76 +6,16 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 01:46:09 +0000</lastBuildDate>
-    <item>
-      <title>flame-engine /flame</title>
-      <link>https://github.com/flame-engine/flame</link>
-      <description>A Flutter based game engine.</description>
-    </item>
-    <item>
-      <title>microsoft /windows-rs</title>
-      <link>https://github.com/microsoft/windows-rs</link>
-      <description>Rust for Windows</description>
-    </item>
-    <item>
-      <title>wasp-lang /wasp</title>
-      <link>https://github.com/wasp-lang/wasp</link>
-      <description>The fastest way to develop full-stack web apps with React &amp; Node.js.</description>
-    </item>
-    <item>
-      <title>RIOT-OS /RIOT</title>
-      <link>https://github.com/RIOT-OS/RIOT</link>
-      <description>RIOT - The friendly OS for IoT</description>
-    </item>
-    <item>
-      <title>PaperMC /Paper</title>
-      <link>https://github.com/PaperMC/Paper</link>
-      <description>The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</description>
-    </item>
-    <item>
-      <title>KRTirtho /spotube</title>
-      <link>https://github.com/KRTirtho/spotube</link>
-      <description>🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop &amp; mobile!</description>
-    </item>
+    <lastBuildDate>Tue, 17 Dec 2024 01:41:58 +0000</lastBuildDate>
     <item>
       <title>LazyVim /LazyVim</title>
       <link>https://github.com/LazyVim/LazyVim</link>
       <description>Neovim config for the lazy</description>
     </item>
     <item>
-      <title>bluewave-labs /checkmate</title>
-      <link>https://github.com/bluewave-labs/checkmate</link>
-      <description>Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.</description>
-    </item>
-    <item>
-      <title>midday-ai /midday</title>
-      <link>https://github.com/midday-ai/midday</link>
-      <description>Run your business smarter 🪄</description>
-    </item>
-    <item>
-      <title>godotengine /godot</title>
-      <link>https://github.com/godotengine/godot</link>
-      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-    </item>
-    <item>
-      <title>DataExpert-io /data-engineer-handbook</title>
-      <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
-      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
-    </item>
-    <item>
-      <title>commaai /openpilot</title>
-      <link>https://github.com/commaai/openpilot</link>
-      <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.</description>
-    </item>
-    <item>
-      <title>DS4SD /docling</title>
-      <link>https://github.com/DS4SD/docling</link>
-      <description>Get your documents ready for gen AI</description>
-    </item>
-    <item>
-      <title>wavetermdev /waveterm</title>
-      <link>https://github.com/wavetermdev/waveterm</link>
-      <description>An open-source, cross-platform terminal for seamless workflows</description>
+      <title>freqtrade /freqtrade</title>
+      <link>https://github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
     </item>
     <item>
       <title>ByteByteGoHq /system-design-101</title>
@@ -83,9 +23,39 @@
       <description>Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.</description>
     </item>
     <item>
+      <title>microsoft /windows-rs</title>
+      <link>https://github.com/microsoft/windows-rs</link>
+      <description>Rust for Windows</description>
+    </item>
+    <item>
+      <title>arendst /Tasmota</title>
+      <link>https://github.com/arendst/Tasmota</link>
+      <description>Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</description>
+    </item>
+    <item>
+      <title>DiceDB /dice</title>
+      <link>https://github.com/DiceDB/dice</link>
+      <description>DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.</description>
+    </item>
+    <item>
+      <title>PCSX2 /pcsx2</title>
+      <link>https://github.com/PCSX2/pcsx2</link>
+      <description>PCSX2 - The Playstation 2 Emulator</description>
+    </item>
+    <item>
       <title>Saghen /blink.cmp</title>
       <link>https://github.com/Saghen/blink.cmp</link>
       <description>Performant, batteries-included completion plugin for Neovim</description>
+    </item>
+    <item>
+      <title>Radarr /Radarr</title>
+      <link>https://github.com/Radarr/Radarr</link>
+      <description>Movie organizer/manager for usenet and torrent users.</description>
+    </item>
+    <item>
+      <title>commaai /openpilot</title>
+      <link>https://github.com/commaai/openpilot</link>
+      <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.</description>
     </item>
     <item>
       <title>yt-dlp /yt-dlp</title>
@@ -93,24 +63,29 @@
       <description>A feature-rich command-line audio/video downloader</description>
     </item>
     <item>
-      <title>google-gemini /cookbook</title>
-      <link>https://github.com/google-gemini/cookbook</link>
-      <description>Examples and guides for using the Gemini API</description>
+      <title>Shubhamsaboo /awesome-llm-apps</title>
+      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</description>
     </item>
     <item>
-      <title>TEN-framework /TEN-Agent</title>
-      <link>https://github.com/TEN-framework/TEN-Agent</link>
-      <description>TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).</description>
-    </item>
-    <item>
-      <title>bigskysoftware /htmx</title>
-      <link>https://github.com/bigskysoftware/htmx</link>
-      <description>&lt;/&gt; htmx - high power tools for HTML</description>
+      <title>wavetermdev /waveterm</title>
+      <link>https://github.com/wavetermdev/waveterm</link>
+      <description>An open-source, cross-platform terminal for seamless workflows</description>
     </item>
     <item>
       <title>Byaidu /PDFMathTranslate</title>
       <link>https://github.com/Byaidu/PDFMathTranslate</link>
       <description>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</description>
+    </item>
+    <item>
+      <title>TEN-framework /TEN-Agent</title>
+      <link>https://github.com/TEN-framework/TEN-Agent</link>
+      <description>TEN Agent is a conversational AI powered by TEN, integrating Gemini 2.0 Multimodal Live API, OpenAI Realtime API, RTC, and more. It offers real-time capabilities to see, hear, and speak, along with advanced tools like weather checks, web search, and RAG.</description>
+    </item>
+    <item>
+      <title>google-gemini /cookbook</title>
+      <link>https://github.com/google-gemini/cookbook</link>
+      <description>Examples and guides for using the Gemini API</description>
     </item>
   </channel>
 </rss>
