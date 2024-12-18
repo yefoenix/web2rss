@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Mon, 16 Dec 2024 23:59:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Dec 2024 18:59:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,536 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
+		<title>NeurIPS 2024: The co-evolution of AI and systems with Lidong Zhou</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/neurips-2024-the-co-evolution-of-ai-and-systems-with-lidong-zhou/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 18:59:30 +0000</pubDate>
+				<category><![CDATA[Microsoft Research Podcast]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1112472</guid>
+
+					<description><![CDATA[<p>Just after his NeurIPS 2024 keynote on the co-evolution of systems and AI, Microsoft CVP Lidong Zhou joins the podcast to discuss how rapidly advancing AI impacts the systems supporting it and the opportunities to use AI to enhance systems engineering itself.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/neurips-2024-the-co-evolution-of-ai-and-systems-with-lidong-zhou/">NeurIPS 2024: The co-evolution of AI and systems with Lidong Zhou</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Lidong Zhou and Eliza Strickland" class="wp-image-1112484" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+<div class="wp-block-msr-podcast-container my-4">
+	<iframe src="https://player.blubrry.com/?podcast_id=139712850&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+</div>
+
+
+
+<p>The Microsoft Research Podcast offers its audience a unique view into the technical advances being pursued at Microsoft through the insights and personal experiences of the people committed to those pursuits.</p>
+
+
+
+<p>Just after his keynote at the <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/">38th annual Conference on Neural Information Processing Systems (NeurIPS)</a>, Microsoft Corporate Vice President <a href="https://www.microsoft.com/en-us/research/people/lidongz/">Lidong Zhou</a> joins guest host Eliza Strickland of <em>IEEE Spectrum</em> at the conference to further explore the topic of his talk: the co-evolution of systems and AI. Zhou, who is also chief scientist of the Microsoft Asia-Pacific Research and Development Group and managing director of Microsoft Research Asia, discusses how rapidly advancing AI impacts the systems supporting it; AI as a tool for improving systems engineering itself; and how budding computer scientists can prepare for innovating in a world where AI and systems grow together.</p>
+
+
+
+<p><strong>Learn more</strong>: </p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/research/publication/verus-a-practical-foundation-for-systems-verification/">Verus: A Practical Foundation for Systems Verification</a> <br>Publication, November 2024</p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/research/publication/superbench/">SuperBench: Improving Cloud AI Infrastructure Reliability with Proactive Validation</a><br>Publication, July 2024</p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/research/publication/bitnet-scaling-1-bit-transformers-for-large-language-models/">BitNet: Scaling 1-bit Transformers for Large Language Models</a><br>Publication, October 2023</p>
+
+
+
+<section class="wp-block-msr-subscribe-to-podcast subscribe-to-podcast">
+	<div class="subscribe-to-podcast__inner border-top border-bottom border-width-2">
+		<h2 class="h5 subscribe-to-podcast__heading">
+			Subscribe to the <a href="https://www.microsoft.com/en-us/research/podcast">Microsoft Research Podcast</a>:		</h2>
+		<ul class="subscribe-to-podcast__list list-unstyled">
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://itunes.apple.com/us/podcast/microsoft-research-a-podcast/id1318021537?mt=2" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 32 32">  <path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg>
+						<span class="subscribe-to-podcast__link-text">Apple Podcasts</span>
+					</a>
+				</li>
+			
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://subscribebyemail.com/www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M6.4 6a2.392 2.392 0 00-2.372 2.119L16 15.6l11.972-7.481A2.392 2.392 0 0025.6 6H6.4zM4 10.502V22.8a2.4 2.4 0 002.4 2.4h19.2a2.4 2.4 0 002.4-2.4V10.502l-11.365 7.102a1.2 1.2 0 01-1.27 0L4 10.502z"/></svg>
+						<span class="subscribe-to-podcast__link-text">Email</span>
+					</a>
+				</li>
+			
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://subscribeonandroid.com/www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M12.414 4.02c-.062.012-.126.023-.18.06a.489.489 0 00-.12.675L13.149 6.3c-1.6.847-2.792 2.255-3.18 3.944h13.257c-.388-1.69-1.58-3.097-3.179-3.944l1.035-1.545a.489.489 0 00-.12-.675.492.492 0 00-.675.135l-1.14 1.68a7.423 7.423 0 00-2.55-.45c-.899 0-1.758.161-2.549.45l-1.14-1.68a.482.482 0 00-.494-.195zm1.545 3.824a.72.72 0 110 1.44.72.72 0 010-1.44zm5.278 0a.719.719 0 110 1.44.719.719 0 110-1.44zM8.44 11.204A1.44 1.44 0 007 12.644v6.718c0 .795.645 1.44 1.44 1.44.168 0 .33-.036.48-.09v-9.418a1.406 1.406 0 00-.48-.09zm1.44 0V21.76c0 .793.646 1.44 1.44 1.44h10.557c.793 0 1.44-.647 1.44-1.44V11.204H9.878zm14.876 0c-.169 0-.33.035-.48.09v9.418c.15.052.311.09.48.09a1.44 1.44 0 001.44-1.44v-6.719a1.44 1.44 0 00-1.44-1.44zM11.8 24.16v1.92a1.92 1.92 0 003.84 0v-1.92h-3.84zm5.759 0v1.92a1.92 1.92 0 003.84 0v-1.92h-3.84z"/></svg>
+						<span class="subscribe-to-podcast__link-text">Android</span>
+					</a>
+				</li>
+			
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://open.spotify.com/show/4ndjUXyL0hH1FXHgwIiTWU" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M16 4C9.383 4 4 9.383 4 16s5.383 12 12 12 12-5.383 12-12S22.617 4 16 4zm5.08 17.394a.781.781 0 01-1.086.217c-1.29-.86-3.477-1.434-5.303-1.434-1.937.002-3.389.477-3.403.482a.782.782 0 11-.494-1.484c.068-.023 1.71-.56 3.897-.562 1.826 0 4.365.492 6.171 1.696.36.24.457.725.217 1.085zm1.56-3.202a.895.895 0 01-1.234.286c-2.338-1.457-4.742-1.766-6.812-1.747-2.338.02-4.207.466-4.239.476a.895.895 0 11-.488-1.723c.145-.041 2.01-.5 4.564-.521 2.329-.02 5.23.318 7.923 1.995.419.26.547.814.286 1.234zm1.556-3.745a1.043 1.043 0 01-1.428.371c-2.725-1.6-6.039-1.94-8.339-1.942h-.033c-2.781 0-4.923.489-4.944.494a1.044 1.044 0 01-.474-2.031c.096-.023 2.385-.55 5.418-.55h.036c2.558.004 6.264.393 9.393 2.23.497.292.663.931.371 1.428z"/></svg>
+						<span class="subscribe-to-podcast__link-text">Spotify</span>
+					</a>
+				</li>
+			
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M6.667 4a2.676 2.676 0 00-2.612 2.13v.003c-.036.172-.055.35-.055.534v18.666c0 .183.019.362.055.534v.003a2.676 2.676 0 002.076 2.075h.002c.172.036.35.055.534.055h18.666A2.676 2.676 0 0028 25.333V6.667a2.676 2.676 0 00-2.13-2.612h-.003A2.623 2.623 0 0025.333 4H6.667zM8 8h1.333C17.42 8 24 14.58 24 22.667V24h-2.667v-1.333c0-6.618-5.382-12-12-12H8V8zm0 5.333h1.333c5.146 0 9.334 4.188 9.334 9.334V24H16v-1.333A6.674 6.674 0 009.333 16H8v-2.667zM10 20a2 2 0 11-.001 4.001A2 2 0 0110 20z"/></svg>
+						<span class="subscribe-to-podcast__link-text">RSS Feed</span>
+					</a>
+				</li>
+					</ul>
+	</div>
+</section>
+
+
+<div class="wp-block-msr-show-more">
+	<div class="bg-neutral-100 p-5">
+		<div class="show-more-show-less" data-mount="show-more-show-less">
+			<div>
+				<span>
+					
+
+<h2 class="wp-block-heading" id="transcript">Transcript</h2>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p><strong>ELIZA STRICKLAND:</strong>&nbsp;Welcome to the Microsoft Research Podcast, where Microsoft&#8217;s leading researchers bring you to the cutting edge. This series of conversations showcases the technical advances being pursued at Microsoft through the insights and experiences of the people driving them.</p>
+
+
+
+<p>I’m Eliza Strickland, a senior editor at <em>IEEE Spectrum</em> and your guest host for a special edition of the podcast.</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+
+
+<p>Joining me today in the Microsoft Booth at the 38th annual Conference on Neural Information Processing Systems, <em>or NeurIPS</em>, is Lidong Zhou. Lidong is a Microsoft corporate vice president, chief scientist of the Microsoft Asia-Pacific Research and Development Group, and managing director of Microsoft Research Asia. Earlier today, Lidong gave a keynote here at NeurIPS on the co-evolution of AI and systems engineering.</p>
+
+
+
+<p>Lidong, welcome to the podcast.</p>
+
+
+
+				</span>
+				<span id="show-more-show-less-toggle-1" class="show-more-show-less-toggleable-content">
+					
+
+
+
+<p><strong>LIDONG ZHOU: </strong>Thank you, Eliza. It&#8217;s such a pleasure to be here.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>You said in your keynote that progress in AI is now outpacing progress in the systems supporting AI. Can you give me some concrete examples of where the current infrastructure is struggling to keep up?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yeah. So actually, we have been working on supporting AI from the infrastructure perspective, and I can say, you know, there are at least three dimensions where it&#8217;s actually posing a lot of challenges. One dimension is that the scale of the AI systems that we have to support. You know, you heard about the scaling law in AI and, you know, demanding even higher scale every so often. And when we scale, as I mentioned in the talk this morning, every time you scale the system, you actually have to rethink how to design a system, develop a new methodology, revisit all the assumptions. And it becomes very challenging for the community to keep up. And the other dimension is if you look at AI systems, it&#8217;s actually a whole-stack kind of design. You have to understand not only the AI workloads, the model architecture, but also the software and also the underlying hardware. And you have to make sure they are all aligned to deliver the best performance. And the third dimension is the temporal dimension, where you really see accelerated growth and the pace of innovation in AI and not actually only in AI but also in the underlying hardware. And that puts a lot of pressure on how fast we innovate on the systems side because we really have to keep up in that dimension, as well. So all those three dimensions add up. It&#8217;s becoming a pretty challenging task for the whole systems community.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>I like how in your talk you proposed a marriage between systems engineering and AI. What does this look like in practice, and how might it change the way we approach both fields?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yeah, so I&#8217;m actually a big fan of systems community and AI community work together to tackle some of the most challenging problems. Of course, you know, we have been working on systems that support AI. But now increasingly, we&#8217;re seeing opportunities where AI can actually help developers to become more productive and develop systems that are better in many dimensions in terms of efficiency, in terms of reliability, in terms of trustworthiness. So I really want to see the two communities work together even more closely going forward. You know, I talk about, sort of, the three pillars, right—the efficiency; there&#8217;s trust; there&#8217;s also the infusion of the two (AI and systems engineering)—that are three ambitions that we are actually working on. And we see very encouraging early results that makes us believe that there&#8217;s much more to be achieved going forward with the two communities working together.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>You mentioned the challenging of scaling. I think everyone at NeurIPS is talking about scaling. And you&#8217;ve highlighted efficiency as a key opportunity for improvement in AI. What kind of breakthroughs in systems engineering or new ideas in systems engineering could help AI achieve greater efficiencies?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yeah, that&#8217;s another great question. I think there are a couple of aspects to efficiency. So this morning, I talked about some of the innovations in model architecture. So our researchers have been looking into BitNet, which is essentially try to use one bit or, actually, using a ternary representation for the weights in all those AI models rather than using FP16 and so on. And that potentially creates a lot of opportunities for efficiency and energy gains. But that cannot be done without rethinking about the software and even the hardware stack so that, you know, those innovations that you have in the model architecture can actually have the end-to-end benefits. And that&#8217;s, you know, one of the dimensions where we see the co<em>&#8211;</em>innovation of AI and underlying system to deliver some efficiency gains for AI models, for example. But there&#8217;s another dimension, which I think is also very important. With all the AI infrastructure that we build to support AI, there’s actually a huge room for improvement, as well. And this is where AI can actually be utilized to solve some of the very challenging systems problems, for optimization, for reliability, for trustworthiness. And I use some of the examples in my talk, but this is a very early stage. I think the potential is much larger going forward.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>Yeah. It&#8217;s interesting to think about how GPUs and large language models are so intertwined at this point. You can&#8217;t really have one without the other. And you said in your talk you sort of see the need to <em>decouple</em> the architectures and the hardware. Is that right? </p>
+
+
+
+<p><strong>ZHOU: </strong>Yes. Yeah, so this is always, you know, like very system type of thinking where, you know, you really want to decouple some of the elements so that they can evolve and innovate independently. And this gives more opportunities, you know, larger design space, for each field. And what we are observing now, which is actually very typical in relatively mature fields, where we have GPUs that are dominating in the hardware land and all the model architecture <em>has to be</em> designed and, you know, proving very efficient on GPUs. And that limits the design space for model architecture. And similarly, you know, if you look at hardware, it’s very hard for hardware innovations to happen because now you have to show that those hardwares are actually great for all the models that have been actually optimized for GPUs. So I think, you know, from a systems perspective, it&#8217;s actually possible if you design the right abstraction between the AI and the hardware, it&#8217;s possible for this two domains to actually evolve separately and have a much larger design space, actually, to find the best solution for both.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>And when you think about systems engineering, are there ways that AI can be used to optimize your own work?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yes, I think there are. Two examples that I gave this morning, one is, you know, in systems there&#8217;s this what we call a holy grail of system research because we want to build trustworthy systems that people can depend on. And one of the approach is called verified systems. And this has been a very active research area in systems because there are a lot of advancements in formal methods in how we can infuse the formal method into building real systems. But it&#8217;s still very hard for the general system community because, you know, you really have to understand how formal methods works and so on. And so it&#8217;s still not<a> </a>within reach. You know, like when we build mission-critical systems, we want to be completely verified so, you know, you don&#8217;t have to do a lot of testing to show that there are no bugs. You’ll never be able to show there&#8217;s no bugs with testing. But if you …</p>
+
+
+
+<p><strong>STRICKLAND: </strong>Sorry, can I pause you for one moment? Could you define formal verification for our listeners, just in case they don&#8217;t know?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yeah, that&#8217;s a good point. I think the easy way to think about this is formal verification, it uses mathematical logic to describe, say, a program and, you know, it can represent some properties in math, essentially, in logic. And then you can use a proof to show that the program has certain properties that you desire, and a simple form, like, a very preliminary form of formal (specification for) verification is, you know, just assertions in the program, right, where it, say, asserts <em>A is not equal to zero</em>. And that&#8217;s a very simple form of logic that must hold (or be proven to hold), and then, you know, the proof system is also much more complicated to talk about more advanced properties of programs, their correctness, and so on.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>Mm-hm.</p>
+
+
+
+<p><strong>ZHOU: </strong>So I think that the opportunity that we&#8217;re seeing is that with the help of AI, I think we are on the verge of providing the capability of building verified systems, at least for some of the mission-critical pieces of systems. And that would be a very exciting area for systems and AI to tackle together. And I think we&#8217;re going to see a paradigm shift in systems where some pieces of system components will actually be implemented using AI. [What] is interesting is, you know, system is generally deterministic because, so, you know, when you look at the traditional computer system, you want to know that it&#8217;s actually acting as you expected, but AI, you know, it can be stochastic, right. And it might not always give you the same answer. But how you combine these two is another area where I see a lot of opportunities for breakthroughs.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>Yeah, yeah. I wanted to back up in your career a little bit and talk about the concept of <em>gray failures</em> because you were really instrumental in defining this concept, which for people who don&#8217;t know, gray failures are subtle and partial failures in cloud-scale systems. They can be very difficult to detect and can lead to major problems. I wanted to see if you&#8217;re still thinking about gray failures in the context of your thinking about AI and systems. Are gray failures having an impact on AI today?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yes, definitely. So when we were looking at cloud systems, we realized the … so in systems, we developed a lot of mechanisms for reliability. And when we look at the cloud systems, when they reach a certain scale, a lot of methodology we develop in systems for reliability actually no longer applies. One of the reasons is we have those gray failures. And then we moved to looking at AI infrastructure. The problem is actually even worse because what we realize is there&#8217;s a lot of built-in redundancy at every level, like in GPUs, memory, or all the communication channels. And because of those built-in redundancies, sometimes the system is experience failures, but they’re being masked because of the redundancies. And that makes it very hard for us to actually maintain the system, debug the system, or to troubleshooting. And for AI infrastructure, what we have developed is a very different approach using proactive validation rather than reactive repair. And this is actually a paper that we wrote recently in USENIX ATC that talks about how we approach reliability in AI infrastructure, where the same concept happens to apply in a new meaning.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>Mm. I like that. Yeah. So tell me a little bit about your vision for where AI goes from here. You talked a little bit in your keynote about AI-infused systems. And what would that look like?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yeah, so I think AI is going to transform almost everything, and that includes systems. That&#8217;s why I&#8217;m so happy to be here to learn more from the AI community. But I also believe that for every domain that AI is going to transform, you really need the domain expertise and, sort of, the combination of AI and that particular domain. And the same for systems. So when we look at what we call AI-infused systems, we really see the opportunity where there are a lot of hard system challenges can be addressed by AI. But we need to define the right interface between the system and the AI so that we can leverage the advantage of both, right. Like, AI is creative. It comes up with solutions that, you know, people might not think of, but it&#8217;s also a little bit random sometimes. It could, you know, give you wrong answers. But systems are very grounded and very deterministic. So we need to figure out what is the design paradigm that we need to develop so that we can get the best of both worlds.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>Makes sense. In your talk you gave an example of OptiFlow. Could you tell our listeners a bit about that?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yeah. This is a pretty interesting project that is actually done in Microsoft Research Asia jointly with the Azure team where we look at collective communication, which is a major part of AI infrastructure. And it turns out, you know, there&#8217;s a lot of room for optimization. It was initially done manually. So an expert had to take a look at the system and look at the different configurations and do all kinds of experiments, and, you know, it takes about two weeks to come up with a solution. This is why I say, you know, the productivity is becoming a bottleneck for our AI infrastructure because people are in the loop who have to develop solutions. And it turns out that this is a perfect problem for AI, where AI can actually come up with various solutions. It can actually develop good system insights based on the observations from the system. And so OptiFlow, what it does is it comes up with the, sort of, the algorithm or the schedule of communications for different collective communication primitives. And it turns out to be able to discover algorithms that&#8217;s much better than the default one or, you know, for different settings. And it&#8217;s giving us the benefits of the productivity; also, efficiency.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>And you said that this is in production today, right?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yes. It is in production.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>That&#8217;s exciting. So thinking still to the future, how might the co-evolution of AI and systems change the skills needed for future computer scientists?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yeah, that&#8217;s a very deep question. As I mentioned, I think being fluent in AI is very important. But I also believe that domain expertise is probably undervalued in many ways. And I see a lot of needs for this interdisciplinary kind of education where someone who not only understands AI and what AI technology can do but also understands a particular domain very well. And those are the people who will be able to figure out the future for that particular domain with the power AI. And I think for students, certainly it&#8217;s no longer sufficient for you to be an expert in a very narrow domain. I think we see a lot of fields sort of merging together, and so you have to be an expert in multiple domains to see new opportunities for innovations.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>So what advice would you give to a high school student who&#8217;s just starting out and thinks, ah, I want to get into AI?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yeah, I mean certainly there&#8217;s a lot of excitement over AI, and it would be great for high school students to, actually, to have the firsthand experience. And I think it&#8217;s their world in the future. Because they probably can imagine a lot of things from scratch. I think they probably have the opportunity to disrupt a lot of the things that we take for granted today. So I think just use their imagination. And I don&#8217;t think we have really good advice for the young generation. It&#8217;s going to be their creativity and their imagination. And AI is definitely going to empower them to do something that&#8217;s going to be amazing.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>Something that we probably can&#8217;t even imagine.</p>
+
+
+
+<p><strong>ZHOU: </strong>Right.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>Yeah.</p>
+
+
+
+<p><strong>ZHOU: </strong>I think so.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>I like that. So as we close, I&#8217;m hoping you can look ahead and talk about what excites you most about the potential of AI and systems working together, but also if you have any concerns, what concerns you most?</p>
+
+
+
+<p><strong>ZHOU: </strong>Yeah, I think in terms of AI systems, I&#8217;m certainly pretty excited about what we can do together, you know, with a combination of AI and systems. There are a lot of low-hanging fruit, and there are also a lot of potential grand challenges that we can actually take on. I mentioned a couple in this morning&#8217;s talk. And certainly, you know, we also want to look at the risks that could happen, especially when we have systems and AI start to evolve together. And this is also in an area where having some sort of trust foundation is very important so we can have some assurance of the kind of system or AI system that we are going to build. And this is actually fundamental in how we think about trust in systems. And I think that concept can be very useful for us to guard against unintended consequences or unintended issues.</p>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p><strong>STRICKLAND: </strong>Well, Lidong Zhou, thank you so much for joining us on the podcast. I really enjoyed the conversation.</p>
+
+
+
+<p><strong>ZHOU: </strong>It&#8217;s such a pleasure, Eliza.</p>
+
+
+
+<p><strong>STRICKLAND: </strong>And to our listeners, thanks for tuning. If you want to learn more about research at Microsoft, you can check out the Microsoft Research website at Microsoft.com/research. Until next time.</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+				</span>
+			</div>
+			<button
+				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
+				aria-expanded="false"
+				data-show-less-text="Show less"
+				type="button"
+				aria-controls="show-more-show-less-toggle-1"
+				aria-label="Show more content"
+				data-alternate-aria-label="Show less content">
+				Show more			</button>
+		</div>
+	</div>
+</div>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/neurips-2024-the-co-evolution-of-ai-and-systems-with-lidong-zhou/">NeurIPS 2024: The co-evolution of AI and systems with Lidong Zhou</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts</title>
+		<link>https://www.microsoft.com/en-us/research/blog/promptwizard-the-future-of-prompt-optimization-through-feedback-driven-self-evolving-prompts/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Tue, 17 Dec 2024 17:00:00 +0000</pubDate>
+				<category><![CDATA[Research Blog]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1111329</guid>
+
+					<description><![CDATA[<p>PromptWizard from Microsoft Research is now open source. It is designed to automate and simplify AI prompt optimization, combining iterative LLM feedback with efficient exploration and refinement techniques to create highly effective prompts in minutes.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/promptwizard-the-future-of-prompt-optimization-through-feedback-driven-self-evolving-prompts/">PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1.png" alt="A diagram illustrating the joint optimization process of instructions and in-context examples in PromptWizard. The figure demonstrates how the framework iteratively refines both components, integrating feedback to enhance the overall prompt effectiveness and adaptability across tasks. " class="wp-image-1111944" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<h2 class="wp-block-heading" id="the-challenge-of-effective-prompting">The challenge of effective prompting</h2>
+
+
+
+<p>AI is reshaping industries—from education to healthcare—thanks to advancements in large language models (LLMs). These models rely on prompts, carefully crafted inputs that guide them to produce relevant and meaningful outputs. While the impact of prompts is profound, creating prompts that can help with complex tasks is a time-intensive and expertise-heavy process, often involving months of trial and error.&nbsp;</p>
+
+
+
+<p>This challenge grows as new tasks arise and models evolve rapidly, making manual methods for prompt engineering increasingly unsustainable. The question then becomes: <strong>How can we make prompt optimization faster, more accessible, and more adaptable across diverse tasks?</strong>&nbsp;</p>
+
+
+
+<div class="annotations " data-bi-aN="margin-callout">
+	<ul class="annotations__list card depth-16 bg-body p-4 annotations__list--right">
+		<li class="annotations__list-item">
+						<span class="annotations__type d-block text-uppercase font-weight-semibold text-neutral-300 small">Download</span>
+			<a href="https://github.com/microsoft/PromptWizard" target="_blank" class="annotations__link font-weight-semibold text-decoration-none" data-bi-type="annotated-link" aria-label="PromptWizard" data-bi-aN="margin-callout" data-bi-cN="PromptWizard">
+				PromptWizard&nbsp;<span class="glyph-append glyph-append-share glyph-append-xsmall"></span>
+			</a>
+					</li>
+	</ul>
+</div>
+
+
+
+<p>To address this challenge, we developed PromptWizard (PW), a research framework that automates and streamlines the process of prompt optimization. We are open sourcing the <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/PromptWizard" target="_blank" rel="noreferrer noopener">PromptWizard codebase<span class="sr-only"> (opens in new tab)</span></a> to foster collaboration and innovation within the research and development community.</p>
+
+
+
+<h2 class="wp-block-heading" id="introducing-promptwizard">Introducing PromptWizard</h2>
+
+
+
+<p>PromptWizard (PW) is designed to <strong>automate and simplify prompt optimization</strong>. It combines iterative feedback from LLMs with efficient exploration and refinement techniques to <strong>create highly effective prompts within minutes</strong>.</p>
+
+
+
+<p><strong>PromptWizard optimizes both the instruction and the in-context learning examples.</strong> Central to PW is its self-evolving and self-adaptive mechanism, where the LLM iteratively generates, critiques, and refines prompts and examples in tandem. This process ensures continuous improvement through feedback and synthesis, achieving a holistic optimization tailored to the specific task at hand. By evolving both instructions and examples simultaneously, PW ensures significant gains in task performance.&nbsp;</p>
+
+
+
+<p><strong>Three key insights behind PromptWizard</strong>:</p>
+
+
+
+<ul class="wp-block-list">
+<li><em>Feedback-driven refinement: </em>At its core, PW leverages an iterative feedback loop where the LLM generates, critiques, and refines its own prompts and examples. This continuous improvement mechanism ensures that each iteration is better than the last, leading to highly effective prompts and examples.&nbsp;</li>
+
+
+
+<li><em>Joint optimization and synthesis of diverse examples: </em>PW generates synthetic examples that are not only robust and diverse but also task-aware. By optimizing prompts and examples together, it ensures they work in tandem to address specific task requirements effectively.&nbsp;</li>
+
+
+
+<li><em>Self-generated chain-of-thought (CoT) steps</em>: Incorporating CoT reasoning improves the problem-solving capabilities of the model. By using selected few-shot examples, PW generates a detailed reasoning chain for each example, facilitating nuanced and step-by-step problem-solving approaches.</li>
+</ul>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="982" height="306" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-1.png" alt="Fig 1: A diagram providing an overview of the PromptWizard process. It illustrates the main components, including iterative prompt generation, feedback-based refinement, and joint optimization of instructions and examples. The workflow emphasizes modularity and adaptability, demonstrating how PromptWizard evolves prompts to improve performance across diverse tasks." class="wp-image-1111362" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-1.png 982w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-1-300x93.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-1-768x239.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-1-240x75.png 240w" sizes="auto, (max-width: 982px) 100vw, 982px" /><figcaption class="wp-element-caption">Figure 1. Overview of PromptWizard</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading" id="how-promptwizard-works">How PromptWizard works</h2>
+
+
+
+<p>PromptWizard begins with a user input: a problem description, an initial prompt instruction, and a few training examples that serve as a foundation for the task at hand.</p>
+
+
+
+<p>Its output is a refined, optimized set of prompt instructions paired with carefully curated in-context few-shot examples. These outputs are enriched with detailed reasoning chains, task intent, and an expert profile that bridges human-like reasoning with the AI’s responses.&nbsp;</p>
+
+
+
+<p><strong>Stage 1: Refinement of prompt instruction</strong></p>
+
+
+
+<p>The first stage focuses on refining the task instructions of a prompt. PromptWizard generates multiple candidate instructions, evaluates them using feedback from the LLM, and iteratively synthesizes improved versions. This process balances <strong>exploration</strong>—trying diverse ideas—and <strong>exploitation</strong>—refining the most promising ones.</p>
+
+
+
+<p>For example, if an initial instruction yields suboptimal results, PW incorporates feedback to identify its shortcomings and generates an improved version. Over three to five iterations, this iterative cycle ensures that the instruction converges to an optimal state.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1404" height="697" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-2.png" alt="Fig 2: A visualization of the refinement process for prompt instructions in PromptWizard. The figure highlights iterative improvements, where initial instructions are critiqued, adjusted based on feedback, and fine-tuned to achieve greater accuracy and alignment with task objectives." class="wp-image-1111365" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-2.png 1404w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-2-300x149.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-2-1024x508.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-2-768x381.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-2-240x119.png 240w" sizes="auto, (max-width: 1404px) 100vw, 1404px" /><figcaption class="wp-element-caption">Figure 2. Refinement of prompt instruction</figcaption></figure>
+
+
+
+<p><strong>Stage 2: Joint optimization of instructions and examples</strong></p>
+
+
+
+<p>The refined prompt obtained from Stage 1 is combined with carefully selected examples, and both are optimized together. Through the critique-and-synthesis mechanism, PromptWizard ensures alignment between the prompt and examples, simultaneously synthesizing new examples to enhance task performance.</p>
+
+
+
+<p>This structured approach makes PromptWizard highly versatile, adapting to tasks as varied as solving math problems or generating creative content.&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1128" height="504" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-3.png" alt="Fig 3: A diagram illustrating the joint optimization process of instructions and in-context examples in PromptWizard. The figure demonstrates how the framework iteratively refines both components, integrating feedback to enhance the overall prompt effectiveness and adaptability across tasks." class="wp-image-1111368" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-3.png 1128w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-3-300x134.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-3-1024x458.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-3-768x343.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-3-240x107.png 240w" sizes="auto, (max-width: 1128px) 100vw, 1128px" /><figcaption class="wp-element-caption">Figure 3. Joint optimization of instructions and examples</figcaption></figure>
+
+
+
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1002645">
+		
+
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: AI-POWERED EXPERIENCE</span>
+	</p>
+	
+	<div class="row pt-3 pb-4 align-items-center">
+						<div class="msr-promo__media col-12 col-md-5">
+				<a class="bg-gray-300" href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/01/MSR-Chat-Promo.png" alt="" />
+				</a>
+			</div>
+			
+			<div class="msr-promo__content p-3 px-5 col-12 col-md">
+
+									<h2 class="h4">Microsoft research copilot experience</h2>
+				
+								<p class="large">Discover more about research at Microsoft through our AI-powered experience</p>
+				
+								<div class="wp-block-buttons justify-content-center justify-content-md-start">
+					<div class="wp-block-button">
+						<a href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
+							Start now						</a>
+					</div>
+				</div>
+							</div><!--/.msr-promo__content-->
+	</div><!--/.msr-promo__inner-wrap-->
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
+	
+
+
+<h2 class="wp-block-heading" id="results">Results</h2>
+
+
+
+<p>PromptWizard stands out for its feedback-driven refinement and systematic exploration, delivering exceptional results across a wide variety of tasks while maintaining computational efficiency.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="comprehensive-evaluation-across-tasks">Comprehensive evaluation across tasks</h3>
+
+
+
+<p>PromptWizard was rigorously evaluated on over 45 tasks, spanning both general and domain-specific challenges. Benchmarked against state-of-the-art techniques—including Instinct, InstructZero, APE, PromptBreeder, EvoPrompt, DSPy, APO, and PromptAgent—PW consistently outperformed competitors in accuracy, efficiency, and adaptability. Please see detailed results in <a href="https://www.microsoft.com/en-us/research/publication/promptwizard-task-aware-agent-driven-prompt-optimization-framework/" target="_blank" rel="noreferrer noopener">our paper</a>.&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Accuracy</strong>: PW consistently outperformed other methods, maintaining performance close to the best across all tasks. Figure 4 shows the performance profile curve that highlights PW’s reliability, demonstrating how frequently it achieves near-best accuracy compared to other approaches for BigBench Instruction Induction dataset (BBII).</li>
+
+
+
+<li><strong>Efficiency</strong>: Beyond accuracy, PW demonstrates its computational efficiency. Unlike many baseline methods that require extensive API calls and computational resources, PW achieves superior results with minimal overhead by striking an effective balance between exploration and exploitation. Table 1 demonstrates PW’s cost-effectiveness, with significantly reduced token usage for input and output while optimizing prompts effectively.</li>
+</ul>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="684" height="484" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-4.png" alt="Fig 4: A performance profile curve illustrating PromptWizard's reliability on the BigBench Instruction Induction (BBII) dataset. The curve demonstrates how often PromptWizard achieves accuracy levels close to the best performance when compared to other approaches, highlighting its consistency and effectiveness." class="wp-image-1111359" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-4.png 684w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-4-300x212.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard_Fig-4-240x170.png 240w" sizes="auto, (max-width: 684px) 100vw, 684px" /><figcaption class="wp-element-caption">Figure 4. Performance Profile curve on BBII dataset</figcaption></figure>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Methods</th><th>API calls</th><th>Total tokens</th></tr></thead><tbody><tr><td>Instinct</td><td>1730</td><td>115k</td></tr><tr><td>PromptBreeder</td><td>18600</td><td>1488k</td></tr><tr><td>EvoPrompt</td><td>5000</td><td>400k</td></tr><tr><td><strong>PW</strong></td><td><strong>69</strong></td><td><strong>24k</strong></td></tr></tbody></table><figcaption class="wp-element-caption">Table 1. Cost analysis on BBII dataset</figcaption></figure>
+
+
+
+<p>We also have conducted numerous experiments to highlight PromptWizard’s efficacy with limited training data and smaller LLMs.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading" id="resilience-with-limited-data">Resilience with limited data</h3>
+
+
+
+<p>Real-world scenarios often lack abundant training data. PW excels in such conditions, requiring as few as five examples to produce effective prompts. Across five diverse datasets, PW demonstrated an average accuracy drop of only 5% when using five examples compared to 25 examples—highlighting its adaptability and efficiency (see Table 2).&nbsp;</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Datasets</th><th>5 Examples</th><th>25 Examples</th></tr></thead><tbody><tr><td>MMLU</td><td>80.4</td><td>89.5</td></tr><tr><td>GSM8k</td><td>94</td><td>95.4</td></tr><tr><td>Ethos</td><td>86.4</td><td>89.4</td></tr><tr><td>PubMedQA</td><td>68</td><td>78.2</td></tr><tr><td>MedQA</td><td>80.4</td><td>82.9</td></tr><tr><td><strong>Average</strong></td><td><strong>81.9</strong></td><td><strong>87</strong></td></tr></tbody></table><figcaption class="wp-element-caption">Table 2. PW’s performance with varying number of examples</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading" id="leveraging-smaller-models-for-optimization">Leveraging smaller models for optimization</h3>
+
+
+
+<p>PromptWizard also reduces computational costs by using smaller LLMs for prompt generation, reserving more powerful models for inference. For example, using Llama-70B for prompt generation resulted in negligible performance differences compared to GPT-4, while significantly lowering resource usage (see Table 3).</p>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Dataset</th><th>Prompt Gen: Llama-70B</th><th>Prompt Gen: GPT4</th></tr></thead><tbody><tr><td>GSM8k</td><td>94.6</td><td>95.4</td></tr><tr><td>Ethos</td><td>89.2</td><td>89.4</td></tr><tr><td><strong>Average</strong></td><td><strong>91.9</strong></td><td><strong>92.4</strong></td></tr></tbody></table><figcaption class="wp-element-caption">Table 3. Performance with smaller LLMs for prompt generation&nbsp;</figcaption></figure>
+
+
+
+<p>PromptWizard shows that effective prompts combine optimized instructions refined through iterative feedback, thoughtfully chosen in-context examples, and a modular design that incorporates expert knowledge and task-specific intent. This approach enables the framework to handle a broad range of tasks, from simple to highly complex, with exceptional efficiency and flexibility.</p>
+
+
+
+<p>&nbsp;Whether you are a researcher addressing cutting-edge challenges or an organization looking to streamline workflows, PromptWizard provides a practical, scalable, and impactful solution for enhancing model performance.</p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/promptwizard-the-future-of-prompt-optimization-through-feedback-driven-self-evolving-prompts/">PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Moving to GraphRAG 1.0 &#8211; Streamlining ergonomics for developers and users</title>
 		<link>https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/</link>
 		
@@ -32,7 +562,7 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/blog/moving-to-graphrag-1-0-streamlining-ergonomics-for-developers-and-users/">Moving to GraphRAG 1.0 &#8211; Streamlining ergonomics for developers and users</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1.png" alt="GraphRAG blog hero - cluster of small circular nodes on a blue/green gradient background" class="wp-image-1111170" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1.png" alt="GraphRAG blog hero - cluster of small circular nodes on a blue/green gradient background" class="wp-image-1111170" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/GraphRAG-1.0-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 
@@ -80,30 +610,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="931956">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085523">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: On-demand video</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" aria-label="AI Explainer: Foundation models ​and the next era of AI" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/AIEx01_blog_hero_1400x788.png" alt="a screenshot of a computer screen shot of a man" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" aria-label="Abstracts: August 15, 2024" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Episode-15_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Stylized microphone and sound waves illustration." />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">AI Explainer: Foundation models ​and the next era of AI</h2>
+									<h2 class="h4">Abstracts: August 15, 2024</h2>
 				
-								<p class="large">Explore how the transformer architecture, larger models and more data, and in-context learning have helped advance AI from perception to creation.</p>
+								<p class="large">Advanced AI may make it easier for bad actors to deceive others online. A multidisciplinary research team is exploring one solution: a credential that allows people to show they’re not bots without sharing identifying information. Shrey Jain and Zoë Hitzig explain.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/ai-explainer-foundation-models-and-the-next-era-of-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Watch video" data-bi-cN="AI Explainer: Foundation models ​and the next era of AI" target="_blank">
-							Watch video						</a>
+						<a href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
+							Listen now						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -188,11 +718,11 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/podcast/neurips-2024-ai-for-science-with-chris-bishop/">NeurIPS 2024: AI for Science with Chris Bishop</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Chris Bishop and Eliza Strickland." class="wp-image-1112250" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Chris Bishop and Eliza Strickland." class="wp-image-1112250" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Chris-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
-	<iframe src="https://player.blubrry.com/?podcast_id=139712350&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139712350&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
 </div>
 
 
@@ -317,7 +847,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-1" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-2" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -447,7 +977,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-1"
+				aria-controls="show-more-show-less-toggle-2"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -523,7 +1053,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-2" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-3" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -601,7 +1131,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-2"
+				aria-controls="show-more-show-less-toggle-3"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -681,7 +1211,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-3" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-4" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -763,7 +1293,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-3"
+				aria-controls="show-more-show-less-toggle-4"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -839,7 +1369,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-4" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-5" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -905,7 +1435,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-4"
+				aria-controls="show-more-show-less-toggle-5"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -985,7 +1515,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-5" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-6" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1059,7 +1589,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-5"
+				aria-controls="show-more-show-less-toggle-6"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1214,7 +1744,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-6" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-7" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1656,7 +2186,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-6"
+				aria-controls="show-more-show-less-toggle-7"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1710,7 +2240,7 @@
 
 
 <div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--7"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Read the paper</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--8"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Read the paper</a></div>
 </div>
 
 
@@ -1742,7 +2272,7 @@
 
 
 <div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-6 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--8"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/">Read the paper</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--9"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/">Read the paper</a></div>
 </div>
 
 
@@ -1752,30 +2282,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1002645">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085523">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: AI-POWERED EXPERIENCE</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/01/MSR-Chat-Promo.png" alt="" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" aria-label="Abstracts: August 15, 2024" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Episode-15_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Stylized microphone and sound waves illustration." />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Microsoft research copilot experience</h2>
+									<h2 class="h4">Abstracts: August 15, 2024</h2>
 				
-								<p class="large">Discover more about research at Microsoft through our AI-powered experience</p>
+								<p class="large">Advanced AI may make it easier for bad actors to deceive others online. A multidisciplinary research team is exploring one solution: a credential that allows people to show they’re not bots without sharing identifying information. Shrey Jain and Zoë Hitzig explain.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
-							Start now						</a>
+						<a href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
+							Listen now						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1802,11 +2332,11 @@
 
 
 <div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-7 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--9"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">Read the paper</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--10"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">Read the paper</a></div>
 
 
 
-<div class="wp-block-button is-style-outline is-style-outline--10"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://aka.ms/llm2clip" target="_blank" rel="noreferrer noopener">Learn more about LLM2CLIP</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--11"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://aka.ms/llm2clip" target="_blank" rel="noreferrer noopener">Learn more about LLM2CLIP</a></div>
 </div>
 
 
@@ -1834,7 +2364,7 @@
 
 
 <div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--11"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">Read the paper</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--12"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">Read the paper</a></div>
 </div>
 </div>
 
@@ -1928,447 +2458,6 @@
 
 	</div>
 <span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-2-2024/">Research Focus: Week of December 2, 2024</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>MarS: A unified financial market simulation engine in the era of generative foundation models</title>
-		<link>https://www.microsoft.com/en-us/research/blog/mars-a-unified-financial-market-simulation-engine-in-the-era-of-generative-foundation-models/</link>
-		
-		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
-		<pubDate>Wed, 04 Dec 2024 17:01:25 +0000</pubDate>
-				<category><![CDATA[Research Blog]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1106997</guid>
-
-					<description><![CDATA[<p>Microsoft Research presents a new large market model and Financial Market Simulation Engine (MarS) to help empower financial researchers with enhanced efficiency and more accurate insights for downstream tasks in financial markets.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/blog/mars-a-unified-financial-market-simulation-engine-in-the-era-of-generative-foundation-models/">MarS: A unified financial market simulation engine in the era of generative foundation models</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1.jpg" alt="MarS illustration with document workflow and chatbot icons on a purple gradient background" class="wp-image-1107222" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-
-<h2 class="wp-block-heading" id="introduction">Introduction</h2>
-
-
-
-<p>Generative foundation models have transformed various domains, creating new paradigms for content generation. Integrating these models with domain-specific data enables industry-specific applications. Microsoft Research has used this approach to develop the large market model (LMM) and the Financial Market Simulation Engine (MarS) for the financial domain. These innovations have the potential to empower financial researchers to customize generative models for diverse scenarios, establishing a new paradigm for applying generative models to downstream tasks in financial markets. This integration may provide enhanced efficiency, more accurate insights, and significant advancements in the financial domain.&nbsp;</p>
-
-
-
-<h3 class="wp-block-heading" id="applying-generative-models-to-financial-markets">Applying generative models to financial markets</h3>
-
-
-
-<p>In recent years, generative foundation models have achieved notable success in fields like natural language processing and media generation. Their rise has sparked a new wave of research and industrial adoption, reshaping production processes across industries. These models excel due to three essential elements: a large volume of high-quality training data; effective tokenization and serialization of core information (such as semantic information in text); and an auto-regressive training approach that models data comprehensively, enabling implicit reasoning.&nbsp;</p>
-
-
-
-<p>Building on years of AI applications across industries, Microsoft researchers recognized that combining generative models with domain-specific data could lead to impactful solutions, particularly in finance. The financial market is a prime example, notably for its vast amount of order data, which are characterized by three key features:&nbsp;</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Fine granularity</strong>: Orders, as the atomic data in the financial market, provide a comprehensive and detailed representation of the real market. Combined with matching rules, one can reproduce the entire market operation process.&nbsp;</li>
-
-
-
-<li><strong>Large scale</strong>: Electronic trading has resulted in the accumulation of massive trade-order data across global exchanges</li>
-
-
-
-<li><strong>Well-structured</strong>: The structured nature of order data makes it ideal for tokenization and sequential modeling</li>
-</ul>
-
-
-
-<div class="annotations " data-bi-aN="margin-callout">
-	<ul class="annotations__list card depth-16 bg-body p-4 annotations__list--right">
-		<li class="annotations__list-item">
-						<span class="annotations__type d-block text-uppercase font-weight-semibold text-neutral-300 small">Download</span>
-			<a href="https://github.com/microsoft/MarS" target="_self" class="annotations__link font-weight-semibold text-decoration-none" data-bi-type="annotated-link" aria-label="MarS" data-bi-aN="margin-callout" data-bi-cN="MarS">
-				MarS&nbsp;<span class="glyph-append glyph-append-share glyph-append-xsmall"></span>
-			</a>
-					</li>
-	</ul>
-</div>
-
-
-
-<p>These characteristics position order flow data as a critical foundation for generative modeling in financial markets. To this end, Microsoft Research developed the LMM and the MarS, which financial researchers can use to customize generative models for various applications, thus fostering a new paradigm of generative solutions for all downstream tasks in finance. This has the potential to advance efficiency and insight generation in the financial industry.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="850" height="278" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1.jpg" alt="Figure 1: Illustration of Stock Market and Orders. On the left, a document icon shows order details. An arrow points to the right where multiple icons (robots and human figures) interact with charts and graphs representing market data." class="wp-image-1107234" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1.jpg 850w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1-300x98.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1-768x251.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-1-240x78.jpg 240w" sizes="auto, (max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Figure 1: Illustration of stock market and orders</figcaption></figure>
-
-
-
-<h3 class="wp-block-heading" id="tokenization-of-order-flow-information">Tokenization of order flow information</h3>
-
-
-
-<p>Order flow data is vital for generative models in finance, reflecting real-time interactions among market participants. It offers two types of value:&nbsp;</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Fine-grained market feedback</strong>: Each order, especially large ones, may influence others&#8217; decisions, providing a micro-level view of pricing behavior.&nbsp;</li>
-
-
-
-<li><strong>Macroscopic market dynamics</strong>: Collective interactions shape trading dynamics over time, capturing the evolution and resolution of conflicts between market forces.&nbsp;</li>
-</ul>
-
-
-
-<p>Researchers at Microsoft developed LMM by modeling both individual orders and entire order sets over time. This two-tiered approach captures both fine-grained feedback and macro-level dynamics of competition. Figure 2 shows the tokenization techniques for these models, enabling high-fidelity simulations of complex market dynamics.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="620" height="300" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-2.jpg" alt="Figure 2: Illustration of Tokenization for Individual Orders (Top) and Batch Orders (Bottom) . At the top left, a green document labeled 'Type Price Volume Interval' is connected by dotted lines to another document icon. To the right, a bar chart with red and green bars shows volume on the y-axis and numbers on the x-axis. Below, an arrow points from an 'Order Batch' section with three documents to three grids." class="wp-image-1107249" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-2.jpg 620w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-2-300x145.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-2-240x116.jpg 240w" sizes="auto, (max-width: 620px) 100vw, 620px" /><figcaption class="wp-element-caption">Figure 2: Tokenization for individual orders (top) and batch orders (bottom)&nbsp;</figcaption></figure>
-
-
-
-<h3 class="wp-block-heading" id="expansion-law-of-large-market-model-unlocking-the-potential-of-financial-data">Expansion law of large market model: Unlocking the potential of financial data&nbsp;</h3>
-
-
-
-<p>The effectiveness of generative models improves significantly with larger training datasets and model parameters. Researchers at Microsoft used two tokenization strategies to design models based on the Transformer architecture, testing them across varying data scales. Figure 3 illustrates the scaling behavior of both the order and order batch models, highlighting insights from historical trading data. This integration enhances the model&#8217;s ability to generate order flows with a deep understanding of market intricacies, enabling more accurate time-series modeling.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="850" height="303" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3.jpg" alt="Figure 3: Two line graphs comparing validation loss against the number of training tokens for different model sizes. The left graph, titled 'Order Model,' shows curves for model sizes ranging from 2M to 1.02B, with validation loss decreasing as the number of training tokens increases. The right graph, titled 'Order-Batch Model,' displays curves for model sizes ranging from 150M to 3B, also showing a decrease in validation loss with an increase in training tokens." class="wp-image-1107237" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3.jpg 850w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3-300x107.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3-768x274.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-3-240x86.jpg 240w" sizes="auto, (max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Figure 3: Scaling curves of order and batch order models under different parameter sizes&nbsp;</figcaption></figure>
-
-
-
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044936">
-		
-
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
-	</p>
-	
-	<div class="row pt-3 pb-4 align-items-center">
-						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" aria-label="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/06/RF-Ep3-Recap-BlogHeroFeature-1400x788-1.jpg" alt="Microsoft Research Forum | Episode 3 | panel discussion" />
-				</a>
-			</div>
-			
-			<div class="msr-promo__content p-3 px-5 col-12 col-md">
-
-									<h2 class="h4">Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more</h2>
-				
-								<p class="large">In the latest episode of Microsoft Research Forum, researchers explored the importance of globally inclusive and equitable AI, shared updates on AutoGen and MatterGen, presented novel use cases for AI, including industrial applications and the potential of multimodal models to improve assistive technologies.</p>
-				
-								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
-							Read more						</a>
-					</div>
-				</div>
-							</div><!--/.msr-promo__content-->
-	</div><!--/.msr-promo__inner-wrap-->
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
-	
-
-
-<h2 class="wp-block-heading" id="mars-based-on-lmm">MarS based on LMM</h2>
-
-
-
-<h3 class="wp-block-heading" id="a-customizable-generative-model-for-financial-scenarios">A customizable generative model for financial scenarios</h3>
-
-
-
-<p>Generative models, once trained, can be easily adapted for a range of downstream tasks, often outperforming traditional models tailored for specific scenarios. Building on the development of LMM, researchers further analyzed the needs of various financial scenarios and designed MarS as a versatile financial market simulation engine. MarS not only serves as a general-purpose simulation tool but also introduces a novel framework for applying generative models across diverse financial tasks, from market prediction and risk assessment to trading strategy optimization.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1280" height="720" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4.png" alt="Figure 4: Diagram of the MarS framework showing data flow and interactions between components like the current market & environment data, order-level historical market data, large marke model, generated order sequences, simulated market trajectories, and applications." class="wp-image-1107231" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4.png 1280w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-4-960x540.png 960w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /><figcaption class="wp-element-caption">Figure 4: Framework of MarS</figcaption></figure>
-
-
-
-<h3 class="wp-block-heading" id="constructing-a-unified-paradigm-for-prediction-and-detection-tasks">Constructing a unified paradigm for prediction and detection tasks&nbsp;</h3>
-
-
-
-<p>Traditional financial prediction solutions often require the development of specialized algorithms, which must be frequently adjusted, consuming time and resources. LMM’s capacity to model financial markets in depth allows for periodic updates based on the latest data. MarS creates a virtual exchange to match order flows generated by LMM, simulating trades and deriving simulated market trajectories (see the top right of Figure 4). This approach can effectively address common prediction and detection tasks in financial scenarios, introducing innovative solutions within the generative model framework.&nbsp;</p>
-
-
-
-<h3 class="wp-block-heading" id="applications-in-prediction-tasks">Applications in prediction tasks</h3>
-
-
-
-<p>Prediction tasks, vital in finance, involve estimating future market metrics. Traditional models require modifications with any change in prediction targets. MarS addresses this by continuously generating future order flows from recent data, which are matched in a virtual exchange, allowing for the simulation of potential future market trajectories. This provides a significant advancement in forecasting capabilities.</p>
-
-
-
-<p>Figure 5 demonstrates the use of MarS in forecasting stock-price movements, where its performance significantly outperforms traditional benchmark algorithms. Taking the Order Model (1.02B) for instance, its performance exceeds that of DeepLOB by approximately (0.662/0.583−1=13.5%) at a 1-minute horizon and increases to (0.579/0.473−1=22.4%) at a 5-minute horizon This widening performance gap suggests that the Order Model maintains its predictive accuracy more effectively over longer horizons, highlighting its superior generalization capability compared to baseline, especially as the prediction task becomes more challenging over extended timeframes. This provides an attractive solution for prediction tasks in financial markets, while also highlighting LMM’s capability in modeling stock market dynamics.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="438" height="300" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-5.jpg" alt="Figure 5: Line graph comparing prediction accuracy over time for three models: DeepLOB, Order Model (0.22B), and Order Model (1.02B). Prediction accuracy decreases as time increases from 1 to 5 minutes, with DeepLOB showing the lowest accuracy and Order Model (1.02B) showing the highest." class="wp-image-1107240" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-5.jpg 438w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-5-300x205.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-5-240x164.jpg 240w" sizes="auto, (max-width: 438px) 100vw, 438px" /><figcaption class="wp-element-caption">Figure 5: Predicting stock price trends with MarS</figcaption></figure>
-
-
-
-<h3 class="wp-block-heading" id="applications-in-detection-tasks">Applications in detection tasks</h3>
-
-
-
-<p>For regulators, detecting systemic risks or market abuse is critical for market stability. LMM models typical market patterns, enabling the identification of anomalies by comparing real market trajectories with those generated by MarS. Figure 6 shows the differences in the spread distribution (i.e., the difference between the best buy and sell prices, which reflects asset liquidity) between simulated and real market trajectories during a confirmed malicious market manipulation incident. This comparison can uncover subtle deviations indicative of unusual activities, offering regulators effective tools for monitoring market integrity.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="850" height="263" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6.jpg" alt="Figure 6: Three bar graphs comparing the distribution similarity of data across three different periods: pre-manipulation, manipulation period, and post-manipulation. Each graph shows the probability distribution for 2 types of data: Replay and Simulation. The distribution similarity scores are 0.870 for pre-manipulation, 0.835 for the manipulation period, and 0.873 for post-manipulation." class="wp-image-1107243" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6.jpg 850w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6-300x93.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6-768x238.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-6-240x74.jpg 240w" sizes="auto, (max-width: 850px) 100vw, 850px" /><figcaption class="wp-element-caption">Figure 6: Spread correlation between simulated and real market during market manipulation&nbsp;</figcaption></figure>
-
-
-
-<h3 class="wp-block-heading" id="defining-new-fintech-scenarios">Defining new FinTech scenarios&nbsp;</h3>
-
-
-
-<p>Generative models can create tailored content from simple descriptions. In MarS, a mechanism generates specific order flows from natural language descriptions of market conditions. To address extreme conditions, researchers developed a control signal system using a hierarchical diffusion model to generate high-fidelity signals during rare events, such as stock market crashes and circuit breakers. This capability transforms broad descriptions into precise order flow controls.&nbsp;</p>
-
-
-
-<p>By integrating controlled order generation with real-time feedback, MarS creates a unified framework for prediction and detection tasks, redefining financial research, applications, and market understanding. Key applications include &#8220;What If&#8221; analyses and training environments for reinforcement learning algorithms in realistic market conditions.&nbsp;</p>
-
-
-
-<h3 class="wp-block-heading" id="what-if-analysis-for-financial-research">“What If” analysis for financial research</h3>
-
-
-
-<p>The question &#8220;What would happen if different sizes of trading orders were executed under different market conditions?&#8221; is crucial for understanding market behavior. Traditional methods, relying on real orders, experience, and assumptions, are costly and slow. Generative models provide a breakthrough solution.</p>
-
-
-
-<p>Figure 7 illustrates how MarS can simulate market impact: the top left shows how buy orders affect asset price trajectories, while the top right presents market impact curves of different strategies, matching traditional patterns. Researchers also used MarS to generate large-scale simulated data, constructing a market impact model using ordinary differential equations (ODE). The bottom left of Figure 7) shows the derived impact formula, and the bottom right demonstrates its interpretability. These advancements highlight MarS&#8217;s potential to enhance “What If” research through deep market modeling.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="514" height="450" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-7.jpg" alt="Figure 7: Composite image of four graphs related to sample research results for market impact of orders Using MarS. The top left graph shows mid-price over time with two lines representing simulation and replay actions. The top right graph displays market impact for different agent types over time. The bottom left graph illustrates the auto-correlation of market impact decay for learned ODE, base ODE, and synthetic Seq. The bottom right heatmap shows interaction weights of the learned ODE with various features on the x-axis and log-transformed time on the y-axis." class="wp-image-1107246" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-7.jpg 514w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-7-300x263.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-7-206x180.jpg 206w" sizes="auto, (max-width: 514px) 100vw, 514px" /><figcaption class="wp-element-caption">Figure 7: Sample research results for market impact of orders using MarS&nbsp;</figcaption></figure>
-
-
-
-<h3 class="wp-block-heading" id="training-environments-for-reinforcement-learning-in-financial-markets">Training environments for reinforcement learning in financial markets</h3>
-
-
-
-<p>Reinforcement learning (RL) algorithms require controlled environments for testing and optimization. Financial market behaviors often manifest through order flow changes, impacting the market. If the simulation cannot reflect these impacts accurately, an RL algorithm may fail in real-world scenarios.</p>
-
-
-
-<p>MarS provides high-fidelity generation and real-time feedback, creating a comprehensive environment for RL in finance. Figure 8 shows the training process of trading agents, highlighting significant improvements in performance over time and demonstrating MarS&#8217;s effectiveness as an RL training ground.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="436" height="320" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8.jpg" alt="Figure 8: Line graph titled 'Price Advantage' on the y-axis and 'Step' on the x-axis. The graph shows an upward trend as the steps increase." class="wp-image-1107228" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8.jpg 436w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8-300x220.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8-80x60.jpg 80w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MarS_Figure-8-240x176.jpg 240w" sizes="auto, (max-width: 436px) 100vw, 436px" /><figcaption class="wp-element-caption">Figure 8: Performance of reinforcement learning trading agents trained in MarS. During training, the agent&#8217;s performance improved significantly, showcasing MarS&#8217;s ability to aid in developing robust reinforcement learning algorithms for real market conditions.&nbsp;</figcaption></figure>
-
-
-
-<p><em><strong>Disclaimer</strong>: The research mentioned in this article, conducted by Microsoft Research, focuses on scientific exploration, aiming to advance knowledge and provide theoretical and technological support for research and applications in the financial field. All studies adhere to Microsoft&#8217;s responsible AI guidelines, ensuring principles such as fairness, inclusiveness, reliability and safety, transparency, privacy, and accountability are maintained. The technologies and methods discussed are still under research and development, not yet forming any commercial products or services, nor constituting any financial solutions. Readers are advised to consult certified financial professionals before making any financial decisions.&nbsp;</em></p>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/mars-a-unified-financial-market-simulation-engine-in-the-era-of-generative-foundation-models/">MarS: A unified financial market simulation engine in the era of generative foundation models</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Advances in run-time strategies for next-generation foundation models</title>
-		<link>https://www.microsoft.com/en-us/research/blog/advances-in-run-time-strategies-for-next-generation-foundation-models/</link>
-		
-		<dc:creator><![CDATA[Alyssa Hughes (2ADAPTIVE LLC dba 2A Consulting)]]></dc:creator>
-		<pubDate>Wed, 27 Nov 2024 14:00:00 +0000</pubDate>
-				<category><![CDATA[Research Blog]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1106850</guid>
-
-					<description><![CDATA[<p>Discover the most effective run-time strategies on the OpenAI o1-preview model, improving accuracy in medical language tasks.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/blog/advances-in-run-time-strategies-for-next-generation-foundation-models/">Advances in run-time strategies for next-generation foundation models</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1.png" alt="A visual illustration of Medprompt performance on the MedQA benchmark. Moving from left to right on a horizontal line, the illustration shows how different Medprompt components and additive contributions improve accuracy starting with zero-shot at 81.7 accuracy, to random few-shot at 83.9 accuracy, to random few-shot, chain-of-thought at 87.3 accuracy, to kNN, few-shot, chain-of-thought at 88.4 accuracy, to ensemble with choice shuffle at 90.2 accuracy. " class="wp-image-1106865" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MedPrompt-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-
-<p>Groundbreaking advancements in frontier language models are progressing rapidly, paving the way for boosts in accuracy and reliability of generalist models, making them highly effective in specialized domains. As part of our ongoing exploration of foundation model capabilities, we developed <a href="https://www.microsoft.com/en-us/research/blog/the-power-of-prompting/?msockid=06148b71b49b652837109fc1b5b66432" target="_blank" rel="noreferrer noopener">Medprompt</a> last year—a novel approach to maximize model performance on specialized domain and tasks without fine-tuning. By leveraging multiphase prompting, Medprompt optimizes inference by identifying the most effective chain-of-thought (CoT) examples at run time and<em> </em>drawing on multiple calls to refine output. When deployed with GPT-4, Medprompt achieved an impressive 90.2% accuracy on the MedQA benchmark (USMLE-style), outperforming all other methods.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1.jpg" alt="A line chart that plots the MedQA test accuracy (y-axis) over time (x-axis).  
-
-Open AI o1-preview model achieves the highest result at 96.0% accuracy followed by Med-Gemini at 91.1%; GPT-4 (Medprompt) at 90.2%; Med PaLM 2 at 86.5; GPT-4 base at 86.1; Med PaLM at 67.2; GPT-3.5 base at 60.2, BioMedLM at 50.3; DRAGON at 47.5; BioLinkBERT at 45.1; PubMedBERT at 38.1.  " class="wp-image-1107318" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/llm_timeline1-Fig1-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 1. Comparative analyses of performance of multiple models on MedQA.</figcaption></figure>
-
-
-
-<p>Less than a year later, our tests show the OpenAI o1-preview demonstrated superior performance over Medprompt, reaching 96% on the same benchmark (Figure 1)—without using sophisticated prompt guidance and control. This advancement is driven by the model’s integration of run-time strategies at its core, enabling state-of-the-art results on medical licensing exams in the United States and Japan, medical subsets of the Massive Multitask Language Understanding (MMLU) benchmark, and nursing exams (NCLEX) as shown in Figure 2.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1.jpg" alt="A spider web chart plotting the performance of OpenAI o1-preview (0 shot ensemble) compared to GPT-4 (Medprompt) and GPT-4 (5 shot) model performance on medical challenge problems. o1-preview achieves state-of-the-art results on MedQA US (4-option), JMLE-2024, MedMCQA Dev, MMLU Anatomy, MMLU Medical Genetics, MMLU Professional Medicine, MMLU College Biology, and MMLU College Medicine, and NCLEX. GPT-4 (Medprompt) performed better than OpenAI o1-preview (0 shot ensemble) on MMLU Clinical Knowledge" class="wp-image-1107330" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/main_radar_70_1011-Fig2-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 2. Comparisons on a wide range of medical challenge benchmarks.</figcaption></figure>
-
-
-
-<p>These results are notable, prompting us to publish our recent study, findings, and analyses, <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://arxiv.org/abs/2411.03590" target="_blank" rel="noreferrer noopener"><em>From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond</em><span class="sr-only"> (opens in new tab)</span></a>. But the numbers are only part of the story. In this blog, we discuss prompting strategies to make the most of o1-preview models and other factors to consider as well as directions forward for run-time strategies.</p>
-
-
-
-<h2 class="wp-block-heading" id="is-o1-preview-just-fancy-prompting">Is o1-preview “just” fancy prompting?&nbsp;</h2>
-
-
-
-<p>The introduction of the OpenAI o1 model series marks a significant shift from prior GPT models. Unlike GPT, o1 models are trained using reinforcement learning (RL) techniques that enable them to “think” before generating outputs. While Medprompt relies on a cascade of operations with GPT-4 at run time guided by a multistage prompt, the o1 series incorporates this run-time reasoning directly into its RL-based design. The built-in functionality enables the o1 models to significantly outperform even the best results using GPT-4 and Medprompt. The performance gains come with a notable tradeoff: its per-token cost was approximately six times that of GPT-4o at the time of our evaluation. While the results for GPT-4o with Medprompt fall short of o1-preview model performance, the combination offers a more cost-effective alternative. The cost-benefit tradeoffs are highlighted in the following figure, with the x-axis presented on a logarithmic scale.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1.jpg" alt="A line chart plotting accuracy on the MedQA Test (y-axis) versus total cost on a logarithmic scale (x-axis). OpenAI o1-preview using 5x, 10x, and 15x Ensemble hover around 1000 total cost. OpenAI o1-preview using Tailored Prompt, Minimal Prompt, Few-shot, kNN Few-shot are around 100 total cost. GPT-4o with Medprompt is below 100; kNN Few-shot CoT, Few-shot CoT, and Few-Shot are at 10; Zero-shot is at 1. GPT-4-Turbo with Medprompt is at 200; kNN Few-shot CoT, Few-shot CoT, and Few-Shot hover near 50, Zero-shot is near 5. " class="wp-image-1107345" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/cost_frontier1-Fig-3-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 3. Pareto frontier showing accuracy versus total API cost (log scale) on the MedQA benchmark (1273 questions total). o1-preview (Sep 2024) is compared with GPT-4o (Aug 2024) and GPT-4 Turbo (Nov 2023).</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="can-we-prompt-engineer-o1-preview">Can we prompt engineer o1-preview?</h2>
-
-
-
-<p>The o1-preview model exhibits distinct run-time behaviors compared to the GPT series. While some of our more dynamic prompting strategies performed better than expected with o1-preview models, our most tried-and-true strategy was anything but consistent throughout our evaluation. Figure 4 captures specific performance results for Tailored Prompt, Ensembling, and Few-Shot Prompting on o1-preview. Here’s a summary of our findings:&nbsp;</p>
-
-
-
-<ol start="1" class="wp-block-list">
-<li><strong>Tailored Prompt</strong>: While minimal prompting—like a brief, one-sentence description followed by a question—offered a strong baseline performance, detailed task descriptions were best for eliciting accurate responses.</li>
-
-
-
-<li><strong>Ensembling</strong>: Generating multiple answers per question and using majority voting across different reasoning paths boosted reliability, while shuffling answers in runs produced richer reasoning chains and improved outcomes. Ensembling continues to yield consistent performance improvements.</li>
-
-
-
-<li><strong>Few-Shot Prompting</strong>: Guiding the model with a few examples produced inconsistent results and, on average, decreased performance compared with GPT models.</li>
-</ol>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="699" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/experiment_slope_chart_nomedmcqa2-Fig4-1400x788-1.jpg" alt="Three charts show the accuracy of o1-preview when combined with Tailored Prompt, Ensemble, and 5-shot KNN based on an average baseline of medical benchmarks. Tailored Prompts improves accuracy from 94.2 to 94.7; Ensemble (15x) improves accuracy from 94.2 to 95.5; 5-shot KNN decreases accuracy from 94.2 to 93.7.  " class="wp-image-1107585" style="object-fit:cover" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/experiment_slope_chart_nomedmcqa2-Fig4-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/experiment_slope_chart_nomedmcqa2-Fig4-1400x788-1-300x150.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/experiment_slope_chart_nomedmcqa2-Fig4-1400x788-1-1024x511.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/experiment_slope_chart_nomedmcqa2-Fig4-1400x788-1-768x383.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/experiment_slope_chart_nomedmcqa2-Fig4-1400x788-1-240x120.jpg 240w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 4. Tests of different prompting strategies across benchmark datasets.</figcaption></figure>
-
-
-
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085508">
-		
-
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Blog post</span>
-	</p>
-	
-	<div class="row pt-3 pb-4 align-items-center">
-						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/medfuzz-exploring-the-robustness-of-llms-on-medical-challenge-problems/" aria-label="MedFuzz: Exploring the robustness of LLMs on medical challenge problems" data-bi-cN="MedFuzz: Exploring the robustness of LLMs on medical challenge problems" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/MedFuzz-BlogHeroFeature-1400x788-1.jpg" alt="MedFuzz blog hero (decorative)" />
-				</a>
-			</div>
-			
-			<div class="msr-promo__content p-3 px-5 col-12 col-md">
-
-									<h2 class="h4">MedFuzz: Exploring the robustness of LLMs on medical challenge problems</h2>
-				
-								<p class="large">Medfuzz tests LLMs by breaking benchmark assumptions, exposing vulnerabilities to bolster real-world accuracy.</p>
-				
-								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/medfuzz-exploring-the-robustness-of-llms-on-medical-challenge-problems/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="MedFuzz: Exploring the robustness of LLMs on medical challenge problems" target="_blank">
-							Read more						</a>
-					</div>
-				</div>
-							</div><!--/.msr-promo__content-->
-	</div><!--/.msr-promo__inner-wrap-->
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
-	
-
-
-<h2 class="wp-block-heading" id="do-results-stand-in-another-language">Do results stand in another language?&nbsp;</h2>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1.jpg" alt="A chart with two bar charts measuring the accuracy (y-axis) by short and long questions (x-axis) on the Japanese Medical Licensing Examination. The short question bar is slightly higher than the long question ratio for o1-preview (0-shot ensemble). The short question bar is about two points less accurate than the long question bar for o1-preview (0-shot). The short answer bar is a point more accurate than the long question bar for GPT-4o (Medprompt). The short question bar is one point less accurate than the long question bar for GPT-4o (0 shot). " class="wp-image-1107453" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/jmle-2024-bar1-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 5. JMLE-2024: National medical licensing exam held in Japan (Feb 2024).</figcaption></figure>
-
-
-
-<p>We expanded our research to include a new multilingual benchmark based on the Japanese national medical licensing exam.&nbsp;The JMLE (Japanese Medical Licensing Examination) is written in Japanese and administered in February 2024, after the o1-preview model’s knowledge cutoff. <em>Even without translation to English, the o1-preview model achieved a remarkable score of 98.2% accuracy (Figure 5), well above the exam’s minimum passing score of approximately 80%.&nbsp;</em>&nbsp;</p>
-
-
-
-<h2 class="wp-block-heading" id="do-reasoning-tokens-improve-performance">Do reasoning tokens improve performance?&nbsp;</h2>
-
-
-
-<p>For fun, we conducted tests to determine whether increasing the number of reasoning tokens could improve performance. Our findings showed that by adjusting the prompt, we were able to consistently increase the number of reasoning tokens used by o1-preview, and the increase was directly correlated with improved performance as demonstrated in Figure 6.</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1.jpg" alt="A chart plotting the impact of reasoning tokens on accuracy. JMLE achieved 95.3% accuracy for Quick Response Prompt and 96.7% accuracy for Extended Reasoning Prompt. MMLU achieved 94.9% accuracy for Quick Response Prompt and 94.7% accuracy for Extended Reasoning Prompt. MedQA achieved 94.3% accuracy for Quick Response Prompt and 95.1% accuracy for Extended Reasoning Prompt. USMLE Sample Exam achieved 92.6% accuracy for Quick Response Prompt and 93.1% accuracy for Extended Reasoning Prompt. USMLE Self Assessment achieved 91.8% accuracy for Quick Response Prompt and 92.2% accuracy for Extended Reasoning Prompt. " class="wp-image-1107408" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/reasoning_token_slope_chart2-Fig6-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 6. The effect of two prompting strategies that elicit variable length reasoning chains across benchmark datasets.</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="what-s-the-takeaway">What’s the takeaway?&nbsp;</h2>
-
-
-
-<p>Bottom line: There’s a little something for everyone when it comes to run-time strategies. We’re excited by the performance gains from GPT models to o1-preview models. While these improvements are significant, so is the cost. For those needing proven accuracy on a budget, Medprompt leveraging calls to GPT-4 is a viable option for medicine and beyond. We summarize the relative performance of prompting strategies in Figure 7 to determine the best option, or <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://arxiv.org/abs/2411.03590" target="_blank" rel="noreferrer noopener">check out the paper for a detailed breakdown of every dataset, experimental configuration, and prompt template<span class="sr-only"> (opens in new tab)</span></a>.&nbsp;</p>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1.jpg" alt="A matrix that shows the relative performance of prompting strategies over baseline medical benchmarks. The top row from left to right are the results for baseline numbers: JMLE = 95.6%; MMLU = 94.6%; MedMCQA = 81.4%; MedQA = 94.9%; USMLE Sample Exam = 94.0%; USMLE Self Assessment = 91.8%. The second row from left to right, 5-shot Random baseline difference: JMLE = +1.2%; MMLU = -1.1%; MedMCQA = 0.0%; MedQA = -1.4%; USMLE Sample Exam = -0.4%; USMLE Self Assessment = -1.0%. The third row from left to right, 5-shot KNN baseline difference: JMLE = +0.6%; MMLU = -0.1%; MedMCQA = +1.2%; MedQA = -2.2%; USMLE Sample Exam = -0.3%; USMLE Self Assessment = -0.6%. The fourth row from left to right, Bootstrap Ensemble (5x) baseline difference: JMLE = +1.5%; MMLU = +0.1%; MedMCQA = +1.3%; MedQA = +0.7%; USMLE Sample Exam = +1.3%; USMLE Self Assessment = +1.0%. The fifth row from left to right, Bootstrap Ensemble (10x) baseline difference: JMLE = +1.4%; MMLU = +0.6%; MedMCQA = +1.5%; MedQA = +0.7%; USMLE Sample Exam = +1.3%; USMLE Self Assessment = +1.1%. The sixth row from left to right, Ensemble (15x) baseline difference: JMLE = +1.5%; MMLU = +0.6%; MedMCQA = +2.0%; MedQA = +1.1%; USMLE Sample Exam = +2.0%; USMLE Self Assessment = +1.3%. The seventh row from left to right, Tailored Prompt baseline difference: JMLE = +1.6%; MMLU = +0.4%; MedMCQA = +0.9%; MedQA = +0.2%; USMLE Sample Exam = +0.0%; USMLE Self Assessment = +0.4%. The eighth row from left to right, Tailored Bootstrap Ensemble (5x) baseline difference: JMLE = +2.2%; MMLU = +0.7%; MedMCQA = +1.8%; MedQA = +0.8%; USMLE Sample Exam = +0.9%; USMLE Self Assessment = +1.1%. The ninth row from left to right, Tailored Bootstrap Ensemble (10x) baseline difference: JMLE = +2.3%; MMLU = +0.7%; MedMCQA = +2.1%; MedQA = +0.9%; USMLE Sample Exam = +0.9%; USMLE Self Assessment = +1.2%. The tenth row from left to right, Tailored Ensemble (15x) baseline difference: JMLE = +2.5%; MMLU = +0.4%; MedMCQA = +2.6%; MedQA = +1.1%; USMLE Sample Exam = +0.9%; USMLE Self Assessment = +1.4%.   " class="wp-image-1107396" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/performance_heatmap2-Fig7-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 7. Heatmap showing absolute accuracy and relative performance over baseline zero-shot prompt (in parenthesis) across all benchmark datasets.</figcaption></figure>
-
-
-
-<h2 class="wp-block-heading" id="anything-more-to-consider">Anything more to consider?</h2>
-
-
-
-<p>We highlighted several considerations in the paper that are worth checking out. Here are three opportunities that are top of mind:</p>
-
-
-
-<ul class="wp-block-list">
-<li><em>Research on run-time strategies</em>. The research community has largely relied on boosting model capabilities with data, compute, and model size, predictably achieving gains by way of scaling laws. A promising new direction is inference-time scaling—the value of investing in additional computation and machinery for guiding inference at run time. We highlight in the paper opportunities to guide run-time allocations to boost efficiency, accuracy, and intellectual capabilities, including meta reasoning and reflection in real time and learning <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://erichorvitz.com/cc_aij_horvitz.pdf">during the “idle” time<span class="sr-only"> (opens in new tab)</span></a> between problem solving. We see a great deal of opportunity for new research and development on real-time and “offline” reasoning, learning, and reflection.</li>
-
-
-
-<li><em>Benchmark saturation</em>. With the rapid advancement of state-of-the-art models, many existing medical benchmarks are reaching “saturation,” where models perform extremely well on standing medical competency challenges, considered extremely difficult just a few years ago. Current benchmarks, such as USMLE and JMLE, were designed to assess the performance of medical students and clinicians and are increasingly inadequate for evaluating cutting-edge AI models. To drive understandings of models and guide research, we need to design more challenging medical benchmarks. </li>
-
-
-
-<li><em>From benchmarks to clinical applications.</em> We note that, while benchmarks offer valuable insights into performance and accuracy, they often fail to capture the complexities and nuances of real-world clinical decision making and healthcare delivery, more broadly. Conducting clinical trials to rigorously evaluate the impact of AI applications on patient care poses far greater difficulties than benchmarking models against challenge problems drawn from medical competency exams. Yet, studies of AI deployments in realistic clinical settings are essential for understanding model capabilities and for guiding the effective integration of AI into healthcare.</li>
-</ul>
-
-
-
-<h2 class="wp-block-heading" id="resources">Resources&nbsp;</h2>
-
-
-
-<ul class="wp-block-list">
-<li><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://arxiv.org/abs/2411.03590">From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond<span data-contrast="auto" xml:lang="EN-US" lang="EN-US" class="TextRun EmptyTextRun SCXW11105993 BCX8" style="-webkit-user-drag: none; -webkit-tap-highlight-color: transparent; margin: 0px; padding: 0px; user-select: text; font-size: 11pt; line-height: 19.6917px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, sans-serif; font-variant-ligatures: none !important;"></span>&nbsp;<span class="sr-only"> (opens in new tab)</span></a></li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/publication/can-generalist-foundation-models-outcompete-special-purpose-tuning-case-study-in-medicine/">Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine</a>&nbsp;</li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/blog/the-power-of-prompting/">The Power of Prompting</a></li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/blog/steering-at-the-frontier-extending-the-power-of-prompting/">Steering at the Frontier: Extending the Power of Prompting</a></li>
-
-
-
-<li><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://arxiv.org/abs/2303.13375" target="_blank" rel="noreferrer noopener">Capabilities of GPT-4 on Medical Challenge Problems<span class="sr-only"> (opens in new tab)</span></a></li>
-</ul>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/advances-in-run-time-strategies-for-next-generation-foundation-models/">Advances in run-time strategies for next-generation foundation models</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		

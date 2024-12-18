@@ -6,20 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Dec 2024 01:41:57 +0000</lastBuildDate>
-    <item>
-      <title>Metasploit Weekly Wrap-Up 11/22/2024</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/22/metasploit-weekly-wrap-up-11-22-2024/</link>
-      <description>JetBrains TeamCity Login Scanner
-Metasploit added a login scanner for the TeamCity application to enable users to
-check for weak credentials. TeamCity has been the subject of multiple ETR
-vulnerabilities
- 
-and is a valuable target for attackers.
-
-Targeted DCSync added to Windows Secrets Dump
-This week, Metasploit community member smashery</description>
-    </item>
+    <lastBuildDate>Wed, 18 Dec 2024 01:40:47 +0000</lastBuildDate>
     <item>
       <title>New “CleverSoar” Installer Targets Chinese and Vietnamese Users</title>
       <link>https://www.rapid7.com/blog/post/2024/11/27/new-cleversoar-installer-targets-chinese-and-vietnamese-users/</link>
@@ -116,6 +103,11 @@ contributed</description>
       <title>2024 Threat Landscape Statistics: Ransomware Activity, Vulnerability Exploits, and Attack Trends</title>
       <link>https://www.rapid7.com/blog/post/2024/12/16/2024-threat-landscape-statistics-ransomware-activity-vulnerability-exploits-and-attack-trends/</link>
       <description>In this blog, the global experts across our Rapid7 Labs and Managed Services teams share real-time vulnerability insights and threat intelligence so that our customers can anticipate and prevent breaches, pinpoint critical threats, and confidently take command of their attack surface.</description>
+    </item>
+    <item>
+      <title>Take Command of Your Career: Practicing Self-Advocacy as a Woman in Tech</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/17/take-command-of-your-career-practicing-self-advocacy-as-a-woman-in-tech/</link>
+      <description>As the year draws to a close, it’s essential—and often expected—to reflect on our achievements and lessons learned in preparation for annual performance reviews and setting future goals.</description>
     </item>
   </channel>
 </rss>

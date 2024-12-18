@@ -6,76 +6,46 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Dec 2024 01:41:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 01:40:48 +0000</lastBuildDate>
     <item>
-      <title>LazyVim /LazyVim</title>
-      <link>https://github.com/LazyVim/LazyVim</link>
-      <description>Neovim config for the lazy</description>
+      <title>langgenius /dify</title>
+      <link>https://github.com/langgenius/dify</link>
+      <description>Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.</description>
     </item>
     <item>
-      <title>freqtrade /freqtrade</title>
-      <link>https://github.com/freqtrade/freqtrade</link>
-      <description>Free, open source crypto trading bot</description>
+      <title>RocketChat /Rocket.Chat</title>
+      <link>https://github.com/RocketChat/Rocket.Chat</link>
+      <description>The communications platform that puts data protection first.</description>
     </item>
     <item>
-      <title>ByteByteGoHq /system-design-101</title>
-      <link>https://github.com/ByteByteGoHq/system-design-101</link>
-      <description>Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.</description>
+      <title>open-telemetry /opentelemetry-collector</title>
+      <link>https://github.com/open-telemetry/opentelemetry-collector</link>
+      <description>OpenTelemetry Collector</description>
     </item>
     <item>
-      <title>microsoft /windows-rs</title>
-      <link>https://github.com/microsoft/windows-rs</link>
-      <description>Rust for Windows</description>
+      <title>gorilla /websocket</title>
+      <link>https://github.com/gorilla/websocket</link>
+      <description>Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.</description>
     </item>
     <item>
-      <title>arendst /Tasmota</title>
-      <link>https://github.com/arendst/Tasmota</link>
-      <description>Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</description>
+      <title>facebookresearch /AnimatedDrawings</title>
+      <link>https://github.com/facebookresearch/AnimatedDrawings</link>
+      <description>Code to accompany "A Method for Animating Children's Drawings of the Human Figure"</description>
     </item>
     <item>
-      <title>DiceDB /dice</title>
-      <link>https://github.com/DiceDB/dice</link>
-      <description>DiceDB is an open source, redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.</description>
+      <title>fatedier /frp</title>
+      <link>https://github.com/fatedier/frp</link>
+      <description>A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</description>
     </item>
     <item>
-      <title>PCSX2 /pcsx2</title>
-      <link>https://github.com/PCSX2/pcsx2</link>
-      <description>PCSX2 - The Playstation 2 Emulator</description>
+      <title>Guovin /iptv-api</title>
+      <link>https://github.com/Guovin/iptv-api</link>
+      <description>📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
     </item>
     <item>
-      <title>Saghen /blink.cmp</title>
-      <link>https://github.com/Saghen/blink.cmp</link>
-      <description>Performant, batteries-included completion plugin for Neovim</description>
-    </item>
-    <item>
-      <title>Radarr /Radarr</title>
-      <link>https://github.com/Radarr/Radarr</link>
-      <description>Movie organizer/manager for usenet and torrent users.</description>
-    </item>
-    <item>
-      <title>commaai /openpilot</title>
-      <link>https://github.com/commaai/openpilot</link>
-      <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.</description>
-    </item>
-    <item>
-      <title>yt-dlp /yt-dlp</title>
-      <link>https://github.com/yt-dlp/yt-dlp</link>
-      <description>A feature-rich command-line audio/video downloader</description>
-    </item>
-    <item>
-      <title>Shubhamsaboo /awesome-llm-apps</title>
-      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-      <description>Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</description>
-    </item>
-    <item>
-      <title>wavetermdev /waveterm</title>
-      <link>https://github.com/wavetermdev/waveterm</link>
-      <description>An open-source, cross-platform terminal for seamless workflows</description>
-    </item>
-    <item>
-      <title>Byaidu /PDFMathTranslate</title>
-      <link>https://github.com/Byaidu/PDFMathTranslate</link>
-      <description>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</description>
+      <title>DS4SD /docling</title>
+      <link>https://github.com/DS4SD/docling</link>
+      <description>Get your documents ready for gen AI</description>
     </item>
     <item>
       <title>TEN-framework /TEN-Agent</title>
@@ -83,9 +53,39 @@
       <description>TEN Agent is a conversational AI powered by TEN, integrating Gemini 2.0 Multimodal Live API, OpenAI Realtime API, RTC, and more. It offers real-time capabilities to see, hear, and speak, along with advanced tools like weather checks, web search, and RAG.</description>
     </item>
     <item>
+      <title>zju3dv /EasyVolcap</title>
+      <link>https://github.com/zju3dv/EasyVolcap</link>
+      <description>[SIGGRAPH Asia 2023 (Technical Communications)] EasyVolcap: Accelerating Neural Volumetric Video Research</description>
+    </item>
+    <item>
+      <title>RIOT-OS /RIOT</title>
+      <link>https://github.com/RIOT-OS/RIOT</link>
+      <description>RIOT - The friendly OS for IoT</description>
+    </item>
+    <item>
+      <title>stripe /stripe-ios</title>
+      <link>https://github.com/stripe/stripe-ios</link>
+      <description>Stripe iOS SDK</description>
+    </item>
+    <item>
       <title>google-gemini /cookbook</title>
       <link>https://github.com/google-gemini/cookbook</link>
       <description>Examples and guides for using the Gemini API</description>
+    </item>
+    <item>
+      <title>commaai /openpilot</title>
+      <link>https://github.com/commaai/openpilot</link>
+      <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.</description>
+    </item>
+    <item>
+      <title>bigskysoftware /htmx</title>
+      <link>https://github.com/bigskysoftware/htmx</link>
+      <description>&lt;/&gt; htmx - high power tools for HTML</description>
+    </item>
+    <item>
+      <title>Byaidu /PDFMathTranslate</title>
+      <link>https://github.com/Byaidu/PDFMathTranslate</link>
+      <description>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</description>
     </item>
   </channel>
 </rss>
