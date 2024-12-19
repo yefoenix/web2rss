@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.cve.org/Media/News/AllNews. follow.is: feedId:72158581942748160+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 01:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 01:39:50 +0000</lastBuildDate>
     <item>
       <title>Delta Electronics Added as CVE Numbering Authority (CNA)</title>
       <link>https://www.cve.org/Media/News/item/news/2024/12/10/Delta-Electronics-Added-as-CNA</link>
@@ -43,14 +43,14 @@
       <description>Delinea Added as CVE Numbering Authority (CNA)newsDecember 17, 2024Delinea, Inc.is now aCVE Numbering Authority (CNA)for vulnerabilities in Delinea products or services listed ondelinea.com, or vulnerabilities in third-party products or services discovered by or reported to Delinea, unless covered by the scope of another CNA.</description>
     </item>
     <item>
-      <title>CEPHEID Added as CVE Numbering Authority (CNA)</title>
+      <title>Cepheid Added as CVE Numbering Authority (CNA)</title>
       <link>https://www.cve.org/Media/News/item/news/2024/12/17/CEPHEID-Added-as-CNA</link>
-      <description>CEPHEID Added as CVE Numbering Authority (CNA)newsDecember 17, 2024CEPHEIDis now aCVE Numbering Authority (CNA)for Cepheid products.</description>
+      <description>Cepheid Added as CVE Numbering Authority (CNA)newsDecember 17, 2024Cepheidis now aCVE Numbering Authority (CNA)for Cepheid products.</description>
     </item>
     <item>
       <title>S21sec Cyber Solutions by Thales Added as CVE Numbering Authority (CNA)</title>
       <link>https://www.cve.org/Media/News/item/news/2024/12/17/S21sec-Added-as-CNA</link>
-      <description>S21sec Cyber Solutions by Thales Added as CVE Numbering Authority (CNA)newsDecember 17, 2024CS21sec Cyber Solutions by Thalesis now aCVE Numbering Authority (CNA)for vulnerabilities discovered by S21sec that are not within another CNA’s scope.</description>
+      <description>S21sec Cyber Solutions by Thales Added as CVE Numbering Authority (CNA)newsDecember 17, 2024S21sec Cyber Solutions by Thalesis now aCVE Numbering Authority (CNA)for vulnerabilities discovered by S21sec that are not within another CNA’s scope.</description>
     </item>
     <item>
       <title>Roche Diagnostics Added as CVE Numbering Authority (CNA)</title>

@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 01:40:47 +0000</lastBuildDate>
-    <item>
-      <title>New “CleverSoar” Installer Targets Chinese and Vietnamese Users</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/27/new-cleversoar-installer-targets-chinese-and-vietnamese-users/</link>
-      <description>In early November, Rapid7 Labs identified a new, highly evasive malware installer, 'CleverSoar,' targeting Chinese and Vietnamese-speaking victims.</description>
-    </item>
+    <lastBuildDate>Thu, 19 Dec 2024 01:39:40 +0000</lastBuildDate>
     <item>
       <title>Metasploit Weekly Wrap-Up 11/29/2024</title>
       <link>https://www.rapid7.com/blog/post/2024/11/29/metasploit-weekly-wrapup-11-29-2024/</link>
@@ -108,6 +103,11 @@ contributed</description>
       <title>Take Command of Your Career: Practicing Self-Advocacy as a Woman in Tech</title>
       <link>https://www.rapid7.com/blog/post/2024/12/17/take-command-of-your-career-practicing-self-advocacy-as-a-woman-in-tech/</link>
       <description>As the year draws to a close, it’s essential—and often expected—to reflect on our achievements and lessons learned in preparation for annual performance reviews and setting future goals.</description>
+    </item>
+    <item>
+      <title>What’s New in Rapid7 Products &amp; Services: Q4 2024 in Review</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/18/whats-new-in-rapid7-products-services-q4-2024-in-review/</link>
+      <description>Below, we’ve highlighted key releases and updates from the quarter across our products and services, including the new Platform Home Navigation experience, extensibility enhancements to Exposure Command and Surface Command, expanded MXDR support, and 2024 threat landscape trends from Rapid7 Labs.</description>
     </item>
   </channel>
 </rss>

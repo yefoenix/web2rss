@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.anthropic.com/news. follow.is: feedId:71805759203098624+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 01:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 01:39:46 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -431,6 +431,11 @@
       <title>Elections and AI in 2024: observations and learnings</title>
       <link>https://www.anthropic.com/news/elections-ai-2024</link>
       <description>Societal ImpactsElections and AI in 2024: observations and learningsDec 12, 2024</description>
+    </item>
+    <item>
+      <title>Alignment faking in large language models</title>
+      <link>https://www.anthropic.com/research/alignment-faking</link>
+      <description>AlignmentAlignment faking in large language modelsDec 18, 2024</description>
     </item>
   </channel>
 </rss>

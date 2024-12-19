@@ -6,27 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 01:40:42 +0000</lastBuildDate>
-    <item>
-      <title>Introduction to the OpenTelemetry Sum Connector</title>
-      <link>https://www.splunk.com/en_us/blog/observability/opentelemetry-sum-connector.html</link>
-      <description>Uncover the magic of the Sum Connector module in OpenTelemetry! Transform attribute data into clear, insightful metric sums and uncover the buried treasure in your already existing data!</description>
-    </item>
-    <item>
-      <title>Indicators of Compromise (IoCs): An Introductory Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html</link>
-      <description>In this post, we’ll discuss indicators of compromise including their types and their relevance to threat intelligence teams.</description>
-    </item>
-    <item>
-      <title>What Is Cloud Infrastructure?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-infrastructure.html</link>
-      <description>Cloud infrastructure runs so much of the world’s daily operations. What is it and what does it mean? Find out in this comprehensive article.</description>
-    </item>
-    <item>
-      <title>What Is OpenTelemetry? A Complete Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/opentelemetry.html</link>
-      <description>In this article, you'll learn how OpenTelemetry works, how it's used, and its importance in improving your observability practices and overall business operations.</description>
-    </item>
+    <lastBuildDate>Thu, 19 Dec 2024 01:39:36 +0000</lastBuildDate>
     <item>
       <title>Generative AI in 2025: What Is GenAI?</title>
       <link>https://www.splunk.com/en_us/blog/learn/generative-ai.html</link>
@@ -51,6 +31,26 @@
       <title>Cisco Intends to Acquire Threat Detection and Defense Company SnapAttack, Driving Further Splunk Innovation to Power the SOC of the Future</title>
       <link>https://www.splunk.com/en_us/blog/security/cisco-intends-to-acquire-threat-detection-and-defense-company-snapattack.html</link>
       <description>Cisco announces it intent to acquire threat detection and defense company SnapAttack, driving further Splunk innovation to power the SOC of the future.</description>
+    </item>
+    <item>
+      <title>What Is a NOC? Network Operations Centers, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/noc-network-operations-center.html</link>
+      <description>Discover how NOCs ensure network uptime. Learn roles, practices &amp; tools for optimal performance. Explore NOC vs. SOC distinctions</description>
+    </item>
+    <item>
+      <title>CI/CD Automation for Splunk Apps using GitHub Actions, Part 2</title>
+      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/ci-cd-automation-for-splunk-apps-using-github-actions-part-2.html</link>
+      <description>Streamline your Splunk app development with CI/CD automation using GitHub Actions. Learn how to validate code with Splunk AppInspect, run tests across multiple Splunk versions in Docker, and automate app releases. Boost efficiency, collaboration, and code quality with this step-by-step guide.</description>
+    </item>
+    <item>
+      <title>What Is Small Data In AI?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/small-data.html</link>
+      <description>For years, big data has been all the rage. What about small data? Get the full story on small data here and see why it may soon be more important than big data.</description>
+    </item>
+    <item>
+      <title>What Are SLMs? Small Language Models, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/small-language-models-slms.html</link>
+      <description>Large language models have changed the world. What about small language models? Learn what SLMs are, how they differ from LLMs, and why SLMs are the future.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

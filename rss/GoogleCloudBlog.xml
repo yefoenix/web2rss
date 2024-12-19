@@ -6,27 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 01:41:02 +0000</lastBuildDate>
-    <item>
-      <title>How Ford Pro uses Bigtable to harness connected vehicle telemetry data</title>
-      <link>https://cloud.google.com/blog/products/databases/ford-pro-intelligence-built-on-bigtable-nosql-database</link>
-      <description>DatabasesHow Ford Pro uses Bigtable to harness connected vehicle telemetry dataBy Gavarraju Nanduri • 8-minute read</description>
-    </item>
-    <item>
-      <title>How Dun &amp; Bradstreet is transforming software development with Gemini Code Assist</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/dun-bradstreet-gemini-code-assist-software-development-lifecycle</link>
-      <description>AI &amp; Machine LearningHow Dun &amp; Bradstreet is transforming software development with Gemini Code AssistBy Ryan J. Salva • 5-minute read</description>
-    </item>
-    <item>
-      <title>Scaling to zero on Google Kubernetes Engine with KEDA</title>
-      <link>https://cloud.google.com/blog/products/containers-kubernetes/scale-to-zero-on-gke-with-keda</link>
-      <description>Containers &amp; KubernetesScaling to zero on Google Kubernetes Engine with KEDABy Michal Golda • 4-minute read</description>
-    </item>
-    <item>
-      <title>Boost your Looker Studio Pro skills with new on-demand course from Google Cloud</title>
-      <link>https://cloud.google.com/blog/products/business-intelligence/new-looker-studio-pro-essentials-on-demand-course</link>
-      <description>Business IntelligenceBoost your Looker Studio Pro skills with new on-demand course from Google CloudBy Rishabh Dhingra • 2-minute read</description>
-    </item>
+    <lastBuildDate>Thu, 19 Dec 2024 01:39:55 +0000</lastBuildDate>
     <item>
       <title>A look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browser</title>
       <link>https://cloud.google.com/blog/products/chrome-enterprise/a-look-back-at-chrome-enterprise-in-2024-strengthening-security-and-improving-productivity-in-the-browser</link>
@@ -56,6 +36,26 @@
       <title>Cloud Pub/Sub 2024 highlights: Native integrations, sharing and more</title>
       <link>https://cloud.google.com/blog/products/data-analytics/pubsub-highlights-of-2024</link>
       <description>Data AnalyticsCloud Pub/Sub 2024 highlights: Native integrations, sharing and moreBy Prateek Duble • 7-minute read</description>
+    </item>
+    <item>
+      <title>How Memorystore helps FanCode stream 2X more live sports</title>
+      <link>https://cloud.google.com/blog/products/databases/fancode-migrates-from-aws-to-memorystore-for-redis-cluster</link>
+      <description>DatabasesHow Memorystore helps FanCode stream 2X more live sportsBy Guruwinder Singh Rishi • 4-minute read</description>
+    </item>
+    <item>
+      <title>Google Cloud's commitment to responsible AI is now ISO/IEC certified</title>
+      <link>https://cloud.google.com/blog/products/identity-security/google-clouds-commitment-to-responsible-ai-is-now-iso-iec-certified</link>
+      <description>Security &amp; IdentityGoogle Cloud's commitment to responsible AI is now ISO/IEC certifiedBy Jeanette Manfra  • 3-minute read</description>
+    </item>
+    <item>
+      <title>Google Cloud and SAP: Powering AI with enterprise data</title>
+      <link>https://cloud.google.com/blog/products/sap-google-cloud/the-case-for-running-rise-with-sap-on-google-cloud</link>
+      <description>SAP on Google CloudGoogle Cloud and SAP: Powering AI with enterprise dataBy Dinesh Vandayar • 7-minute read</description>
+    </item>
+    <item>
+      <title>Optimizing RAG retrieval: Test, tune, succeed</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval</link>
+      <description>AI &amp; Machine LearningOptimizing RAG retrieval: Test, tune, succeedBy Hugo Selbie • 9-minute read</description>
     </item>
   </channel>
 </rss>

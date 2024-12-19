@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Tue, 17 Dec 2024 18:59:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Dec 2024 23:24:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,306 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
+		<title>Research Focus: Week of December 16, 2024</title>
+		<link>https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-16-2024/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 17:00:00 +0000</pubDate>
+				<category><![CDATA[Research Blog]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1112814</guid>
+
+					<description><![CDATA[<p>NeoMem: hardware/software co-design for CXL-native memory tiering; Chimera: accurate retrosynthesis prediction by ensembling models with diverse inductive biases; GA4GH task execution API enables multicloud task execution.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-16-2024/">Research Focus: Week of December 16, 2024</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-pullquote"><blockquote><p>Welcome to Research Focus, a series of blog posts that highlights notable publications, events, code/datasets, new hires and other milestones from across the research community at Microsoft.</p></blockquote></figure>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus: Week of December 16, 2024" class="wp-image-1112832" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading" id="heading">NeoMem: Hardware/Software Co-Design for CXL-Native Memory Tiering</h2>
+
+
+
+<p>The Compute Express Link (CXL) open standard interconnect enables integration of diverse types of memory into servers via its byte-addressable SerDes links. To fully utilize CXL-based heterogeneous memory systems (which combine different types of memory with varying access speeds), it’s necessary to implement efficient memory tiering—a strategy to manage data placement across memory tiers for optimal performance. Efficiently managing these memory systems is crucial, but has been challenging due to the lack of precise and efficient tools for understanding how memory is accessed.</p>
+
+
+
+<p>In a recent paper: <a href="https://www.microsoft.com/en-us/research/publication/neomem-hardware-software-co-design-for-cxl-native-memory-tiering/">NeoMem: Hardware/Software Co-Design for CXL-Native Memory Tiering</a> researchers from Microsoft propose a novel solution which features a hardware/software co-design to address this problem. NeoMem offloads memory profiling functions to CXL device-side controllers, integrating a dedicated hardware unit called NeoProf, which monitors memory accesses and provides the operating system (OS) with crucial page hotness statistics and other system state information. On the OS kernel side, the researchers designed a revamped memory-tiering strategy, enabling accurate and timely hot page promotion based on NeoProf statistics. Implemented on a real FPGA-based CXL memory platform and Linux kernel v6.3, NeoMem demonstrated 32% to 67% geomean speedup over several existing memory tiering solutions.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--1"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/neomem-hardware-software-co-design-for-cxl-native-memory-tiering/">Read the paper</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
+
+
+
+<h2 class="wp-block-heading" id="heading">Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases</h2>
+
+
+
+<p>Planning and conducting chemical syntheses is a significant challenge in the discovery of functional small molecules, which limits the potential of generative AI for molecular inverse design. Although early machine learning-based retrosynthesis models have shown the ability to predict reasonable routes, they are less accurate for infrequent, yet important reactions.</p>
+
+
+
+<p>In a recent paper: <a href="https://www.microsoft.com/en-us/research/publication/chimera-accurate-retrosynthesis-prediction-by-ensembling-models-with-diverse-inductive-biases/">Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases</a>, researchers from Microsoft and external colleagues address this limitation, with a new framework for building highly accurate reaction models. Chimera incorporates two newly developed models, each achieving state-of-the-art performance in their respective categories. Evaluations by PhD-level organic chemists show that Chimera&#8217;s predictions are preferred for their higher quality compared to baseline models.</p>
+
+
+
+<p>The researchers further validate Chimera&#8217;s robustness by applying its largest-scale model to an internal dataset from a major pharmaceutical company, demonstrating its ability to generalize effectively under distribution shifts. This new framework shows the potential to substantially accelerate the development of even more accurate and versatile reaction prediction models.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--2"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/chimera-accurate-retrosynthesis-prediction-by-ensembling-models-with-diverse-inductive-biases/">Read the paper</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
+</div>
+
+
+
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085502">
+		
+
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Blog post</span>
+	</p>
+	
+	<div class="row pt-3 pb-4 align-items-center">
+						<div class="msr-promo__media col-12 col-md-5">
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-september-9-2024/" aria-label="Research Focus: Week of September 9, 2024" data-bi-cN="Research Focus: Week of September 9, 2024" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/RF49-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus | September 9, 2024" />
+				</a>
+			</div>
+			
+			<div class="msr-promo__content p-3 px-5 col-12 col-md">
+
+									<h2 class="h4">Research Focus: Week of September 9, 2024</h2>
+				
+								<p class="large">Investigating vulnerabilities in LLMs; A novel total-duration-aware (TDA) duration model for text-to-speech (TTS); Generative expert metric system through iterative prompt priming; Integrity protection in 5G fronthaul networks.</p>
+				
+								<div class="wp-block-buttons justify-content-center justify-content-md-start">
+					<div class="wp-block-button">
+						<a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-september-9-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Research Focus: Week of September 9, 2024" target="_blank">
+							Read more						</a>
+					</div>
+				</div>
+							</div><!--/.msr-promo__content-->
+	</div><!--/.msr-promo__inner-wrap-->
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
+	
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
+
+
+
+<h2 class="wp-block-heading" id="heading">The GA4GH Task Execution API: Enabling Easy Multicloud Task Execution</h2>
+
+
+
+<p>In bioinformatics and computational biology, data analysis often involves chaining command-line programs developed by specialized teams at different institutions. These tools, which vary widely in age, software stacks, and dependencies, lack a common programming interface, which makes integration, workflow management and reproducibility challenging.</p>
+
+
+
+<p>A recent <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10564576" target="_blank" rel="noreferrer noopener">article<span class="sr-only"> (opens in new tab)</span></a> emphasizes the development, adoption and implementation of the Global Alliance for Genomics and Health (GA4GH) Task Execution Service (TES) API, created in collaboration with researchers at Microsoft and other institutions. The TES API offers a unified schema and interface for submitting and managing tasks, seamlessly bridging gaps between on-premises high-performance and high-throughput computing systems, cloud platforms, and hybrid infrastructures. Its flexibility and extensibility have already made it a critical asset for applications ranging from federated data analysis to load balancing across multi-cloud systems.</p>
+
+
+
+<p>Adopted by numerous service providers and integrated into several workflow engines, TES empowers researchers to execute complex computational tasks through a single, abstracted interface. This eliminates compatibility hurdles, accelerates research timelines, reduces costs and enables &#8220;compute to data&#8221; solutions—essential for tackling the challenges of distributed data analysis.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--3"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/the-ga4gh-task-execution-application-programming-interface-enabling-easy-multicloud-task-execution/">Read the paper</a></div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
+</div>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
+
+
+
+<h2 class="wp-block-heading" id="heading">RedCode: Risky Code Execution and Generation Benchmark for Code Agents</h2>
+
+
+
+<p>Increasing use of code agents for AI-assisted coding and software development has brought safety and security concerns, such as generating or executing malicious code, which have become significant barriers to real-world deployment of these agents.</p>
+
+
+
+<p>In a recent paper: <a href="https://www.microsoft.com/en-us/research/publication/redcode-multi-dimensional-safety-benchmark-for-code-agents/">RedCode: Risky Code Execution and Generation Benchmark for Code Agents</a>, published at NeurIPS 2024, researchers from Microsoft and external colleagues propose comprehensive and practical evaluations on the safety of code agents. RedCode is an evaluation platform with benchmarks grounded in four key principles: real interaction with systems, holistic evaluation of unsafe code generation and execution, diverse input formats, and high-quality safety scenarios and tests.</p>
+
+
+
+<p>This research evaluated three agents based on various large language models (LLMs), providing insights into code agents’ vulnerabilities. For instance, results showed that agents are more likely to reject executing unsafe operations on the operating system. Unsafe operations described in natural text lead to a lower rejection rate than those in code format. Additional evaluations revealed that more capable base models and agents with stronger overall coding abilities, such as GPT-4, tend to produce more sophisticated harmful software.</p>
+
+
+
+<p>These findings highlight the need for stringent safety evaluations for diverse code agents. The underlying dataset and related code are publicly available at <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/AI-secure/RedCode" target="_blank" rel="noreferrer noopener">https://github.com/AI-secure/RedCode<span class="sr-only"> (opens in new tab)</span></a>.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--4"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/redcode-multi-dimensional-safety-benchmark-for-code-agents/">Read the paper</a></div>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
+
+
+
+<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
+<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
+
+
+
+<h2 class="wp-block-heading" id="heading">Towards industrial foundation models: Integrating large language models with industrial data intelligence</h2>
+
+
+
+<p>Although large language models (LLMs) excel at language-focused tasks like news writing, document summarization, customer service, and supporting virtual assistants, they can face challenges when it comes to learning and inference on numeric and structured industry data, such as tabular and time series data. To address these issues, researchers from Microsoft propose a new approach to building industrial foundation models (IFMs). As outlined in a recent <a href="https://www.microsoft.com/en-us/research/articles/towards-industrial-foundation-models-integrating-large-language-models-with-industrial-data-intelligence/">blog post</a>, they have successfully demonstrated the feasibility of cross-domain universal in-context learning on tabular data and the significant potential it could achieve.</p>
+
+
+
+<p>The researchers designed <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://dl.acm.org/doi/10.1145/3637528.3671975" target="_blank" rel="noreferrer noopener">Generative Tabular Learning<span class="sr-only"> (opens in new tab)</span></a> (GTL), a new framework that integrates multi-industry zero-shot and few-shot learning capabilities into LLMs. This approach allows the models to adapt and generalize to new fields, new data, and new tasks more effectively, flexibly responding to diverse data science tasks. This technical paradigm has been <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/Industrial-Foundation-Models" target="_blank" rel="noreferrer noopener">open-sourced<span class="sr-only"> (opens in new tab)</span></a> to promote broader use.</p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--5"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/towards-foundation-models-for-learning-on-tabular-data/">Read the paper</a></div>
+</div>
+</div>
+
+
+
+<div style="padding-bottom:64px; padding-top:64px" class="wp-block-msr-immersive-section alignfull row has-background has-lighter-gray-background-color has-text-color has-black-color wp-block-msr-immersive-section">
+	
+	<div class="container">
+		<div class="wp-block-msr-immersive-section__inner">
+			<div class="wp-block-msr-cards msr-cards msr-cards--default mt-4 has-text-align-left" data-bi-aN="microsoft-research-in-the-news">
+	<div class="msr-cards__inner">
+					<div class="heading-wrapper">
+				<h2 class="mb-5 ">Microsoft Research in the news</h2>
+			</div>
+		
+		<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3">
+	<div class="msr-cards__card msr-cards__card--default col">
+	<div class="card has-spectrum-border-top__hover material-card h-100 p-0" data-mount="click-group">
+
+		
+		<div class="card-body bg-white p-4 pt-3">
+							<h3 class="h5">
+					<a
+						class="text-decoration-none text-black"
+						data-bi-cN="Microsoft’s smaller AI model beats the big guys: Meet Phi-4, the efficiency king"
+						href="https://venturebeat.com/ai/microsofts-smaller-ai-model-beats-the-big-guys-meet-phi-4-the-efficiency-king/"
+					>
+						<span>Microsoft’s smaller AI model beats the big guys: Meet Phi-4, the efficiency king</span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
+					</a>
+				</h3>
+										<div class="card__description card__citation small">
+					<p>December 12, 2024</p><p>Microsoft launched a new artificial intelligence model today that achieves remarkable mathematical reasoning capabilities while using far fewer computational resources than its larger competitors.</p>				</div>
+			
+					</div>
+	</div>
+</div>
+<div class="msr-cards__card msr-cards__card--default col">
+	<div class="card has-spectrum-border-top__hover material-card h-100 p-0" data-mount="click-group">
+
+		
+		<div class="card-body bg-white p-4 pt-3">
+							<h3 class="h5">
+					<a
+						class="text-decoration-none text-black"
+						data-bi-cN="Microsoft researcher Ece Kamar discusses the future of AI agents in 2025"
+						href="https://www.seattletimes.com/business/can-ai-spot-the-next-bomb-cyclone-far-in-advance-microsoft-hopes-so/"
+					>
+						<span>Microsoft researcher Ece Kamar discusses the future of AI agents in 2025</span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
+					</a>
+				</h3>
+										<div class="card__description card__citation small">
+					<p>Tech Brew | December 12, 2024</p><p>With AI agents widely expected to take off in 2025, the director of Microsoft’s AI Frontiers lab weighs in on the future of this technology, the safeguards needed, and the year ahead in AI research.</p>				</div>
+			
+					</div>
+	</div>
+</div>
+<div class="msr-cards__card msr-cards__card--default col">
+	<div class="card has-spectrum-border-top__hover material-card h-100 p-0" data-mount="click-group">
+
+		
+		<div class="card-body bg-white p-4 pt-3">
+							<h3 class="h5">
+					<a
+						class="text-decoration-none text-black"
+						data-bi-cN="A new frontier awaits — computing with light"
+						href="https://www.youtube.com/watch?v=lB3K4pk5jN4"
+					>
+						<span>A new frontier awaits — computing with light</span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
+					</a>
+				</h3>
+										<div class="card__description card__citation small">
+					<p>December 12, 2024</p><p>In the guts of a new type of computer, a bunch of tiny LEDs emit a green glow. Those lights have a job to do. They’re performing calculations. Right now, this math is telling the computer how to identify handwritten images of numbers. The computer is part of a research program at Microsoft.</p>				</div>
+			
+					</div>
+	</div>
+</div>
+</div>
+
+					<div class="justify-content-center text-center mb-4">
+				<a
+					href="https://www.microsoft.com/en-us/research/news-and-awards/"
+					class="btn btn-outline-primary glyph-append glyph-append-small glyph-append-chevron-right msr-cards__cta"
+					data-bi-cN="View more news and awards"
+					data-bi-type="button"
+				>
+					View more news and awards				</a>
+			</div>
+			</div>
+</div>		</div>
+	</div>
+
+	</div>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-16-2024/">Research Focus: Week of December 16, 2024</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>NeurIPS 2024: The co-evolution of AI and systems with Lidong Zhou</title>
 		<link>https://www.microsoft.com/en-us/research/podcast/neurips-2024-the-co-evolution-of-ai-and-systems-with-lidong-zhou/</link>
 		
@@ -32,7 +332,7 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/podcast/neurips-2024-the-co-evolution-of-ai-and-systems-with-lidong-zhou/">NeurIPS 2024: The co-evolution of AI and systems with Lidong Zhou</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Lidong Zhou and Eliza Strickland" class="wp-image-1112484" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Lidong Zhou and Eliza Strickland" class="wp-image-1112484" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
@@ -145,7 +445,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-1" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-6" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -307,7 +607,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-1"
+				aria-controls="show-more-show-less-toggle-6"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -333,7 +633,7 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/blog/promptwizard-the-future-of-prompt-optimization-through-feedback-driven-self-evolving-prompts/">PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1.png" alt="A diagram illustrating the joint optimization process of instructions and in-context examples in PromptWizard. The figure demonstrates how the framework iteratively refines both components, integrating feedback to enhance the overall prompt effectiveness and adaptability across tasks. " class="wp-image-1111944" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1.png" alt="A diagram illustrating the joint optimization process of instructions and in-context examples in PromptWizard. The figure demonstrates how the framework iteratively refines both components, integrating feedback to enhance the overall prompt effectiveness and adaptability across tasks. " class="wp-image-1111944" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 
@@ -444,30 +744,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1002645">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044936">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: AI-POWERED EXPERIENCE</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/01/MSR-Chat-Promo.png" alt="" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" aria-label="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/06/RF-Ep3-Recap-BlogHeroFeature-1400x788-1.jpg" alt="Microsoft Research Forum | Episode 3 | panel discussion" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Microsoft research copilot experience</h2>
+									<h2 class="h4">Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more</h2>
 				
-								<p class="large">Discover more about research at Microsoft through our AI-powered experience</p>
+								<p class="large">In the latest episode of Microsoft Research Forum, researchers explored the importance of globally inclusive and equitable AI, shared updates on AutoGen and MatterGen, presented novel use cases for AI, including industrial applications and the potential of multimodal models to improve assistive technologies.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://aka.ms/research-copilot/?OCID=msr_researchforum_Copilot_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Microsoft research copilot experience" data-bi-cN="Microsoft research copilot experience" target="_blank">
-							Start now						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+							Read more						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -610,30 +910,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085523">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044936">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" aria-label="Abstracts: August 15, 2024" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Episode-15_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Stylized microphone and sound waves illustration." />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" aria-label="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/06/RF-Ep3-Recap-BlogHeroFeature-1400x788-1.jpg" alt="Microsoft Research Forum | Episode 3 | panel discussion" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Abstracts: August 15, 2024</h2>
+									<h2 class="h4">Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more</h2>
 				
-								<p class="large">Advanced AI may make it easier for bad actors to deceive others online. A multidisciplinary research team is exploring one solution: a credential that allows people to show they’re not bots without sharing identifying information. Shrey Jain and Zoë Hitzig explain.</p>
+								<p class="large">In the latest episode of Microsoft Research Forum, researchers explored the importance of globally inclusive and equitable AI, shared updates on AutoGen and MatterGen, presented novel use cases for AI, including industrial applications and the potential of multimodal models to improve assistive technologies.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-							Listen now						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+							Read more						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -847,7 +1147,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-2" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-7" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -977,7 +1277,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-2"
+				aria-controls="show-more-show-less-toggle-7"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1053,7 +1353,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-3" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-8" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1131,7 +1431,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-3"
+				aria-controls="show-more-show-less-toggle-8"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1211,7 +1511,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-4" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-9" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1293,7 +1593,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-4"
+				aria-controls="show-more-show-less-toggle-9"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1369,7 +1669,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-5" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-10" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1435,7 +1735,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-5"
+				aria-controls="show-more-show-less-toggle-10"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1515,7 +1815,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-6" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-11" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1589,7 +1889,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-6"
+				aria-controls="show-more-show-less-toggle-11"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1744,7 +2044,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-7" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-12" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -2186,7 +2486,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-7"
+				aria-controls="show-more-show-less-toggle-12"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -2194,270 +2494,6 @@
 	</div>
 </div>
 <span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-economics-and-computation-with-nicole-immorlica/">Ideas: Economics and computation with Nicole Immorlica</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Research Focus: Week of December 2, 2024</title>
-		<link>https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-2-2024/</link>
-		
-		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
-		<pubDate>Wed, 04 Dec 2024 17:07:27 +0000</pubDate>
-				<category><![CDATA[Research Blog]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1106934</guid>
-
-					<description><![CDATA[<p>Can a new SOS-RMT protocol enable more efficient CL-MPC?; A fair-by-design, cloud-based algorithmic trading platform; LLM2CLIP unlocks richer visual representation; New technique enhances Low-Rank Adaptation’s expressiveness, generalization capabilities.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-2-2024/">Research Focus: Week of December 2, 2024</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-pullquote"><blockquote><p>Welcome to Research Focus, a series of blog posts that highlights notable publications, events, code/datasets, new hires and other milestones from across the research community at Microsoft.</p></blockquote></figure>
-
-
-
-<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus: Week of December 2, 2024" class="wp-image-1106946" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/RF54-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-
-<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
-<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
-</div>
-
-
-
-<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
-<h2 class="wp-block-heading" id="heading">Adaptive Security, Erasures, and Network Assumptions in Communication-Local MPC</h2>
-
-
-
-<p>n-party Multi-Party Computation (MPC) is a cryptographic protocol technique that allows separate parties to securely compute a function on their joint data while keeping their inputs private. To build such a protocol, most works require all pairs of participating parties to be able to securely and reliably communicate with each other. Recently, the problem of Communication-Local (CL) MPC has been explored where this assumption is modelled more realistically – e.g. by only requiring that participating parties can securely and reliably communicate with a few other participating parties (as for example in networks like blockchains). However, few solutions exist that guarantee adaptive security—resilience to dynamic corruption of parties—and most rely on strong assumptions about party actions.</p>
-
-
-
-<p>In a recent paper: <a href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Adaptive Security, Erasures, and Network Assumptions in Communication-Local MPC</a>, researchers from Microsoft and external collaborators revisit assumptions made in earlier work. The authors conclude that for secure, adaptive CL-MPC, some previously assumed capabilities (like secure erasure and multisend) can be bypassed under certain conditions; however, fully reducing all-to-all to all-to-one communication remains unachievable in CL settings without some minimal assumptions. They propose a new SOS-RMT protocol, enabling more efficient CL-MPC under specific feasibility bounds and additional cryptographic assumptions.</p>
-
-
-
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--8"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/adaptive-security-erasures-and-network-assumptions-in-communication-local-mpc/">Read the paper</a></div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
-</div>
-
-
-
-<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
-<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
-
-
-
-<h2 class="wp-block-heading" id="heading">Cuttlefish: A Fair, Predictable Execution Environment for Cloud-hosted Financial Exchanges</h2>
-
-
-
-<p>Low-latency algorithmic trading is driving efficiency in modern financial markets by promoting accurate/timely pricing of securities, higher liquidity, and lower trade costs for investors. The goal is to process incoming market data and issue trades as quickly as possible to take advantage of ephemeral market-making and arbitrage opportunities. Interest in cloud-hosted financial exchanges is growing, as they promise a cost-effective platform more accessible to market participants, among other benefits.</p>
-
-
-
-<p>Unfortunately, one of the major roadblocks in cloud environments is to ensure equal network and compute despite the unpredictable network latencies as well as non-deterministic computation times.</p>
-
-
-
-<p>In a recent preprint: <a href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/" target="_blank" rel="noreferrer noopener">Cuttlefish: A Fair, Predictable Execution Environment for Cloud-hosted Financial Exchanges</a>, researchers from Microsoft and external collaborators present a fair-by-design algorithmic trading platform that can run in cloud environments. Cuttlefish aims to apply efficient and robust mapping of real operations to a novel formulation of ‘virtual time’. This allows Cuttlefish to push fairness to the extreme, regardless of the underlying network communication and computation hardware. The researchers’ implementation and evaluation validate the practicality of Cuttlefish and shows its operational efficiency on public cloud platforms. This paper builds on previous work: <a href="https://www.microsoft.com/en-us/research/publication/rethinking-cloud-hosted-financial-exchanges-for-response-time-fairness/" target="_blank" rel="noreferrer noopener">Rethinking Cloud-hosted Financial Exchanges for Response Time Fairness</a> and <a href="https://www.microsoft.com/en-us/research/publication/dbo-fairness-for-cloud-hosted-financial-exchanges/" target="_blank" rel="noreferrer noopener">DBO: Fairness for Cloud-Hosted Financial Exchanges.</a> </p>
-
-
-
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-6 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--9"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cuttlefish-a-fair-predictable-execution-environment-for-cloud-hosted-financial-exchanges/">Read the paper</a></div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
-</div>
-
-
-
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085523">
-		
-
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
-	</p>
-	
-	<div class="row pt-3 pb-4 align-items-center">
-						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" aria-label="Abstracts: August 15, 2024" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Episode-15_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Stylized microphone and sound waves illustration." />
-				</a>
-			</div>
-			
-			<div class="msr-promo__content p-3 px-5 col-12 col-md">
-
-									<h2 class="h4">Abstracts: August 15, 2024</h2>
-				
-								<p class="large">Advanced AI may make it easier for bad actors to deceive others online. A multidisciplinary research team is exploring one solution: a credential that allows people to show they’re not bots without sharing identifying information. Shrey Jain and Zoë Hitzig explain.</p>
-				
-								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-							Listen now						</a>
-					</div>
-				</div>
-							</div><!--/.msr-promo__content-->
-	</div><!--/.msr-promo__inner-wrap-->
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
-	
-
-
-<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
-<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
-
-
-
-<h2 class="wp-block-heading" id="heading">LLM2CLIP: Powerful language model unlocks richer visual representation</h2>
-
-
-
-<p>CLIP is a prominent multimodal foundational model, aligning visual and textual signals into a shared feature space. It supports various tasks, including zero-shot classification, detection, segmentation, and cross-modal retrieval, significantly influencing the entire multimodal domain. As a feature extractor, it has become dominant in cross-modal representation tasks such as image understanding, video understanding, and text-to-image/video generation. However, rapid advancements in large language models (LLMs) are continually pushing the boundaries of language comprehension and generation. Can the capabilities of LLMs be harnessed to further improve multimodal representation learning?</p>
-
-
-
-<p>In a recent article: <a href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation</a>, researchers from Microsoft and external collaborators propose LLM2CLIP, a novel approach to unlock CLIP&#8217;s potential, focusing on fundamental optimizations of promising foundation models. By fine-tuning the LLM in the caption space with contrastive learning, they extract its textual capabilities into the output embeddings, significantly improving the output layer&#8217;s textual discriminability. The researchers then design a training process where the fine-tuned LLM acts as a powerful teacher for CLIP&#8217;s visual encoder. The LLM&#8217;s presence allows them to incorporate longer and more complex captions without being restricted by CLIP&#8217;s text encoder&#8217;s context window and ability limitations. Their experiments demonstrate that this approach brings substantial improvements in cross-modal tasks.</p>
-
-
-
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-7 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--10"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/llm2clip-powerful-language-model-unlock-richer-visual-representation/">Read the paper</a></div>
-
-
-
-<div class="wp-block-button is-style-outline is-style-outline--11"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://aka.ms/llm2clip" target="_blank" rel="noreferrer noopener">Learn more about LLM2CLIP</a></div>
-</div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
-</div>
-
-
-
-<div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
-<h2 class="wp-block-heading h6 has-blue-color has-text-color has-link-color wp-elements-e734c6e9609233ab051742bb3beeed63" id="new-research">NEW RESEARCH</h2>
-
-
-
-<h2 class="wp-block-heading" id="heading">LORASC: Expressive and Generalizable Low-rank Adaptation for Large Models via Slow Cascaded Learning</h2>
-
-
-
-<p>Foundation models, which are large-scale models pre-trained on extensive datasets and subsequently adapted for specific downstream tasks, have become integral to contemporary machine learning frameworks. Fine-tuning these models is essential, yet full parameter fine-tuning often encounters significant memory and computational bottlenecks. Parameter-efficient finetuning (PEFT) techniques aim to minimize the number of trainable parameters to reduce training costs and improve training stability. Among these techniques, Low-Rank Adaptation (LoRA) is highly efficient, although it has limitations in terms of expressiveness and generalization have been noted.</p>
-
-
-
-<p>In a recent paper: <a href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">LORASC: Expressive and Generalizable Low-rank Adaptation for Large Models via Slow Cascaded Learning</a>, researchers from Microsoft and external collaborators present an innovative technique designed to enhance LoRA’s expressiveness and generalization capabilities while preserving its training efficiency. Their cascaded learning strategy enables a mixture-of-low-rank adaptation, thereby increasing the model’s ability to capture complex patterns. They also introduce a slow-fast update mechanism and cascading noisy tuning to bolster generalization. Their extensive experiments on various language and vision datasets, as well as robustness benchmarks, show that the proposed method significantly outperforms existing baselines, while also mitigating overfitting, enhancing model stability, and improving out-of-distribution (OOD) robustness.</p>
-
-
-
-<div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-8 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--12"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/lorasc-expressive-and-generalizable-low-rank-adaptation-for-large-models-via-slow-cascaded-learning/">Read the paper</a></div>
-</div>
-</div>
-
-
-
-<div style="padding-bottom:64px; padding-top:64px" class="wp-block-msr-immersive-section alignfull row has-background has-lighter-gray-background-color has-text-color has-black-color wp-block-msr-immersive-section">
-	
-	<div class="container">
-		<div class="wp-block-msr-immersive-section__inner">
-			<div class="wp-block-msr-cards msr-cards msr-cards--default mt-4 has-text-align-left" data-bi-aN="microsoft-research-in-the-news">
-	<div class="msr-cards__inner">
-					<div class="heading-wrapper">
-				<h2 class="mb-5 ">Microsoft Research in the news</h2>
-			</div>
-		
-		<div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3">
-	<div class="msr-cards__card msr-cards__card--default col">
-	<div class="card has-spectrum-border-top__hover material-card h-100 p-0" data-mount="click-group">
-
-		
-		<div class="card-body bg-white p-4 pt-3">
-							<h3 class="h5">
-					<a
-						class="text-decoration-none text-black"
-						data-bi-cN="Can AI spot the next bomb cyclone far in advance? Microsoft hopes so"
-						href="https://www.seattletimes.com/business/can-ai-spot-the-next-bomb-cyclone-far-in-advance-microsoft-hopes-so/"
-					>
-						<span>Can AI spot the next bomb cyclone far in advance? Microsoft hopes so</span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
-					</a>
-				</h3>
-										<div class="card__description card__citation small">
-					<p>Seattle Times | November 23, 2024</p><p>Microsoft claims that Aurora, a deep-learning model that’s constantly being trained, can produce weather forecasts much faster than — and with accuracy that meets or exceeds — traditional forecasting models.</p>				</div>
-			
-					</div>
-	</div>
-</div>
-<div class="msr-cards__card msr-cards__card--default col">
-	<div class="card has-spectrum-border-top__hover material-card h-100 p-0" data-mount="click-group">
-
-		
-		<div class="card-body bg-white p-4 pt-3">
-							<h3 class="h5">
-					<a
-						class="text-decoration-none text-black"
-						data-bi-cN="How Microsoft's next-gen BitNet architecture is turbocharging LLM efficiency "
-						href="https://venturebeat.com/ai/how-microsofts-next-gen-bitnet-architecture-is-turbocharging-llm-efficiency/"
-					>
-						<span>How Microsoft's next-gen BitNet architecture is turbocharging LLM efficiency </span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
-					</a>
-				</h3>
-										<div class="card__description card__citation small">
-					<p>VentureBeat | November 13, 2024</p><p>One-bit large language models (LLMs) have emerged as a promising approach to making generative AI more accessible and affordable. In a new paper, Microsoft researchers introduce Binet a4.8, a new technique that further improves the efficiency of one-bit LLMs without sacrificing their performance.</p>				</div>
-			
-					</div>
-	</div>
-</div>
-<div class="msr-cards__card msr-cards__card--default col">
-	<div class="card has-spectrum-border-top__hover material-card h-100 p-0" data-mount="click-group">
-
-		
-		<div class="card-body bg-white p-4 pt-3">
-							<h3 class="h5">
-					<a
-						class="text-decoration-none text-black"
-						data-bi-cN="2024 Ellison Cliffe Lecture: AI in science and medicine with Christopher Bishop"
-						href="https://www.youtube.com/watch?v=lB3K4pk5jN4"
-					>
-						<span>2024 Ellison Cliffe Lecture: AI in science and medicine with Christopher Bishop</span>&nbsp;<span class="glyph-prepend glyph-prepend-small glyph-prepend-chevron-right" aria-hidden="true"></span>
-					</a>
-				</h3>
-										<div class="card__description card__citation small">
-					<p>Royal Society of Medicine | November 13, 2024</p><p>Christopher Bishop, Technical Fellow and Director of Microsoft Research AI for Science, discusses the extraordinary advances in the deep learning technology that underpins the AI revolution, including crucial progress in the fields of scientific discovery and medicine. This recent speech at the Royal Society of Medicine includes current examples of AI’s impact in materials design, drug discovery, and healthcare.</p>				</div>
-			
-					</div>
-	</div>
-</div>
-</div>
-
-					<div class="justify-content-center text-center mb-4">
-				<a
-					href="https://www.microsoft.com/en-us/research/news-and-awards/"
-					class="btn btn-outline-primary glyph-append glyph-append-small glyph-append-chevron-right msr-cards__cta"
-					data-bi-cN="View more news and awards"
-					data-bi-type="button"
-				>
-					View more news and awards				</a>
-			</div>
-			</div>
-</div>		</div>
-	</div>
-
-	</div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-2-2024/">Research Focus: Week of December 2, 2024</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		
