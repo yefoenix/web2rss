@@ -6,22 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 01:39:36 +0000</lastBuildDate>
-    <item>
-      <title>Generative AI in 2025: What Is GenAI?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/generative-ai.html</link>
-      <description>Did ChatGPT or Bard write this article? Are those dogs AI-created? We’ll let you decide, as you read the greatest explainer of Generative AI today.</description>
-    </item>
-    <item>
-      <title>What is SQL Injection?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/sql-injection.html</link>
-      <description>Injecting anything is rarely a good thing. When injection hijacks your SQL and interferes with your primary web systems, you’re in real trouble. Find out here.</description>
-    </item>
-    <item>
-      <title>Education Empowerment: Insights from the 2024 Splunk Career Impact Report</title>
-      <link>https://www.splunk.com/en_us/blog/leadership/insights-from-2024-splunk-career-impact-report.html</link>
-      <description>The 2024 Splunk Career Impact Report shares how Splunk learners who commit to building their skills and earning certifications are laying the groundwork for incredible career success.</description>
-    </item>
+    <lastBuildDate>Fri, 20 Dec 2024 01:27:16 +0000</lastBuildDate>
     <item>
       <title>Logs Are For Campfires: Log Data, Big Data, and Splunk Asset &amp; Risk Intelligence</title>
       <link>https://www.splunk.com/en_us/blog/security/log-data-asset-risk-intelligence.html</link>
@@ -53,29 +38,44 @@
       <description>Large language models have changed the world. What about small language models? Learn what SLMs are, how they differ from LLMs, and why SLMs are the future.</description>
     </item>
     <item>
+      <title>SAST vs. DAST vs. RASP: Comparing Application Security Testing Methods</title>
+      <link>https://www.splunk.com/en_us/blog/learn/sast-vs-dast.html</link>
+      <description>Building secure apps is the only way forward. Learn about security testing solutions SAST, DAST, and RASP, as they offer multi-layered protection for applications</description>
+    </item>
+    <item>
+      <title>SCADA Systems: What They Are &amp; How They Work</title>
+      <link>https://www.splunk.com/en_us/blog/learn/scada-systems.html</link>
+      <description>SCADA is a common industrial control system. Let’s understand how SCADA systems work, including the various components, and also look at the challenges today.</description>
+    </item>
+    <item>
+      <title>Blacklist &amp; Whitelist: Terms To Avoid</title>
+      <link>https://www.splunk.com/en_us/blog/learn/blacklist-whitelist-inclusivity.html</link>
+      <description>In this article, we will dive into why “blacklist” and “whitelist” are not inclusive terms and explore potential alternatives that can promote a more inclusive language.</description>
+    </item>
+    <item>
       <title>What is Observability? An Introduction</title>
       <link>https://www.splunk.com/en_us/blog/learn/observability.html</link>
       <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
     </item>
     <item>
-      <title>What is Cloud Analytics?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
-      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
-    </item>
-    <item>
-      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
-      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
-    </item>
-    <item>
-      <title>Top Cybersecurity Certifications To Earn Today</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-certifications.html</link>
-      <description>Take the next step in your cybersecurity career! Check out these security certifications to earn today, from beginner to advanced, covering all aspects of cyber.</description>
+      <title>What are SaaS, PaaS, &amp; IaaS?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-service-models-saas-vs-paas-vs-iaas.html</link>
+      <description>Yes, the cloud makes work better. But which cloud model is right for you? Understand how SaaS, PaaS, and IaaS works in this ultimate guide.</description>
     </item>
     <item>
       <title>Telemetry 101: An Introduction To Telemetry</title>
       <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
       <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
+    </item>
+    <item>
+      <title>What Are SLMs? Small Language Models, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/small-language-models-slms.html</link>
+      <description>Large language models have changed the world. What about small language models? Learn what SLMs are, how they differ from LLMs, and why SLMs are the future.</description>
+    </item>
+    <item>
+      <title>IT and Technology Spending &amp; Budgets for 2025: Trends &amp; Forecasts</title>
+      <link>https://www.splunk.com/en_us/blog/learn/it-tech-spending.html</link>
+      <description>Tech &amp; IT spending is on the rise in 2025 across the globe. Read more on investment trends and see which regions will spend the most.</description>
     </item>
     <item>
       <title>SIEM: Security Information &amp; Event Management Explained</title>
@@ -88,24 +88,24 @@
       <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
     </item>
     <item>
-      <title>What is Cloud Analytics?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
-      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
-    </item>
-    <item>
-      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
-      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
-    </item>
-    <item>
-      <title>Top Cybersecurity Certifications To Earn Today</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-certifications.html</link>
-      <description>Take the next step in your cybersecurity career! Check out these security certifications to earn today, from beginner to advanced, covering all aspects of cyber.</description>
+      <title>What are SaaS, PaaS, &amp; IaaS?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-service-models-saas-vs-paas-vs-iaas.html</link>
+      <description>Yes, the cloud makes work better. But which cloud model is right for you? Understand how SaaS, PaaS, and IaaS works in this ultimate guide.</description>
     </item>
     <item>
       <title>Telemetry 101: An Introduction To Telemetry</title>
       <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
       <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
+    </item>
+    <item>
+      <title>What Are SLMs? Small Language Models, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/small-language-models-slms.html</link>
+      <description>Large language models have changed the world. What about small language models? Learn what SLMs are, how they differ from LLMs, and why SLMs are the future.</description>
+    </item>
+    <item>
+      <title>IT and Technology Spending &amp; Budgets for 2025: Trends &amp; Forecasts</title>
+      <link>https://www.splunk.com/en_us/blog/learn/it-tech-spending.html</link>
+      <description>Tech &amp; IT spending is on the rise in 2025 across the globe. Read more on investment trends and see which regions will spend the most.</description>
     </item>
     <item>
       <title>SIEM: Security Information &amp; Event Management Explained</title>
@@ -118,14 +118,14 @@
       <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
     </item>
     <item>
-      <title>What is Cloud Analytics?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
-      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
+      <title>What are SaaS, PaaS, &amp; IaaS?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-service-models-saas-vs-paas-vs-iaas.html</link>
+      <description>Yes, the cloud makes work better. But which cloud model is right for you? Understand how SaaS, PaaS, and IaaS works in this ultimate guide.</description>
     </item>
     <item>
-      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
-      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
+      <title>Telemetry 101: An Introduction To Telemetry</title>
+      <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
+      <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
     </item>
     <item>
       <title>Unify and Automate TDIR Workflows with Splunk SOAR 6.3 and Splunk Enterprise Security 8.0</title>

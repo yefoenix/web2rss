@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Wed, 18 Dec 2024 23:24:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Dec 2024 22:47:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,819 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
+		<title>Ideas: AI and democracy with Madeleine Daepp and Robert Osazuwa Ness</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/ideas-ai-and-democracy-with-madeleine-daepp-and-robert-osazuwa-ness/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Thu, 19 Dec 2024 20:00:00 +0000</pubDate>
+				<category><![CDATA[Microsoft Research Podcast]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1112883</guid>
+
+					<description><![CDATA[<p>As the “biggest election year in history” comes to an end, researchers Madeleine Daepp and Robert Osazuwa Ness and Democracy Forward GM Ginny Badanes discuss AI’s impact on democracy, including Daepp and Ness’s research into the tech’s use in Taiwan and India.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-ai-and-democracy-with-madeleine-daepp-and-robert-osazuwa-ness/">Ideas: AI and democracy with Madeleine Daepp and Robert Osazuwa Ness</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1401" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Ginny Badanes, Madeleine Daepp and Robert Osazuwa Ness" class="wp-image-1114101" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788.jpg 1401w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1401px) 100vw, 1401px" /></figure>
+
+
+<div class="wp-block-msr-podcast-container my-4">
+	<iframe src="https://player.blubrry.com/?podcast_id=139965770&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+</div>
+
+
+
+<p>Behind every emerging technology is a great idea propelling it forward. In the Microsoft Research Podcast series <em>Ideas</em>, members of the research community at Microsoft discuss the beliefs that animate their research, the experiences and thinkers that inform it, and the positive human impact it targets.</p>
+
+
+
+<p>In 2024, with advancements in generative AI continuing to reach new levels and the world experiencing its “<a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://www.economist.com/interactive/the-world-ahead/2023/11/13/2024-is-the-biggest-election-year-in-history" target="_blank" rel="noreferrer noopener">biggest election year in history<span class="sr-only"> (opens in new tab)</span></a>,” could there possibly be a better time to examine the technology’s emerging role in global democracies? Inspired by the moment, senior researchers <a href="https://www.microsoft.com/en-us/research/people/mdaepp/">Madeleine Daepp<span class="sr-only"> (opens in new tab)</span></a> and <a href="https://www.microsoft.com/en-us/research/people/robertness/">Robert Osazuwa Ness<span class="sr-only"> (opens in new tab)</span></a> conducted research in Taiwan, studying the technology’s influence on disinformation, and in India, documenting its impact on digital communications more broadly. In this episode, Daepp and Ness join guest host <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://www.linkedin.com/in/ginnybadanes" target="_blank" rel="noreferrer noopener">Ginny Badanes<span class="sr-only"> (opens in new tab)</span></a>, general manager of the Democracy Forward program at Microsoft. They discuss how leveraging commonly understood language such as <em>fraud</em> can help people understand potential risks associated with generative AI; the varied ways in which Daepp and Ness saw the tech being deployed to promote or discredit candidates; and the opportunities for the technology to be a force for fortifying democracy.</p>
+
+
+
+<p><strong>Learn more: &nbsp;</strong></p>
+
+
+
+<p><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://www.economist.com/by-invitation/2024/03/26/video-will-kill-the-truth-if-monitoring-doesnt-improve-argue-two-researchers" target="_blank" rel="noreferrer noopener">Video will kill the truth if monitoring doesn’t improve, argue two researchers<span class="sr-only"> (opens in new tab)</span></a><br><em>The Economist</em>, March 2024</p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/research/group/microsoft-research-special-projects/?msockid=35739e94ab6c69d41b738b93aa076831">Microsoft Research Special Projects</a><br>Group homepage</p>
+
+
+
+<p><a href="https://www.microsoft.com/en-us/corporate-responsibility/democracy-forward?msockid=35739e94ab6c69d41b738b93aa076831" target="_blank" rel="noreferrer noopener">Democracy Forward</a><br>Program homepage, Microsoft Corporate Social Responsibility</p>
+
+
+
+<p><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://blogs.microsoft.com/on-the-issues/2024/10/23/as-the-u-s-election-nears-russia-iran-and-china-step-up-influence-efforts/" target="_blank" rel="noreferrer noopener">As the US election nears, Russia, Iran and China step up influence efforts<span class="sr-only"> (opens in new tab)</span></a><br>Microsoft On the Issues blog, October 2024</p>
+
+
+
+<p><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://blogs.microsoft.com/on-the-issues/2024/07/05/combatting-ai-deepfakes-our-participation-in-the-2024-political-conventions/" target="_blank" rel="noreferrer noopener">Combatting AI Deepfakes: Our Participation in the 2024 Political Conventions<span class="sr-only"> (opens in new tab)</span></a><br>Microsoft On the Issues blog, July 2024</p>
+
+
+
+<p><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://blogs.microsoft.com/on-the-issues/2024/04/04/china-ai-influence-elections-mtac-cybersecurity/" target="_blank" rel="noreferrer noopener">China tests US voter fault lines and ramps AI content to boost its geopolitical interests<span class="sr-only"> (opens in new tab)</span></a><br>Microsoft On the Issues, April 2024</p>
+
+
+
+<p><a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://www.projectprovidence.io/" target="_blank" rel="noreferrer noopener">Project Providence<span class="sr-only"> (opens in new tab)</span></a> <br>Project homepage</p>
+
+
+
+<section class="wp-block-msr-subscribe-to-podcast subscribe-to-podcast">
+	<div class="subscribe-to-podcast__inner border-top border-bottom border-width-2">
+		<h2 class="h5 subscribe-to-podcast__heading">
+			Subscribe to the <a href="https://www.microsoft.com/en-us/research/podcast">Microsoft Research Podcast</a>:		</h2>
+		<ul class="subscribe-to-podcast__list list-unstyled">
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://itunes.apple.com/us/podcast/microsoft-research-a-podcast/id1318021537?mt=2" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 32 32">  <path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg>
+						<span class="subscribe-to-podcast__link-text">Apple Podcasts</span>
+					</a>
+				</li>
+			
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://subscribebyemail.com/www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M6.4 6a2.392 2.392 0 00-2.372 2.119L16 15.6l11.972-7.481A2.392 2.392 0 0025.6 6H6.4zM4 10.502V22.8a2.4 2.4 0 002.4 2.4h19.2a2.4 2.4 0 002.4-2.4V10.502l-11.365 7.102a1.2 1.2 0 01-1.27 0L4 10.502z"/></svg>
+						<span class="subscribe-to-podcast__link-text">Email</span>
+					</a>
+				</li>
+			
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://subscribeonandroid.com/www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M12.414 4.02c-.062.012-.126.023-.18.06a.489.489 0 00-.12.675L13.149 6.3c-1.6.847-2.792 2.255-3.18 3.944h13.257c-.388-1.69-1.58-3.097-3.179-3.944l1.035-1.545a.489.489 0 00-.12-.675.492.492 0 00-.675.135l-1.14 1.68a7.423 7.423 0 00-2.55-.45c-.899 0-1.758.161-2.549.45l-1.14-1.68a.482.482 0 00-.494-.195zm1.545 3.824a.72.72 0 110 1.44.72.72 0 010-1.44zm5.278 0a.719.719 0 110 1.44.719.719 0 110-1.44zM8.44 11.204A1.44 1.44 0 007 12.644v6.718c0 .795.645 1.44 1.44 1.44.168 0 .33-.036.48-.09v-9.418a1.406 1.406 0 00-.48-.09zm1.44 0V21.76c0 .793.646 1.44 1.44 1.44h10.557c.793 0 1.44-.647 1.44-1.44V11.204H9.878zm14.876 0c-.169 0-.33.035-.48.09v9.418c.15.052.311.09.48.09a1.44 1.44 0 001.44-1.44v-6.719a1.44 1.44 0 00-1.44-1.44zM11.8 24.16v1.92a1.92 1.92 0 003.84 0v-1.92h-3.84zm5.759 0v1.92a1.92 1.92 0 003.84 0v-1.92h-3.84z"/></svg>
+						<span class="subscribe-to-podcast__link-text">Android</span>
+					</a>
+				</li>
+			
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://open.spotify.com/show/4ndjUXyL0hH1FXHgwIiTWU" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M16 4C9.383 4 4 9.383 4 16s5.383 12 12 12 12-5.383 12-12S22.617 4 16 4zm5.08 17.394a.781.781 0 01-1.086.217c-1.29-.86-3.477-1.434-5.303-1.434-1.937.002-3.389.477-3.403.482a.782.782 0 11-.494-1.484c.068-.023 1.71-.56 3.897-.562 1.826 0 4.365.492 6.171 1.696.36.24.457.725.217 1.085zm1.56-3.202a.895.895 0 01-1.234.286c-2.338-1.457-4.742-1.766-6.812-1.747-2.338.02-4.207.466-4.239.476a.895.895 0 11-.488-1.723c.145-.041 2.01-.5 4.564-.521 2.329-.02 5.23.318 7.923 1.995.419.26.547.814.286 1.234zm1.556-3.745a1.043 1.043 0 01-1.428.371c-2.725-1.6-6.039-1.94-8.339-1.942h-.033c-2.781 0-4.923.489-4.944.494a1.044 1.044 0 01-.474-2.031c.096-.023 2.385-.55 5.418-.55h.036c2.558.004 6.264.393 9.393 2.23.497.292.663.931.371 1.428z"/></svg>
+						<span class="subscribe-to-podcast__link-text">Spotify</span>
+					</a>
+				</li>
+			
+							<li class="subscribe-to-podcast__list-item">
+					<a class="subscribe-to-podcast__link" href="https://www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
+						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M6.667 4a2.676 2.676 0 00-2.612 2.13v.003c-.036.172-.055.35-.055.534v18.666c0 .183.019.362.055.534v.003a2.676 2.676 0 002.076 2.075h.002c.172.036.35.055.534.055h18.666A2.676 2.676 0 0028 25.333V6.667a2.676 2.676 0 00-2.13-2.612h-.003A2.623 2.623 0 0025.333 4H6.667zM8 8h1.333C17.42 8 24 14.58 24 22.667V24h-2.667v-1.333c0-6.618-5.382-12-12-12H8V8zm0 5.333h1.333c5.146 0 9.334 4.188 9.334 9.334V24H16v-1.333A6.674 6.674 0 009.333 16H8v-2.667zM10 20a2 2 0 11-.001 4.001A2 2 0 0110 20z"/></svg>
+						<span class="subscribe-to-podcast__link-text">RSS Feed</span>
+					</a>
+				</li>
+					</ul>
+	</div>
+</section>
+
+
+<div class="wp-block-msr-show-more">
+	<div class="bg-neutral-100 p-5">
+		<div class="show-more-show-less" data-mount="show-more-show-less">
+			<div>
+				<span>
+					
+
+<h2 class="wp-block-heading" id="transcript">Transcript</h2>
+
+
+
+<p>[TEASER]</p>
+
+
+
+<p>[MUSIC PLAYS UNDER DIALOGUE]</p>
+
+
+
+<p><strong>MADELEINE DAEPP: </strong>Last summer, I was working on all of these like pro-democracy applications, trying to build out, like, a social data collection tool with AI, all this kind of stuff. And I went to the elections workshop that the Democracy Forward team at Microsoft had put on, and Dave Leichtman, who, you know, was the MC of that work, was really talking about how big of a global elections year 2024 was going to be. Over 70 countries around the world. And, you know, we&#8217;re coming from Microsoft Research, where we were so excited about this technology. And then, all of a sudden, I was at the elections workshop, and I thought, oh no, [LAUGHS] like, this is not good timing.</p>
+
+
+
+<p><strong>ROBERT OSAZUWA NESS: </strong>What are we really talking about in the context of deepfakes in the political context, elections context? It&#8217;s deception, right. I&#8217;m trying to use this technology to, say, create some kind of false record of events in order to convince people that something happened that actually did not happen. And so that goal of deceiving, of creating a false record, that&#8217;s kind of how I have been thinking about deepfakes in contrast to the broader category of generative AI.</p>
+
+
+
+<p>[TEASER ENDS]</p>
+
+
+
+<p><strong>GINNY BADANES: </strong>Welcome to <em>Ideas</em>, a Microsoft Research Podcast that dives deep into the world of technology research and the profound questions behind the code. In this series, we&#8217;ll explore the technologies that are shaping our future and the big ideas that propel them forward.</p>
+
+
+
+				</span>
+				<span id="show-more-show-less-toggle-1" class="show-more-show-less-toggleable-content">
+					
+
+
+
+<p>[MUSIC FADES]</p>
+
+
+
+<p>I&#8217;m your guest host, Ginny Badanes, and I lead Microsoft&#8217;s Democracy Forward program, where we&#8217;ve spent the past year deeply engaged in supporting democratic elections around the world, including the recent US elections. We have been working on everything from raising awareness of nation-state propaganda efforts to helping campaigns and election officials prepare for deepfakes to protecting political campaigns from cyberattacks. Today, I&#8217;m joined by two researchers who have also been diving deep into the impact of generative AI on democracy.</p>
+
+
+
+<p>Microsoft senior researchers Madeleine Daepp and Robert Osazuwa Ness are studying generative AI&#8217;s influence in the political sphere with the goal of making AI systems more robust against misuse while supporting the development of AI tools that can strengthen democratic processes and systems. They spent time in Taiwan and India earlier this year, where both had big democratic elections. Madeleine and Robert, welcome to the podcast!</p>
+
+
+
+<p><strong>MADELEINE DAEPP: </strong>Thanks for having us.</p>
+
+
+
+<p><strong>ROBERT OSAZUWA NESS: </strong>Thanks for having us.</p>
+
+
+
+<p><strong>BADANES:</strong> So I have so many questions for you all—from how you conducted your research to what you&#8217;ve learned—and I&#8217;m really interested in what you think comes next. But first, let&#8217;s talk about how you got involved in this in the first place. Could you both start by telling me a little bit about your backgrounds and just what got you into AI research in the first place?</p>
+
+
+
+<p><strong>DAEPP: </strong>Sure. So I&#8217;m a senior researcher here at Microsoft Research in the Special Projects team. But I did my PhD at MIT in urban studies and planning. And I think a lot of folks hear that field and think, oh, you know, housing, like upzoning housing and figuring out transportation systems. But it really is a field that&#8217;s about little “d” democracy, right. About how people make choices about shared public spaces every single day. You know, I joined Microsoft first off to run this, sort of, technology deployment in the city of Chicago, running a low-cost air-quality-sensor network for the city. And when GPT-4 came out, you know, first ChatGPT, and then we, sort of, had this big recognition of, sort of, how well this technology could do in summarizing and in representing opinions and in making sense of big unstructured datasets, right. I got actually very excited. Like, I thought this could be used for town planning processes. [LAUGHS] Like, I thought we could … I had a whole project with a wonderful intern, Eva Maxfield Brown, looking at, can we summarize planning documents using AI? Can we build out policies from conversations that people have in shared public spaces? And so that was very much the impetus for thinking about how to apply and build things with this amazing new technology in these spaces.</p>
+
+
+
+<p><strong>BADANES: </strong>Robert, I think your background is a little bit different, yet you guys ended up in a similar place. So how did you get there?</p>
+
+
+
+<p><strong>NESS: </strong>Yeah, so I&#8217;m also on Special Projects, Microsoft Research. My work is focusing on large language models, <em>LLMs</em>. And, you know, so I focus on making these models more reliable and controllable in real-world applications. And my PhD is in statistics. And so I focus a lot on using just basic bread-and-butter statistical methods to&nbsp;try and control and understand LLM behavior. So currently, for example, I&#8217;m leading a team of engineers and running experiments designed to find ways to enhance a graphical approach to combining information retrieval in large language models. I work on statistical tests for testing significance of adversarial attacks on these models.</p>
+
+
+
+<p><strong>BADANES:</strong> Wow.</p>
+
+
+
+<p><strong>NESS:</strong> So, for example, if you find a way to trick one of these models into doing something it&#8217;s not supposed to do, I make sure that it&#8217;s not, like, a random fluke; that it&#8217;s something that&#8217;s reproducible. And I also work at this intersection between generative AI and, you know, Bayesian stuff, causal inference stuff. And so I came at looking at this democracy work through an <em>alignment</em> lens. So alignment is this task in AI of making sure these models align with human values and goals. And what I was seeing was a lot of research in the alignment space was viewing it as a technical problem. And, you know, as a statistician, we&#8217;re trained to consult, right. Like, to go to the actual stakeholders and say, hey, what are your goals? What are your values? And so this democracy work was an opportunity to do that in Microsoft Research and connected with Madeleine. So she was planning to go to Taiwan, and kind of from a past life, I wanted to become a trade economist and learned Mandarin. And so I speak fluent Mandarin and seemed like a good matchup of our skill sets …</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>NESS:</strong> … and interests. And so that&#8217;s, kind of, how we got started.</p>
+
+
+
+<p><strong>BADANES: </strong>So, Madeleine, you brought the two of you together, but what started it for you? This podcast is all about big ideas. What sparked the big idea to bring this work that you&#8217;ve been doing on generative AI into the space of democracy and then to go out and find Robert and match up together?</p>
+
+
+
+<p><strong>DAEPP: </strong>Yeah, well, Ginny, it was <em>you</em>. [LAUGHS] It was actually your team.</p>
+
+
+
+<p><strong>BADANES:</strong> I didn&#8217;t plant that! [LAUGHS]</p>
+
+
+
+<p><strong>DAEPP:</strong> So, you know, I think last summer, I was working on all of these like pro-democracy applications, trying to build out, like, a social data collection tool with AI, all this kind of stuff. And I went to the elections workshop that the Democracy Forward team at Microsoft had put on, and Dave Leichtman, who, you know, was the MC of that work, was really talking about how big of a global elections year 2024 was going to be, that this—he was calling it “Votorama.” You know, that term didn&#8217;t take off. [LAUGHTER] The term that has taken off is <em>biggest election year in history</em>, right. Over 70 countries around the world. And, you know, we&#8217;re coming from Microsoft Research, where we were so excited about this technology. Like, when it started to pass theory of mind tests, right, which is like the ability to think about how other people are thinking, like, we were all like, oh, this is amazing; this opens up so many cool application spaces, right. When it was, like, passing benchmarks for multilingual communication, again, like, we were so excited about the prospect of building out multilingual systems. And then, all of a sudden, I was at the elections workshop, and I thought, oh no, [LAUGHS] this is not good timing.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah …</p>
+
+
+
+<p><strong>DAEPP: </strong>And because so much of my work focuses on, you know, building out computer science systems like, um, data science systems or AI systems but with communities in the loop, I really wanted to go to the folks most affected by this problem. And so I proposed a project to go to Taiwan and to study one of the … it was the second election of 2024. And Taiwan is known to be subject to more external disinformation than any other place in the world. So if you were going to see something anywhere, you would see it there. Also, it has amazing civil society response so really interesting people to talk to. But I do not speak, Chinese, right. Like, I don&#8217;t have the context; I don&#8217;t speak the language. And so part of my process is to hire a half-local team. We had an amazing interpreter, Vickie Wang, and then a wonderful graduate student, Ti-Chung Cheng, who supported this work. But then also my team, Special Projects, happened to have this person who, like, not only is a leading AI researcher publishing in NeurIPS, like building out these systems, but who also spoke Chinese, had worked in technology security, and had a real understanding of international studies and economics as well as AI. And so for me, like, finding Robert as a collaborator was kind of a unicorn moment.</p>
+
+
+
+<p><strong>BADANES: </strong>So it sounds like it was a match made in heaven of skill sets and abilities. Before we get into what you all found there, which I do want to get into, I first think it&#8217;s helpful—I don&#8217;t know, when we&#8217;re dealing with these, like, complicated issues, particularly things that are moving and changing really quickly, sometimes I found it&#8217;s helpful to agree on definitions and sort of say, this is what we mean when we say this word. And that helps lead to understanding. So while I know that this research is about more than deepfakes—and we&#8217;ll talk about some of the things that are more than deepfakes—I am curious how you all define that term and how you think of it. Because this is something that I think is constantly moving and changing. So how have you all been thinking about the definition of that term?</p>
+
+
+
+<p><strong>NESS: </strong>So I&#8217;ve been thinking about it in terms of the intention behind it, right. We say <em>deepfake</em>, and I think colloquially that means kind of all of generative AI. That&#8217;s a bit unfortunate because there are things that are … you know, you can use generative AI to generate cartoons …</p>
+
+
+
+<p><strong>BADANES: </strong>Right.</p>
+
+
+
+<p><strong>NESS: </strong>… or illustrations for a children&#8217;s book. And so in thinking about what are we really talking about in the context of deepfakes in the political context, elections context, it&#8217;s deception, right. I&#8217;m trying to use this technology to, say, create some kind of false record of events, say, for example, something that a politician says, in order to convince people that something happened that actually did not happen.</p>
+
+
+
+<p><strong>BADANES:</strong> Right.</p>
+
+
+
+<p><strong>NESS: </strong>And so that goal of deceiving, of creating a false record, that&#8217;s kind of how I have been thinking about deepfakes in contrast to the broader category of generative AI and deepfakes in terms of being a malicious use case. There are other malicious use cases that don&#8217;t necessarily have to be deceptive, as well, as well as positive use cases.</p>
+
+
+
+<p><strong>BADANES: </strong>Well, that really, I mean, that resonates with me because what we found was when you use the term <em>deception—</em>or another term we hear a lot that I think works is <em>fraud—</em>that resonates with other people, too. Like, that helps them distinguish between neutral uses or even positive uses of AI in this space and the malicious use cases, though to your point, I suppose there&#8217;s probably even deeper definitions of what malicious use could look like. Are you finding that distinction showing up in your work between <em>fraud</em> and <em>deception</em> in these use cases? Is that something that has been coming through?</p>
+
+
+
+<p><strong>DAEPP:</strong> You know, we didn&#8217;t really think about the term <em>fraud</em> until we started prepping for this interview with you.<strong>&nbsp;</strong>As Robert said, so much of what we were thinking about in our definition was this representation of people or events, you know, done in order to deceive and with malicious intent. But in fact, in all of our conversations, no matter who we were talking to, no matter what political bent, no matter, you know, national security, fact-checking, et cetera, you know, they all agreed that using AI for the purposes of scamming somebody <em>financially</em> was not OK, right. That&#8217;s fraud. Using AI for the purposes of <em>nudifying</em>, like removing somebody&#8217;s clothes and then <em>sextorting</em> them, right, extorting them for money out of fear that this would be shared, like, that was not OK. And those are such clear lines. And it was clear that there&#8217;s a set of uses of generative AI also in the political space, you know, of saying this person said something that they didn&#8217;t, …</p>
+
+
+
+<p><strong>BADANES: </strong>Mm-hmm.</p>
+
+
+
+<p><strong>DAEPP:</strong> … of voter suppression, that in general, there&#8217;s a very clear line that when it gets into that fraudulent place, when it gets into that simultaneously deceptive and malicious space, that&#8217;s very clearly a no-go zone.</p>
+
+
+
+<p><strong>NESS: </strong>Oftentimes during this research, I found myself thinking about this dichotomy in cybersecurity of state actors, or broadly speaking, kind of, political actors, versus criminals.</p>
+
+
+
+<p><strong>BADANES: </strong>Right.</p>
+
+
+
+<p><strong>NESS: </strong>And it&#8217;s important to understand the distinction because criminals are typically trying to target targets of opportunity and make money, while state-sponsored agents are willing to spend a lot more money and have very specific targets and have a very specific definition of success. And so, like, this fraud versus deception kind of feels like that a little bit in the sense that fraud is typically associated with criminal behavior, while, say, I might put out deceptive political messaging, but it might fall within the bounds of free speech within my country.</p>
+
+
+
+<p><strong>BADANES: </strong>Right, yeah.</p>
+
+
+
+<p><strong>NESS:</strong> And so this is not to say I disagree with that, but it just, actually, that it could be a useful contrast in terms of thinking about the criminal versus the political uses, both legitimate and illegitimate.</p>
+
+
+
+<p><strong>BADANES: </strong>Well, I also think those of us who work in the AI space are dealing in very complicated issues that the majority of the world is still trying to understand. And so any time you can find a word that people understand immediately in order to do the, sort of, storytelling: the reason that we are worried about deepfakes in elections is because we do not want voters to be <em>defrauded</em>. And that, we find really breaks through because people understand that term already. That&#8217;s a thing that they already know that they don&#8217;t want to be; they do not want to be defrauded in their personal life or in how they vote. And so that really, I found, breaks through. But as much as I have talked about deepfakes, I know that you—and I know there&#8217;s a lot of interest in talking about deepfakes when we talk about this subject—but I know your research goes beyond that. So what other forms of generative AI did you include in your research or did you encounter in the effort that you were doing both in Taiwan and India?</p>
+
+
+
+<p><strong>DAEPP: </strong>Yeah. So let me tell you just, kind of, a big overview of, like, our taxonomy. Because as you said, like, so much of this is just about finding a word, right. Like, so much of it is about building a shared vocabulary so that we can start to have these conversations. And so when we looked at the political space, right, elections, so much of what it means to win an election is kind of two things. It&#8217;s building an image of a candidate, right, or changing the image of your opposition and telling a story, right.</p>
+
+
+
+<p><strong>BADANES: </strong>Mm-hmm.</p>
+
+
+
+<p><strong>DAEPP:</strong> And so if you think about image creation, of course, there are deepfakes. Like, of course, there are malicious representations of a person. But we also saw a lot of what we&#8217;re calling <em>auth fakes</em>, like <em>authorized fakes</em>, right. Candidates who would actually go to a consultancy and, like, get their bodies scanned so that videos could be made of them. They&#8217;d get their voices, a bunch of snippets of their voices, recorded so that then there could be personalized phone calls, right. So these are <em>authorized</em> uses of their image and likeness. Then we saw a term I&#8217;ve heard in, sort of, the ether is <em>soft fakes</em>. So again, likenesses of a candidate, this time not necessarily authorized but promotional. They weren&#8217;t … people on Twitter—I guess, X—on Instagram, they were sharing images of the candidate that they supported that were really flattering or silly or, you know, just really sort of in support of that person. So not with malicious intent, right, with promotional intent. And then the last one, and this, I think, was Robert&#8217;s term, but in this image creation category, you know, one thing we talked about was just the way that people were also making fun of candidates. And in this case, this is a bit malicious, right. Like, they&#8217;re making fun of people; they&#8217;re satirizing them. But it&#8217;s not deceptive because, …</p>
+
+
+
+<p><strong>BADANES: </strong>Right …</p>
+
+
+
+<p><strong>DAEPP: </strong>… you know, often it has that hyper-saturated meme aesthetic. It’s very clearly AI or just, you know, per like, sort of, US standards for satire, like, a reasonable person would know that it was silly. And so Robert said, you know, oh, these influencers, they&#8217;re not trying to deceive people; like, they&#8217;re not trying to lie about candidates. They&#8217;re trying to <em>roast</em> them. [LAUGHTER] And so we called it a <em>deep roast</em>. So that&#8217;s, kind of, the images of candidates. I will say we also looked at narrative building, and there, one really important set of things that we saw was what we call <em>text to b-roll</em>. So, you know, a lot of folks think that you can&#8217;t really make AI videos because, like, <em>Sora isn&#8217;t out yet</em><a href="#_ftnref1">[1]</a>. But in fact, what there is a lot of is tooling to, sort of, use AI to pull from stock imagery and b-roll footage and put together a 90-second video. You know, it doesn&#8217;t look like AI; it&#8217;s a real video. So text to b- roll, <em>AI pasta</em>? So if you know the threat intelligence space, there&#8217;s this thing called <em>copy pasta</em>, where people just …</p>
+
+
+
+<p><strong>BADANES:</strong> Sure.</p>
+
+
+
+<p><strong>DAEPP:</strong> … it&#8217;s just a fun word for copy-paste. People just copy-paste terms in order to get a hashtag trending. And we talked to an ex-influencer who said, you know, we&#8217;re using AI to do this. And I asked him why. And he said, well, you know, if you just do copy-paste, the fact-checkers catch it. But if you use AI, they don&#8217;t. And so AI pasta. And there&#8217;s also some research showing that this is potentially more persuasive than copy-paste …</p>
+
+
+
+<p><strong>BADANES: </strong>Interesting.</p>
+
+
+
+<p><strong>DAEPP:&nbsp; </strong>… because people think there&#8217;s a social consensus. And then the last one, this is my last of the big taxonomy, and, Robert, of course, jump in on anything you want to go deeper on, but Fake News 2.0. You know, I&#8217;m sure you&#8217;ve seen this, as well. Just this, like, creation of news websites, like entire <em>new</em> newspapers that nobody&#8217;s ever heard of. AI avatars that are newscasters. And this is something that was happening before. Like, there&#8217;s a long tradition of pretending to be a real news pamphlet or pretending to be a real outlet. But there&#8217;s some interesting work out of … Patrick Warren at Clemson has looked at some of these and shown the quality and quantity of articles on these things has gotten a lot better and, you know, improves as a step function of, sort of, when new models come out.</p>
+
+
+
+<p><strong>NESS: </strong>And then on the flip side, you have people using the same technologies but stated clearly that it&#8217;s AI generated, right. So we mentioned the AI avatars. In India, there&#8217;s this … there&#8217;s Bhoomi, which is a AI news anchor for agricultural news, and it states there in clear terms that she&#8217;s not real. But of course, somebody who wanted to be deceptive could use the same technology to portray something that looks like a real news broadcast that isn&#8217;t. You know, and, kind of, going back, Madeleine mentioned deep roasts, right, so, kind of, using this technology to create satirical depictions of, say, a political opponent. Somebody, a colleague, sent something across my desk. It was a Douyin account—so Douyin is the version of TikTok that&#8217;s used inside China; …</p>
+
+
+
+<p><strong>BADANES:</strong> OK.</p>
+
+
+
+<p><strong>NESS:</strong> … same company, but it&#8217;s the internal version of TikTok—that was posting AI-generated videos of politicians in Taiwan. And these were <em>excellent</em>, real good-quality AI-generated deepfakes of these politicians. But some of them were, first off, on the bottom of all of them, it said, this is AI-generated content.</p>
+
+
+
+<p><strong>BADANES:</strong> Oh.</p>
+
+
+
+<p><strong>NESS:</strong> And some of them were, kind of, obviously meant to be funny and were clearly fake, like still images that were animated to make somebody singing a funny song, for example. A very serious politician singing a very silly song. And it&#8217;s a still image. It&#8217;s not even, it&#8217;s not even …</p>
+
+
+
+<p><strong>BADANES:</strong> a video.</p>
+
+
+
+<p><strong>NESS: </strong>…like video.</p>
+
+
+
+<p><strong>BADANES:</strong> Right, right.</p>
+
+
+
+<p><strong>NESS:</strong> And so I messaged Puma Shen, who is one of the legislators in Taiwan who was targeted by these attacks, and I said, what do you think about this? And, you know, he said, yeah, they got me. [LAUGHTER] And I said, you know, do you think people believe this? I mean, there are people who are trying to debunk it. And he said, no, our supporters don&#8217;t believe it, but, you know, people who support the other side or people who are apolitical, they might believe it, or even if it says it&#8217;s fake—they know it&#8217;s fake—but they might still say that, yeah, but this is something they <em>would do</em>, right. This is …</p>
+
+
+
+<p><strong>BADANES:</strong> Yeah, it fits the narrative. Yeah.</p>
+
+
+
+<p><strong>NESS:</strong> … it fits the narrative, right. And that, kind of, that really, you know, I had thought of this myself, but just hearing somebody, you know, who&#8217;s, you know, a politician who&#8217;s targeted by these attacks just saying that it&#8217;s, like, even if they believe it&#8217;s … even if they know it&#8217;s fake, they still <em>believe</em> it because it&#8217;s something that they <em>would do</em>.</p>
+
+
+
+<p><strong>BADANES:</strong> Sure.</p>
+
+
+
+<p><strong>NESS:</strong> That’s, you know, as a form of propaganda, even relative to the canonical idea of deepfake that we have, this could be more effective, right. Like, just say it&#8217;s AI and then use it to, kind of, paint the picture of the opponent in any way you like.</p>
+
+
+
+<p><strong>BADANES: </strong>Sure, and this gets into that, sort of, challenging space I think we find ourselves in right now, which is people don&#8217;t know necessarily how to tell what&#8217;s real or not. And the case you&#8217;re describing, it has labeling, so that should tell you. But a lot of the content we come across online does not have labeling. And you cannot tell just based on your eyes whether images were generated by AI or whether they&#8217;re real. One of the things that I get asked a lot is, why can&#8217;t we just build good AI to detect bad AI, right? Why don&#8217;t we have a solution where I just take a picture and I throw it into a machine and it tells me thumbs-up or thumbs-down if this is AI generated or not? And the question around detection is a really tricky one. I&#8217;m curious what you all think about, sort of, the question of, can detection solve this problem or not?</p>
+
+
+
+<p><strong>NESS: </strong>So I&#8217;ll mention one thing. So Madeleine mentioned an application of this technology called <em>text to b-roll</em>. And so what this is, technically speaking, what this is doing is you&#8217;re taking real footage, you stick it in a database, it&#8217;s quote, unquote “vectorized” into these representations that the AI can understand, and then you say, hey, generate a video that illustrates this narrative for me. And you provide it the text narrative, and then it goes and pulls out a whole bunch of <em>real</em> video from a database and curates them into a short video that you could put on TikTok, for example. So this was a fully AI-generated product, but none of the actual content is synthetic.</p>
+
+
+
+<p><strong>BADANES:</strong> Ah, right.</p>
+
+
+
+<p><strong>NESS: </strong>So in that case, your quote, unquote “AI detection tool” is not going to work.</p>
+
+
+
+<p><strong>DAEPP:</strong> Yeah, I mean, something that I find really fascinating any time that you&#8217;re dealing with a sociotechnical system, right—a technical system embedded in social context—is folks, you know, think that things are easy that are hard and things are hard that are easy, right. And so with a lot of the detections work, right, like if you put a deepfake detector out, you make that available to anyone, then what they can do is they can run a bunch of stuff by it, &#8230;</p>
+
+
+
+<p><strong>BADANES:</strong> Yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> … add a little bit of random noise, and then the deepfake detector doesn&#8217;t work anymore. And so that detection, actually, technically becomes an arms race, you know. And we&#8217;re seeing now some detectors that, like, you know, work when you&#8217;re not looking at a <em>specific</em> image or a <em>specific</em> piece of text but you&#8217;re looking at a lot all at once. That seems more promising. But, just, this is a very, very technically difficult problem, and that puts us as researchers in a really tricky place because, you know, you&#8217;re talking to folks who say, why can&#8217;t you just solve this? If you put this out, then you have to put the detector out. And we&#8217;re like, that&#8217;s actually not, that’s not a technically feasible long-term solution in this space. And the solutions are going to be social and regulatory and, you know, changes in norms as well as technical solutions that maybe are about everything outside of AI, right.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> Not about fixing the AI system but fixing the context within which it&#8217;s used.</p>
+
+
+
+<p><strong>BADANES: </strong>It&#8217;s not <em>just</em> a technological solution. There&#8217;s more to it. Robert?</p>
+
+
+
+<p><strong>NESS: </strong>So if somebody were to push back there, they could say, well, great; in the long term, maybe it&#8217;s an arms race, but in the short term, right, we can have solutions out there that, you know, at least in the next election cycle, we could maybe prevent some of these things from happening. And, again, kind of harkening back to cybersecurity, maybe if you make it hard enough, only the really dedicated, really high-funded people are going to be doing it rather than, you know, everybody who wants to throw a bunch of deepfakes on the internet. But the problem still there is that it focuses really on video and images, right.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah. What about audio?</p>
+
+
+
+<p><strong>NESS:</strong> What about audio? And what about text? So …</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah. Those are hard. I feel like we&#8217;ve talked a lot about definitions and theoretical, but I want to make sure we talk more about what you guys saw and researched and understood on the ground, in particular, your trips to India and Taiwan and even if you want to reflect on how those compare to the US environment. What did you actually uncover? What surprised you? What was different between those countries?</p>
+
+
+
+<p><strong>DAEPP:</strong> Yeah, I mean, right, so Taiwan … both of these places are young democracies. And that&#8217;s really interesting, right. So like in Taiwan, for example, when people vote, they vote on paper. And anybody can go watch. That&#8217;s part of their, like, security strategies. Like, anyone around the world can just come and watch. People come from far. They fly in from Canada and Japan and elsewhere just to watch Taiwanese people vote. And then similarly in India, there&#8217;s this rule where you have to be walking distance from your polling place, and so the election takes two months. And, like, your polling places move from place to place, and sometimes, it arrives on an elephant. And so these were really interesting places to, like, I as an American, just, like, found it very, very fascinating to and important to be outside of the American context. You know, we just take for granted that how we do democracy is how other people do it. But Taiwan was very much a joint, like, civil society–government everyday response to this challenge of having a lot of efforts to manipulate public opinion happening with, you know, real-world speeches, with AI, with anything that you can imagine. You know, and I think the Microsoft Threat Analysis Center released a report documenting some of the, sort of, video stuff<a href="#_ftnref2">[2]</a>. There&#8217;s a use of AI to create videos the night before the election, things like this. But then India is really thinking of &#8230; so India, right, it&#8217;s the world&#8217;s <em>biggest</em> democracy, right. Like, nearly a billion people were eligible to vote.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>NESS: </strong>And arguably the most diverse, right?</p>
+
+
+
+<p><strong>DAEPP:</strong> Yeah, arguably the most diverse in terms of languages, contexts. And it&#8217;s also positioning itself as the AI laboratory for the Global South. And so folks, including folks at the MSR (Microsoft Research) Bangalore lab, are leaders in thinking about representing low-resource languages, right, thinking about cultural representation in AI models. And so there you have all of these technologists who are really trying to innovate and really trying to think about what&#8217;s the next clever application, what&#8217;s the next clever use. And so that, sort of, that taxonomy that we talked about, like, I think just every week, every interview, we, sort of, had new things to add because folks there were just constantly trying all different kinds of ways of engaging with the public.</p>
+
+
+
+<p><strong>NESS: </strong>Yeah, I think for me, in India in particular, you know, India is an engineering culture, right. In terms of, like, the professional culture there, they’re very, kind of, engineering skewed. And so I think one of the bigger surprises for me was seeing people who were very experienced and effective campaign operatives, right, people who would go and, you know, hit the pavement; do door knocking; kind of, segment neighborhoods by demographics and voter block, these people were also, you know, graduated in engineering from an IIT (Indian Institute of Technology), …</p>
+
+
+
+<p><strong>BADANES: </strong>Sure.</p>
+
+
+
+<p><strong>NESS:</strong> … right, and so … [LAUGHS]&nbsp; so they were happy to pick up these tools and leverage them to support their expertise in this work, and so some of the, you know, I think a lot of the narrative that we tell ourselves in AI is how it&#8217;s going to be, kind of, replacing people in doing their work. But what I saw in India was that people who were very effective had a lot of domain expertise that you couldn&#8217;t really automate away <em>and</em> they were the ones who are the early adopters of these tools and were applying it in ways that I think we&#8217;re behind on in terms of, you know, ideas in the US.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah, I mean, there&#8217;s, sort of, this sentiment that AI only augments existing problems and can enhance existing solutions, right. So we&#8217;re not great at translation tools, but AI will make us much better at that. But that also can then be weaponized and used as a tool to deceive people, which propaganda is not new, right? We&#8217;re only scaling or making existing problems harder, or adversaries are trying to weaponize AI to build on things they&#8217;ve already been doing, whether that&#8217;s cyberattacks or influence operations. And while the three of us are in different roles, we do work for the same company. And it&#8217;s a large technology company that is helping bring AI to the world. At the same time, I think there are some responsibilities when we look at, you know, bad actors who are looking to manipulate our products to create and spread this kind of deceptive media, whether it&#8217;s in elections or in other cases like financial fraud or other ways that we see this being leveraged. I&#8217;m curious what you all heard from others when you&#8217;ve been doing your research and also what you think our responsibilities are as a big tech company when it comes to keeping actors from using our products in those ways.</p>
+
+
+
+<p><strong>DAEPP:</strong> You know, when I started using GPT-4, one of the things I did was I called my parents, and I said, if you hear me on a phone call, …</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> … like, please double check. Ask me things that only I would know. And when I walk around Building 99, which is, kind of, a storied building in which a lot of Microsoft researchers work, <em>everybody</em> did that call. We all called our parents.</p>
+
+
+
+<p><strong>BADANES: </strong>Interesting.</p>
+
+
+
+<p><strong>DAEPP:</strong> Or, you know, we all checked in. So just as, like, we have a responsibility to the folks that we care about, I think as a company, that same, sort of, like, raising literacy around the types of fraud to expect and how to protect yourself from them—I think that gets back to that fraud space that we talked about—and, you know, supporting law enforcement, sharing what needs to be shared, I think that without question is a space that we need to work in. I will say a lot of the folks we talked with, they were using Llama on a local GPU, right.</p>
+
+
+
+<p><strong>BADANES: </strong>OK.</p>
+
+
+
+<p><strong>DAEPP:</strong> They were using open-source models. They were sometimes … they were testing out Phi. They would use Phi, Grok, Llama, like anything like that. And so that raises an interesting question about our guardrails and our safety practices. And I think there, we have an, like, our obligation and our opportunity actually is to set the standard, right. To say, OK, like, you know, if you use local Llama and it spouts a bunch of stuff about voter suppression, like, you can get in trouble for that. And so what does it mean to have a safe AI that wins in the marketplace, right? That&#8217;s an AI that people can feel confident and comfortable about using and one that&#8217;s societally safe but also personally safe. And I think that&#8217;s both a challenge and a real opportunity for us.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah … oh, go ahead, Robert, yeah …</p>
+
+
+
+<p><strong>NESS: </strong>Going back to the point about fraud. It was this year, in January, when that British engineering firm Arup, when somebody used a deepfake to defraud that company of about $25 million, …</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>NESS: </strong>… their Hong Kong office. And after that happened, some business managers in Microsoft reached out to me regarding a major client who wanted to start red teaming. And by red teaming, I mean intentionally targeting your executives and employees with these types of attacks in order to figure out where your vulnerabilities as an organization are. And I think, yeah, it got me thinking like, wow, I would, you know, can we do this for my dad? [LAUGHS] Because I think that was actually a theme that came out from a lot of this work, which was, like, how can we empower the people who are really on the frontlines of defending democracy in some of these places in terms of the tooling there? So we talked about, say, AI detection tools, but the people who are actually doing fact-checking, they&#8217;re looking more than at just the video or the images; they&#8217;re actually looking at a, kind of, holistic … taking a holistic view of the news story and doing some proper investigative journalism to see if something is fake or not.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>NESS:</strong> And so I think as a company who creates products, can we take a more of a product mindset to building tools that support that entire workflow in terms of fact-checking or investigative journalism in the context of democratic outcomes …</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>NESS:</strong> … where maybe looking at individual deepfake content is just a piece of that.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah, you know, I think there&#8217;s a lot of parallels here to cybersecurity. That&#8217;s also what we&#8217;ve found, is this idea that, first of all, the “no silver bullet,” as we were talking about earlier with the detection piece. Like, you can&#8217;t expect your system to be secure just because you have a firewall, right. You have to have this, like, defense in-depth approach where you have lots of different layers. And one of those layers has been on the literacy side, right. Training and teaching people not to click on a phishing link, understanding that they should scroll over the URL. Like, these are efforts that have been taken up, sort of, in a broad societal sense. Employers do it. Big tech companies do it. Governments do it through PSAs and other things. So there&#8217;s been a concerted effort to get a population who might not have been aware of the fact that they were about to be scammed to now know not to click on that link. I think, you know, you raised the point about literacy. And I think there&#8217;s something to be said about media literacy in this space. It&#8217;s both AI literacy—understanding what it is—but also understanding that people may try to defraud you. And whether that is in the political sense or in the financial sense, once you have that, sort of, skill set in place, you&#8217;re going to be protected. One thing that I&#8217;ve heard, though, as I have conversations about this challenge … I&#8217;ve heard a couple things back from people specifically in civil society. One is not to put the impetus too much on the end consumer, which I think I&#8217;m hearing that we also recognize there&#8217;s things that <em>we</em> as technology companies should be focusing on. But the other thing is the concern that in, sort of, the long run, we&#8217;re going to all lose trust in everything we see anyway. And I&#8217;ve heard some people refer to that as the <em>trust deficit</em>. Have you all seen anything promising in the space to give you a sense around, can we ever trust what we&#8217;re looking at again, or are we actually just training everyone to not believe anything they see? Which I hope is not the case. I am an optimist. But I&#8217;d love to hear what you all came across. Are there signs of hope here where we might actually have a place where we can trust what we see again?&nbsp;</p>
+
+
+
+<p><strong>DAEPP:</strong> Yeah. So two things. There is this phenomenon called the <em>liar&#8217;s dividend</em>, right, …&nbsp;</p>
+
+
+
+<p><strong>BADANES: </strong>Sure, yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> … which is where that if you educate folks about how AI can be used to create fake clips, fake audio clips, fake videos, then if somebody has a <em>real</em> audio clip, a <em>real</em> video, they can claim that it&#8217;s AI. And I think we talk, you know, again, this is, like, in a US-centric space, we talk about this with politicians, but the space in which this is really concerning, I think, is war crimes, right &#8230;</p>
+
+
+
+<p><strong>BADANES: </strong>Oh, yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> … I think are these real human rights infractions where you can prevent evidence from getting out or being taken seriously. And we do see that right after invasions, for example, these days. But this is actually a space … like, I just told you, like, oh, like, detection is so hard and not technically, like, that&#8217;ll be an arms race! But actually, there is this wonderful project, Project Providence, that is a Microsoft collaboration with a company called Truepic that … it&#8217;s, like, an app, right. And what happens is when you take a photo using this app, it encrypts the, you know, hashes the GPS coordinates where the photo was taken, the time, the day, and uploads that <em>with</em> the pixels, with the image, to Azure. And then later, when a journalist goes to use that image, they can see that the pixels are exactly the same, and then they can check the location and they can confirm the GPS. And this actually meets evidentiary standards for the UN human rights tribunal, right.</p>
+
+
+
+<p><strong>BADANES: </strong>Right.</p>
+
+
+
+<p><strong>DAEPP:</strong> So this is being used in Ukraine to document war crimes. And so, you know, what if everybody had that app on their phone? That means you don’t … you know, most photos you take, you can use an AI tool and immediately play with. But in that particular situation where you need to confirm provenance and you need to confirm that this was a real event that happened, that is a technology that exists, and I think folks like the C2PA coalition (Coalition for Content Provenance and Authenticity) can make that happen across hardware providers.</p>
+
+
+
+<p><strong>NESS: </strong>And I think the challenge for me is, we can&#8217;t separate this problem from some of the other, kind of, fundamental problems that we have in our media environment now, right. So, for example, if I go on to my favorite social media app and I see videos from some conflicts around the world, and these videos could be <em>not</em> AI generated and I still could be, you know, the target of some PR campaign to promote certain content and suppress other ones. The videos could be authentic videos, but not actually be accurate depictions of what they claim to be. And so I think that this is a … the AI presents a complicating factor in an already difficult problem space. And I think, you know, trying to isolate these different variables and targeting them individually is pretty tricky. I do think that despite the liar&#8217;s dividend that media literacy is a very positive area to, kind of, focus energy …</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>NESS:</strong> … in the sense that, you know, you mentioned earlier, like, using this term <em>fraud</em>, again, going back to this analogy with cybersecurity and cybercrime, that it tends to resonate with people. We saw that, as well, especially in Taiwan, didn&#8217;t we, Madeleine? Well, in India, too, with the sextortion fears. But in Taiwan, a lot of just cybercrime in terms of defrauding people of money. And one of the things that we had observed there was that talking about generative AI in the context of elections was difficult to talk to people about it because people, kind of, immediately went into their political camps, right.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>NESS: </strong>And so you had to, kind of, penetrate … you know, people were trying to, kind of, suss out which side you were on when you&#8217;re trying to educate them about this topic.</p>
+
+
+
+<p><strong>BADANES: </strong>Sure.</p>
+
+
+
+<p><strong>NESS:</strong> But if you talk to—but everybody&#8217;s, like, fraud itself is a lot less partisan.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah, it&#8217;s a neutral term.</p>
+
+
+
+<p><strong>NESS: </strong>Exactly. And so it becomes a very useful way to, kind of, get these ideas out there.</p>
+
+
+
+<p><strong>BADANES: </strong>That&#8217;s really interesting. And I love the provenance example because it really gets to the question about authenticity. Like, where did something come from? What is the origin of that media? Where has it traveled over time? And if AI is a component of it, then that&#8217;s a noted fact. But it doesn&#8217;t put us into the space of <em>AI</em> or <em>not AI</em>, which I think is where a lot of the, sort of, labeling has gone so far. And I understand the instinct to do that. But I like the idea of moving more towards how do you know more <em>about</em> an image of which whether there was AI involved or not is a component but does not have judgment. That does not make the picture good or bad. It doesn&#8217;t make it true or false. It&#8217;s just more information for you to consume. And then, of course, the media literacy piece, people need to know to look for those indicators and want them and ask for them from the technology company. So I think that&#8217;s a good, that&#8217;s a good silver lining. You gave me the light at the end of the tunnel I think I was looking for on the post-truth world. So, look, here&#8217;s the big question. You guys have been spending this time focusing on AI and democracy in this big, massive global election year. There was a lot of hype. [LAUGHS] There was a lot of hype. Lots of articles written about how <em>this</em> was going to be the AI election apocalypse. What say you? Was it? Was it not?</p>
+
+
+
+<p><strong>NESS: </strong>I think it was, well, we definitely have documented cases where this happened. And I&#8217;m wary of this question, particularly again from the cybersecurity standpoint, which is if you were not the victim of a terrible hack that brought down your entire company, would you say, like, well, it didn&#8217;t happen, so it&#8217;s not going to happen, right. You would never …</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>NESS:</strong> That would be a silly attitude to have, right. And also, you don&#8217;t know what you don&#8217;t know, right. So, like, a lot of the, you know, we mentioned sextortion; we mentioned these cybercrimes. A lot of these are small-dollar crimes, which means they don&#8217;t get reported or they don&#8217;t get reported for reasons of shame. And so we don&#8217;t even have numbers on a lot of that. And we know that the political techniques are going to mirror the criminal techniques.</p>
+
+
+
+<p><strong>BADANES:</strong> Yeah.</p>
+
+
+
+<p><strong>NESS: </strong>And also, I worry about, say, down-ballot elections. Like, so much of, kind of, our election this year, a lot of the focus was on the national candidates, but, you know, if local poll workers are being targeted, if disinformation campaigns are being put out about local candidates, it&#8217;s not going get the kind of play in the national media such that you and I might hear about it. And so I&#8217;m, you know, so I’ll hand it off to Madeleine, but yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> So absolutely agree with Robert&#8217;s point, right. If your child was affected by sextortion, if you are a country that had an audio clip go viral, this <em>was</em> the deepfake deluge for you, right. That said, something that happened, you know, in India as in the United States, there were major prosecutions very early on, right.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> So in India, there was a video. It turned out not to be a deepfake. It turned out to be a “cheap fake,” to your point about, you know, the question isn&#8217;t whether there&#8217;s AI involved; the question is whether this is an attempt to defraud. And five people were charged for this video.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> And in the United States, right, those Biden robocalls using Biden&#8217;s voice to tell folks not to vote, like, that led to a million-dollar fine, I think, for the telecoms and $6 million for the consultant who created that. And when we talk to people in India, you know, people who work in this space, they said, well, I&#8217;m not going to do that; like, I&#8217;m going to focus on other things. So internal actors pay attention to these things. That really changes what people do and how they do it. And so that, I do think the work that your team did, right, to educate candidates about looking out for the stuff, the work that the MTAC (Microsoft Threat Analysis Center) did to track usage and report it, all of that, I think, was, actually, those interventions, I think, worked. I think they were really important, and I do think that what we are … this absence of a deluge is actually a huge number of people making a very concerted effort to prevent it from happening.</p>
+
+
+
+<p><strong>BADANES:</strong> That&#8217;s encouraging.</p>
+
+
+
+<p><strong>NESS: </strong>Madeleine, you made a really important point that this deterrence from prosecution, it’s effective for <em>internal</em> actors, &#8230;</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> Yeah, that&#8217;s right.</p>
+
+
+
+<p><strong>NESS:</strong> … right. So for foreign states who are trying to interfere with other people&#8217;s elections, the fear of prosecution is not going to be as much of a deterrent.</p>
+
+
+
+<p><strong>BADANES: </strong>That is true. I will say what we saw in this election cycle, in particular in the US, was a concerted effort by the intelligence community to call out and name nation-state actors who were either doing cyberattacks or influence operations, specific videos that they identified, whether there was AI involved or not. I think that level of communication with the public while maybe doesn&#8217;t lead to those actors going to jail—maybe someday—but does in fact lead to a more aware public and therefore hopefully a less effective campaign. If people on the other end … and it&#8217;s a little bit into the literacy space, and it&#8217;s something that we&#8217;ve seen government again in this last cycle do very effectively, to name and shame essentially when they see these things in part, though, to make sure voters are aware of what&#8217;s happening. We&#8217;re not quite through this big global election year; we have a couple more elections before we really hit the end of the year, but it&#8217;s winding down. What is next for you all? Are you all going to continue this work? Are you going build on it? What comes next?</p>
+
+
+
+<p><strong>DAEPP:</strong> So our research in India actually wasn&#8217;t focused specifically on elections. It was about AI and digital communications.</p>
+
+
+
+<p><strong>BADANES: </strong>Ahh.</p>
+
+
+
+<p><strong>DAEPP:</strong> Because, you know, again, like India is this laboratory.</p>
+
+
+
+<p><strong>BADANES:</strong> Sure.</p>
+
+
+
+<p><strong>DAEPP:</strong> And I think what we learned from that work is that, you know, this is going to be a part of our digital communications and our information system going forward without question. And the question is just, like, what are the viable business models, right? What are the applications that work? And again, that comes back to making sure that whatever AI … you know, people when they build AI into their entire, you know, newsletter-writing system, when they build it into their content production, that they can feel confident that it&#8217;s safe and that it meets their needs and that they&#8217;re protected when they use it. And similarly, like, what are those applications that really work, and how do you empower those lead users while mitigating those harms and supporting civil society and mitigating those harms? I think that&#8217;s an incredible, like, that&#8217;s—as a researcher—that&#8217;s, you know, that&#8217;s a career, right.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> That&#8217;s a wonderful research space. And so I think understanding how to support AI that is safe, that enables people globally to have self-determination in how models represent them, and that is usable and powerful, I think that&#8217;s broadly …</p>
+
+
+
+<p><strong>BADANES: </strong>Where this goes.</p>
+
+
+
+<p><strong>DAEPP:</strong> … what I want to drive.</p>
+
+
+
+<p><strong>BADANES: </strong>Robert, how about you?</p>
+
+
+
+<p><strong>NESS: </strong>You know, so I mentioned earlier on these AI alignment issues.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>NESS: </strong>And I was really fascinated by how local and contextual those issues really are. So to give an example from Taiwan, we train these models on training data that we find from the internet. Well, when it comes to, say, Mandarin Chinese, you can imagine the proportion of content, of just the quantity of content, on the internet that comes from China is a lot more than the quantity that comes from Taiwan. And of course, what&#8217;s politically correct in China is different from what&#8217;s politically correct in Taiwan. And so when we were talking to Taiwanese, a lot of people had these concerns about, you know, having these large language models that reflected Taiwanese values. We heard the same thing in India about just people on different sides of the political spectrum and, kind of, looking at … a YouTuber in India had walked us through this &#8230; how, for example, a founding father of India, there was a disparate literature in favor of this person and some more critical of this person, and he had spent time trying to suss out whether GPT-4 was on one side or the other.</p>
+
+
+
+<p><strong>BADANES: </strong>Oh. Whose side are you on? [LAUGHS]</p>
+
+
+
+<p><strong>NESS: </strong>Right, and so I think for our alignment research at Microsoft Research, this becomes the beginning of, kind of, a very fruitful way of engaging with local stakeholders and making sure that we can reflect these concerns in the models that we develop and deploy.</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah. Well, first, I just want to thank you guys for all the work you&#8217;ve done. This is amazing. We&#8217;ve really enjoyed partnering with you. I&#8217;ve loved learning about the research and the efforts, and I&#8217;m excited to see what you do next. I always want to end these kinds of conversations on a more positive note, because we&#8217;ve talked a lot about the weaponization of AI and, you know, how … ethical areas that are confusing and … but I am sure at some point in your work, you came across really positive use cases of AI when it comes to democracy, or at least I hope you have. [LAUGHS] Do you have any examples or can you leave us with something about where you see either it going or actively being used in a way to really strengthen democratic processes or systems?</p>
+
+
+
+<p><strong>DAEPP:</strong> Yeah, I mean, there is just a big paper in <em>Science</em>, right, which, as researchers, when something comes out in <em>Science</em>, you know your field is about to change, right, …</p>
+
+
+
+<p><strong>BADANES: </strong>Yeah.</p>
+
+
+
+<p><strong>DAEPP:</strong> … showing that an AI model in, like, political deliberations, small groups of UK residents talking about difficult topics like Brexit, you know, climate crisis, difficult topics, that in these conversations, an AI moderator created, like, consensus statements that represented the majority opinion, still showed the minority opinion, but that participants preferred to a human-written statement and in fact preferred to their original opinion.</p>
+
+
+
+<p><strong>BADANES: </strong>Wow.</p>
+
+
+
+<p><strong>DAEPP:</strong> And that this, you know, not only works in these randomized controlled trials but actually works in a real citizens deliberation. And so that potential of, like, carefully fine-tuned, like, carefully aligned AI to actually help people find points of agreement, that&#8217;s a <em>really</em> exciting space.</p>
+
+
+
+<p><strong>BADANES: </strong>So next time my kids are in a fight, I&#8217;m going to point them to Copilot and say, work with Copilot to mediate. [LAUGHS] No, that&#8217;s really, really interesting. Robert, how about you?</p>
+
+
+
+<p><strong>NESS: </strong>She, kind of, stole my example. [LAUGHTER] But I&#8217;ll take it from a different perspective. So, yes, like how these technologies can enable people to collaborate and ideally, I think, from a democratic standpoint, at a local level, right. So, I mean, I think so much of our politics were, kind of, focused at the national-level campaign, but our opportunity to collaborate is much more … we&#8217;re much more easily … we can collaborate much more easily with people who are in our local constituencies. And I think to myself about, kind of, like, the decline particularly of local newspapers, local media.</p>
+
+
+
+<p><strong>BADANES: </strong>Right.</p>
+
+
+
+<p><strong>NESS: </strong>And so I wonder, you know, can these technologies help address that problem in terms of just, kind of, information about, say, your local community, as well as local politicians. And, yeah, and to Madeleine&#8217;s point, so Madeleine started the conversation talking about her background in urban planning and some of the work she did, you know, working on a local level with local officials to bring technology to the level of cities. And I think, like, well, you know, politics are local, right. So, you know, I think that that&#8217;s where there&#8217;s a lot of opportunity for improvement.</p>
+
+
+
+<p><strong>BADANES: </strong>Well, Robert, you just queued up a topic for a <em>whole</em> other podcast because our team also does a lot of work around journalism, and I will say we have seen that AI at the local level with local news is really a powerful tool that we&#8217;re starting to see a lot of appetite and interest for in order to overcome some of the hurdles they face right now in that industry when it comes to capacity, financing, you know, not able to be in all of the places they want to be at once to make sure that they&#8217;re reporting equally across the community. This is, like, a perfect use case for AI, and we&#8217;re starting to see folks who are really using it. So maybe we&#8217;ll come back and do this again another time on that topic. But I just want to thank you both, Madeleine and Robert, for joining us today and sharing your insights. This was really a fascinating conversation. I know I learned a lot. I <em>hope</em> that our listeners learned a lot, as well.</p>
+
+
+
+<p>[MUSIC]</p>
+
+
+
+<p>And, listeners, I hope that you tune in for more episodes of <em>Ideas</em>, where we continue to explore the technologies shaping our future and the big ideas behind them. Thank you, guys, so much.</p>
+
+
+
+<p><strong>DAEPP:</strong> Thank you.</p>
+
+
+
+<p><strong>NESS: </strong>Thank you.</p>
+
+
+
+<p>[MUSIC FADES]</p>
+
+
+
+<p id="_ftnref1">[1] The video generation model <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://openai.com/index/sora-is-here/" target="_blank" rel="noreferrer noopener">Sora was released publicly earlier this month<span class="sr-only"> (opens in new tab)</span></a>.</p>
+
+
+
+<p id="_ftnref2">[2] For a summary of and link to the report, see the Microsoft On the Issues blog post <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://blogs.microsoft.com/on-the-issues/2024/04/04/china-ai-influence-elections-mtac-cybersecurity/" target="_blank" rel="noreferrer noopener">China tests US voter fault lines and ramps AI content to boost its geopolitical interests<span class="sr-only"> (opens in new tab)</span></a>.</p>
+
+				</span>
+			</div>
+			<button
+				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
+				aria-expanded="false"
+				data-show-less-text="Show less"
+				type="button"
+				aria-controls="show-more-show-less-toggle-1"
+				aria-label="Show more content"
+				data-alternate-aria-label="Show less content">
+				Show more			</button>
+		</div>
+	</div>
+</div>
+
+
+
+<p></p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-ai-and-democracy-with-madeleine-daepp-and-robert-osazuwa-ness/">Ideas: AI and democracy with Madeleine Daepp and Robert Osazuwa Ness</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Research Focus: Week of December 16, 2024</title>
 		<link>https://www.microsoft.com/en-us/research/blog/research-focus-week-of-december-16-2024/</link>
 		
@@ -36,7 +849,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus: Week of December 16, 2024" class="wp-image-1112832" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus: Week of December 16, 2024" class="wp-image-1112832" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 
@@ -60,7 +873,7 @@
 
 
 <div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--1"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/neomem-hardware-software-co-design-for-cxl-native-memory-tiering/">Read the paper</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--2"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/neomem-hardware-software-co-design-for-cxl-native-memory-tiering/">Read the paper</a></div>
 </div>
 
 
@@ -92,7 +905,7 @@
 
 
 <div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--2"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/chimera-accurate-retrosynthesis-prediction-by-ensembling-models-with-diverse-inductive-biases/">Read the paper</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--3"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/chimera-accurate-retrosynthesis-prediction-by-ensembling-models-with-diverse-inductive-biases/">Read the paper</a></div>
 </div>
 
 
@@ -102,29 +915,29 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085502">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044936">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Blog post</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-september-9-2024/" aria-label="Research Focus: Week of September 9, 2024" data-bi-cN="Research Focus: Week of September 9, 2024" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/RF49-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus | September 9, 2024" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" aria-label="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/06/RF-Ep3-Recap-BlogHeroFeature-1400x788-1.jpg" alt="Microsoft Research Forum | Episode 3 | panel discussion" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Research Focus: Week of September 9, 2024</h2>
+									<h2 class="h4">Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more</h2>
 				
-								<p class="large">Investigating vulnerabilities in LLMs; A novel total-duration-aware (TDA) duration model for text-to-speech (TTS); Generative expert metric system through iterative prompt priming; Integrity protection in 5G fronthaul networks.</p>
+								<p class="large">In the latest episode of Microsoft Research Forum, researchers explored the importance of globally inclusive and equitable AI, shared updates on AutoGen and MatterGen, presented novel use cases for AI, including industrial applications and the potential of multimodal models to improve assistive technologies.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/research-focus-week-of-september-9-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Research Focus: Week of September 9, 2024" target="_blank">
+						<a href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
 							Read more						</a>
 					</div>
 				</div>
@@ -156,7 +969,7 @@
 
 
 <div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-3 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--3"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/the-ga4gh-task-execution-application-programming-interface-enabling-easy-multicloud-task-execution/">Read the paper</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--4"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/the-ga4gh-task-execution-application-programming-interface-enabling-easy-multicloud-task-execution/">Read the paper</a></div>
 </div>
 
 
@@ -192,7 +1005,7 @@
 
 
 <div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-4 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--4"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/redcode-multi-dimensional-safety-benchmark-for-code-agents/">Read the paper</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--5"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/redcode-multi-dimensional-safety-benchmark-for-code-agents/">Read the paper</a></div>
 </div>
 </div>
 
@@ -220,7 +1033,7 @@
 
 
 <div class="wp-block-buttons is-content-justification-center is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-5 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-outline is-style-outline--5"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/towards-foundation-models-for-learning-on-tabular-data/">Read the paper</a></div>
+<div class="wp-block-button is-style-outline is-style-outline--6"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/towards-foundation-models-for-learning-on-tabular-data/">Read the paper</a></div>
 </div>
 </div>
 
@@ -332,11 +1145,11 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/podcast/neurips-2024-the-co-evolution-of-ai-and-systems-with-lidong-zhou/">NeurIPS 2024: The co-evolution of AI and systems with Lidong Zhou</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Lidong Zhou and Eliza Strickland" class="wp-image-1112484" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Lidong Zhou and Eliza Strickland" class="wp-image-1112484" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/Lidong-and-Eliza_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
-	<iframe src="https://player.blubrry.com/?podcast_id=139712850&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139712850&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
 </div>
 
 
@@ -445,7 +1258,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-6" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-7" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -607,7 +1420,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-6"
+				aria-controls="show-more-show-less-toggle-7"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -744,30 +1557,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044936">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085523">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" aria-label="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/06/RF-Ep3-Recap-BlogHeroFeature-1400x788-1.jpg" alt="Microsoft Research Forum | Episode 3 | panel discussion" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" aria-label="Abstracts: August 15, 2024" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Episode-15_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Stylized microphone and sound waves illustration." />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more</h2>
+									<h2 class="h4">Abstracts: August 15, 2024</h2>
 				
-								<p class="large">In the latest episode of Microsoft Research Forum, researchers explored the importance of globally inclusive and equitable AI, shared updates on AutoGen and MatterGen, presented novel use cases for AI, including industrial applications and the potential of multimodal models to improve assistive technologies.</p>
+								<p class="large">Advanced AI may make it easier for bad actors to deceive others online. A multidisciplinary research team is exploring one solution: a credential that allows people to show they’re not bots without sharing identifying information. Shrey Jain and Zoë Hitzig explain.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
-							Read more						</a>
+						<a href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
+							Listen now						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -910,29 +1723,26 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044936">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1045008">
 		
 
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
-	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" aria-label="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/06/RF-Ep3-Recap-BlogHeroFeature-1400x788-1.jpg" alt="Microsoft Research Forum | Episode 3 | panel discussion" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/gigapath-whole-slide-foundation-model-for-digital-pathology/" aria-label="GigaPath: Whole-Slide Foundation Model for Digital Pathology" data-bi-cN="GigaPath: Whole-Slide Foundation Model for Digital Pathology" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/05/GigaPath-TW_FB_LI.png" alt="Digital pathology helps decode tumor microenvironments for precision immunotherapy. GigaPath is a novel vision transformer that can scale to gigapixel whole-slide images by adapting dilated attention for digital pathology. In joint work with Providence and UW, we’re sharing Prov-GigaPath, the first whole-slide pathology foundation model pretrained on large-scale real-world data, for advancing clinical research and discovery." />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more</h2>
+									<h2 class="h4">GigaPath: Whole-Slide Foundation Model for Digital Pathology</h2>
 				
-								<p class="large">In the latest episode of Microsoft Research Forum, researchers explored the importance of globally inclusive and equitable AI, shared updates on AutoGen and MatterGen, presented novel use cases for AI, including industrial applications and the potential of multimodal models to improve assistive technologies.</p>
+								<p class="large">Digital pathology helps decode tumor microenvironments for precision immunotherapy. In joint work with Providence and UW, we’re sharing Prov-GigaPath, the first whole-slide pathology foundation model, for advancing clinical research.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
+						<a href="https://www.microsoft.com/en-us/research/blog/gigapath-whole-slide-foundation-model-for-digital-pathology/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="GigaPath: Whole-Slide Foundation Model for Digital Pathology" target="_blank">
 							Read more						</a>
 					</div>
 				</div>
@@ -1147,7 +1957,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-7" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-8" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1277,7 +2087,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-7"
+				aria-controls="show-more-show-less-toggle-8"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1353,7 +2163,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-8" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-9" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1431,7 +2241,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-8"
+				aria-controls="show-more-show-less-toggle-9"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1511,7 +2321,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-9" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-10" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1593,7 +2403,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-9"
+				aria-controls="show-more-show-less-toggle-10"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1669,7 +2479,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-10" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-11" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1735,7 +2545,7 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-10"
+				aria-controls="show-more-show-less-toggle-11"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
 				Show more			</button>
@@ -1815,7 +2625,7 @@
 
 
 				</span>
-				<span id="show-more-show-less-toggle-11" class="show-more-show-less-toggleable-content">
+				<span id="show-more-show-less-toggle-12" class="show-more-show-less-toggleable-content">
 					
 
 
@@ -1889,603 +2699,6 @@
 				aria-expanded="false"
 				data-show-less-text="Show less"
 				type="button"
-				aria-controls="show-more-show-less-toggle-11"
-				aria-label="Show more content"
-				data-alternate-aria-label="Show less content">
-				Show more			</button>
-		</div>
-	</div>
-</div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ideas: Economics and computation with Nicole Immorlica</title>
-		<link>https://www.microsoft.com/en-us/research/podcast/ideas-economics-and-computation-with-nicole-immorlica/</link>
-		
-		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
-		<pubDate>Thu, 05 Dec 2024 15:26:25 +0000</pubDate>
-				<category><![CDATA[Microsoft Research Podcast]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107621</guid>
-
-					<description><![CDATA[<p>When research manager Nicole Immorlica discovered she could use math to make the world a better place for people, she was all in. She discusses working in computer science theory and economics, including studying the impact of algorithms and AI on markets. </p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-economics-and-computation-with-nicole-immorlica/">Ideas: Economics and computation with Nicole Immorlica</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1401" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1.jpg" alt="Line illustration of Nicole Immorlica" class="wp-image-1107630" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1.jpg 1401w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Nicole_Immorlica_Ideas_Hero_Feature_No_Text_1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1401px) 100vw, 1401px" /></figure>
-
-
-<div class="wp-block-msr-podcast-container my-4">
-	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139256805&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
-</div>
-
-
-
-<p>Behind every emerging technology is a great idea propelling it forward. In the Microsoft Research Podcast series <em>Ideas</em>, members of the research community at Microsoft discuss the beliefs that animate their research, the experiences and thinkers that inform it, and the positive human impact it targets.</p>
-
-
-
-<p>In this episode, host Gretchen Huizinga talks with Senior Principal Research Manager <a href="https://www.microsoft.com/en-us/research/people/nicimm/">Nicole Immorlica</a>. As Immorlica describes it, when she and others decided to take a computational approach to pushing the boundaries of economic theory, there weren’t many computer scientists doing research in economics. Since then, contributions such as applying approximation algorithms to the classic economic challenge of pricing and work on the stable marriage problem have earned Immorlica numerous honors, including the 2023 Test of Time Award from the ACM Special Interest Group on Economics and Computation and selection as a 2023 Association for Computing Machinery (ACM) Fellow. Immorlica traces the journey back to a graduate market design course and a realization that captivated her: she could use her love of math to help improve the world through systems that empower individuals to make the best decisions possible for themselves.</p>
-
-
-
-<div class="wp-block-group msr-pattern-link-list is-layout-flow wp-block-group-is-layout-flow">
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<h2 class="wp-block-heading h5" id="learn-more-1">Learn more:</h2>
-
-
-
-<ul class="wp-block-list list-unstyled">
-<li><a href="https://www.microsoft.com/en-us/research/publication/impact-of-decentralized-learning-on-player-utilities-in-stackelberg-games/" target="_blank" rel="noreferrer noopener">Impact of Decentralized Learning on Player Utilities in Stackelberg Games</a>&nbsp;<br>Publication, June 2024&nbsp;</li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/publication/the-disparate-effects-of-strategic-manipulation/" target="_blank" rel="noreferrer noopener">The Disparate Effects of Strategic Manipulation</a><br>Publication, January 2019 </li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/publication/marriage-honesty-and-stability/">Marriage, honesty, and stability</a><br>Publication, January 2005</li>
-
-
-
-<li><a href="https://www.microsoft.com/en-us/research/collaboration/ai-cognition-and-the-economy-aice/">AI, Cognition, and the Economy (AICE)</a><br>Project homepage</li>
-</ul>
-</div>
-
-
-
-<section class="wp-block-msr-subscribe-to-podcast subscribe-to-podcast">
-	<div class="subscribe-to-podcast__inner border-top border-bottom border-width-2">
-		<h2 class="h5 subscribe-to-podcast__heading">
-			Subscribe to the <a href="https://www.microsoft.com/en-us/research/podcast">Microsoft Research Podcast</a>:		</h2>
-		<ul class="subscribe-to-podcast__list list-unstyled">
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://itunes.apple.com/us/podcast/microsoft-research-a-podcast/id1318021537?mt=2" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 32 32">  <path d="M7.12 0c-3.937-0.011-7.131 3.183-7.12 7.12v17.76c-0.011 3.937 3.183 7.131 7.12 7.12h17.76c3.937 0.011 7.131-3.183 7.12-7.12v-17.76c0.011-3.937-3.183-7.131-7.12-7.12zM15.817 3.421c3.115 0 5.932 1.204 8.079 3.453 1.631 1.693 2.547 3.489 3.016 5.855 0.161 0.787 0.161 2.932 0.009 3.817-0.5 2.817-2.041 5.339-4.317 7.063-0.812 0.615-2.797 1.683-3.115 1.683-0.12 0-0.129-0.12-0.077-0.615 0.099-0.792 0.192-0.953 0.64-1.141 0.713-0.296 1.932-1.167 2.677-1.911 1.301-1.303 2.229-2.932 2.677-4.719 0.281-1.1 0.244-3.543-0.063-4.672-0.969-3.595-3.907-6.385-7.5-7.136-1.041-0.213-2.943-0.213-4 0-3.636 0.751-6.647 3.683-7.563 7.371-0.245 1.004-0.245 3.448 0 4.448 0.609 2.443 2.188 4.681 4.255 6.015 0.407 0.271 0.896 0.547 1.1 0.631 0.447 0.192 0.547 0.355 0.629 1.14 0.052 0.485 0.041 0.62-0.072 0.62-0.073 0-0.62-0.235-1.199-0.511l-0.052-0.041c-3.297-1.62-5.407-4.364-6.177-8.016-0.187-0.943-0.224-3.187-0.036-4.052 0.479-2.323 1.396-4.135 2.921-5.739 2.199-2.319 5.027-3.543 8.172-3.543zM16 7.172c0.541 0.005 1.068 0.052 1.473 0.14 3.715 0.828 6.344 4.543 5.833 8.229-0.203 1.489-0.713 2.709-1.619 3.844-0.448 0.573-1.537 1.532-1.729 1.532-0.032 0-0.063-0.365-0.063-0.803v-0.808l0.552-0.661c2.093-2.505 1.943-6.005-0.339-8.296-0.885-0.896-1.912-1.423-3.235-1.661-0.853-0.161-1.031-0.161-1.927-0.011-1.364 0.219-2.417 0.744-3.355 1.672-2.291 2.271-2.443 5.791-0.348 8.296l0.552 0.661v0.813c0 0.448-0.037 0.807-0.084 0.807-0.036 0-0.349-0.213-0.683-0.479l-0.047-0.016c-1.109-0.885-2.088-2.453-2.495-3.995-0.244-0.932-0.244-2.697 0.011-3.625 0.672-2.505 2.521-4.448 5.079-5.359 0.547-0.193 1.509-0.297 2.416-0.281zM15.823 11.156c0.417 0 0.828 0.084 1.131 0.24 0.645 0.339 1.183 0.989 1.385 1.677 0.62 2.104-1.609 3.948-3.631 3.005h-0.015c-0.953-0.443-1.464-1.276-1.475-2.36 0-0.979 0.541-1.828 1.484-2.328 0.297-0.156 0.709-0.235 1.125-0.235zM15.812 17.464c1.319-0.005 2.271 0.463 2.625 1.291 0.265 0.62 0.167 2.573-0.292 5.735-0.307 2.208-0.479 2.765-0.905 3.141-0.589 0.52-1.417 0.667-2.209 0.385h-0.004c-0.953-0.344-1.157-0.808-1.553-3.527-0.452-3.161-0.552-5.115-0.285-5.735 0.348-0.823 1.296-1.285 2.624-1.291z"/></svg>
-						<span class="subscribe-to-podcast__link-text">Apple Podcasts</span>
-					</a>
-				</li>
-			
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://subscribebyemail.com/www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M6.4 6a2.392 2.392 0 00-2.372 2.119L16 15.6l11.972-7.481A2.392 2.392 0 0025.6 6H6.4zM4 10.502V22.8a2.4 2.4 0 002.4 2.4h19.2a2.4 2.4 0 002.4-2.4V10.502l-11.365 7.102a1.2 1.2 0 01-1.27 0L4 10.502z"/></svg>
-						<span class="subscribe-to-podcast__link-text">Email</span>
-					</a>
-				</li>
-			
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://subscribeonandroid.com/www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M12.414 4.02c-.062.012-.126.023-.18.06a.489.489 0 00-.12.675L13.149 6.3c-1.6.847-2.792 2.255-3.18 3.944h13.257c-.388-1.69-1.58-3.097-3.179-3.944l1.035-1.545a.489.489 0 00-.12-.675.492.492 0 00-.675.135l-1.14 1.68a7.423 7.423 0 00-2.55-.45c-.899 0-1.758.161-2.549.45l-1.14-1.68a.482.482 0 00-.494-.195zm1.545 3.824a.72.72 0 110 1.44.72.72 0 010-1.44zm5.278 0a.719.719 0 110 1.44.719.719 0 110-1.44zM8.44 11.204A1.44 1.44 0 007 12.644v6.718c0 .795.645 1.44 1.44 1.44.168 0 .33-.036.48-.09v-9.418a1.406 1.406 0 00-.48-.09zm1.44 0V21.76c0 .793.646 1.44 1.44 1.44h10.557c.793 0 1.44-.647 1.44-1.44V11.204H9.878zm14.876 0c-.169 0-.33.035-.48.09v9.418c.15.052.311.09.48.09a1.44 1.44 0 001.44-1.44v-6.719a1.44 1.44 0 00-1.44-1.44zM11.8 24.16v1.92a1.92 1.92 0 003.84 0v-1.92h-3.84zm5.759 0v1.92a1.92 1.92 0 003.84 0v-1.92h-3.84z"/></svg>
-						<span class="subscribe-to-podcast__link-text">Android</span>
-					</a>
-				</li>
-			
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://open.spotify.com/show/4ndjUXyL0hH1FXHgwIiTWU" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M16 4C9.383 4 4 9.383 4 16s5.383 12 12 12 12-5.383 12-12S22.617 4 16 4zm5.08 17.394a.781.781 0 01-1.086.217c-1.29-.86-3.477-1.434-5.303-1.434-1.937.002-3.389.477-3.403.482a.782.782 0 11-.494-1.484c.068-.023 1.71-.56 3.897-.562 1.826 0 4.365.492 6.171 1.696.36.24.457.725.217 1.085zm1.56-3.202a.895.895 0 01-1.234.286c-2.338-1.457-4.742-1.766-6.812-1.747-2.338.02-4.207.466-4.239.476a.895.895 0 11-.488-1.723c.145-.041 2.01-.5 4.564-.521 2.329-.02 5.23.318 7.923 1.995.419.26.547.814.286 1.234zm1.556-3.745a1.043 1.043 0 01-1.428.371c-2.725-1.6-6.039-1.94-8.339-1.942h-.033c-2.781 0-4.923.489-4.944.494a1.044 1.044 0 01-.474-2.031c.096-.023 2.385-.55 5.418-.55h.036c2.558.004 6.264.393 9.393 2.23.497.292.663.931.371 1.428z"/></svg>
-						<span class="subscribe-to-podcast__link-text">Spotify</span>
-					</a>
-				</li>
-			
-							<li class="subscribe-to-podcast__list-item">
-					<a class="subscribe-to-podcast__link" href="https://www.blubrry.com/feeds/microsoftresearch.xml" target="_blank" rel="noreferrer noopener">
-						<svg class="subscribe-to-podcast__svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 32"><path fill="currentColor" d="M6.667 4a2.676 2.676 0 00-2.612 2.13v.003c-.036.172-.055.35-.055.534v18.666c0 .183.019.362.055.534v.003a2.676 2.676 0 002.076 2.075h.002c.172.036.35.055.534.055h18.666A2.676 2.676 0 0028 25.333V6.667a2.676 2.676 0 00-2.13-2.612h-.003A2.623 2.623 0 0025.333 4H6.667zM8 8h1.333C17.42 8 24 14.58 24 22.667V24h-2.667v-1.333c0-6.618-5.382-12-12-12H8V8zm0 5.333h1.333c5.146 0 9.334 4.188 9.334 9.334V24H16v-1.333A6.674 6.674 0 009.333 16H8v-2.667zM10 20a2 2 0 11-.001 4.001A2 2 0 0110 20z"/></svg>
-						<span class="subscribe-to-podcast__link-text">RSS Feed</span>
-					</a>
-				</li>
-					</ul>
-	</div>
-</section>
-
-
-<div class="wp-block-msr-show-more">
-	<div class="bg-neutral-100 p-5">
-		<div class="show-more-show-less" data-mount="show-more-show-less">
-			<div>
-				<span>
-					
-
-<h2 class="wp-block-heading" id="transcript">Transcript</h2>
-
-
-
-<p>[TEASER] </p>
-
-
-
-<p>[MUSIC PLAYS UNDER DIALOGUE]</p>
-
-
-
-<p><strong>NICOLE IMMORLICA</strong>: So honestly, when generative AI came out, I had a bit of a moment, a like crisis of confidence, so to speak, in the value of theory in my own work. And I decided to dive into a data-driven project, which was not my background at all. As a complete newbie, I was quite shocked by what I found, which is probably common knowledge among experts: data is <em>very</em> messy and <em>very</em> noisy, and it&#8217;s very hard to get any signal out of it. Theory is an essential counterpart to any data-driven research. It provides a guiding light. But even more importantly, theory allows us to illuminate things that have not even happened. So with models, we can hypothesize about possible futures and use that to shape what direction we take.</p>
-
-
-
-<p>[TEASER ENDS]</p>
-
-
-
-<p><strong>GRETCHEN HUIZINGA</strong>: You’re listening to <em>Ideas</em>, a Microsoft Research Podcast that dives deep into the world of technology research and the profound questions behind the code. I’m Gretchen Huizinga. In this series, we’ll explore the technologies that are shaping our future and the big ideas that propel them forward.</p>
-
-
-
-<p>[MUSIC FADES]</p>
-
-
-
-<p>My guest on this episode is Nicole Immorlica, a senior principal research manager at Microsoft Research New England, where she leads the Economics and Computation Group. Considered by many to be an expert on social networks, matching markets, and mechanism design, Nicole has a long list of accomplishments and honors to her name and some pretty cool new research besides. Nicole Immorlica, I&#8217;m excited to get into <em>all</em> the things with you today. Welcome to <em>Ideas</em>!&nbsp;</p>
-
-
-
-				</span>
-				<span id="show-more-show-less-toggle-12" class="show-more-show-less-toggleable-content">
-					
-
-
-
-<p><strong>NICOLE IMMORLICA:</strong> Thank you.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> So before we get into specifics on the big ideas behind your work, let&#8217;s find out a little bit about how and why you started doing it. Tell us your research origin story and, if there was one, what big idea or animating “what if” inspired young Nicole and launched a career in theoretical economics and computation research?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> So I took a rather circuitous route to my current research path. In high school, I thought I actually wanted to study physics, specifically cosmology, because I was super curious about the origins and evolution of the universe. In college, I realized on a day-to-day basis, what I really enjoyed was the math underlying physics, in particular proving theorems. So I changed my major to computer science, which was the closest thing to math that seemed to have a promising career path. [LAUGHTER] But when graduation came, I just wasn&#8217;t ready to be a grownup and enter the workforce! So I defaulted to graduate school thinking I&#8217;d continue my studies in theoretical computer science. It was in graduate school where I found my passion for the intersection of CS theory and micro-economics. I was just really enthralled with this idea that I could use the math that I so love to understand society and to help shape it in ways that improve the world for everyone in it.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> I&#8217;ve yet to meet an accomplished researcher who didn&#8217;t have at least one inspirational “who” behind the “what.” So tell us about the influential people in your life. Who are your heroes, economic or otherwise, and how did their ideas inspire yours and even inform your career?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, of course. So when I was a graduate student at MIT, you know, I was happily enjoying my math, and just on a whim, I decided to take a course, along with a bunch of my other MIT graduate students, at Harvard from Professor Al Roth. And this was a market design course. We didn&#8217;t even really know what market design was, but in the context of that course, Al himself and the course content just demonstrated to me the transformative power of algorithms and economics. So, I mean, you might have heard of Al. He eventually won a Nobel Prize in economics for his work using a famous matching algorithm to optimize markets for doctors and separately for kidney exchange programs. And I thought to myself, wow, this is such meaningful work. This is something that I want to do, something I can contribute to the world, you know, something that my skill set is well adapted to. And so I just decided to move on with that, and I&#8217;ve never really looked back. It&#8217;s so satisfying to do something that&#8217;s both … I like both the means and I care very deeply about the ends.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> So, Nicole, you mentioned you took a course from Al Roth. Did he become anything more to you than that one sort of inspirational teacher? Did you have any interaction with him? And were there any other professors, authors, or people that inspired you in the coursework and graduate studies side of things?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, I mean, Al has been transformative for my whole career. Like, I first met him in the context of that course, but I, and many of the graduate students in my area, have continued to work with him, speak to him at conferences, be influenced by him, so he&#8217;s been there throughout my career for me.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right, right, right …&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> In terms of other inspirations, I&#8217;ve really admired throughout my career … this is maybe more structurally how different individuals operate their careers. So, for example, Jennifer Chayes, who was the leader of the Microsoft Research lab that I joined …&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah!&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> … and nowadays Sue Dumais. Various other classic figures like Éva Tardos. Like, all of these are incredibly strong, driven women that have a vision of research, which has been transformative in their individual fields but also care very deeply about the community and the larger context than just themselves and creating spaces for people to really flourish. And I really admire that, as well.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah, I&#8217;ve had both Sue and Jennifer on the show before, and they are amazing. Absolutely. Well, listen, Nicole, as an English major, I was thrilled—and a little surprised—to hear that literature has influenced your work in economics. I did not have that on my bingo card. Tell us about your interactions with literature and how they broadened your vision of optimization and economic models.</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Oh, I read a lot, especially fiction. And I care very deeply about being a broad human being, like, with a lot of different facets. And so I seek inspiration not just from my fellow economists and computer scientists but also from artists and writers. One specific example would be Walt Whitman. So I took up this poetry class as an MIT alumni, Walt Whitman, and we, in the context of that course, of course, read his famous poem “<em>Song of Myself</em>.” And I remember one specific verse just really struck me, where he writes, “Do I contradict myself? Very well then I contradict myself, (I am large, I contain multitudes.)” And this just was so powerful because, you know, in traditional economic models, we assume that individuals seek to optimize a single objective function, which we call their utility, but what Whitman is pointing out is that we actually have many different objective functions, which can even conflict with one another, and some at times are more salient than others, and they arise from my many identities as a member of my family, as an American, as you know, a computer scientist, as an economist, and maybe we should actually try to think a little bit more seriously about these multiple identities in the context of our modeling.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> That just warms my English major heart … [LAUGHS]&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> I&#8217;m glad! [LAUGHS]&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Oh my gosh. And it&#8217;s so interesting because, yeah, we always think of, sort of, <em>singular</em> optimization. And so it&#8217;s like, how do we expand our horizon on that sort of optimization vision? So I love that. Well, you&#8217;ve received what I can only call a <em>flurry</em> of honors and awards last year. Most recently, you were named an ACM Fellow—ACM being Association for Computing Machinery, for those who don&#8217;t know—which acknowledges people who bring, and I quote, “transformative contributions to computing science and technology.” Now your citation is for, and I quote again, “contributions to economics and computation, including market design, auctions, and social networks.” That&#8217;s a mouthful, but if we&#8217;re talking about transformative contributions, how were things different before you brought your ideas to this field, and how were your contributions transformative or groundbreaking?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, so it&#8217;s actually a relatively new thing for computer scientists to study economics, and I was among the first cohort to do so seriously. So before our time, economists mostly focused on finding optimal solutions to the problems they posed without regard for the computational or informational requirements therein. But computer scientists have an extensive toolkit to manage such complexities. So, for example, in a paper on pricing, which is a classic economic problem—how do we set up prices for goods in a store?—my coauthors and I used the computer science notion of approximation to show that a very simple menu of prices generates almost optimal revenue for the seller. And prior to this work, economists only knew how to characterize optimal but infinitely large and thereby impractical menus of prices. So this is an example of the kind of work that I and other computer scientists do that can really transform economics.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right. Well, in addition to the ACM fellowship, another honor you received from ACM in 2023 was the Test of Time Award, where the Special Interest Group on Economics and Computation, or SIGecom, recognizes influential papers published between 10 and 25 years ago that significantly impacted research or applications in economics and computation. Now you got this award for a paper you cowrote in 2005 called “Marriage, Honesty, and Stability.” Clearly, I&#8217;m not an economist because I thought this was about how to avoid getting a divorce, but actually, it&#8217;s about a well-known and very difficult problem called the <em>stable marriage problem</em>. Tell us about this problem and the paper and why, as the award states, it’s stood the test of time.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Sure. You&#8217;re not the only one to have misinterpreted the title. [LAUGHTER] I remember I gave a talk once and someone came and when they left the talk, they said, I did not think that this was about math! But, you know, math, as I learned, is about life, and the stable marriage problem has, you know, interpretation about marriage and divorce. In particular, the problem asks, how can we match market participants to one another such that no pair prefer each other to their assigned match? So to relate this to the somewhat outdated application of marriage markets, the market participants could be men and women, and the stable marriage problem asks if there is a set of marriages such that no pair of couples seeks a divorce in order to marry each other. And so, you know, that&#8217;s not really a problem we solve in real life, but there&#8217;s a lot of modern applications of this problem. For example, assigning medical students to hospitals for their residencies, or if you have children, many cities in the United States and around the world use this stable marriage problem to think about the assignment of K-to-12 students to public schools. And so in these applications, the stability property has been shown to contribute to the longevity of the market. And in the 1960s, David Gale and Lloyd Shapley proved, via an algorithm, interestingly, that stable matches exist! Well, in fact, there can be exponentially many stable matches. And so this leads to a very important question for people that want to apply this theory to practice, which is, which stable match should they select among the many ones that exist, and what algorithm should they use to select it? So our work shows that under very natural conditions, namely that preference lists are short and sufficiently random, it doesn&#8217;t matter. Most participants have a unique stable match. And so, you know, you can just design your market without worrying too much about what algorithm you use or which match you select because for most people it doesn&#8217;t matter. And since our paper, many researchers have followed up on our work studying conditions under which matchings are essentially unique and thereby influencing policy recommendations.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Hmm. So this work was clearly focused on the economics side of things like markets. So this seems to have wide application outside of economics. Is that accurate?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Well, it depends how you define economics, so I would …&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> I suppose! [LAUGHTER]&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> I define economics as the problem … I mean, Al Roth, for example, wrote a book whose title was <em>Who Gets What—and Why.</em>&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA: </strong>Ooh.</p>
-
-
-
-<p><strong>IMMORLICA: </strong>So economics is all about, how do we allocate stuff? How do we allocate scarce resources? And many economic problems are not about spending money. It&#8217;s about how do we create outcomes in the world.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> And so I would say all of these problem domains are economics.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Well, finally, as regards the “flurry” of honors, besides being named an ACM Fellow and also this Test of Time Award, you were also named an Economic Theory Fellow by the Society for [the] Advancement of Economic Theory, or SAET. And the primary qualification <em>here</em> was to have “substantially or creatively advanced theoretical economics.” So what were the big challenges you tackled, and what big ideas did you contribute to advance economic theory?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> So as we&#8217;ve discussed, I and others with my background have done a lot to advance economic theory through the lens of computational thinking.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Mmm &#8230;&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> We&#8217;ve introduced ideas such as approximation, which we discussed earlier, or machine learning to economic models and proposing them as solution concepts. We&#8217;ve also used computer science tools to solve problems within these models. So two examples from my own work include randomized algorithm analysis and stochastic gradient descent. And importantly, we&#8217;ve introduced very relevant new <em>settings</em> to the field of economics. So, you know, I&#8217;ve worked hard on large-scale auction design and associated auto-bidding algorithms, for instance, which are a primary source of revenue for tech companies these days. I&#8217;ve thought a lot about how data enters into markets and how we should think about data in the context of market design. And lately, I&#8217;ve spent a lot of time thinking about generative AI and its impact in the economy at both the micro and macro levels.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah. Let&#8217;s take a detour for a minute and get into the philosophical weeds on this idea of theory. And I want to cite an article that was written way back in 2008 by the editor of <em>Wired</em> magazine at the time, Chris Anderson. He wrote an article titled “The End of Theory,” which was provocative in itself. And he began by quoting the British statistician George Box, who famously said, “All models are wrong, but some are useful.” And then he argued that in an era of massively abundant data, companies didn&#8217;t have to settle for wrong models. And then he went even further and attacked the very idea of theory and, citing Google, he said, “Out with every theory of human behavior, from linguistics to sociology. Forget taxonomy, ontology, psychology. Who knows why people do what they do? The point is they do it, and we can track and measure it with unprecedented fidelity.” So, Nicole, from your perch, 15 years later, in the age of generative AI, what did Chris Anderson get right, and what did he get wrong?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> So, honestly, when generative AI came out, I had a bit of a moment, a like crisis of confidence, so to speak, in the value of theory in my own work.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Really!&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> And I decided to dive into a data-driven project, which was not my background <em>at all</em>. As a complete newbie, I was quite shocked by what I found, which is probably common knowledge among experts: data is <em>very</em> messy and <em>very</em> noisy, and it&#8217;s very hard to get any signal out of it. Theory is an essential counterpart to any data-driven research. It provides a guiding light. But even more importantly, theory allows us to illuminate things that have not even happened. So with models, we can hypothesize about possible futures and use that to shape what direction we take. Relatedly, what I think that article got most wrong was the statement that correlation supersedes causation, which is actually how the article closes, this idea that causation is dead or dying. I think causation will never become irrelevant. Causation is what allows us to reason about counterfactuals. It&#8217;s fundamentally irreplaceable. It&#8217;s like, you know, data, you can only see data about things that happened. You can&#8217;t see data about things that <em>could</em> happen but haven&#8217;t or, you know, about alternative futures.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Interesting.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> And that&#8217;s what theory gives you.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah. Well, let&#8217;s continue on that a little bit because this show is yet another part of our short “series within a series” featuring some of the work going on in the AI, Cognition, and the Economy initiative at Microsoft Research. And I just did an episode with Brendan Lucier and Mert Demirer on the micro- and macro-economic impact of generative AI. And you were part of that project, but another fascinating project you&#8217;re involved in right now looks at the impact of generative AI on what you call the “content ecosystem.” So what&#8217;s the problem behind this research, and what unique incentive challenges are content creators facing in light of large language and multimodal AI models?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, so this is a project with Brendan, as well, whom you interviewed previously, and also Nageeb Ali, an economist and AICE Fellow at Penn State, and Meena Jagadeesan, who was my intern from Microsoft Research from UC Berkeley. So when you think about content or really any consumption good, there&#8217;s often a whole supply chain that produces it. For music, for example, there&#8217;s the composition of the song, the recording, the mixing, and finally the delivery to the consumer. And all of these steps involve multiple humans producing things, generating things, getting paid along the way. One way to think about generative AI is that it allows the consumer to bypass this supply chain and just generate the content directly.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right …&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> So, for example, like, I could ask a model, an AI model, to compose and play a song about my cat named Whiskey. [LAUGHTER] And it would do a decent job of it, and it would tailor the song to my specific situation. But there are drawbacks, as well. One thing many researchers fear is that AI needs human-generated content to train. And so if people start bypassing the supply chain and just using AI-generated content, there won&#8217;t be any content for AI to train on and AI will cease to improve.</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Another thing that could be troubling is that there are economies of scale. So there is a nontrivial cost to producing music, even for AI, and if we share that cost among many listeners, it becomes more affordable. But if we each access the content ourselves, it&#8217;s going to impose a large per-song cost. And then finally, and this is, I think, most salient to most people, there&#8217;s some kind of social benefit to having songs that everyone listens to. It provides a common ground for understanding. It&#8217;s a pillar of our culture, right. And so if we bypass that, aren&#8217;t we losing something? So for all of these reasons, it becomes very important to understand the market conditions under which people will choose to bypass supply chains and the associated costs and benefits of this. What we show in this work, which is very much work in progress, is that when AI is very costly, neither producers nor consumers will use it, but as it gets cheaper, at first, it actually helps content producers that can leverage it to augment their own ability, creating higher-quality content, more personalized content more cheaply. But then, as the AI gets super cheap, this bypassing behavior starts to emerge, and the content creators are driven out of the market.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right. So what do we do about that?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Well, you know, you have to take a stance on whether that&#8217;s even a good thing or a bad thing, …&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right!&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> … so it could be that we do nothing about it. We could also impose a sort of minimum wage on AI, if you like, to artificially inflate its costs. We could try to amplify the parts of the system that lead towards more human-generated content, like this sociability, the fact that we all are listening to the same stuff. We could try to make that more salient for people. But, you know, generally speaking, I&#8217;m not really in a place to take a stance on whether this is a good thing or a bad thing. I think this is for policymakers.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> It feels like we&#8217;re at an inflection point. I&#8217;m really interested to see what your research in <em>this</em> arena, the content ecosystem, brings. You know, I&#8217;ll mention, too, recently I read a blog written by Yoshua Bengio and Vincent Conitzer, and they acknowledged that the image that they used at the top had been created by an AI bot. And then they said they made a donation to an art museum to say, we&#8217;re giving something back to the artistic community that we may have used. Where do you see this, you know, #NoLLM situation coming in this content ecosystem market?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, that&#8217;s a very interesting move on their part. I know Vince quite well, actually. I&#8217;m not sure that artists of the sort of “art museum nature” suffer, so …&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right? [LAUGHS]&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> One of my favorite artists is Laurie Anderson. I don&#8217;t know if you&#8217;ve seen her work at all …&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah, I have, yeah.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> … but she has a piece in the MASS MoCA right now, which is just brilliant, where she actually uses generative AI to create a sequence of images that creates an alternate story about her family history. And it&#8217;s just really, really cool. I&#8217;m more worried about people who are doing art vocationally, and I think, and maybe you heard some of this from Mert and Brendan, like what&#8217;s going to happen is that careers are going to shift and different vocations will become more salient, and we&#8217;ve seen this through every technological revolution. People shift their work towards the things that are uniquely human that we can provide and if generating an image at the top of a blog is not one of them, you know, so be it. People will do something else.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right, right, right. Yeah, I just … we&#8217;re on the cusp, and there&#8217;s a lot of things that are going to happen in the next couple of years, maybe a couple of months, who knows? [LAUGHTER] Well, we hear a lot of dystopian fears—some of them we&#8217;ve just referred to—around AI and its impact on humanity, but those fears are often dismissed by tech optimists as what I might call “unwishful thinking.” So your research interests involve the design and use of sociotechnical systems to quote, “explain, predict, and shape behavioral patterns in various online and offline systems, markets, and games.” Now I&#8217;m with you on the “explain and predict” but when we get to shaping behavioral patterns, I wonder how we tease out the bad from the good. So, in light of the power of these sociotechnical systems, what could possibly go wrong, Nicole, if in fact you got everything right?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, first I should clarify something. When I say I&#8217;m interested in <em>shaping</em> behavioral patterns, I don&#8217;t mean that I want to impose particular behaviors on people but rather that I want to design systems that expose to people relevant information and possible actions so that <em>they</em> have the power to shape their own behavior to achieve their own goals. And if we&#8217;re able to do that, and do it really well, then things can only really go wrong if you believe people aren&#8217;t good at making themselves happy. I mean, there&#8217;s certainly evidence of this, like the field of behavioral economics, to which I have contributed some, tries to understand how and when people make mistakes in their behavioral choices. And it proposes ways to help people mitigate these mistakes. But I caution us from going too far in this direction because at the end of the day, I believe people know things about themselves that no external authority can know. And you don&#8217;t want to impose constraints that prevent people from acting on that information.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Another issue here is, of course, externalities. It could be that my behavior makes me happy but makes you unhappy. [LAUGHTER] So another thing that can go wrong is that we, as designers of technology, fail to capture these underlying externalities. I mean, ideally, like an economist would say, well, you should pay with your own happiness for any negative externality you impose on others. And the fields of market and mechanism design have identified very beautiful ways of making this happen automatically in simple settings, such as the famous Vickrey auction. But getting this right in the complex sociotechnical systems of our day is quite a challenge.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> OK, go back to that auction. What did you call it? The Vickrey auction?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, so Vickrey was an economist, and he proposed an auction format that … so an auction is trying to find a way to allocate goods, let&#8217;s say, to bidders such that the bidders that value the goods the most are the ones that win them.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Hm.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> But of course, these bidders are imposing a negative externality on the people who lose, right? [LAUGHTER] And so what Vickrey showed is that a well-designed system of prices can compensate the losers exactly for the externality that is imposed on them. A very simple example of a Vickrey auction is if you&#8217;re selling just one good, like a painting, then what you should do, according to Vickrey, is solicit bids, give it to the highest bidder, and charge them the second-highest price.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Interesting …&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> And so &#8230; that&#8217;s going to have good outcomes for society.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah, yeah. I want to expand on a couple of thoughts here. One is as you started out to answer this question, you said, well, I&#8217;m not interested in shaping behaviors in terms of making you do what I want you to do. But maybe someone else is. What happens if it falls into the wrong hands?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, I mean, there&#8217;s definitely competing interests. Everybody has their own objectives, and …&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Sure, sure.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> … I might be very fundamentally opposed to some of them, but everybody&#8217;s trying to optimize something, and there are competing optimization objectives. And so what&#8217;s going to happen if people are leveraging this technology to optimize for themselves and thereby harming me a lot?&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Ideally, we&#8217;ll have regulation to kind of cover that. I think what I&#8217;m more worried about is the idea that the technology itself might not be aligned with me, right. Like at the end of the day, there are companies that are producing this technology that I&#8217;m then using to achieve my objectives, but the company&#8217;s objectives, the creators of the technology, might not be completely aligned with the person&#8217;s objectives. And so I&#8217;ve looked a little bit in my research about how this potential misalignment might result in outcomes that are not all that great for either party.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Wow. Is that stuff that&#8217;s in the works?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> We have a few published papers on the area. I don&#8217;t know if you want me to get into them.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> No, actually, what we&#8217;ll probably do is put some in the show notes. We&#8217;ll link people to those papers because I think that&#8217;s an interesting topic. Listen, most research is incremental in nature, where the ideas are basically iterative steps on existing work. But sometimes there are out-of-the-box ideas that feel like bigger swings or even outrageous, and Microsoft is well known for making room for these. Have you had an idea that felt outrageous, any idea that felt outrageous, or is there anything that you might even consider outrageous now that you&#8217;re currently working on or even thinking about?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, well, I mean, this whole moment in history feels outrageous, honestly! [LAUGHTER] It&#8217;s like I&#8217;m kind of living in the sci-fi novels of my youth.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> So together with my economics and social science colleagues at Microsoft Research, one thing that we&#8217;re really trying to think through is this outrageous idea of <em>agentic AI</em>.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Mmm &#8230;&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> That is, every single individual and business can have their own AI that acts like their own personal butler that knows them intimately and can take actions on their behalf. In such a world, what will become of the internet, social media, platforms like Amazon, Spotify, Uber? On the one hand, you know, maybe this is good because these individual agentic AIs can just bypass all of these kinds of intermediaries. For example, if I have a busy day of back-to-back meetings at work, my personal AI can notice that I have no time for lunch, contact the AI of some restaurant to order a sandwich for me, make sure that sandwich is tailored to my dietary needs and preferences, and then contact the AI of a delivery service to make sure that sandwich is sitting on my desk when I walk into my noon meeting, right.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right &#8230;&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> And this is a huge disruption to how things currently work. It&#8217;s shifting the power away from centralized platforms, back to individuals and giving them the agency over their data and the power to leverage it to fulfill their needs. So the, sort of, big questions that we&#8217;re thinking about right now is, how will such decentralized markets work? How will they be monetized? Will it be a better world than the one we live in now, or are we losing something? And if it is a better world, how can we get from here to there? And if it&#8217;s a worse world, how can we steer the ship in the other direction, you know?&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Right.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> These are all very important questions in this time.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Does this feel like it&#8217;s imminent?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> I do think it&#8217;s imminent. And I think, you know, in life, you can, kind of, decide whether to embrace the good or embrace the bad, see the glass as half-full or half-empty, and …&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah.&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> … I am hoping that society will see the half-full side of these amazing technologies and leverage them to do really great things in the world.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Man, I would love to talk to you for another hour, but we have to close things up. To close <em>this</em> show, I want to do something new with you, a sort of lightning round of short questions with short answers that give us a little window into your life. So are you ready?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yup!&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> OK. First one, what are you reading right now for work?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Lots of papers of my students that are on the job market to help prepare recommendation letters. It&#8217;s actually very inspiring to see the creativity of the younger generation. In terms of books, I&#8217;m reading the <em>Idea Factory</em>, which is about the creation of Bell Labs.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Ooh! Interesting!&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> You might be interested in it actually. It talks about the value of theory and understanding the fundamentals of a problem space and the sort of business value of that, so it&#8217;s very intriguing.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> OK, second question. What are you reading for pleasure?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> The book on my nightstand right now is the <em>Epic of Gilgamesh</em>, the graphic novel version. I&#8217;m actually quite enthralled by graphic novels ever since I first encountered <em>Maus</em> by Art Spiegelman in the ’90s. But my favorite reading leans towards magic realism, so like Gabriel García Márquez, Italo Calvino, Isabel Allende, and the like. I try to read nonfiction for pleasure, too, but I generally find life is a bit too short for that genre! [LAUGHTER]&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Well, and I made an assumption that what you were reading for work wasn&#8217;t pleasurable, but um, moving on, question number three, what app doesn&#8217;t exist but should?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Teleportation.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Ooh, fascinating. What app exists but shouldn&#8217;t?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> That&#8217;s much harder for me. I think all apps within legal bounds should be allowed to exist and the free market should decide which ones survive. Should there be more regulation of apps? Perhaps. But more at the level of giving people tools to manage their consumption at their own discretion and not outlawing specific apps; that just feels too paternalistic to me.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Interesting. OK, next question. What&#8217;s one thing that used to be very important to you but isn&#8217;t so much anymore?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Freedom. So by that I mean the freedom to do whatever I want, whenever I want, with whomever I want. This feeling that I could go anywhere at any time without any preparation, that I could be the Paul Erdős of the 21st century, traveling from city to city, living out of a suitcase, doing beautiful math just for the art of it. This feeling that I have no responsibilities. Like, I really bought into that in my 20s.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> And not so much now?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> No.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> OK, so what&#8217;s one thing that wasn&#8217;t very important to you but is now?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Now, as Janis Joplin sang, “Freedom is just another word for nothing left to lose.” [LAUGHTER] And so now it&#8217;s important to me to have things to lose—roots, family, friends, pets. I think this is really what gives my life meaning.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah, having Janis Joplin cited in this podcast wasn&#8217;t on my bingo card either, but that&#8217;s great. Well, finally, Nicole, I want to ask you this question based on something we talked about before. Our audience doesn’t know it, but I think it’s funny. What do Norah Jones and oatmeal have in common for you?&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Yeah, so I use these in conversation as examples of comfort and nostalgia in the categories of music and food because I think they&#8217;re well-known examples. But for me personally, comfort is the Brahms Cello Sonata in E Minor, which was in fact my high school cello performance piece, and nostalgia is spaghetti with homemade marinara sauce, either my boyfriend&#8217;s version or, in my childhood, my Italian grandma&#8217;s version.&nbsp;</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Man! Poetry, art, cooking, music &#8230; who would have expected all of these to come into an economist/computer scientist podcast on the Microsoft Research Podcast. Nicole Immorlica, how fun to have you on the show! Thanks for joining us today on <em>Ideas</em>!&nbsp;</p>
-
-
-
-<p><strong>IMMORLICA:</strong> Thank you for having me.&nbsp;</p>
-
-
-
-<p>[MUSIC]&nbsp;</p>
-
-				</span>
-			</div>
-			<button
-				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
-				aria-expanded="false"
-				data-show-less-text="Show less"
-				type="button"
 				aria-controls="show-more-show-less-toggle-12"
 				aria-label="Show more content"
 				data-alternate-aria-label="Show less content">
@@ -2493,7 +2706,7 @@
 		</div>
 	</div>
 </div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-economics-and-computation-with-nicole-immorlica/">Ideas: Economics and computation with Nicole Immorlica</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		
