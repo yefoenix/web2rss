@@ -6,46 +6,16 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 01:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 01:26:33 +0000</lastBuildDate>
     <item>
-      <title>Boost your Looker Studio Pro skills with new on-demand course from Google Cloud</title>
-      <link>https://cloud.google.com/blog/products/business-intelligence/new-looker-studio-pro-essentials-on-demand-course</link>
-      <description>Business IntelligenceBoost your Looker Studio Pro skills with new on-demand course from Google CloudBy Rishabh Dhingra • 2-minute read</description>
+      <title>How Memorystore helps FanCode stream 2X more live sports</title>
+      <link>https://cloud.google.com/blog/products/databases/fancode-migrates-from-aws-to-memorystore-for-redis-cluster</link>
+      <description>DatabasesHow Memorystore helps FanCode stream 2X more live sportsBy Guruwinder Singh Rishi • 4-minute read</description>
     </item>
     <item>
-      <title>A look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browser</title>
-      <link>https://cloud.google.com/blog/products/chrome-enterprise/a-look-back-at-chrome-enterprise-in-2024-strengthening-security-and-improving-productivity-in-the-browser</link>
-      <description>Chrome EnterpriseA look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browserBy Hakan Kilic • 3-minute read</description>
-    </item>
-    <item>
-      <title>XRefer: The Gemini-Assisted Binary Navigator</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/xrefer-gemini-assisted-binary-navigator</link>
-      <description>Threat IntelligenceXRefer: The Gemini-Assisted Binary NavigatorBy Mandiant  • 26-minute read</description>
-    </item>
-    <item>
-      <title>Tailor your search engine with AI-powered hybrid search in Spanner</title>
-      <link>https://cloud.google.com/blog/topics/developers-practitioners/hybrid-search-in-spanner-combine-full-text-and-vector-search</link>
-      <description>Developers &amp; PractitionersTailor your search engine with AI-powered hybrid search in SpannerBy Chao Tian • 9-minute read</description>
-    </item>
-    <item>
-      <title>What’s new with Google Cloud</title>
-      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
-      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
-    </item>
-    <item>
-      <title>Become Among the First Certified Chrome Enterprise Administrators</title>
-      <link>https://cloud.google.com/blog/products/chrome-enterprise/become-among-the-first-certified-chrome-enterprise-administrators</link>
-      <description>Chrome EnterpriseBecome Among the First Certified Chrome Enterprise AdministratorsBy Ankit Mohanty • 2-minute read</description>
-    </item>
-    <item>
-      <title>AI Playground: Where learning and innovation converge in the heart of London</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/ai-playground-where-learning-and-innovation-converge-in-the-heart-of-london</link>
-      <description>AI &amp; Machine LearningAI Playground: Where learning and innovation converge in the heart of LondonBy Olly Grundy • 2-minute read</description>
-    </item>
-    <item>
-      <title>Looker now available in the AWS Marketplace, bringing AI for BI to multi-cloud environments</title>
-      <link>https://cloud.google.com/blog/products/data-analytics/looker-now-available-from-aws-marketplace</link>
-      <description>Data AnalyticsLooker now available in the AWS Marketplace, bringing AI for BI to multi-cloud environmentsBy Rishabh Dhingra • 3-minute read</description>
+      <title>Google Cloud's commitment to responsible AI is now ISO/IEC certified</title>
+      <link>https://cloud.google.com/blog/products/identity-security/google-clouds-commitment-to-responsible-ai-is-now-iso-iec-certified</link>
+      <description>Security &amp; IdentityGoogle Cloud's commitment to responsible AI is now ISO/IEC certifiedBy Jeanette Manfra  • 3-minute read</description>
     </item>
     <item>
       <title>Google Cloud and SAP: Powering AI with enterprise data</title>
@@ -53,9 +23,39 @@
       <description>SAP on Google CloudGoogle Cloud and SAP: Powering AI with enterprise dataBy Dinesh Vandayar • 7-minute read</description>
     </item>
     <item>
+      <title>Optimizing RAG retrieval: Test, tune, succeed</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval</link>
+      <description>AI &amp; Machine LearningOptimizing RAG retrieval: Test, tune, succeedBy Hugo Selbie • 9-minute read</description>
+    </item>
+    <item>
+      <title>Find sensitive data faster (but safely) with Google Distributed Cloud’s gen AI search solution</title>
+      <link>https://cloud.google.com/blog/topics/hybrid-cloud/on-prem-generative-ai-search-with-google-distributed-cloud-rag</link>
+      <description>Hybrid &amp; MulticloudFind sensitive data faster (but safely) with Google Distributed Cloud’s gen AI search solutionBy Antoine Haas • 3-minute read</description>
+    </item>
+    <item>
+      <title>How Google Cloud can help customers achieve compliance with NIS2</title>
+      <link>https://cloud.google.com/blog/products/identity-security/how-google-cloud-can-help-customers-achieve-compliance-with-nis2</link>
+      <description>Security &amp; IdentityHow Google Cloud can help customers achieve compliance with NIS2By Tara Brady • 9-minute read</description>
+    </item>
+    <item>
       <title>What’s new for Google Cloud databases — December 2024</title>
       <link>https://cloud.google.com/blog/products/databases/whats-new-for-databases-december-2024</link>
       <description>DatabasesWhat’s new for Google Cloud databases — December 2024By Joey Lynne Hernandez • 9-minute read</description>
+    </item>
+    <item>
+      <title>Database Center: Now with support for Bigtable, Firestore, and Memorystore</title>
+      <link>https://cloud.google.com/blog/products/databases/database-centers-supports-bigtable-memorystore-and-firestore</link>
+      <description>DatabasesDatabase Center: Now with support for Bigtable, Firestore, and MemorystoreBy Kiran Shenoy • 3-minute read</description>
+    </item>
+    <item>
+      <title>What’s new with Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
+    </item>
+    <item>
+      <title>Calling all devs: Code the future of baseball with Google Cloud and MLB</title>
+      <link>https://cloud.google.com/blog/products/application-development/google-cloud-mlb-hackathon-powered-by-gemini</link>
+      <description>Application DevelopmentCalling all devs: Code the future of baseball with Google Cloud and MLBBy Richard Seroter • 3-minute read</description>
     </item>
   </channel>
 </rss>

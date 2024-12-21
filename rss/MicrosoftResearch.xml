@@ -12,7 +12,7 @@
 	<atom:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.microsoft.com/en-us/research/</link>
 	<description></description>
-	<lastBuildDate>Thu, 19 Dec 2024 22:47:59 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Dec 2024 00:04:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,223 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
+		<title>AIOpsLab: Building AI agents for autonomous clouds</title>
+		<link>https://www.microsoft.com/en-us/research/blog/aiopslab-building-ai-agents-for-autonomous-clouds/</link>
+		
+		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2024 23:56:03 +0000</pubDate>
+				<category><![CDATA[Research Blog]]></category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1104735</guid>
+
+					<description><![CDATA[<p>AIOpsLab is an open-source framework designed to evaluate and improve AI agents for cloud operations, offering standardized, scalable benchmarks for real-world testing, enhancing cloud system reliability.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/aiopslab-building-ai-agents-for-autonomous-clouds/">AIOpsLab: Building AI agents for autonomous clouds</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1.png" alt="graphical user interface, application, icon" class="wp-image-1112118" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1.png 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1-300x169.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1-1024x576.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1-768x432.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1-1066x600.png 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1-655x368.png 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1-240x135.png 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1-640x360.png 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1-960x540.png 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1-1280x720.png 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<p>In our increasingly complex digital landscape, enterprises and cloud providers face significant challenges in the development, deployment, and maintenance of sophisticated IT applications. The broad adoption of microservices and cloud-based serverless architecture has streamlined certain aspects of application development while simultaneously introducing a host of operational difficulties, particularly in fault diagnosis and mitigation. These complexities can result in outages, which have the potential to cause major business disruptions, underscoring the critical need for robust solutions that ensure high availability and reliability in cloud services. As the expectation for five-nines availability grows, organizations must navigate the intricate web of operational demands to maintain customer satisfaction and business continuity.&nbsp;</p>
+
+
+
+<p>To tackle these challenges, recent research on using AIOps agents for cloud operations—such as AI agents for incident root cause analysis (RCA) or triaging—has relied on proprietary services and datasets. Other prior works use frameworks specific to the solutions that they are building, or <em>ad hoc</em> and static benchmarks and metrics that fail to capture the dynamic nature of real-world cloud services. Users developing agents for cloud operations tasks with Azure AI Agent Service can evaluate and improve them using AIOpsLab. Furthermore, current approaches do not agree on standard metrics or a standard taxonomy for operational tasks. <strong>This calls for a standardized and principled research framework for building, testing, comparing, and improving AIOps agents.</strong> The framework should allow agents to interact with realistic service operation tasks in a reproducible manner. It must be flexible in extending to new applications, workloads, and faults. Importantly, it should go beyond just evaluating the AI agents and enabling users to improve the agents themselves; for example, by providing sufficient observability and even serving as a training environment (“gym”) to generate samples to learn on.&nbsp;&nbsp;</p>
+
+
+
+<p>We developed AIOpsLab, a holistic evaluation framework for researchers and developers, to enable the design, development, evaluation, and enhancement of AIOps agents, which also serves the purpose of reproducible, standardized, interoperable, and scalable benchmarks. AIOpsLab is open sourced at <a class="msr-external-link glyph-append glyph-append-open-in-new-tab glyph-append-xsmall" href="https://github.com/microsoft/AIOpsLab/">GitHub<span class="sr-only"> (opens in new tab)</span></a> with the MIT license, so that researchers and engineers can leverage it to evaluate AIOps agents at scale. The AIOpsLab research paper has been accepted at SoCC’24 (the annual ACM Symposium on Cloud Computing).&nbsp;</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1400" height="612" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/AIOps-Lab_blog_fig1-overview_1400.jpg" alt="Flowchart of an AIOpsLab system. The chart is divided into four main sections: AIOps Tasks, Orchestrator, Problem Cache, and Service. AIOps Tasks list various applications like SocialNetwork, HotelReservation, E-Commerce, and others, each with associated Data, Actions, Metrics. These tasks connect to the Orchestrator. The Orchestrator is the central element and interacts with various components: it receives a Problem Query Q, detailing Problem, Task T, Workload W, Fault F, and Solution S. It is responsible for deploying or running the workload and injecting faults, as well as taking actions based on the Service State relayed by an Agent. The Problem Cache connects to a Workload Generator and a Fault Generator, creating Workload W for the Service. The Service component shows observability through Traces, Metrics, and Logs. It communicates with the Orchestrator to provide service state updates. The components are connected with arrows that indicate the flow of data and control between each part of the system. " class="wp-image-1106274" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/AIOps-Lab_blog_fig1-overview_1400.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/AIOps-Lab_blog_fig1-overview_1400-300x131.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/AIOps-Lab_blog_fig1-overview_1400-1024x448.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/AIOps-Lab_blog_fig1-overview_1400-768x336.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/AIOps-Lab_blog_fig1-overview_1400-240x105.jpg 240w" sizes="(max-width: 1400px) 100vw, 1400px" /><figcaption class="wp-element-caption">Figure 1. System architecture of AIOpsLab.&nbsp;</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading" id="agent-cloud-interface-aci">Agent-cloud interface (ACI)</h2>
+
+
+
+<p>AIOpsLab strictly separates the agent and the application service using an intermediate orchestrator. It provides several interfaces for other system parts to integrate and extend. First, it establishes a session with an agent to share information about benchmark problems: (1) the problem description, (2) instructions (e.g., response format), and (3) available APIs to call as actions.</p>
+
+
+
+<p>The APIs are a set of documented tools, e.g., get logs, get metrics, and exec shell, designed to help the agent solve a task. There are no restrictions on the agent&#8217;s implementation; the orchestrator poses problems and polls it for the next action to perform given the previous result. Each action must be a valid API call, which the orchestrator validates and carries out. The orchestrator has privileged access to the deployment and can take arbitrary actions (e.g., scale-up, redeploy) using appropriate tools (e.g., helm, kubectl) to resolve problems on behalf of the agent. Lastly, the orchestrator calls workload and fault generators to create service disruptions, which serve as live benchmark problems. AIOpsLab provides additional APIs to extend to new services and generators.&nbsp;</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading h5" id="example-shows-how-to-onboard-an-agent-to-aiopslab">Example shows how to onboard an agent to AIOpsLab</h3>
+
+
+
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<div class="wp-block-syntaxhighlighter-code "><pre class="brush: python; gutter: false; title: ; notranslate">
+from aiopslab import Orchestrator
+class Agent:
+    def __init__(self, prob, instructs, apis):
+        self.prompt = self.set_prompt(prob, instructs, apis)
+        self.llm = GPT4()
+
+    async def get_action(self, state: str) -> str:
+        return self.llm.generate(self.prompt + state)
+
+#initialize the orchestrator
+orch = Orchestrator()
+pid = "misconfig_app_hotel_res-mitigation-1"
+prob_desc, instructs, apis = orch.init_problem(pid)
+
+#register and evaluate the agent
+agent = Agent(prob_desc, instructs, apis)
+orch.register_agent(agent, name="myAgent")
+asyncio.run(orch.start_problem(max_steps=10))
+</pre></div>
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="service">Service</h2>
+
+
+
+<p>AIOpsLab abstracts a diverse set of services to reflect the variance in production environments. This includes live, running services that are implemented using various architectural principles, including microservices, serverless, and monolithic.</p>
+
+
+
+<p>We also leverage open-sourced application suites such as DeathStarBench as they provide artifacts, like source code and commit history, along with run-time telemetry. Adding tools like BluePrint can help AIOpsLab scale to other academic and production services.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="workload-generator">Workload generator</h2>
+
+
+
+<p>The workload generator in AIOpsLab plays a crucial role by creating simulations of both faulty and normal scenarios. It receives specifications from the orchestrator, such as the task, desired effects, scale, and duration. The generator can use a model trained on real production traces to generate workloads that align with these specifications. Faulty scenarios may simulate conditions like resource exhaustion, exploit edge cases, or trigger cascading failures, inspired by real incidents. Normal scenarios mimic typical production patterns, such as daily activity cycles and multi-user interactions. When various characteristics (e.g., service calls, user distribution, arrival times) can lead to the desired effect, multiple workloads can be stored in the problem cache for use by the orchestrator. In coordination with the fault generator, the workload generator can also create complex fault scenarios with workloads.&nbsp;&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading" id="fault-generator">Fault generator</h2>
+
+
+
+<p>AIOpsLab has a novel push-button fault generator designed for generic applicability across various cloud scenarios. Our approach integrates application and domain knowledge to create adaptable policies and “oracles” compatible with AIOps scenarios. This includes fine-grained fault injection capable of simulating complex failures inspired by production incidents. Additionally, it can inject faults at various system levels, exposing root causes while maintaining semantic integrity and considering interdependencies between cloud microservices. The fault injector&#8217;s versatility can enhance the reliability and robustness of cloud systems by enabling thorough testing and evaluation of AIOps capabilities.&nbsp;</p>
+
+
+
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044939">
+		
+
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">on-demand event</span>
+	</p>
+	
+	<div class="row pt-3 pb-4 align-items-center">
+						<div class="msr-promo__media col-12 col-md-5">
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/story/sep-2024-brief/?OCID=msr_researchforum_MCR_Blog_Promo" aria-label="Microsoft Research Forum Episode 4" data-bi-cN="Microsoft Research Forum Episode 4" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/RF4_Panel_1400x788.jpg" alt="Research Forum | Episode 4 Panel | John Langford, Hoifung Poon, Katja Hofmann, Jianwei Yang" />
+				</a>
+			</div>
+			
+			<div class="msr-promo__content p-3 px-5 col-12 col-md">
+
+									<h2 class="h4">Microsoft Research Forum Episode 4</h2>
+				
+								<p class="large">Learn about the latest multimodal AI models, advanced benchmarks for AI evaluation and model self-improvement, and an entirely new kind of computer for AI inference and hard optimization. </p>
+				
+								<div class="wp-block-buttons justify-content-center justify-content-md-start">
+					<div class="wp-block-button">
+						<a href="https://www.microsoft.com/en-us/research/story/sep-2024-brief/?OCID=msr_researchforum_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Watch on-demand" data-bi-cN="Microsoft Research Forum Episode 4" target="_blank">
+							Watch on-demand						</a>
+					</div>
+				</div>
+							</div><!--/.msr-promo__content-->
+	</div><!--/.msr-promo__inner-wrap-->
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span>	</div><!--/.msr-promo-->
+	
+
+
+<h2 class="wp-block-heading" id="observability">Observability</h2>
+
+
+
+<p>AIOpsLab is equipped with an extensible observability layer designed to provide comprehensive monitoring capabilities across various system layers for any AIOps tool. AIOpsLab collects a wide array of telemetry data, including (1) traces from Jaeger detailing the end-to-end paths of requests through distributed systems, (2) application logs formatted and recorded by Filebeat and Logstash, and (3) system metrics monitored by Prometheus. Additionally, AIOpsLab also captures lower-level system information such as syscall logs and cluster information. As mentioned, we handle potential data overload through flexible APIs to tune the telemetry data relevant to the AIOps tools.&nbsp;</p>
+
+
+
+<p>AIOpsLab currently supports four key tasks within the AIOps domain. These tasks include incident detection, localization, root cause diagnosis, and mitigation. Additionally, we support several popular agent frameworks: React, Autogen, and TaskWeaver. Two key insights from the study emphasize the importance of observability and well-designed ACI. Observability is crucial for clear root-cause diagnosis, for instance, pinpointing a misconfigured API gateway can be vital in preventing service downtime.</p>
+
+
+
+<p>Flexibility is another critical factor; the ability to execute arbitrary shell commands allowed for effective troubleshooting in real-time scenarios. Lastly, robust error handling is essential—providing agents with high-quality feedback on execution barriers, such as a failed database connection, ensures swift resolution and continuous improvement.&nbsp;</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading h5" id="example-of-aci-on-diagnosis-task">Example of ACI on diagnosis task</h3>
+
+
+
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-constrained wp-container-core-column-is-layout-1 wp-block-column-is-layout-constrained" style="flex-basis:100%">
+<pre class="wp-block-code"><code><span style="color:blue;">Agent:</span> I need to first look at the logs to understand <span style="color:purple;">if</span> there are any errors <span style="color:blue;">or</span> warnings that could indicate problems. 
+
+<span style="color:blue;">Action:</span> 
+
+``` 
+
+get_logs(<span style="color:red;">"compose-post-service"</span>, <span style="color:red;">"test-social-network"</span>) 
+
+```
+<span style="color:blue;">Service:</span> &#91;<span style="color:green;">2024-Aug-04 23:18:49.365494</span>] &lt;info&gt;: 
+
+… 
+
+<span style="color:blue;">Thrift:</span> <span style="color:green;">Sun Aug 4 23:19:19 2024</span> TSocket::open() connect() 
+<mark style="background-color:#ffb900" class="has-inline-color">&lt;Host: user-service Port: 9090&gt;: Connection refused</mark>
+ 
+<span style="color:blue;">Agent:</span> … unable to connect to the <span style="color:red;">`user-service`</span> at port <span style="color:green;">9090</span>, even though the pod is running. <mark style="background-color:#ffb900" class="has-inline-color">This suggests a possible network issue or misconfiguration in service discovery</mark></code></pre>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="next-steps">Next steps</h2>
+
+
+
+<p>This research project adopts Microsoft security standards and Responsible AI principles, and we envision this research evolving into a vital resource for organizations aiming to optimize their IT operations. Additionally, we plan to collaborate with various generative AI teams to incorporate AIOpsLab as a benchmark scenario for evaluating state-of-the-art models. By doing so, we aim to foster innovation and encourage the development of more advanced AIOps solutions. This research is essential not only for IT professionals but also for anyone invested in the future of technology, as it has the potential to redefine how organizations manage operations, respond to incidents, and ultimately serve their customers in an increasingly automated world. </p>
+
+
+
+<h2 class="wp-block-heading" id="acknowledgements">Acknowledgements</h2>
+
+
+
+<p>We would like to thank Yinfang Chen, Manish Shetty, Yogesh Simmhan, <a href="https://www.microsoft.com/en-us/research/people/xuchaozhang/">Xuchao Zhang</a>, <a href="https://www.microsoft.com/en-us/research/people/jonathanmace/">Jonathan Mace</a>, Dax Vandevoorde, <a href="https://www.microsoft.com/en-us/research/people/pedrobr/">Pedro Las-Casas</a>, Shachee Mishra Gupta, and <a href="https://www.microsoft.com/en-us/research/people/sumann/">Suman Nath</a>, for contributing to this project.</p>
+<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/blog/aiopslab-building-ai-agents-for-autonomous-clouds/">AIOpsLab: Building AI agents for autonomous clouds</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Ideas: AI and democracy with Madeleine Daepp and Robert Osazuwa Ness</title>
 		<link>https://www.microsoft.com/en-us/research/podcast/ideas-ai-and-democracy-with-madeleine-daepp-and-robert-osazuwa-ness/</link>
 		
@@ -32,11 +249,11 @@
 <p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-ai-and-democracy-with-madeleine-daepp-and-robert-osazuwa-ness/">Ideas: AI and democracy with Madeleine Daepp and Robert Osazuwa Ness</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1401" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Ginny Badanes, Madeleine Daepp and Robert Osazuwa Ness" class="wp-image-1114101" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788.jpg 1401w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1401px) 100vw, 1401px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1401" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788.jpg" alt="Illustrated headshots of Ginny Badanes, Madeleine Daepp and Robert Osazuwa Ness" class="wp-image-1114101" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788.jpg 1401w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/NEWGinny-Madeleine-and-Robert_Ideas_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="(max-width: 1401px) 100vw, 1401px" /></figure>
 
 
 <div class="wp-block-msr-podcast-container my-4">
-	<iframe src="https://player.blubrry.com/?podcast_id=139965770&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
+	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139965770&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
 </div>
 
 
@@ -849,7 +1066,7 @@
 
 
 
-<figure class="wp-block-image aligncenter size-full"><img decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus: Week of December 16, 2024" class="wp-image-1112832" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg" alt="Research Focus: Week of December 16, 2024" class="wp-image-1112832" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/12/RF55-BlogHeroFeature-1400x788-1-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 
@@ -915,30 +1132,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1044936">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="999693">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Event Series</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" aria-label="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/06/RF-Ep3-Recap-BlogHeroFeature-1400x788-1.jpg" alt="Microsoft Research Forum | Episode 3 | panel discussion" />
+				<a class="bg-gray-300" href="https://researchforum.microsoft.com/?OCID=msr_researchforum_MCR_Blog_Promo" aria-label="Microsoft Research Forum" data-bi-cN="Microsoft Research Forum" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/01/MRF-24_WebImage_1400x788.png" alt="various abstract 3D shapes on a light blue background" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more</h2>
+									<h2 class="h4">Microsoft Research Forum</h2>
 				
-								<p class="large">In the latest episode of Microsoft Research Forum, researchers explored the importance of globally inclusive and equitable AI, shared updates on AutoGen and MatterGen, presented novel use cases for AI, including industrial applications and the potential of multimodal models to improve assistive technologies.</p>
+								<p class="large">Join us for a continuous exchange of ideas about research in the era of general AI. Watch the first four episodes on demand.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/microsoft-research-forum-episode-3-globally-inclusive-and-equitable-ai-new-use-cases-for-ai-and-more/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Microsoft Research Forum Episode 3: Globally inclusive and equitable AI, new use cases for AI, and more" target="_blank">
-							Read more						</a>
+						<a href="https://researchforum.microsoft.com/?OCID=msr_researchforum_MCR_Blog_Promo" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Register for series" data-bi-cN="Microsoft Research Forum" target="_blank">
+							Register for series						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1557,30 +1774,30 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085523">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="670821">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research podcast</span>
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Spotlight: Microsoft research newsletter</span>
 	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" aria-label="Abstracts: August 15, 2024" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/08/Episode-15_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="Stylized microphone and sound waves illustration." />
+				<a class="bg-gray-300" href="https://info.microsoft.com/ww-landing-microsoft-research-newsletter.html" aria-label="Microsoft Research Newsletter" data-bi-cN="Microsoft Research Newsletter" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Newsletter_Banner_08_2019_v1_1920x1080.png" alt="" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">Abstracts: August 15, 2024</h2>
+									<h2 class="h4">Microsoft Research Newsletter</h2>
 				
-								<p class="large">Advanced AI may make it easier for bad actors to deceive others online. A multidisciplinary research team is exploring one solution: a credential that allows people to show they’re not bots without sharing identifying information. Shrey Jain and Zoë Hitzig explain.</p>
+								<p class="large">Stay connected to the research community at Microsoft.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
-					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/podcast/abstracts-august-15-2024/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Listen now" data-bi-cN="Abstracts: August 15, 2024" target="_blank">
-							Listen now						</a>
+					<div class="wp-block-button is-style-fill-chevron">
+						<a href="https://info.microsoft.com/ww-landing-microsoft-research-newsletter.html" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Microsoft Research Newsletter" data-bi-cN="Microsoft Research Newsletter" target="_blank">
+							Subscribe today						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1723,27 +1940,27 @@
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1045008">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1061244">
 		
 
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/gigapath-whole-slide-foundation-model-for-digital-pathology/" aria-label="GigaPath: Whole-Slide Foundation Model for Digital Pathology" data-bi-cN="GigaPath: Whole-Slide Foundation Model for Digital Pathology" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/05/GigaPath-TW_FB_LI.png" alt="Digital pathology helps decode tumor microenvironments for precision immunotherapy. GigaPath is a novel vision transformer that can scale to gigapixel whole-slide images by adapting dilated attention for digital pathology. In joint work with Providence and UW, we’re sharing Prov-GigaPath, the first whole-slide pathology foundation model pretrained on large-scale real-world data, for advancing clinical research and discovery." />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/about-microsoft-research/" aria-label="About Microsoft Research" data-bi-cN="About Microsoft Research" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/07/About-page-promo_1066x600.jpg" alt="" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">GigaPath: Whole-Slide Foundation Model for Digital Pathology</h2>
+									<h2 class="h4">About Microsoft Research</h2>
 				
-								<p class="large">Digital pathology helps decode tumor microenvironments for precision immunotherapy. In joint work with Providence and UW, we’re sharing Prov-GigaPath, the first whole-slide pathology foundation model, for advancing clinical research.</p>
+								<p class="large">Advancing science and technology to benefit humanity</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/gigapath-whole-slide-foundation-model-for-digital-pathology/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="GigaPath: Whole-Slide Foundation Model for Digital Pathology" target="_blank">
-							Read more						</a>
+						<a href="https://www.microsoft.com/en-us/research/about-microsoft-research/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="View our story" data-bi-cN="About Microsoft Research" target="_blank">
+							View our story						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -2553,160 +2770,6 @@
 	</div>
 </div>
 <span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-dylan-foster/">Abstracts: NeurIPS 2024 with Dylan Foster</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Abstracts: NeurIPS 2024 with Pranjal Chitale</title>
-		<link>https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/</link>
-		
-		<dc:creator><![CDATA[Brenda Potts]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 14:00:00 +0000</pubDate>
-				<category><![CDATA[Microsoft Research Podcast]]></category>
-		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1107426</guid>
-
-					<description><![CDATA[<p>Pranjal Chitale discusses the 2024 NeurIPS work CVQA. Spanning 31 languages and the cultures of 30 countries, this VQA benchmark was created with native speakers and cultural experts to evaluate model performance across diverse linguistic and cultural contexts.</p>
-<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg" alt="diagram" class="wp-image-1108932" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788.jpg 1400w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-240x135.jpg 240w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2024/11/Pranjal_Abstracts_Hero_Feature_No_Text_1400x788-1280x720.jpg 1280w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /></figure>
-
-
-<div class="wp-block-msr-podcast-container my-4">
-	<iframe loading="lazy" src="https://player.blubrry.com/?podcast_id=139311215&modern=1" class="podcast-player" frameborder="0" height="164px" width="100%" scrolling="no" title="Podcast Player"></iframe>
-</div>
-
-
-
-<p>Members of the research community at Microsoft work continuously to advance their respective fields.<em> Abstracts </em>brings its audience to the cutting edge with them through short, compelling conversations about new and noteworthy achievements. </p>
-
-
-
-<p>In this episode, Research Fellow <a href="https://www.microsoft.com/en-us/research/people/t-pchitale/?msockid=35739e94ab6c69d41b738b93aa076831">Pranjal Chitale</a> joins host Gretchen Huizinga to discuss&nbsp;the paper <a href="https://www.microsoft.com/en-us/research/publication/cvqa-culturally-diverse-multilingual-visual-question-answering-benchmark/">“CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark,”</a> an oral presentation at this year’s <a href="https://www.microsoft.com/en-us/research/event/neurips-2024/">Conference on Neural Information Processing Systems (NeurIPS)</a>. CVQA, which comprises questions and images representative of 31 languages and the cultures of 30 countries, was created in collaboration with native speakers and cultural experts to evaluate how well models perform across diverse linguistic and cultural contexts, an important step toward improving model inclusivity.</p>
-
-
-
-<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
-<div class="wp-block-button"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://www.microsoft.com/en-us/research/publication/cvqa-culturally-diverse-multilingual-visual-question-answering-benchmark/">Read the paper</a></div>
-
-
-
-<div class="wp-block-button is-style-fill-download"><a data-bi-type="button" class="wp-block-button__link wp-element-button" href="https://huggingface.co/datasets/afaji/cvqa" target="_blank" rel="noreferrer noopener">Get the dataset</a></div>
-</div>
-
-
-<div class="wp-block-msr-show-more">
-	<div class="bg-neutral-100 p-5">
-		<div class="show-more-show-less" data-mount="show-more-show-less">
-			<div>
-				<span>
-					
-
-<h2 class="wp-block-heading" id="transcript">Transcript</h2>
-
-
-
-<p>[MUSIC]</p>
-
-
-
-<p><strong>GRETCHEN HUIZINGA:</strong> Welcome to <em>Abstracts</em>, a Microsoft Research Podcast that puts the spotlight on world-class research in brief. I’m Gretchen Huizinga. In this series, members of the research community at Microsoft give us a quick snapshot—or a <em>podcast abstract</em>— of their new and noteworthy papers.</p>
-
-
-
-<p>[MUSIC FADES]</p>
-
-
-
-<p>Today I&#8217;m talking to Pranjal Chitale, a research fellow at Microsoft Research India. Pranjal is coauthor of a paper called “CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark,” and this paper is an oral presentation at this week&#8217;s 38th annual Conference on Neural Information Processing Systems, or NeurIPS, in Vancouver, BC. Pranjal, thanks for joining us today on <em>Abstracts</em>!<s></s></p>
-
-
-
-				</span>
-				<span id="show-more-show-less-toggle-12" class="show-more-show-less-toggleable-content">
-					
-
-
-
-<p><strong>PRANJAL CHITALE:</strong> Hi, Gretchen. Thanks for having me.</p>
-
-
-
-<p><strong>HUIZINGA:</strong> So, Pranjal, give us an overview of this paper. In a couple sentences, what problem are you trying to solve, and why should people care about it?</p>
-
-
-
-<p><strong>CHITALE:</strong> So we are witnessing some exciting times as LLMs are rapidly evolving as tools for countless use cases. While most of these LLMs were initially leveraged for natural language processing tasks, they are now expanded across languages and modalities. However, a major gap lies in the availability of multimodal data for non-English languages. Therefore, most multimodal models might not have coverage for non-English languages altogether or might just heavily rely on translations of the associated text in English-centric datasets so as to support multiple languages. The drawback of this approach is that it often misses the cultural nuances of local languages. And another reason why this is not optimal is the images are mostly Western-centric [and] therefore would not be well reflective of the local culture of a lot of regions. So this kind of bias can skew these models towards a Western perspective, raising concerns about inclusivity and safety of the content which they generate when serving a global population, which involves multicultural and multilingual users. Therefore, for a truly inclusive AI ecosystem, models must demonstrate cultural understanding to ensure that the generated content is safe, respectful for diverse communities. Evaluating cultural awareness, though, is extremely challenging because how to define culture itself is an unsolved problem. However, in this work, we are trying to take a step towards having a proxy which could measure cultural understanding.</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Well, talk about how you did this. What methodology did you use for this paper, and what were your major findings?</p>
-
-
-
-<p><strong>CHITALE:</strong> Now that we have defined our broader problem, it is important to decide the scope of our solution because, as we discussed, culture is an umbrella term. So we need to define a smaller scope for this problem. We chose visual question answering, which is a multimodal task, and it is one of the most critical multimodal tasks for the scope of this work. So recognizing the limitations of existing VQA benchmarks, which often rely on translations and lack cultural representation, we developed CVQA, which is <em>Culturally-diverse multilingual VQA</em> benchmark. CVQA spans 30 countries, 31 languages, and has over 10,000 culturally nuanced questions, which were crafted by native speakers and cultural experts. So our focus was on creating questions which required what we term as <em>cultural common sense</em> to answer. For instance, with just the image, it is not possible to answer the question. You need some cultural awareness about the local culture to be able to answer the question. So these questions draw inspiration from knowledge of local culture. So one important aspect of this dataset is that we include both local language as well as English variants of the same question to allow robust testing of models across linguistic concepts. I would say the crux of this effort is that while most of the prior efforts may be small in terms of language—it could be language-group specific or country specific for most—but we wanted this to be a much larger global-scale collaborative effort. So this covers 31 languages across 30 countries. So to build CVQA, we worked with qualified volunteers from diverse age group and genders, ensuring that the questions authentically represented their cultures. So images which were collected, those were ensured to be copyright free, grounded in culture, and safe for work with strict guidelines to ensure that we avoid images which reflect some stereotypes or privacy violations. And we also had 10 categories, which involved topics ranging from daily life, sports, cuisine to history of the region, so a holistic view of the culture of the region. So each question was crafted as a multiple-choice task with challenging answer options which required both the image as well as cultural knowledge to solve. We also employed a maker-checker approach to ensure quality and consistency.</p>
-
-
-
-<p><strong>HUIZINGA:</strong> So you&#8217;ve created the benchmark. You&#8217;ve tested it. What were your major findings?</p>
-
-
-
-<p><strong>CHITALE:</strong> Now that we have created a benchmark, the next step is to evaluate how these multimodal models are performing on this benchmark. So we benchmark several state-of-the-art multimodal models, which include both open-source offerings like CLIP, BLIP, LLaVA-1.5, and proprietary offerings like GPT-4o or Gemini 1.5 Flash. So what we observed is there is a huge gap when it comes … in performance when we compare these proprietary offerings versus the open-source models. So GPT-4o was the highest-performing model with 75.4% accuracy on English prompts and 74.3% accuracy on local prompts. However, the story is completely different when we go to open-source models. These open-source models significantly lag behind the proprietary models. And one key finding over these open-source models is that these models perform even worse when prompted in the native language when we compare it to prompting in English. This potentially highlights that these models lack multilingual understanding capabilities, which may be because multilingual training data is pretty scarce.</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Yeah.</p>
-
-
-
-<p><strong>CHITALE:</strong> So LLaVA-1.5 turned out to be the best open-source model. So one thing to notice, LLaVA-1.5 performs well across a large set of English VQA benchmarks, but when it comes to cultural understanding, it is a pretty weak model. Further, we also did some ablations to understand if adding location-specific information to the textual prompts has some impact or not, but we identified that it does not result in any significant performance improvements. Further, we also conducted a category-wise analysis. So, as we had mentioned, there are 10 categories to which these images belong. So what we observed is that certain categories, like people and everyday life, consistently saw higher accuracy across a large set of models. This may be likely due to abundance of human activity data in training datasets. However, when it comes to niche categories like cooking and food, pop culture, which are much more challenging, especially in local languages, these models struggle. Therefore, these are the kind of highly diverse cultural contexts which need improvement.</p>
-
-
-
-<p><strong>HUIZINGA:</strong> How&#8217;s this work going to make an impact outside the lab and in the real world?</p>
-
-
-
-<p><strong>CHITALE:</strong> CVQA is significant because it addresses a fundamental gap in how we evaluate vision-language and multimodal models today. While proprietary models are making impressive strides, open-source models, which are more accessible and easier to deploy, significantly lag behind in terms of cultural awareness and safety. So CVQA fills this gap and provides a much-needed benchmark to help us identify these gaps in the first place. So as to fix them, we first need to identify the gaps, and whether we are progressing or not can be captured by this benchmark. So for the real world, this benchmark does have some far-reaching implications. Models which understand culture are not just technically better, but they would create interactions which are far more engaging, natural, and safe for users from diverse backgrounds. So this benchmark offers entirely new axis for improvement, cultural awareness, and linguistic diversity. Therefore, by improving a model&#8217;s ability to handle culturally nuanced questions, CVQA ensures researchers and developers think beyond accuracy and also focus on cultural awareness and inclusivity before shipping these models into production.</p>
-
-
-
-<p><strong>HUIZINGA:</strong> Pranjal, what are the unanswered questions or unsolved problems in this field, and what do you plan to do about it?</p>
-
-
-
-<p><strong>CHITALE:</strong> So while CVQA makes some strides in addressing cultural and linguistic diversity, there is still much more to explore in this space. So this dataset only covers 31 languages and cultures, but this is just, like, a subset of the incredible diversity that exists globally. Many languages and cultures remain underrepresented, especially some of them are endangered or have limited digital resources. So expanding CVQA to include more of these languages would be a natural next step. Secondly, CVQA just focuses on single-turn question-answer pairs. But in reality, human interaction is often multi-turn and conversational in nature. So a multi-turn version of CVQA could better simulate real-world use cases and challenge models to maintain cultural and contextual awareness over extended dialogues. Another interesting area is personalization. So it would be very interesting if we could teach models to adapt to a user&#8217;s cultural background, preferences, or even regional nuances in real time. This remains a significant challenge, although this benchmark could help us move a step towards our broader goal.</p>
-
-
-
-<p>[MUSIC]<s></s></p>
-
-
-
-<p><strong>HUIZINGA:</strong> Well, Pranjal Chitale, this is super important research, and thank you for joining us today. To our listeners, thanks for tuning in. If you&#8217;re interested in learning more about this paper, you can find it at aka.ms/abstracts. You can also find it on arXiv and on the NeurIPS website. And if you&#8217;re at NeurIPS, you can also go hear about it. See you next time on <em>Abstracts</em>!</p>
-
-
-
-<p>[MUSIC FADES]<s></s></p>
-
-				</span>
-			</div>
-			<button
-				class="action-trigger glyph-prepend mt-2 mb-0 show-more-show-less-toggle"
-				aria-expanded="false"
-				data-show-less-text="Show less"
-				type="button"
-				aria-controls="show-more-show-less-toggle-12"
-				aria-label="Show more content"
-				data-alternate-aria-label="Show less content">
-				Show more			</button>
-		</div>
-	</div>
-</div>
-<span id="label-external-link" class="sr-only" aria-hidden="true">Opens in a new tab</span><p>The post <a href="https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-pranjal-chitale/">Abstracts: NeurIPS 2024 with Pranjal Chitale</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>
 ]]></content:encoded>
 					
 		

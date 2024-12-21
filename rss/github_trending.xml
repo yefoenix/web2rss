@@ -6,51 +6,16 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 01:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 01:26:09 +0000</lastBuildDate>
     <item>
-      <title>fatedier /frp</title>
-      <link>https://github.com/fatedier/frp</link>
-      <description>A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</description>
+      <title>cameron314 /concurrentqueue</title>
+      <link>https://github.com/cameron314/concurrentqueue</link>
+      <description>A fast multi-producer, multi-consumer lock-free concurrent queue for C++11</description>
     </item>
     <item>
-      <title>oven-sh /bun</title>
-      <link>https://github.com/oven-sh/bun</link>
-      <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
-    </item>
-    <item>
-      <title>mui /base-ui</title>
-      <link>https://github.com/mui/base-ui</link>
-      <description>Base UI is an open-source library of accessible, unstyled UI components for React.</description>
-    </item>
-    <item>
-      <title>luckjiawei /frpc-desktop</title>
-      <link>https://github.com/luckjiawei/frpc-desktop</link>
-      <description>frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本</description>
-    </item>
-    <item>
-      <title>microsoft /PowerToys</title>
-      <link>https://github.com/microsoft/PowerToys</link>
-      <description>Windows system utilities to maximize productivity</description>
-    </item>
-    <item>
-      <title>seleniumbase /SeleniumBase</title>
-      <link>https://github.com/seleniumbase/SeleniumBase</link>
-      <description>Python APIs for web automation, testing, and bypassing bot-detection.</description>
-    </item>
-    <item>
-      <title>apache /airflow</title>
-      <link>https://github.com/apache/airflow</link>
-      <description>Apache Airflow - A platform to programmatically author, schedule, and monitor workflows</description>
-    </item>
-    <item>
-      <title>facebookresearch /AnimatedDrawings</title>
-      <link>https://github.com/facebookresearch/AnimatedDrawings</link>
-      <description>Code to accompany "A Method for Animating Children's Drawings of the Human Figure"</description>
-    </item>
-    <item>
-      <title>Guovin /iptv-api</title>
-      <link>https://github.com/Guovin/iptv-api</link>
-      <description>📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
+      <title>flutter /flutter</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
     </item>
     <item>
       <title>stripe /stripe-ios</title>
@@ -58,29 +23,84 @@
       <description>Stripe iOS SDK</description>
     </item>
     <item>
+      <title>taichi-dev /taichi</title>
+      <link>https://github.com/taichi-dev/taichi</link>
+      <description>Productive, portable, and performant GPU programming in Python.</description>
+    </item>
+    <item>
+      <title>meta-llama /llama-stack</title>
+      <link>https://github.com/meta-llama/llama-stack</link>
+      <description>Composable building blocks to build Llama Apps</description>
+    </item>
+    <item>
+      <title>nuxt /nuxt</title>
+      <link>https://github.com/nuxt/nuxt</link>
+      <description>The Intuitive Vue Framework.</description>
+    </item>
+    <item>
+      <title>vitest-dev /vitest</title>
+      <link>https://github.com/vitest-dev/vitest</link>
+      <description>Next generation testing framework powered by Vite.</description>
+    </item>
+    <item>
+      <title>shardeum /shardeum</title>
+      <link>https://github.com/shardeum/shardeum</link>
+      <description>Shardeum is an EVM based autoscaling blockchain</description>
+    </item>
+    <item>
+      <title>meilisearch /meilisearch</title>
+      <link>https://github.com/meilisearch/meilisearch</link>
+      <description>A lightning-fast search API that fits effortlessly into your apps, websites, and workflow</description>
+    </item>
+    <item>
+      <title>scylladb /scylladb</title>
+      <link>https://github.com/scylladb/scylladb</link>
+      <description>NoSQL data store using the seastar framework, compatible with Apache Cassandra</description>
+    </item>
+    <item>
+      <title>PatrickJS /awesome-cursorrules</title>
+      <link>https://github.com/PatrickJS/awesome-cursorrules</link>
+      <description>📄 A curated list of awesome .cursorrules files</description>
+    </item>
+    <item>
       <title>anoma /anoma</title>
       <link>https://github.com/anoma/anoma</link>
       <description>Reference implementation of Anoma</description>
     </item>
     <item>
-      <title>konfig-dev /konfig</title>
-      <link>https://github.com/konfig-dev/konfig</link>
-      <description>SDK &amp; API Docs Generator. Sunset as of December 2024</description>
+      <title>cline /cline</title>
+      <link>https://github.com/cline/cline</link>
+      <description>Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.</description>
     </item>
     <item>
-      <title>EbookFoundation /free-programming-books</title>
-      <link>https://github.com/EbookFoundation/free-programming-books</link>
-      <description>📚 Freely available programming books</description>
-    </item>
-    <item>
-      <title>comet-ml /opik</title>
-      <link>https://github.com/comet-ml/opik</link>
-      <description>Open-source end-to-end LLM Development Platform</description>
+      <title>seleniumbase /SeleniumBase</title>
+      <link>https://github.com/seleniumbase/SeleniumBase</link>
+      <description>Python APIs for web automation, testing, and bypassing bot-detection.</description>
     </item>
     <item>
       <title>XiaoMi /ha_xiaomi_home</title>
       <link>https://github.com/XiaoMi/ha_xiaomi_home</link>
       <description>Xiaomi Home Integration for Home Assistant</description>
+    </item>
+    <item>
+      <title>Helicone /helicone</title>
+      <link>https://github.com/Helicone/helicone</link>
+      <description>🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓 YC W23</description>
+    </item>
+    <item>
+      <title>github /CopilotForXcode</title>
+      <link>https://github.com/github/CopilotForXcode</link>
+      <description>Xcode extension for GitHub Copilot</description>
+    </item>
+    <item>
+      <title>comet-ml /opik</title>
+      <link>https://github.com/comet-ml/opik</link>
+      <description>From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.</description>
+    </item>
+    <item>
+      <title>Genesis-Embodied-AI /Genesis</title>
+      <link>https://github.com/Genesis-Embodied-AI/Genesis</link>
+      <description>A generative world for general-purpose robotics &amp; embodied AI learning.</description>
     </item>
   </channel>
 </rss>

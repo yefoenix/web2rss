@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 01:27:21 +0000</lastBuildDate>
-    <item>
-      <title>Metasploit Weekly Wrap-Up 11/29/2024</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/29/metasploit-weekly-wrapup-11-29-2024/</link>
-      <description>Four new Metasploit modules released, including CUPS IPP Attributes LAN Remote Code Execution CVE-2024-47176</description>
-    </item>
+    <lastBuildDate>Sat, 21 Dec 2024 01:26:07 +0000</lastBuildDate>
     <item>
       <title>Why Cybercriminals Are Not Necessarily Embracing AI</title>
       <link>https://www.rapid7.com/blog/post/2024/12/02/why-cybercriminals-are-not-necessarily-embracing-ai/</link>
@@ -108,6 +103,22 @@ contributed</description>
       <title>What’s New in Rapid7 Products &amp; Services: Q4 2024 in Review</title>
       <link>https://www.rapid7.com/blog/post/2024/12/18/whats-new-in-rapid7-products-services-q4-2024-in-review/</link>
       <description>Below, we’ve highlighted key releases and updates from the quarter across our products and services, including the new Platform Home Navigation experience, extensibility enhancements to Exposure Command and Surface Command, expanded MXDR support, and 2024 threat landscape trends from Rapid7 Labs.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 12/20/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/20/metasploit-weekly-wrap-up-12-20-2024/</link>
+      <description>New module content (4)
+GameOver(lay) Privilege Escalation and Container Escape
+Authors: bwatters-r7, g1vi, gardnerapp, and h00die
+Type: Exploit
+Pull request: #19460  
+contributed by gardnerapp 
+Path: linux/local/gameoverlay_privesc
+AttackerKB reference: CVE-2023-2640
+
+
+Description: Adds a module for CVE-2023-2640 and CVE-2023-32629, a local
+privil</description>
     </item>
   </channel>
 </rss>
