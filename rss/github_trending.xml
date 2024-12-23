@@ -6,41 +6,11 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Dec 2024 01:41:08 +0000</lastBuildDate>
-    <item>
-      <title>1Panel-dev /1Panel</title>
-      <link>https://github.com/1Panel-dev/1Panel</link>
-      <description>🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.</description>
-    </item>
-    <item>
-      <title>paradigmxyz /reth</title>
-      <link>https://github.com/paradigmxyz/reth</link>
-      <description>Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</description>
-    </item>
-    <item>
-      <title>bol-van /zapret</title>
-      <link>https://github.com/bol-van/zapret</link>
-      <description>DPI bypass multi platform</description>
-    </item>
-    <item>
-      <title>donnemartin /system-design-primer</title>
-      <link>https://github.com/donnemartin/system-design-primer</link>
-      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
-    </item>
+    <lastBuildDate>Mon, 23 Dec 2024 01:28:15 +0000</lastBuildDate>
     <item>
       <title>github /CopilotForXcode</title>
       <link>https://github.com/github/CopilotForXcode</link>
       <description>Xcode extension for GitHub Copilot</description>
-    </item>
-    <item>
-      <title>XiaoMi /ha_xiaomi_home</title>
-      <link>https://github.com/XiaoMi/ha_xiaomi_home</link>
-      <description>Xiaomi Home Integration for Home Assistant</description>
-    </item>
-    <item>
-      <title>tldraw /tldraw</title>
-      <link>https://github.com/tldraw/tldraw</link>
-      <description>whiteboard / infinite canvas SDK</description>
     </item>
     <item>
       <title>shardeum /shardeum</title>
@@ -48,29 +18,14 @@
       <description>Shardeum is an EVM based autoscaling blockchain</description>
     </item>
     <item>
-      <title>Guovin /iptv-api</title>
-      <link>https://github.com/Guovin/iptv-api</link>
-      <description>📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool</description>
+      <title>browserbase /stagehand</title>
+      <link>https://github.com/browserbase/stagehand</link>
+      <description>An AI web browsing framework focused on simplicity and extensibility.</description>
     </item>
     <item>
-      <title>taichi-dev /taichi</title>
-      <link>https://github.com/taichi-dev/taichi</link>
-      <description>Productive, portable, and performant GPU programming in Python.</description>
-    </item>
-    <item>
-      <title>microsoft /PromptWizard</title>
-      <link>https://github.com/microsoft/PromptWizard</link>
-      <description>Task-Aware Agent-driven Prompt Optimization Framework</description>
-    </item>
-    <item>
-      <title>web-infra-dev /midscene</title>
-      <link>https://github.com/web-infra-dev/midscene</link>
-      <description>An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.</description>
-    </item>
-    <item>
-      <title>anthropics /anthropic-cookbook</title>
-      <link>https://github.com/anthropics/anthropic-cookbook</link>
-      <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+      <title>raysan5 /raylib</title>
+      <link>https://github.com/raysan5/raylib</link>
+      <description>A simple and easy-to-use library to enjoy videogames programming</description>
     </item>
     <item>
       <title>Zipstack /unstract</title>
@@ -78,24 +33,54 @@
       <description>No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents</description>
     </item>
     <item>
-      <title>seleniumbase /SeleniumBase</title>
-      <link>https://github.com/seleniumbase/SeleniumBase</link>
-      <description>Python APIs for web automation, testing, and bypassing bot-detection.</description>
+      <title>Helicone /helicone</title>
+      <link>https://github.com/Helicone/helicone</link>
+      <description>🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓</description>
     </item>
     <item>
-      <title>apache /airflow</title>
-      <link>https://github.com/apache/airflow</link>
-      <description>Apache Airflow - A platform to programmatically author, schedule, and monitor workflows</description>
+      <title>gorhill /uBlock</title>
+      <link>https://github.com/gorhill/uBlock</link>
+      <description>uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</description>
     </item>
     <item>
-      <title>apankrat /nullboard</title>
-      <link>https://github.com/apankrat/nullboard</link>
-      <description>Nullboard is a minimalist kanban board, focused on compactness and readability.</description>
+      <title>taichi-dev /taichi</title>
+      <link>https://github.com/taichi-dev/taichi</link>
+      <description>Productive, portable, and performant GPU programming in Python.</description>
+    </item>
+    <item>
+      <title>anthropics /anthropic-cookbook</title>
+      <link>https://github.com/anthropics/anthropic-cookbook</link>
+      <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+    </item>
+    <item>
+      <title>fchollet /ARC-AGI</title>
+      <link>https://github.com/fchollet/ARC-AGI</link>
+      <description>The Abstraction and Reasoning Corpus</description>
+    </item>
+    <item>
+      <title>bytedance /monolith</title>
+      <link>https://github.com/bytedance/monolith</link>
+      <description>ByteDance's Recommendation System</description>
+    </item>
+    <item>
+      <title>bol-van /zapret</title>
+      <link>https://github.com/bol-van/zapret</link>
+      <description>DPI bypass multi platform</description>
+    </item>
+    <item>
+      <title>tldraw /tldraw</title>
+      <link>https://github.com/tldraw/tldraw</link>
+      <description>whiteboard / infinite canvas SDK</description>
     </item>
     <item>
       <title>Genesis-Embodied-AI /Genesis</title>
       <link>https://github.com/Genesis-Embodied-AI/Genesis</link>
       <description>A generative world for general-purpose robotics &amp; embodied AI learning.</description>
+    </item>
+    <item>
+      <title>donnemartin /system-design-primer</title>
+      <link>https://github.com/donnemartin/system-design-primer</link>
+      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
     </item>
     <item>
       <title>nicbarker /clay</title>
