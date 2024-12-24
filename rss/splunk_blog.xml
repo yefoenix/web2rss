@@ -6,51 +6,51 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 01:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 01:26:34 +0000</lastBuildDate>
     <item>
-      <title>Logs Are For Campfires: Log Data, Big Data, and Splunk Asset &amp; Risk Intelligence</title>
-      <link>https://www.splunk.com/en_us/blog/security/log-data-asset-risk-intelligence.html</link>
-      <description>Discover how Splunk Asset and Risk Intelligence (ARI) transforms log data into actionable insights. From automated asset discovery to risk and compliance management, ARI empowers organizations with real-time visibility, vulnerability tracking, and proactive threat mitigation. Elevate your security posture today.</description>
+      <title>What Is ITOps? IT Operations Defined</title>
+      <link>https://www.splunk.com/en_us/blog/learn/it-operations-itops.html</link>
+      <description>Explore the evolving landscape of IT Operations (ITOps) in the modern tech era. Learn how ITOps, DevOps, and AIOps intersect to ensure stable, efficient IT ecosystems for business success.</description>
     </item>
     <item>
-      <title>Cisco Intends to Acquire Threat Detection and Defense Company SnapAttack, Driving Further Splunk Innovation to Power the SOC of the Future</title>
-      <link>https://www.splunk.com/en_us/blog/security/cisco-intends-to-acquire-threat-detection-and-defense-company-snapattack.html</link>
-      <description>Cisco announces it intent to acquire threat detection and defense company SnapAttack, driving further Splunk innovation to power the SOC of the future.</description>
+      <title>The Observability Center of Excellence: Measuring &amp; Improving Observability-as-Service(OaaS)</title>
+      <link>https://www.splunk.com/en_us/blog/observability/measuring-improving-observability-as-service-oaas.html</link>
+      <description>Learn to define and measure Observability-as-a-Service (OaaS) with actionable KPIs in this Observability Center of Excellence blog. Explore key KPI categories, avoid common pitfalls, and align KPIs with OKRs for measurable success.</description>
     </item>
     <item>
-      <title>What Is a NOC? Network Operations Centers, Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/noc-network-operations-center.html</link>
-      <description>Discover how NOCs ensure network uptime. Learn roles, practices &amp; tools for optimal performance. Explore NOC vs. SOC distinctions</description>
+      <title>What’s CaaS? Containers as a Service Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/containers-as-a-service-caas.html</link>
+      <description>Containers are popular for software development, and now they’re even easier: using CaaS. Learn all about CaaS and how it works in this in-depth article.</description>
     </item>
     <item>
-      <title>CI/CD Automation for Splunk Apps using GitHub Actions, Part 2</title>
-      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/ci-cd-automation-for-splunk-apps-using-github-actions-part-2.html</link>
-      <description>Streamline your Splunk app development with CI/CD automation using GitHub Actions. Learn how to validate code with Splunk AppInspect, run tests across multiple Splunk versions in Docker, and automate app releases. Boost efficiency, collaboration, and code quality with this step-by-step guide.</description>
+      <title>What’s SaaS Monitoring? Why You Need To Monitor SaaS Apps</title>
+      <link>https://www.splunk.com/en_us/blog/learn/saas-monitoring.html</link>
+      <description>The SaaS delivery model comes with many conveniences for organizations. But you have less visibility to answer questions, and that’s where SaaS monitoring comes in.</description>
     </item>
     <item>
-      <title>What Is Small Data In AI?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/small-data.html</link>
-      <description>For years, big data has been all the rage. What about small data? Get the full story on small data here and see why it may soon be more important than big data.</description>
+      <title>SLA Templates: How To Create Service Level Agreements</title>
+      <link>https://www.splunk.com/en_us/blog/learn/service-level-agreements-sla-template.html</link>
+      <description>SLAs power the digital world: they define what users can expect from a service and what happens when a service provider fails to meet those expectations.</description>
     </item>
     <item>
-      <title>What Are SLMs? Small Language Models, Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/small-language-models-slms.html</link>
-      <description>Large language models have changed the world. What about small language models? Learn what SLMs are, how they differ from LLMs, and why SLMs are the future.</description>
+      <title>Kubernetes Monitoring: The Ultimate Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/kubernetes-monitoring.html</link>
+      <description>Monitoring Kubernetes is a complicated but critical practice. Learn why and how you need to do it in this comprehensive, hands-on guide to K8s monitoring.</description>
     </item>
     <item>
-      <title>SAST vs. DAST vs. RASP: Comparing Application Security Testing Methods</title>
-      <link>https://www.splunk.com/en_us/blog/learn/sast-vs-dast.html</link>
-      <description>Building secure apps is the only way forward. Learn about security testing solutions SAST, DAST, and RASP, as they offer multi-layered protection for applications</description>
+      <title>Meduza Stealer Analysis: A Closer Look at its Techniques and Attack Vector</title>
+      <link>https://www.splunk.com/en_us/blog/security/meduza-stealer-analysis.html</link>
+      <description>Uncover Meduza Stealer, a 2023 malware targeting credentials and crypto wallets. Explore its evasion tactics, attack methods, and Splunk’s expert insights for enhanced security.</description>
     </item>
     <item>
-      <title>SCADA Systems: What They Are &amp; How They Work</title>
-      <link>https://www.splunk.com/en_us/blog/learn/scada-systems.html</link>
-      <description>SCADA is a common industrial control system. Let’s understand how SCADA systems work, including the various components, and also look at the challenges today.</description>
+      <title>Website Security: Tips &amp; Best Practices for Securing Websites</title>
+      <link>https://www.splunk.com/en_us/blog/learn/website-security.html</link>
+      <description>Protect your website with essential security tips and best practices. Learn how to defend against cyber threats, safeguard data, and build customer trust.</description>
     </item>
     <item>
-      <title>Blacklist &amp; Whitelist: Terms To Avoid</title>
-      <link>https://www.splunk.com/en_us/blog/learn/blacklist-whitelist-inclusivity.html</link>
-      <description>In this article, we will dive into why “blacklist” and “whitelist” are not inclusive terms and explore potential alternatives that can promote a more inclusive language.</description>
+      <title>Splunk AppDynamics 24.10 Accelerates Deployment And MTTR</title>
+      <link>https://www.splunk.com/en_us/blog/observability/splunk-appdynamics-accelerates-deployment-and-mttr.html</link>
+      <description>Splunk AppDynamics, now part of the Splunk Observability portfolio, provides critical observability for traditional 3-tier/n-tier applications and helps IT Operations teams quickly discover root causes of issues before end-users even notice.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
@@ -228,6 +228,11 @@
       <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
     </item>
     <item>
+      <title>Digital Resilience Powers Your Mission: GovSummit 2024 in Review</title>
+      <link>https://www.splunk.com/en_us/blog/industries/digital-resilience-powers-your-mission-govsummit-2024-in-review.html</link>
+      <description>Splunk's VP of Public Sector, Bill Rowan shares his three key takeaways from Splunk GovSummit 2024.</description>
+    </item>
+    <item>
       <title>Cisco Intends to Acquire Threat Detection and Defense Company SnapAttack, Driving Further Splunk Innovation to Power the SOC of the Future</title>
       <link>https://www.splunk.com/en_us/blog/security/cisco-intends-to-acquire-threat-detection-and-defense-company-snapattack.html</link>
       <description>Cisco announces it intent to acquire threat detection and defense company SnapAttack, driving further Splunk innovation to power the SOC of the future.</description>
@@ -256,6 +261,11 @@
       <title>Bridging the Cyber Confidence Gap: Digital Resilience in the Public Sector</title>
       <link>https://www.splunk.com/en_us/blog/industries/bridging-the-cyber-confidence-gap-digital-resilience-in-the-public-sector.html</link>
       <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
+    </item>
+    <item>
+      <title>Digital Resilience Powers Your Mission: GovSummit 2024 in Review</title>
+      <link>https://www.splunk.com/en_us/blog/industries/digital-resilience-powers-your-mission-govsummit-2024-in-review.html</link>
+      <description>Splunk's VP of Public Sector, Bill Rowan shares his three key takeaways from Splunk GovSummit 2024.</description>
     </item>
     <item>
       <title>Cisco Intends to Acquire Threat Detection and Defense Company SnapAttack, Driving Further Splunk Innovation to Power the SOC of the Future</title>

@@ -6,61 +6,11 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 01:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 01:26:40 +0000</lastBuildDate>
     <item>
-      <title>github /CopilotForXcode</title>
-      <link>https://github.com/github/CopilotForXcode</link>
-      <description>Xcode extension for GitHub Copilot</description>
-    </item>
-    <item>
-      <title>shardeum /shardeum</title>
-      <link>https://github.com/shardeum/shardeum</link>
-      <description>Shardeum is an EVM based autoscaling blockchain</description>
-    </item>
-    <item>
-      <title>browserbase /stagehand</title>
-      <link>https://github.com/browserbase/stagehand</link>
-      <description>An AI web browsing framework focused on simplicity and extensibility.</description>
-    </item>
-    <item>
-      <title>raysan5 /raylib</title>
-      <link>https://github.com/raysan5/raylib</link>
-      <description>A simple and easy-to-use library to enjoy videogames programming</description>
-    </item>
-    <item>
-      <title>Zipstack /unstract</title>
-      <link>https://github.com/Zipstack/unstract</link>
-      <description>No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents</description>
-    </item>
-    <item>
-      <title>Helicone /helicone</title>
-      <link>https://github.com/Helicone/helicone</link>
-      <description>🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓</description>
-    </item>
-    <item>
-      <title>gorhill /uBlock</title>
-      <link>https://github.com/gorhill/uBlock</link>
-      <description>uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.</description>
-    </item>
-    <item>
-      <title>taichi-dev /taichi</title>
-      <link>https://github.com/taichi-dev/taichi</link>
-      <description>Productive, portable, and performant GPU programming in Python.</description>
-    </item>
-    <item>
-      <title>anthropics /anthropic-cookbook</title>
-      <link>https://github.com/anthropics/anthropic-cookbook</link>
-      <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
-    </item>
-    <item>
-      <title>fchollet /ARC-AGI</title>
-      <link>https://github.com/fchollet/ARC-AGI</link>
-      <description>The Abstraction and Reasoning Corpus</description>
-    </item>
-    <item>
-      <title>bytedance /monolith</title>
-      <link>https://github.com/bytedance/monolith</link>
-      <description>ByteDance's Recommendation System</description>
+      <title>sxyazi /yazi</title>
+      <link>https://github.com/sxyazi/yazi</link>
+      <description>💥 Blazing fast terminal file manager written in Rust, based on async I/O.</description>
     </item>
     <item>
       <title>bol-van /zapret</title>
@@ -68,14 +18,59 @@
       <description>DPI bypass multi platform</description>
     </item>
     <item>
+      <title>fchollet /ARC-AGI</title>
+      <link>https://github.com/fchollet/ARC-AGI</link>
+      <description>The Abstraction and Reasoning Corpus</description>
+    </item>
+    <item>
+      <title>shardeum /shardeum</title>
+      <link>https://github.com/shardeum/shardeum</link>
+      <description>Shardeum is an EVM based autoscaling blockchain</description>
+    </item>
+    <item>
+      <title>rivet-gg /rivet</title>
+      <link>https://github.com/rivet-gg/rivet</link>
+      <description>🔩 Run and scale realtime applications with Rivet Actors.</description>
+    </item>
+    <item>
+      <title>Zipstack /unstract</title>
+      <link>https://github.com/Zipstack/unstract</link>
+      <description>No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents</description>
+    </item>
+    <item>
+      <title>malmeloo /FindMy.py</title>
+      <link>https://github.com/malmeloo/FindMy.py</link>
+      <description>🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!</description>
+    </item>
+    <item>
+      <title>gitroomhq /postiz-app</title>
+      <link>https://github.com/gitroomhq/postiz-app</link>
+      <description>📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</description>
+    </item>
+    <item>
+      <title>raysan5 /raylib</title>
+      <link>https://github.com/raysan5/raylib</link>
+      <description>A simple and easy-to-use library to enjoy videogames programming</description>
+    </item>
+    <item>
       <title>tldraw /tldraw</title>
       <link>https://github.com/tldraw/tldraw</link>
       <description>whiteboard / infinite canvas SDK</description>
     </item>
     <item>
-      <title>Genesis-Embodied-AI /Genesis</title>
-      <link>https://github.com/Genesis-Embodied-AI/Genesis</link>
-      <description>A generative world for general-purpose robotics &amp; embodied AI learning.</description>
+      <title>anthropics /anthropic-cookbook</title>
+      <link>https://github.com/anthropics/anthropic-cookbook</link>
+      <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+    </item>
+    <item>
+      <title>Shubhamsaboo /awesome-llm-apps</title>
+      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
+      <description>Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</description>
+    </item>
+    <item>
+      <title>practical-tutorials /project-based-learning</title>
+      <link>https://github.com/practical-tutorials/project-based-learning</link>
+      <description>Curated list of project-based tutorials</description>
     </item>
     <item>
       <title>donnemartin /system-design-primer</title>
