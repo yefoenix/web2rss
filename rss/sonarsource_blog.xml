@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.sonarsource.com/blog/tag/security/. follow.is: feedId:71371191432910866+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 01:42:57 +0000</lastBuildDate>
-    <item>
-      <title>Re-moo-te Code Execution in Mailcow: Always Sanitize Error Messages</title>
-      <link>https://www.sonarsource.com/blog/remote-code-execution-in-mailcow-always-sanitize-error-messages/</link>
-      <description>Our research team discovered two vulnerabilities in mailcow, an email server solution. Attackers could compromise an instance, impersonate users, and steal emails.</description>
-    </item>
+    <lastBuildDate>Wed, 25 Dec 2024 01:25:46 +0000</lastBuildDate>
     <item>
       <title>Securing Developer Tools: Unpatched Code Vulnerabilities in Gogs (1/2)</title>
       <link>https://www.sonarsource.com/blog/securing-developer-tools-unpatched-code-vulnerabilities-in-gogs-1/</link>
@@ -66,6 +61,11 @@
       <title>Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail</title>
       <link>https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/</link>
       <description>HTML sanitization has long been touted as a solution to prevent malicious content injection. However, this approach faces numerous challenges. In this blog post, we'll explore the limitations of server-side HTML sanitization and discuss why client-side sanitization is the better approach.</description>
+    </item>
+    <item>
+      <title>Never Underestimate CSRF: Why Origin Reflection is a Bad Idea</title>
+      <link>https://www.sonarsource.com/blog/never-underestimate-csrf-why-origin-reflection-is-a-bad-idea/</link>
+      <description>CORS misconfigurations are often overlooked, but they can have severe consequences. We demonstrate how reflecting the origin header leads to code execution in Whistle.</description>
     </item>
   </channel>
 </rss>

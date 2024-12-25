@@ -6,56 +6,56 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 01:43:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 01:26:02 +0000</lastBuildDate>
     <item>
-      <title>Build, deploy, and promote AI agents through Google Cloud’s AI agent ecosystem</title>
-      <link>https://cloud.google.com/blog/topics/partners/build-deploy-and-promote-ai-agents-through-the-google-cloud-ai-agent-ecosystem-program</link>
-      <description>PartnersBuild, deploy, and promote AI agents through Google Cloud’s AI agent ecosystemBy Kevin Ichhpurani • 8-minute read</description>
+      <title>Google Cloud and SAP: Powering AI with enterprise data</title>
+      <link>https://cloud.google.com/blog/products/sap-google-cloud/the-case-for-running-rise-with-sap-on-google-cloud</link>
+      <description>SAP on Google CloudGoogle Cloud and SAP: Powering AI with enterprise dataBy Dinesh Vandayar • 7-minute read</description>
     </item>
     <item>
-      <title>How Vodafone is using gen AI to enhance network life cycle</title>
-      <link>https://cloud.google.com/blog/topics/telecommunications/vodafone-gen-ai-enhances-network-lifecycle</link>
-      <description>TelecommunicationsHow Vodafone is using gen AI to enhance network life cycleBy Sherif Said • 7-minute read</description>
+      <title>Optimizing RAG retrieval: Test, tune, succeed</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval</link>
+      <description>AI &amp; Machine LearningOptimizing RAG retrieval: Test, tune, succeedBy Hugo Selbie • 9-minute read</description>
     </item>
     <item>
-      <title>Seeing Through a GLASSBRIDGE: Understanding the Digital Marketing Ecosystem Spreading Pro-PRC Influence Operations</title>
-      <link>https://cloud.google.com/blog/topics/threat-intelligence/glassbridge-pro-prc-influence-operations</link>
-      <description>Threat IntelligenceSeeing Through a GLASSBRIDGE: Understanding the Digital Marketing Ecosystem Spreading Pro-PRC Influence OperationsBy Google Threat Intelligence Group  • 6-minute read</description>
+      <title>Find sensitive data faster (but safely) with Google Distributed Cloud’s gen AI search solution</title>
+      <link>https://cloud.google.com/blog/topics/hybrid-cloud/on-prem-generative-ai-search-with-google-distributed-cloud-rag</link>
+      <description>Hybrid &amp; MulticloudFind sensitive data faster (but safely) with Google Distributed Cloud’s gen AI search solutionBy Antoine Haas • 3-minute read</description>
     </item>
     <item>
-      <title>How Commerzbank is transforming financial advisory workflows with gen AI</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/how-commerzbank-is-transforming-financial-advisory-workflows-with-gen-ai</link>
-      <description>AI &amp; Machine LearningHow Commerzbank is transforming financial advisory workflows with gen AIBy Tolga Bastürk • 5-minute read</description>
+      <title>How Google Cloud can help customers achieve compliance with NIS2</title>
+      <link>https://cloud.google.com/blog/products/identity-security/how-google-cloud-can-help-customers-achieve-compliance-with-nis2</link>
+      <description>Security &amp; IdentityHow Google Cloud can help customers achieve compliance with NIS2By Tara Brady • 9-minute read</description>
     </item>
     <item>
-      <title>Securing AI: Advancing the national security mission</title>
-      <link>https://cloud.google.com/blog/topics/public-sector/securing-ai-advancing-the-national-security-mission</link>
-      <description>Public SectorSecuring AI: Advancing the national security missionBy Ron Bushar • 3-minute read</description>
+      <title>What’s new for Google Cloud databases — December 2024</title>
+      <link>https://cloud.google.com/blog/products/databases/whats-new-for-databases-december-2024</link>
+      <description>DatabasesWhat’s new for Google Cloud databases — December 2024By Joey Lynne Hernandez • 9-minute read</description>
     </item>
     <item>
-      <title>Celebrate Small Business Saturday with ChromeOS</title>
-      <link>https://cloud.google.com/blog/products/chrome-enterprise/celebrate-small-business-saturday-with-chromeos</link>
-      <description>Chrome EnterpriseCelebrate Small Business Saturday with ChromeOSBy Lawrence Lui • 4-minute read</description>
+      <title>Database Center: Now with support for Bigtable, Firestore, and Memorystore</title>
+      <link>https://cloud.google.com/blog/products/databases/database-centers-supports-bigtable-memorystore-and-firestore</link>
+      <description>DatabasesDatabase Center: Now with support for Bigtable, Firestore, and MemorystoreBy Kiran Shenoy • 3-minute read</description>
     </item>
     <item>
       <title>What’s new with Google Cloud</title>
       <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
-      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 12-minute read</description>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
     </item>
     <item>
-      <title>PayPal's Real-Time Revolution: Migrating to Google Cloud for Streaming Analytics</title>
-      <link>https://cloud.google.com/blog/products/data-analytics/paypals-dataflow-migration-real-time-streaming-analytics</link>
-      <description>Data AnalyticsPayPal's Real-Time Revolution: Migrating to Google Cloud for Streaming AnalyticsBy Varun Raju • 4-minute read</description>
+      <title>Calling all devs: Code the future of baseball with Google Cloud and MLB</title>
+      <link>https://cloud.google.com/blog/products/application-development/google-cloud-mlb-hackathon-powered-by-gemini</link>
+      <description>Application DevelopmentCalling all devs: Code the future of baseball with Google Cloud and MLBBy Richard Seroter • 3-minute read</description>
     </item>
     <item>
-      <title>Fireworks.ai: Lighting up gen AI through a more efficient inference engine</title>
-      <link>https://cloud.google.com/blog/topics/startups/fireworks-ai-gen-ai-efficient-inference-engine</link>
-      <description>StartupsFireworks.ai: Lighting up gen AI through a more efficient inference engineBy Lin Qiao • 4-minute read</description>
+      <title>Cloud CISO Perspectives: From gen AI to threat intelligence: 2024 in review</title>
+      <link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-from-gen-AI-to-threat-intelligence-2024-in-review</link>
+      <description>Security &amp; IdentityCloud CISO Perspectives: From gen AI to threat intelligence: 2024 in reviewBy Phil Venables • 5-minute read</description>
     </item>
     <item>
-      <title>Faster food: How Gemini helps restaurants thrive through multimodal visual analysis</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/use-gemini-to-optimize-restaurant-operations-through-ai-visual-analysis</link>
-      <description>AI &amp; Machine LearningFaster food: How Gemini helps restaurants thrive through multimodal visual analysisBy Sagar Kewalramani • 4-minute read</description>
+      <title>Google is a Leader, positioned furthest in vision in the 2024 Gartner Magic Quadrant for Cloud Database Management Systems</title>
+      <link>https://cloud.google.com/blog/products/databases/2024-gartner-magic-quadrant-for-cloud-database-management-systems</link>
+      <description>DatabasesGoogle is a Leader, positioned furthest in vision in the 2024 Gartner Magic Quadrant for Cloud Database Management SystemsBy Andi Gutmans • 8-minute read</description>
     </item>
   </channel>
 </rss>

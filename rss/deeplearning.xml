@@ -6,22 +6,7 @@
     <description>Latest posts from https://www.deeplearning.ai/the-batch/. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 01:43:16 +0000</lastBuildDate>
-    <item>
-      <title>LLM Price War, Black Forest’s Open Image Generator, The High Cost of AI Leadership, Machine Translation Goes Agentic</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-262/</link>
-      <description>The Batch AI News and Insights | When entrepreneurs build a startup, it is often their speed and momentum that gives them a shot at competing with the tech behemoths.</description>
-    </item>
-    <item>
-      <title>AI Agents Generate Novel Research, Google Imagen 3 Raises the Bar, Alibaba’s Open Models for Specialized Tasks, Scaling Laws for Data Quality</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-263/</link>
-      <description>The Batch AI News and Insights: I’m encouraged at the progress of the U.S. government at moving to stem harmful AI applications.</description>
-    </item>
-    <item>
-      <title>AI Restores ALS Patient’s Voice, AI Lobby Grows, Agentic Coding Advances, Massively Multimodal Model</title>
-      <link>https://www.deeplearning.ai/the-batch/issue-264/</link>
-      <description>The Batch AI News and Insights: After a recent price reduction by OpenAI, GPT-4o tokens now cost $4 per million tokens (using a blended rate that assumes 80% input and 20% output tokens).</description>
-    </item>
+    <lastBuildDate>Wed, 25 Dec 2024 01:26:06 +0000</lastBuildDate>
     <item>
       <title>Hallucination Index, AI-Powered Policing Goes National, Explainable LLMs, Faster Processing for Longer Inputs</title>
       <link>https://www.deeplearning.ai/the-batch/issue-265/</link>
@@ -84,8 +69,23 @@
     </item>
     <item>
       <title>DeepSeek Takes On OpenAI, Robots Fold Laundry, Amazon and Anthropic Expand Partnership, More Efficient Object Detection</title>
-      <link>https://www.deeplearning.ai/the-batch/tag/nov-27-2024/</link>
+      <link>https://www.deeplearning.ai/the-batch/issue-277/</link>
       <description>The Batch AI News and Insights: DeepSeek Takes On OpenAI, Robots Fold Laundry, Amazon and Anthropic Expand Partnership, More Efficient Object Detection.</description>
+    </item>
+    <item>
+      <title>AI Agents Spend Real Money, Breaking Jailbreaks, Mistral Goes Big and Multimodal, AI’s Growing E-Waste Problem</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-278/</link>
+      <description>The Batch AI News and Insights: AI Agents Spend Real Money, Breaking Jailbreaks, Mistral Goes Big and Multimodal, AI’s Growing E-Waste Problem.</description>
+    </item>
+    <item>
+      <title>Amazon Nova’s Competitive Price/Performance, OpenAI o1 Pro’s High Price/Performance, Google’s Game Worlds on Tap, Factual LLMs</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-279/</link>
+      <description>The Batch AI News and Insights: AI Product Management is evolving rapidly. The growth of generative AI and AI-based developer tools has created numerous opportunities to build AI applications.</description>
+    </item>
+    <item>
+      <title>Phi-4 Breaks Size Barrier, HunyuanVideo Narrows Open Source Gap, Gemini 2.0 Flash Accelerates Multimodal Modeling, LLMs Propose Research Ideas</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/dec-18-2024/</link>
+      <description>The Batch AI News and Insights: I’m thrilled that former students and postdocs of mine won both of this year’s NeurIPS Test of Time Paper Awards.</description>
     </item>
   </channel>
 </rss>

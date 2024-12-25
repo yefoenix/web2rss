@@ -6,84 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 01:42:57 +0000</lastBuildDate>
-    <item>
-      <title>Zero-Day Exploitation Targeting Palo Alto Networks Firewall Management Interfaces</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/15/etr-zero-day-exploitation-targeting-palo-alto-networks-firewall-management-interfaces/</link>
-      <description>Palo Alto Networks has indicated they are observing threat activity exploiting a zero-day unauthenticated remote command execution vulnerability in their firewall management interfaces.</description>
-    </item>
-    <item>
-      <title>New IDR Log Search Enhancements: Accelerate, Streamline, and Simplify Investigations</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/15/new-idr-log-search-enhancements-accelerate-streamline-and-simplify-investigations/</link>
-      <description>Rapid7’s InsightIDR, the foundation of our Managed Detection and Response (MDR) service, empowers security teams with advanced analytics, automation, and expert-led investigations.</description>
-    </item>
-    <item>
-      <title>Metasploit Weekly Wrap-Up: 11/15/2024</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/15/metasploit-weekly-wrap-up-43/</link>
-      <description>Palo Alto Expedition RCE module
-This week's release includes an exploit module for the Palo Alto Expedition
-exploit chain that's been making headlines recently. The first vulnerability,
-CVE-2024-5910, allows attackers to reset the password of the admin user. The
-second vulnerability, CVE-2024-9464 is an authenticated OS command injection.
-The module makes use of both vulnerabilities in order to obtain unauthenticated
-RCE in the context of the user www-data.
-
-New module content (1)
-Palo Alto Expe</description>
-    </item>
-    <item>
-      <title>Unlock 24/7 SOC Coverage: Rapid7 MXDR Now Supports with Microsoft Security Products</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/18/unlock-24-7-soc-coverage-rapid7-mxdr-now-supports-with-microsoft-security-products/</link>
-      <description>With the launch of Rapid7 MXDR’s SOC support for key Microsoft security products, we’re making it possible for organizations to layer security defenses and amplify outcomes.</description>
-    </item>
-    <item>
-      <title>Accelerate Mean Time to Exposure Remediation Across Hybrid Environments with Remediation Hub</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/19/accelerate-mean-time-to-exposure-remediation-across-hybrid-environments-with-remediation-hub/</link>
-      <description>Rapid7’s Remediation Hub, our newest addition to the Exposure Command platform. Remediation Hub automatically prioritizes various risk signals across your hybrid environment and suggests the actions your team can take that would have the largest impact on reducing your overall risk posture.</description>
-    </item>
-    <item>
-      <title>Rapid7 Recognized for ‘Excellence in Workplace Health and Wellbeing’ at the Belfast Telegraph IT Awards</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/19/rapid7-recognized-for-excellence-in-workplace-health-and-wellbeing-at-the-belfast-telegraph-it-awards/</link>
-      <description>On Friday, November 15th, Rapid7 was awarded ‘Excellence in Workplace Health and Wellbeing’ at the Belfast Telegraph IT Awards. This award recognizes technology companies in Belfast that prioritize employee well-being.</description>
-    </item>
-    <item>
-      <title>Rapid7 Extends AWS Support to Include Coverage for Newly-Launched Resource Control Policies (RCPs)</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/20/rapid7-extends-aws-support-to-include-coverage-for-newly-launched-resource-control-policies-rcps/</link>
-      <description>Rapid7 is excited to announce our support for Amazon Web Services’ (AWS) new Resource Control Policies (RCPs), a powerful tool designed to bolster security controls for organizations using AWS infrastructure.</description>
-    </item>
-    <item>
-      <title>Multiple Vulnerabilities in Wowza Streaming Engine (Fixed)</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/20/multiple-vulnerabilities-in-wowza-streaming-engine-fixed/</link>
-      <description>Rapid7 is disclosing multiple vulnerabilities in Wowza Streaming Engine below v4.9.1. These vulnerabilities are tracked as CVE-2024-52052, CVE-2024-52053, CVE-2024-52054, CVE-2024-52055, and CVE-2024-52056. They are patched as of Wowza Streaming Engine v4.9.1.</description>
-    </item>
-    <item>
-      <title>A Bag of RATs: VenomRAT vs. AsyncRAT</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/21/a-bag-of-rats-venomrat-vs-asyncrat/</link>
-      <description>Remote access tools (RATs) have long been a favorite tool for cyber attackers, since they enable remote control over compromised systems and facilitate data theft, espionage, and continuous monitoring of victims. Among the well-known RATs are VenomRAT and AsyncRAT.</description>
-    </item>
-    <item>
-      <title>Metasploit Weekly Wrap-Up 11/22/2024</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/22/metasploit-weekly-wrap-up-11-22-2024/</link>
-      <description>JetBrains TeamCity Login Scanner
-Metasploit added a login scanner for the TeamCity application to enable users to
-check for weak credentials. TeamCity has been the subject of multiple ETR
-vulnerabilities
- 
-and is a valuable target for attackers.
-
-Targeted DCSync added to Windows Secrets Dump
-This week, Metasploit community member smashery</description>
-    </item>
-    <item>
-      <title>New “CleverSoar” Installer Targets Chinese and Vietnamese Users</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/27/new-cleversoar-installer-targets-chinese-and-vietnamese-users/</link>
-      <description>In early November, Rapid7 Labs identified a new, highly evasive malware installer, 'CleverSoar,' targeting Chinese and Vietnamese-speaking victims.</description>
-    </item>
-    <item>
-      <title>Metasploit Weekly Wrap-Up 11/29/2024</title>
-      <link>https://www.rapid7.com/blog/post/2024/11/29/metasploit-weekly-wrapup-11-29-2024/</link>
-      <description>Four new Metasploit modules released, including CUPS IPP Attributes LAN Remote Code Execution CVE-2024-47176</description>
-    </item>
+    <lastBuildDate>Wed, 25 Dec 2024 01:25:46 +0000</lastBuildDate>
     <item>
       <title>Why Cybercriminals Are Not Necessarily Embracing AI</title>
       <link>https://www.rapid7.com/blog/post/2024/12/02/why-cybercriminals-are-not-necessarily-embracing-ai/</link>
@@ -98,6 +21,104 @@ This week, Metasploit community member smashery</description>
       <title>Lorex 2K Indoor Wi-Fi Security Camera: Multiple Vulnerabilities (FIXED)</title>
       <link>https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/</link>
       <description>The Lorex 2K Indoor Wi-Fi Security Camera is a consumer security device that provides cloud-based video camera surveillance capabilities. This device was a target at the 2024 Pwn2Own IoT competition. As of December 3, 2024, we are disclosing these issues publicly in coordination with the vendor.</description>
+    </item>
+    <item>
+      <title>Black Basta Ransomware Campaign Drops Zbot, DarkGate, and Custom Malware</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/</link>
+      <description>Beginning in early October, Rapid7 has observed a resurgence of activity related to the ongoing social engineering campaign being conducted by Black Basta ransomware operators.</description>
+    </item>
+    <item>
+      <title>Rapid7 Extends Cloud Security Capabilities with Updates to Exposure Command</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/06/rapid7-extends-cloud-security-capabilities-with-updates-to-exposure-command/</link>
+      <description>With purpose-built harvesting technology providing real-time visibility into everything running across multi-cloud environments, Exposure Command from Rapid7 ensures teams have an up-to-date inventory, mapping their cloud attack surface and enriching asset data with risk and business context.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 12/06/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/06/metasploit-weekly-wrap-up-44/</link>
+      <description>Post-Thanksgiving Big Release
+This week's release is an impressive one. It adds 9 new modules, which will get
+you remote code execution on products such as Ivanti Connect Secure, VMware
+vCenter Server, Asterisk, Fortinet FortiManager and Acronis Cyber Protect. It
+also includes an account takeover on Wordpress, a local privilege escalation on
+Windows and a X11 keylogger module. Finally, this release improves the
+fingerprinting logic for the TeamCity login module and adds instructions about
+the in</description>
+    </item>
+    <item>
+      <title>Widespread Exploitation of Cleo File Transfer Software (CVE-2024-55956)</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/10/etr-widespread-exploitation-of-cleo-file-transfer-software-cve-2024-50623/</link>
+      <description>On Monday, December 9, multiple security firms began privately circulating
+reports of in-the-wild exploitation targeting Cleo file transfer software. Late
+the evening of December 9, security firm Huntress published a blog
+ 
+on active exploitation of three different Cleo products (docs
+
+):
+
+ *</description>
+    </item>
+    <item>
+      <title>Patch Tuesday - December 2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/10/patch-tuesday-december-2024/</link>
+      <description>1 zero-day. CLFS EoP. 16 critical RCEs. Hyper-V container escape. Multiple Remote Desktop Services RCE.</description>
+    </item>
+    <item>
+      <title>Modular Java Backdoor Dropped in Cleo Exploitation Campaign</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/11/etr-modular-java-backdoor-dropped-in-cleo-exploitation-campaign/</link>
+      <description>While investigating incidents related to Cleo software exploitation, Rapid7 Labs and MDR team discovered a novel, multi-stage attack that deploys an encoded Java Archive (JAR) payload.</description>
+    </item>
+    <item>
+      <title>Navigating Choppy Waters: Top Security Predictions from Rapid7's 2025 Webinar</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/12/navigating-choppy-waters-top-security-predictions-from-rapid7s-2025-webinar/</link>
+      <description>Hosted by industry heavy hitter Brian Honan, CEO of BH Consulting, the webinar brought together Rapid7 security and policy experts Raj Samani, Chief Scientist, and Sabeen Malik, VP of Global Government Affairs and Public Policy.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 12/13/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/13/metasploit-weekly-wrap-up-12-13-2024/</link>
+      <description>It’s raining RCEs!
+It's the second week of December and the weather forecast announced another
+storm of RCEs in Metasploit-Framework land. This weekly release includes RCEs
+for Moodle e-Learning platform, Primefaces, WordPress Really Simple SSL and
+CyberPanel along with two modules to change password through LDAP and SMB
+protocol.
+
+New module content (7)
+Change Password
+Author: smashery
+Type: Auxiliary
+Pull request: #19671  
+contributed</description>
+    </item>
+    <item>
+      <title>2024 Threat Landscape Statistics: Ransomware Activity, Vulnerability Exploits, and Attack Trends</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/16/2024-threat-landscape-statistics-ransomware-activity-vulnerability-exploits-and-attack-trends/</link>
+      <description>In this blog, the global experts across our Rapid7 Labs and Managed Services teams share real-time vulnerability insights and threat intelligence so that our customers can anticipate and prevent breaches, pinpoint critical threats, and confidently take command of their attack surface.</description>
+    </item>
+    <item>
+      <title>Take Command of Your Career: Practicing Self-Advocacy as a Woman in Tech</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/17/take-command-of-your-career-practicing-self-advocacy-as-a-woman-in-tech/</link>
+      <description>As the year draws to a close, it’s essential—and often expected—to reflect on our achievements and lessons learned in preparation for annual performance reviews and setting future goals.</description>
+    </item>
+    <item>
+      <title>What’s New in Rapid7 Products &amp; Services: Q4 2024 in Review</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/18/whats-new-in-rapid7-products-services-q4-2024-in-review/</link>
+      <description>Below, we’ve highlighted key releases and updates from the quarter across our products and services, including the new Platform Home Navigation experience, extensibility enhancements to Exposure Command and Surface Command, expanded MXDR support, and 2024 threat landscape trends from Rapid7 Labs.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 12/20/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/20/metasploit-weekly-wrap-up-12-20-2024/</link>
+      <description>New module content (4)
+GameOver(lay) Privilege Escalation and Container Escape
+Authors: bwatters-r7, g1vi, gardnerapp, and h00die
+Type: Exploit
+Pull request: #19460  
+contributed by gardnerapp 
+Path: linux/local/gameoverlay_privesc
+AttackerKB reference: CVE-2023-2640
+
+
+Description: Adds a module for CVE-2023-2640 and CVE-2023-32629, a local
+privil</description>
     </item>
   </channel>
 </rss>

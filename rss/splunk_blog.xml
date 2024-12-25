@@ -6,51 +6,51 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 01:42:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 01:25:41 +0000</lastBuildDate>
     <item>
-      <title>Managing Splunk Add-Ons with UCC Framework</title>
-      <link>https://www.splunk.com/en_us/blog/customers/managing-splunk-add-ons-with-ucc-framework.html</link>
-      <description>The UCC framework is designed for Splunk users and developers who want to improve their add-on development process and management.</description>
+      <title>What Is ITOps? IT Operations Defined</title>
+      <link>https://www.splunk.com/en_us/blog/learn/it-operations-itops.html</link>
+      <description>Explore the evolving landscape of IT Operations (ITOps) in the modern tech era. Learn how ITOps, DevOps, and AIOps intersect to ensure stable, efficient IT ecosystems for business success.</description>
     </item>
     <item>
-      <title>What is Privilege Escalation? An Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/privilege-escalation.html</link>
-      <description>Learn about privilege escalation, a security exploit that elevates user access rights, its types, attack methods, risks, and best practices for prevention.</description>
+      <title>The Observability Center of Excellence: Measuring &amp; Improving Observability-as-Service(OaaS)</title>
+      <link>https://www.splunk.com/en_us/blog/observability/measuring-improving-observability-as-service-oaas.html</link>
+      <description>Learn to define and measure Observability-as-a-Service (OaaS) with actionable KPIs in this Observability Center of Excellence blog. Explore key KPI categories, avoid common pitfalls, and align KPIs with OKRs for measurable success.</description>
     </item>
     <item>
-      <title>Security Staff Picks To Read This Month, Handpicked by Splunk Experts</title>
-      <link>https://www.splunk.com/en_us/blog/security/cybersecurity-recent-articles.html</link>
-      <description>Every month, our Splunk staff of security experts share their favorite reads of the month — this way, you can follow the most interesting, news-worthy, and innovative stories coming from the wide world of cybersecurity.</description>
+      <title>What’s CaaS? Containers as a Service Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/containers-as-a-service-caas.html</link>
+      <description>Containers are popular for software development, and now they’re even easier: using CaaS. Learn all about CaaS and how it works in this in-depth article.</description>
     </item>
     <item>
-      <title>Data Normalization Explained: An In-Depth Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/data-normalization.html</link>
-      <description>Data normalization is simply a way to reorganize clean data so it’s easier for users to work with and query. Learn more here.</description>
+      <title>What’s SaaS Monitoring? Why You Need To Monitor SaaS Apps</title>
+      <link>https://www.splunk.com/en_us/blog/learn/saas-monitoring.html</link>
+      <description>The SaaS delivery model comes with many conveniences for organizations. But you have less visibility to answer questions, and that’s where SaaS monitoring comes in.</description>
     </item>
     <item>
-      <title>Reflections from Cisco Partner Summit 2024: Building the Future as One</title>
-      <link>https://www.splunk.com/en_us/blog/partners/reflections-from-cisco-partner-summit-2024-building-the-future-as-one.html</link>
-      <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
+      <title>SLA Templates: How To Create Service Level Agreements</title>
+      <link>https://www.splunk.com/en_us/blog/learn/service-level-agreements-sla-template.html</link>
+      <description>SLAs power the digital world: they define what users can expect from a service and what happens when a service provider fails to meet those expectations.</description>
     </item>
     <item>
-      <title>Top Risk Management Frameworks To Use</title>
-      <link>https://www.splunk.com/en_us/blog/learn/risk-management-frameworks.html</link>
-      <description>This article introduces risk management frameworks and explains the significance of using one in your organization.</description>
+      <title>Kubernetes Monitoring: The Ultimate Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/kubernetes-monitoring.html</link>
+      <description>Monitoring Kubernetes is a complicated but critical practice. Learn why and how you need to do it in this comprehensive, hands-on guide to K8s monitoring.</description>
     </item>
     <item>
-      <title>What Is Process Mining? A Complete Introduction</title>
-      <link>https://www.splunk.com/en_us/blog/learn/process-mining.html</link>
-      <description>This in-depth article discusses process mining, including its definition, examples, and how you can get started on process mining implementation for your business.</description>
+      <title>Meduza Stealer Analysis: A Closer Look at its Techniques and Attack Vector</title>
+      <link>https://www.splunk.com/en_us/blog/security/meduza-stealer-analysis.html</link>
+      <description>Uncover Meduza Stealer, a 2023 malware targeting credentials and crypto wallets. Explore its evasion tactics, attack methods, and Splunk’s expert insights for enhanced security.</description>
     </item>
     <item>
-      <title>2025 Predictions: Driving Digital Resilience Forward</title>
-      <link>https://www.splunk.com/en_us/blog/leadership/2025-predictions-driving-digital-resilience-forward.html</link>
-      <description>Splunk’s 2025 Predictions explores how organizations can drive digital resilience forward, from advancements in AI to navigating new regulations and everything in between.</description>
+      <title>Website Security: Tips &amp; Best Practices for Securing Websites</title>
+      <link>https://www.splunk.com/en_us/blog/learn/website-security.html</link>
+      <description>Protect your website with essential security tips and best practices. Learn how to defend against cyber threats, safeguard data, and build customer trust.</description>
     </item>
     <item>
-      <title>What Are Distributed Systems?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/distributed-systems.html</link>
-      <description>Distributed systems consist of multiple devices that work together to perform a task that is beyond the capacity of a single system.</description>
+      <title>Splunk AppDynamics 24.10 Accelerates Deployment And MTTR</title>
+      <link>https://www.splunk.com/en_us/blog/observability/splunk-appdynamics-accelerates-deployment-and-mttr.html</link>
+      <description>Splunk AppDynamics, now part of the Splunk Observability portfolio, provides critical observability for traditional 3-tier/n-tier applications and helps IT Operations teams quickly discover root causes of issues before end-users even notice.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
@@ -58,24 +58,24 @@
       <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
     </item>
     <item>
-      <title>What is Cloud Analytics?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
-      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
-    </item>
-    <item>
-      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
-      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
-    </item>
-    <item>
-      <title>Top Cybersecurity Certifications To Earn Today</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-certifications.html</link>
-      <description>Take the next step in your cybersecurity career! Check out these security certifications to earn today, from beginner to advanced, covering all aspects of cyber.</description>
+      <title>What are SaaS, PaaS, &amp; IaaS?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-service-models-saas-vs-paas-vs-iaas.html</link>
+      <description>Yes, the cloud makes work better. But which cloud model is right for you? Understand how SaaS, PaaS, and IaaS works in this ultimate guide.</description>
     </item>
     <item>
       <title>Telemetry 101: An Introduction To Telemetry</title>
       <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
       <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
+    </item>
+    <item>
+      <title>What Are SLMs? Small Language Models, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/small-language-models-slms.html</link>
+      <description>Large language models have changed the world. What about small language models? Learn what SLMs are, how they differ from LLMs, and why SLMs are the future.</description>
+    </item>
+    <item>
+      <title>IT and Technology Spending &amp; Budgets for 2025: Trends &amp; Forecasts</title>
+      <link>https://www.splunk.com/en_us/blog/learn/it-tech-spending.html</link>
+      <description>Tech &amp; IT spending is on the rise in 2025 across the globe. Read more on investment trends and see which regions will spend the most.</description>
     </item>
     <item>
       <title>SIEM: Security Information &amp; Event Management Explained</title>
@@ -88,24 +88,24 @@
       <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
     </item>
     <item>
-      <title>What is Cloud Analytics?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
-      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
-    </item>
-    <item>
-      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
-      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
-    </item>
-    <item>
-      <title>Top Cybersecurity Certifications To Earn Today</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cybersecurity-certifications.html</link>
-      <description>Take the next step in your cybersecurity career! Check out these security certifications to earn today, from beginner to advanced, covering all aspects of cyber.</description>
+      <title>What are SaaS, PaaS, &amp; IaaS?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-service-models-saas-vs-paas-vs-iaas.html</link>
+      <description>Yes, the cloud makes work better. But which cloud model is right for you? Understand how SaaS, PaaS, and IaaS works in this ultimate guide.</description>
     </item>
     <item>
       <title>Telemetry 101: An Introduction To Telemetry</title>
       <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
       <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
+    </item>
+    <item>
+      <title>What Are SLMs? Small Language Models, Explained</title>
+      <link>https://www.splunk.com/en_us/blog/learn/small-language-models-slms.html</link>
+      <description>Large language models have changed the world. What about small language models? Learn what SLMs are, how they differ from LLMs, and why SLMs are the future.</description>
+    </item>
+    <item>
+      <title>IT and Technology Spending &amp; Budgets for 2025: Trends &amp; Forecasts</title>
+      <link>https://www.splunk.com/en_us/blog/learn/it-tech-spending.html</link>
+      <description>Tech &amp; IT spending is on the rise in 2025 across the globe. Read more on investment trends and see which regions will spend the most.</description>
     </item>
     <item>
       <title>SIEM: Security Information &amp; Event Management Explained</title>
@@ -118,14 +118,14 @@
       <description>In this blog post, we'll look at definitions, best practices, and key concepts around Observability in IT.</description>
     </item>
     <item>
-      <title>What is Cloud Analytics?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/cloud-analytics.html</link>
-      <description>Discover the power of cloud analytics, from data consolidation to scalability and security. Learn how to choose the right platform for your business needs.</description>
+      <title>What are SaaS, PaaS, &amp; IaaS?</title>
+      <link>https://www.splunk.com/en_us/blog/learn/cloud-service-models-saas-vs-paas-vs-iaas.html</link>
+      <description>Yes, the cloud makes work better. But which cloud model is right for you? Understand how SaaS, PaaS, and IaaS works in this ultimate guide.</description>
     </item>
     <item>
-      <title>The Security Analyst Role: Skills, Responsibilities &amp; Salary</title>
-      <link>https://www.splunk.com/en_us/blog/learn/security-analyst-role-responsibilities.html</link>
-      <description>Security analysts are modern day detectives, seeking out threats and incidents before they become major problems. Learn all about the role, including $$, here.</description>
+      <title>Telemetry 101: An Introduction To Telemetry</title>
+      <link>https://www.splunk.com/en_us/blog/learn/what-is-telemetry.html</link>
+      <description>Telemetry is powerful data that can tell you all sorts of important information. Know what you can do with this useful data — get the full telemetry 101 here.</description>
     </item>
     <item>
       <title>Unify and Automate TDIR Workflows with Splunk SOAR 6.3 and Splunk Enterprise Security 8.0</title>
@@ -208,9 +208,39 @@
       <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
     </item>
     <item>
-      <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
-      <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
-      <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
+      <title>Splunk Now Generally Available on Microsoft Azure</title>
+      <link>https://www.splunk.com/en_us/blog/partners/splunk-now-generally-available-on-microsoft-azure.html</link>
+      <description>Splunk arrives on Microsoft Azure, giving the vast majority of Fortune 2000 companies an easier way to enable enterprise-grade security and observability.</description>
+    </item>
+    <item>
+      <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
+      <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
+      <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
+    </item>
+    <item>
+      <title>Reflections from Cisco Partner Summit 2024: Building the Future as One</title>
+      <link>https://www.splunk.com/en_us/blog/partners/reflections-from-cisco-partner-summit-2024-building-the-future-as-one.html</link>
+      <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
+    </item>
+    <item>
+      <title>Bridging the Cyber Confidence Gap: Digital Resilience in the Public Sector</title>
+      <link>https://www.splunk.com/en_us/blog/industries/bridging-the-cyber-confidence-gap-digital-resilience-in-the-public-sector.html</link>
+      <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
+    </item>
+    <item>
+      <title>Digital Resilience Powers Your Mission: GovSummit 2024 in Review</title>
+      <link>https://www.splunk.com/en_us/blog/industries/digital-resilience-powers-your-mission-govsummit-2024-in-review.html</link>
+      <description>Splunk's VP of Public Sector, Bill Rowan shares his three key takeaways from Splunk GovSummit 2024.</description>
+    </item>
+    <item>
+      <title>Cisco Intends to Acquire Threat Detection and Defense Company SnapAttack, Driving Further Splunk Innovation to Power the SOC of the Future</title>
+      <link>https://www.splunk.com/en_us/blog/security/cisco-intends-to-acquire-threat-detection-and-defense-company-snapattack.html</link>
+      <description>Cisco announces it intent to acquire threat detection and defense company SnapAttack, driving further Splunk innovation to power the SOC of the future.</description>
+    </item>
+    <item>
+      <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
+      <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
+      <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
     </item>
     <item>
       <title>Splunk Now Generally Available on Microsoft Azure</title>
@@ -228,19 +258,24 @@
       <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
     </item>
     <item>
-      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
-      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
-      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
+      <title>Bridging the Cyber Confidence Gap: Digital Resilience in the Public Sector</title>
+      <link>https://www.splunk.com/en_us/blog/industries/bridging-the-cyber-confidence-gap-digital-resilience-in-the-public-sector.html</link>
+      <description>Mick Baccio shares the findings of Splunk's report – conducted in collaboration with Foundry – on bridging the resilience gap across public and private sectors.</description>
+    </item>
+    <item>
+      <title>Digital Resilience Powers Your Mission: GovSummit 2024 in Review</title>
+      <link>https://www.splunk.com/en_us/blog/industries/digital-resilience-powers-your-mission-govsummit-2024-in-review.html</link>
+      <description>Splunk's VP of Public Sector, Bill Rowan shares his three key takeaways from Splunk GovSummit 2024.</description>
+    </item>
+    <item>
+      <title>Cisco Intends to Acquire Threat Detection and Defense Company SnapAttack, Driving Further Splunk Innovation to Power the SOC of the Future</title>
+      <link>https://www.splunk.com/en_us/blog/security/cisco-intends-to-acquire-threat-detection-and-defense-company-snapattack.html</link>
+      <description>Cisco announces it intent to acquire threat detection and defense company SnapAttack, driving further Splunk innovation to power the SOC of the future.</description>
     </item>
     <item>
       <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
       <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
       <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
-    </item>
-    <item>
-      <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
-      <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
-      <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
     </item>
     <item>
       <title>Splunk Now Generally Available on Microsoft Azure</title>
@@ -251,31 +286,6 @@
       <title>State of Observability 2024 Reveals How Leaders Outpace Their Peers</title>
       <link>https://www.splunk.com/en_us/blog/devops/state-of-observability-2024-reveals-how-leaders-outpace-their-peers.html</link>
       <description>In the State of Observability 2024, we identify organizations that are outperforming their peers and share their key characteristics and outcomes achieved.</description>
-    </item>
-    <item>
-      <title>Reflections from Cisco Partner Summit 2024: Building the Future as One</title>
-      <link>https://www.splunk.com/en_us/blog/partners/reflections-from-cisco-partner-summit-2024-building-the-future-as-one.html</link>
-      <description>Cisco Partner Summit 2024 highlighted the growing recognition of Splunk’s critical role in addressing enterprise security and observability challenges.</description>
-    </item>
-    <item>
-      <title>GovSummit Is Returning to the Nation’s Capital – Here Are the Top 3 Reasons You Should Attend</title>
-      <link>https://www.splunk.com/en_us/blog/industries/top-3-reasons-you-should-attend-govsummit.html</link>
-      <description>Join us at GovSummit as we demonstrate how you can deliver on the nation’s cyber strategy with Splunk.</description>
-    </item>
-    <item>
-      <title>Put Your Issue Detection and Response on Fast-Forward With GenAI</title>
-      <link>https://www.splunk.com/en_us/blog/devops/put-your-issue-detection-and-response-on-fast-forward-with-genai.html</link>
-      <description>In this blog, Splunkers Joanna Zouhour and Umang Agarwal cover three use cases the AI Assistant can unlock: accelerated troubleshooting, deeper visibility of your tech stack, and faster daily operations.</description>
-    </item>
-    <item>
-      <title>Splunk Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms</title>
-      <link>https://www.splunk.com/en_us/blog/devops/splunk-named-a-leader-in-the-gartner-magic-quadrant-for-observability-platforms.html</link>
-      <description>Splunk has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Observability Platforms for the second year in a row in this category.</description>
-    </item>
-    <item>
-      <title>Splunk Now Generally Available on Microsoft Azure</title>
-      <link>https://www.splunk.com/en_us/blog/partners/splunk-now-generally-available-on-microsoft-azure.html</link>
-      <description>Splunk arrives on Microsoft Azure, giving the vast majority of Fortune 2000 companies an easier way to enable enterprise-grade security and observability.</description>
     </item>
   </channel>
 </rss>
