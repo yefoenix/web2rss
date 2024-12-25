@@ -6,7 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Dec 2024 01:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 10:25:22 +0000</lastBuildDate>
     <item>
       <title>Google Cloud and SAP: Powering AI with enterprise data</title>
       <link>https://cloud.google.com/blog/products/sap-google-cloud/the-case-for-running-rise-with-sap-on-google-cloud</link>

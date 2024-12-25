@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AnthropicResearch</title>
+    <link>https://www.anthropic.com/research</link>
+    <description>Latest posts from https://www.anthropic.com/research. follow.is: None</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 25 Dec 2024 10:25:38 +0000</lastBuildDate>
+    <item>
+      <title>Predictability and Surprise in Large Generative Models</title>
+      <link>https://www.anthropic.com/research/predictability-and-surprise-in-large-generative-models</link>
+      <description>Societal ImpactsPredictability and Surprise in Large Generative ModelsFeb 15, 2022</description>
+    </item>
+    <item>
+      <title>Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned</title>
+      <link>https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned</link>
+      <description>Societal ImpactsRed Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons LearnedAug 22, 2022</description>
+    </item>
+    <item>
+      <title>The Capacity for Moral Self-Correction in Large Language Models</title>
+      <link>https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models</link>
+      <description>Societal ImpactsThe Capacity for Moral Self-Correction in Large Language ModelsFeb 15, 2023</description>
+    </item>
+    <item>
+      <title>Towards Measuring the Representation of Subjective Global Opinions in Language Models</title>
+      <link>https://www.anthropic.com/research/towards-measuring-the-representation-of-subjective-global-opinions-in-language-models</link>
+      <description>Societal ImpactsTowards Measuring the Representation of Subjective Global Opinions in Language ModelsJun 29, 2023</description>
+    </item>
+    <item>
+      <title>Challenges in evaluating AI systems</title>
+      <link>https://www.anthropic.com/research/evaluating-ai-systems</link>
+      <description>PolicyChallenges in evaluating AI systemsOct 4, 2023</description>
+    </item>
+    <item>
+      <title>Collective Constitutional AI: Aligning a Language Model with Public Input</title>
+      <link>https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input</link>
+      <description>Policy·  Societal ImpactsCollective Constitutional AI: Aligning a Language Model with Public InputOct 17, 2023</description>
+    </item>
+    <item>
+      <title>Evaluating and Mitigating Discrimination in Language Model Decisions</title>
+      <link>https://www.anthropic.com/research/evaluating-and-mitigating-discrimination-in-language-model-decisions</link>
+      <description>Societal ImpactsEvaluating and Mitigating Discrimination in Language Model DecisionsDec 7, 2023</description>
+    </item>
+    <item>
+      <title>Measuring the Persuasiveness of Language Models</title>
+      <link>https://www.anthropic.com/research/measuring-model-persuasiveness</link>
+      <description>Societal ImpactsMeasuring the Persuasiveness of Language ModelsApr 9, 2024</description>
+    </item>
+    <item>
+      <title>Testing and mitigating elections-related risks</title>
+      <link>https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks</link>
+      <description>Policy·  Societal ImpactsTesting and mitigating elections-related risksJun 6, 2024</description>
+    </item>
+    <item>
+      <title>Evaluating feature steering: A case study in mitigating social biases</title>
+      <link>https://www.anthropic.com/research/evaluating-feature-steering</link>
+      <description>Societal Impacts·  InterpretabilityEvaluating feature steering: A case study in mitigating social biasesOct 25, 2024</description>
+    </item>
+    <item>
+      <title>Clio: A system for privacy-preserving insights into real-world AI use</title>
+      <link>https://www.anthropic.com/research/clio</link>
+      <description>Societal ImpactsClio: A system for privacy-preserving insights into real-world AI useDec 12, 2024</description>
+    </item>
+    <item>
+      <title>A General Language Assistant as a Laboratory for Alignment</title>
+      <link>https://www.anthropic.com/research/a-general-language-assistant-as-a-laboratory-for-alignment</link>
+      <description>AlignmentA General Language Assistant as a Laboratory for AlignmentDec 1, 2021</description>
+    </item>
+    <item>
+      <title>Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</title>
+      <link>https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback</link>
+      <description>AlignmentTraining a Helpful and Harmless Assistant with Reinforcement Learning from Human FeedbackApr 12, 2022</description>
+    </item>
+    <item>
+      <title>Language Models (Mostly) Know What They Know</title>
+      <link>https://www.anthropic.com/research/language-models-mostly-know-what-they-know</link>
+      <description>AlignmentLanguage Models (Mostly) Know What They KnowJul 11, 2022</description>
+    </item>
+    <item>
+      <title>Measuring Progress on Scalable Oversight for Large Language Models</title>
+      <link>https://www.anthropic.com/research/measuring-progress-on-scalable-oversight-for-large-language-models</link>
+      <description>AlignmentMeasuring Progress on Scalable Oversight for Large Language ModelsNov 4, 2022</description>
+    </item>
+    <item>
+      <title>Constitutional AI: Harmlessness from AI Feedback</title>
+      <link>https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback</link>
+      <description>AlignmentConstitutional AI: Harmlessness from AI FeedbackDec 15, 2022</description>
+    </item>
+    <item>
+      <title>Discovering Language Model Behaviors with Model-Written Evaluations</title>
+      <link>https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations</link>
+      <description>AlignmentDiscovering Language Model Behaviors with Model-Written EvaluationsDec 19, 2022</description>
+    </item>
+    <item>
+      <title>Question Decomposition Improves the Faithfulness of Model-Generated Reasoning</title>
+      <link>https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning</link>
+      <description>AlignmentQuestion Decomposition Improves the Faithfulness of Model-Generated ReasoningJul 18, 2023</description>
+    </item>
+    <item>
+      <title>Measuring Faithfulness in Chain-of-Thought Reasoning</title>
+      <link>https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning</link>
+      <description>AlignmentMeasuring Faithfulness in Chain-of-Thought ReasoningJul 18, 2023</description>
+    </item>
+    <item>
+      <title>Studying Large Language Model Generalization with Influence Functions</title>
+      <link>https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions</link>
+      <description>AlignmentStudying Large Language Model Generalization with Influence FunctionsAug 8, 2023</description>
+    </item>
+    <item>
+      <title>Tracing Model Outputs to the Training Data</title>
+      <link>https://www.anthropic.com/research/influence-functions</link>
+      <description>AlignmentTracing Model Outputs to the Training DataAug 8, 2023</description>
+    </item>
+    <item>
+      <title>Towards Understanding Sycophancy in Language Models</title>
+      <link>https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models</link>
+      <description>AlignmentTowards Understanding Sycophancy in Language ModelsOct 23, 2023</description>
+    </item>
+    <item>
+      <title>Specific versus General Principles for Constitutional AI</title>
+      <link>https://www.anthropic.com/research/specific-versus-general-principles-for-constitutional-ai</link>
+      <description>AlignmentSpecific versus General Principles for Constitutional AIOct 24, 2023</description>
+    </item>
+    <item>
+      <title>Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training</title>
+      <link>https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training</link>
+      <description>AlignmentSleeper Agents: Training Deceptive LLMs that Persist Through Safety TrainingJan 14, 2024</description>
+    </item>
+    <item>
+      <title>Many-shot jailbreaking</title>
+      <link>https://www.anthropic.com/research/many-shot-jailbreaking</link>
+      <description>AlignmentMany-shot jailbreakingApr 2, 2024</description>
+    </item>
+    <item>
+      <title>Simple probes can catch sleeper agents</title>
+      <link>https://www.anthropic.com/research/probes-catch-sleeper-agents</link>
+      <description>Alignment·  InterpretabilitySimple probes can catch sleeper agentsApr 23, 2024</description>
+    </item>
+    <item>
+      <title>Claude’s Character</title>
+      <link>https://www.anthropic.com/research/claude-character</link>
+      <description>AlignmentClaude’s CharacterJun 8, 2024</description>
+    </item>
+    <item>
+      <title>Sycophancy to subterfuge: Investigating reward tampering in language models</title>
+      <link>https://www.anthropic.com/research/reward-tampering</link>
+      <description>AlignmentSycophancy to subterfuge: Investigating reward tampering in language modelsJun 17, 2024</description>
+    </item>
+    <item>
+      <title>Sabotage evaluations for frontier models</title>
+      <link>https://www.anthropic.com/research/sabotage-evaluations</link>
+      <description>AlignmentSabotage evaluations for frontier modelsOct 18, 2024</description>
+    </item>
+    <item>
+      <title>Alignment faking in large language models</title>
+      <link>https://www.anthropic.com/research/alignment-faking</link>
+      <description>AlignmentAlignment faking in large language modelsDec 18, 2024</description>
+    </item>
+    <item>
+      <title>A Mathematical Framework for Transformer Circuits</title>
+      <link>https://www.anthropic.com/research/a-mathematical-framework-for-transformer-circuits</link>
+      <description>InterpretabilityA Mathematical Framework for Transformer CircuitsDec 22, 2021</description>
+    </item>
+    <item>
+      <title>In-context Learning and Induction Heads</title>
+      <link>https://www.anthropic.com/research/in-context-learning-and-induction-heads</link>
+      <description>InterpretabilityIn-context Learning and Induction HeadsMar 8, 2022</description>
+    </item>
+    <item>
+      <title>Scaling Laws and Interpretability of Learning from Repeated Data</title>
+      <link>https://www.anthropic.com/research/scaling-laws-and-interpretability-of-learning-from-repeated-data</link>
+      <description>InterpretabilityScaling Laws and Interpretability of Learning from Repeated DataMay 21, 2022</description>
+    </item>
+    <item>
+      <title>Softmax Linear Units</title>
+      <link>https://www.anthropic.com/research/softmax-linear-units</link>
+      <description>InterpretabilitySoftmax Linear UnitsJun 17, 2022</description>
+    </item>
+    <item>
+      <title>Toy Models of Superposition</title>
+      <link>https://www.anthropic.com/research/toy-models-of-superposition</link>
+      <description>InterpretabilityToy Models of SuperpositionSep 14, 2022</description>
+    </item>
+    <item>
+      <title>Superposition, Memorization, and Double Descent</title>
+      <link>https://www.anthropic.com/research/superposition-memorization-and-double-descent</link>
+      <description>InterpretabilitySuperposition, Memorization, and Double DescentJan 5, 2023</description>
+    </item>
+    <item>
+      <title>Privileged Bases in the Transformer Residual Stream</title>
+      <link>https://www.anthropic.com/research/privileged-bases-in-the-transformer-residual-stream</link>
+      <description>InterpretabilityPrivileged Bases in the Transformer Residual StreamMar 16, 2023</description>
+    </item>
+    <item>
+      <title>Distributed Representations: Composition &amp; Superposition</title>
+      <link>https://www.anthropic.com/research/distributed-representations-composition-superposition</link>
+      <description>InterpretabilityDistributed Representations: Composition &amp; SuperpositionMay 4, 2023</description>
+    </item>
+    <item>
+      <title>Interpretability Dreams</title>
+      <link>https://www.anthropic.com/research/interpretability-dreams</link>
+      <description>InterpretabilityInterpretability DreamsMay 24, 2023</description>
+    </item>
+    <item>
+      <title>Circuits Updates — May 2023</title>
+      <link>https://www.anthropic.com/research/circuits-updates-may-2023</link>
+      <description>InterpretabilityCircuits Updates — May 2023May 24, 2023</description>
+    </item>
+    <item>
+      <title>Towards Monosemanticity: Decomposing Language Models With Dictionary Learning</title>
+      <link>https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning</link>
+      <description>InterpretabilityTowards Monosemanticity: Decomposing Language Models With Dictionary LearningOct 5, 2023</description>
+    </item>
+    <item>
+      <title>Decomposing Language Models Into Understandable Components</title>
+      <link>https://www.anthropic.com/research/decomposing-language-models-into-understandable-components</link>
+      <description>InterpretabilityDecomposing Language Models Into Understandable ComponentsOct 5, 2023</description>
+    </item>
+    <item>
+      <title>Reflections on Qualitative Research</title>
+      <link>https://www.anthropic.com/research/transformer-circuits</link>
+      <description>InterpretabilityReflections on Qualitative ResearchMar 8, 2024</description>
+    </item>
+    <item>
+      <title>Simple probes can catch sleeper agents</title>
+      <link>https://www.anthropic.com/research/probes-catch-sleeper-agents</link>
+      <description>Alignment·  InterpretabilitySimple probes can catch sleeper agentsApr 23, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – April 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-april-2024</link>
+      <description>InterpretabilityCircuits Updates – April 2024Apr 26, 2024</description>
+    </item>
+    <item>
+      <title>Mapping the Mind of a Large Language Model</title>
+      <link>https://www.anthropic.com/research/mapping-mind-language-model</link>
+      <description>InterpretabilityMapping the Mind of a Large Language ModelMay 21, 2024</description>
+    </item>
+    <item>
+      <title>The engineering challenges of scaling interpretability</title>
+      <link>https://www.anthropic.com/research/engineering-challenges-interpretability</link>
+      <description>InterpretabilityThe engineering challenges of scaling interpretabilityJun 13, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – June 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-june-2024</link>
+      <description>InterpretabilityCircuits Updates – June 2024Jun 28, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – July 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-july-2024</link>
+      <description>InterpretabilityCircuits Updates – July 2024Jul 31, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – August 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-august-2024</link>
+      <description>InterpretabilityCircuits Updates – August 2024Sep 6, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – September 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-sept-2024</link>
+      <description>InterpretabilityCircuits Updates – September 2024Oct 1, 2024</description>
+    </item>
+    <item>
+      <title>Using dictionary learning features as classifiers</title>
+      <link>https://www.anthropic.com/research/features-as-classifiers</link>
+      <description>InterpretabilityUsing dictionary learning features as classifiersOct 16, 2024</description>
+    </item>
+    <item>
+      <title>Evaluating feature steering: A case study in mitigating social biases</title>
+      <link>https://www.anthropic.com/research/evaluating-feature-steering</link>
+      <description>Societal Impacts·  InterpretabilityEvaluating feature steering: A case study in mitigating social biasesOct 25, 2024</description>
+    </item>
+    <item>
+      <title>A General Language Assistant as a Laboratory for Alignment</title>
+      <link>https://www.anthropic.com/research/a-general-language-assistant-as-a-laboratory-for-alignment</link>
+      <description>AlignmentA General Language Assistant as a Laboratory for AlignmentDec 1, 2021</description>
+    </item>
+    <item>
+      <title>A Mathematical Framework for Transformer Circuits</title>
+      <link>https://www.anthropic.com/research/a-mathematical-framework-for-transformer-circuits</link>
+      <description>InterpretabilityA Mathematical Framework for Transformer CircuitsDec 22, 2021</description>
+    </item>
+    <item>
+      <title>Predictability and Surprise in Large Generative Models</title>
+      <link>https://www.anthropic.com/research/predictability-and-surprise-in-large-generative-models</link>
+      <description>Societal ImpactsPredictability and Surprise in Large Generative ModelsFeb 15, 2022</description>
+    </item>
+    <item>
+      <title>In-context Learning and Induction Heads</title>
+      <link>https://www.anthropic.com/research/in-context-learning-and-induction-heads</link>
+      <description>InterpretabilityIn-context Learning and Induction HeadsMar 8, 2022</description>
+    </item>
+    <item>
+      <title>Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</title>
+      <link>https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback</link>
+      <description>AlignmentTraining a Helpful and Harmless Assistant with Reinforcement Learning from Human FeedbackApr 12, 2022</description>
+    </item>
+    <item>
+      <title>Scaling Laws and Interpretability of Learning from Repeated Data</title>
+      <link>https://www.anthropic.com/research/scaling-laws-and-interpretability-of-learning-from-repeated-data</link>
+      <description>InterpretabilityScaling Laws and Interpretability of Learning from Repeated DataMay 21, 2022</description>
+    </item>
+    <item>
+      <title>Softmax Linear Units</title>
+      <link>https://www.anthropic.com/research/softmax-linear-units</link>
+      <description>InterpretabilitySoftmax Linear UnitsJun 17, 2022</description>
+    </item>
+    <item>
+      <title>Language Models (Mostly) Know What They Know</title>
+      <link>https://www.anthropic.com/research/language-models-mostly-know-what-they-know</link>
+      <description>AlignmentLanguage Models (Mostly) Know What They KnowJul 11, 2022</description>
+    </item>
+    <item>
+      <title>Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned</title>
+      <link>https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned</link>
+      <description>Societal ImpactsRed Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons LearnedAug 22, 2022</description>
+    </item>
+    <item>
+      <title>Toy Models of Superposition</title>
+      <link>https://www.anthropic.com/research/toy-models-of-superposition</link>
+      <description>InterpretabilityToy Models of SuperpositionSep 14, 2022</description>
+    </item>
+    <item>
+      <title>Measuring Progress on Scalable Oversight for Large Language Models</title>
+      <link>https://www.anthropic.com/research/measuring-progress-on-scalable-oversight-for-large-language-models</link>
+      <description>AlignmentMeasuring Progress on Scalable Oversight for Large Language ModelsNov 4, 2022</description>
+    </item>
+    <item>
+      <title>Constitutional AI: Harmlessness from AI Feedback</title>
+      <link>https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback</link>
+      <description>AlignmentConstitutional AI: Harmlessness from AI FeedbackDec 15, 2022</description>
+    </item>
+    <item>
+      <title>Discovering Language Model Behaviors with Model-Written Evaluations</title>
+      <link>https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations</link>
+      <description>AlignmentDiscovering Language Model Behaviors with Model-Written EvaluationsDec 19, 2022</description>
+    </item>
+    <item>
+      <title>Superposition, Memorization, and Double Descent</title>
+      <link>https://www.anthropic.com/research/superposition-memorization-and-double-descent</link>
+      <description>InterpretabilitySuperposition, Memorization, and Double DescentJan 5, 2023</description>
+    </item>
+    <item>
+      <title>The Capacity for Moral Self-Correction in Large Language Models</title>
+      <link>https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models</link>
+      <description>Societal ImpactsThe Capacity for Moral Self-Correction in Large Language ModelsFeb 15, 2023</description>
+    </item>
+    <item>
+      <title>Privileged Bases in the Transformer Residual Stream</title>
+      <link>https://www.anthropic.com/research/privileged-bases-in-the-transformer-residual-stream</link>
+      <description>InterpretabilityPrivileged Bases in the Transformer Residual StreamMar 16, 2023</description>
+    </item>
+    <item>
+      <title>Distributed Representations: Composition &amp; Superposition</title>
+      <link>https://www.anthropic.com/research/distributed-representations-composition-superposition</link>
+      <description>InterpretabilityDistributed Representations: Composition &amp; SuperpositionMay 4, 2023</description>
+    </item>
+    <item>
+      <title>Interpretability Dreams</title>
+      <link>https://www.anthropic.com/research/interpretability-dreams</link>
+      <description>InterpretabilityInterpretability DreamsMay 24, 2023</description>
+    </item>
+    <item>
+      <title>Circuits Updates — May 2023</title>
+      <link>https://www.anthropic.com/research/circuits-updates-may-2023</link>
+      <description>InterpretabilityCircuits Updates — May 2023May 24, 2023</description>
+    </item>
+    <item>
+      <title>Towards Measuring the Representation of Subjective Global Opinions in Language Models</title>
+      <link>https://www.anthropic.com/research/towards-measuring-the-representation-of-subjective-global-opinions-in-language-models</link>
+      <description>Societal ImpactsTowards Measuring the Representation of Subjective Global Opinions in Language ModelsJun 29, 2023</description>
+    </item>
+    <item>
+      <title>Question Decomposition Improves the Faithfulness of Model-Generated Reasoning</title>
+      <link>https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning</link>
+      <description>AlignmentQuestion Decomposition Improves the Faithfulness of Model-Generated ReasoningJul 18, 2023</description>
+    </item>
+    <item>
+      <title>Measuring Faithfulness in Chain-of-Thought Reasoning</title>
+      <link>https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning</link>
+      <description>AlignmentMeasuring Faithfulness in Chain-of-Thought ReasoningJul 18, 2023</description>
+    </item>
+    <item>
+      <title>Studying Large Language Model Generalization with Influence Functions</title>
+      <link>https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions</link>
+      <description>AlignmentStudying Large Language Model Generalization with Influence FunctionsAug 8, 2023</description>
+    </item>
+    <item>
+      <title>Tracing Model Outputs to the Training Data</title>
+      <link>https://www.anthropic.com/research/influence-functions</link>
+      <description>AlignmentTracing Model Outputs to the Training DataAug 8, 2023</description>
+    </item>
+    <item>
+      <title>Challenges in evaluating AI systems</title>
+      <link>https://www.anthropic.com/research/evaluating-ai-systems</link>
+      <description>PolicyChallenges in evaluating AI systemsOct 4, 2023</description>
+    </item>
+    <item>
+      <title>Towards Monosemanticity: Decomposing Language Models With Dictionary Learning</title>
+      <link>https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning</link>
+      <description>InterpretabilityTowards Monosemanticity: Decomposing Language Models With Dictionary LearningOct 5, 2023</description>
+    </item>
+    <item>
+      <title>Decomposing Language Models Into Understandable Components</title>
+      <link>https://www.anthropic.com/research/decomposing-language-models-into-understandable-components</link>
+      <description>InterpretabilityDecomposing Language Models Into Understandable ComponentsOct 5, 2023</description>
+    </item>
+    <item>
+      <title>Collective Constitutional AI: Aligning a Language Model with Public Input</title>
+      <link>https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input</link>
+      <description>Policy·  Societal ImpactsCollective Constitutional AI: Aligning a Language Model with Public InputOct 17, 2023</description>
+    </item>
+    <item>
+      <title>Towards Understanding Sycophancy in Language Models</title>
+      <link>https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models</link>
+      <description>AlignmentTowards Understanding Sycophancy in Language ModelsOct 23, 2023</description>
+    </item>
+    <item>
+      <title>Specific versus General Principles for Constitutional AI</title>
+      <link>https://www.anthropic.com/research/specific-versus-general-principles-for-constitutional-ai</link>
+      <description>AlignmentSpecific versus General Principles for Constitutional AIOct 24, 2023</description>
+    </item>
+    <item>
+      <title>Evaluating and Mitigating Discrimination in Language Model Decisions</title>
+      <link>https://www.anthropic.com/research/evaluating-and-mitigating-discrimination-in-language-model-decisions</link>
+      <description>Societal ImpactsEvaluating and Mitigating Discrimination in Language Model DecisionsDec 7, 2023</description>
+    </item>
+    <item>
+      <title>Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training</title>
+      <link>https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training</link>
+      <description>AlignmentSleeper Agents: Training Deceptive LLMs that Persist Through Safety TrainingJan 14, 2024</description>
+    </item>
+    <item>
+      <title>Reflections on Qualitative Research</title>
+      <link>https://www.anthropic.com/research/transformer-circuits</link>
+      <description>InterpretabilityReflections on Qualitative ResearchMar 8, 2024</description>
+    </item>
+    <item>
+      <title>Many-shot jailbreaking</title>
+      <link>https://www.anthropic.com/research/many-shot-jailbreaking</link>
+      <description>AlignmentMany-shot jailbreakingApr 2, 2024</description>
+    </item>
+    <item>
+      <title>Measuring the Persuasiveness of Language Models</title>
+      <link>https://www.anthropic.com/research/measuring-model-persuasiveness</link>
+      <description>Societal ImpactsMeasuring the Persuasiveness of Language ModelsApr 9, 2024</description>
+    </item>
+    <item>
+      <title>Simple probes can catch sleeper agents</title>
+      <link>https://www.anthropic.com/research/probes-catch-sleeper-agents</link>
+      <description>Alignment·  InterpretabilitySimple probes can catch sleeper agentsApr 23, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – April 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-april-2024</link>
+      <description>InterpretabilityCircuits Updates – April 2024Apr 26, 2024</description>
+    </item>
+    <item>
+      <title>Mapping the Mind of a Large Language Model</title>
+      <link>https://www.anthropic.com/research/mapping-mind-language-model</link>
+      <description>InterpretabilityMapping the Mind of a Large Language ModelMay 21, 2024</description>
+    </item>
+    <item>
+      <title>Testing and mitigating elections-related risks</title>
+      <link>https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks</link>
+      <description>Policy·  Societal ImpactsTesting and mitigating elections-related risksJun 6, 2024</description>
+    </item>
+    <item>
+      <title>Claude’s Character</title>
+      <link>https://www.anthropic.com/research/claude-character</link>
+      <description>AlignmentClaude’s CharacterJun 8, 2024</description>
+    </item>
+    <item>
+      <title>The engineering challenges of scaling interpretability</title>
+      <link>https://www.anthropic.com/research/engineering-challenges-interpretability</link>
+      <description>InterpretabilityThe engineering challenges of scaling interpretabilityJun 13, 2024</description>
+    </item>
+    <item>
+      <title>Sycophancy to subterfuge: Investigating reward tampering in language models</title>
+      <link>https://www.anthropic.com/research/reward-tampering</link>
+      <description>AlignmentSycophancy to subterfuge: Investigating reward tampering in language modelsJun 17, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – June 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-june-2024</link>
+      <description>InterpretabilityCircuits Updates – June 2024Jun 28, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – July 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-july-2024</link>
+      <description>InterpretabilityCircuits Updates – July 2024Jul 31, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – August 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-august-2024</link>
+      <description>InterpretabilityCircuits Updates – August 2024Sep 6, 2024</description>
+    </item>
+    <item>
+      <title>Circuits Updates – September 2024</title>
+      <link>https://www.anthropic.com/research/circuits-updates-sept-2024</link>
+      <description>InterpretabilityCircuits Updates – September 2024Oct 1, 2024</description>
+    </item>
+    <item>
+      <title>Using dictionary learning features as classifiers</title>
+      <link>https://www.anthropic.com/research/features-as-classifiers</link>
+      <description>InterpretabilityUsing dictionary learning features as classifiersOct 16, 2024</description>
+    </item>
+    <item>
+      <title>Sabotage evaluations for frontier models</title>
+      <link>https://www.anthropic.com/research/sabotage-evaluations</link>
+      <description>AlignmentSabotage evaluations for frontier modelsOct 18, 2024</description>
+    </item>
+    <item>
+      <title>Developing a computer use model</title>
+      <link>https://www.anthropic.com/news/developing-computer-use</link>
+      <description>Announcements·  ProductDeveloping a computer use modelOct 22, 2024</description>
+    </item>
+    <item>
+      <title>Evaluating feature steering: A case study in mitigating social biases</title>
+      <link>https://www.anthropic.com/research/evaluating-feature-steering</link>
+      <description>Societal Impacts·  InterpretabilityEvaluating feature steering: A case study in mitigating social biasesOct 25, 2024</description>
+    </item>
+    <item>
+      <title>Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet</title>
+      <link>https://www.anthropic.com/research/swe-bench-sonnet</link>
+      <description>ProductRaising the bar on SWE-bench Verified with Claude 3.5 SonnetOct 30, 2024</description>
+    </item>
+    <item>
+      <title>A statistical approach to model evaluations</title>
+      <link>https://www.anthropic.com/research/statistical-approach-to-model-evals</link>
+      <description>EvaluationsA statistical approach to model evaluationsNov 19, 2024</description>
+    </item>
+    <item>
+      <title>Clio: A system for privacy-preserving insights into real-world AI use</title>
+      <link>https://www.anthropic.com/research/clio</link>
+      <description>Societal ImpactsClio: A system for privacy-preserving insights into real-world AI useDec 12, 2024</description>
+    </item>
+    <item>
+      <title>Alignment faking in large language models</title>
+      <link>https://www.anthropic.com/research/alignment-faking</link>
+      <description>AlignmentAlignment faking in large language modelsDec 18, 2024</description>
+    </item>
+    <item>
+      <title>Building effective agents</title>
+      <link>https://www.anthropic.com/research/building-effective-agents</link>
+      <description>ProductBuilding effective agentsDec 19, 2024</description>
+    </item>
+  </channel>
+</rss>
