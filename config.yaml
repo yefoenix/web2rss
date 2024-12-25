@@ -107,3 +107,12 @@ sites:
     description_css: div.px-6.py-5.v-postcard-body
     link_css: a
     use_headless_browser: false
+
+  - name: AnthropicResearch
+    follow_desc: 
+    url: https://www.anthropic.com/research
+    block_css: a.PostCard_post-card___tQ6w.PostList_post-card__m9zyH
+    title_css: h3
+    description_css: div.PostCard_post-info__gybiy.PostList_post-info__vrL_u
+    link_css: 
+    use_headless_browser: true
