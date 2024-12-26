@@ -65,3 +65,8 @@
 - 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/AnthropicResearch.xml
 - Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/AnthropicResearch.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/AnthropicResearch.xml)
 
+## projectdiscovery
+- 原网址：https://projectdiscovery.io/blog
+- 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/projectdiscovery.xml
+- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/projectdiscovery.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/projectdiscovery.xml)
+

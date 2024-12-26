@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>projectdiscovery</title>
+    <link>https://projectdiscovery.io/blog</link>
+    <description>Latest posts from https://projectdiscovery.io/blog. follow.is: None</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Thu, 26 Dec 2024 10:18:41 +0000</lastBuildDate>
+    <item>
+      <title>November 2024 Newsletter</title>
+      <link>https://projectdiscovery.io/blog/november-2024-newsletter</link>
+      <description>Welcome to the November edition of the PD community newsletter - and Happy Thanksgiving to everyone who celebrated! 🦃
+
+As we’re moving over into the holiday season, not only are we starting to look back on all the amazing work that both the ProjectDiscovery team and the wider community have completed this year, but we also haven’t stopped creating. Plenty of bug fixes and enhancements have been added to our tools and templates this month, along with the exciting announcement of some brand new t</description>
+    </item>
+    <item>
+      <title>Celebrating 2024: Securing your infrastructure with ProjectDiscovery</title>
+      <link>https://projectdiscovery.io/blog/celebrating-2024-securing-your-infrastructure-with-projectdiscovery</link>
+      <description>As 2024 comes to a close, we want to celebrate the milestones we’ve achieved together with our ProjectDiscovery community. Thanks to your trust and collaboration, here’s what we’ve accomplished this year on ProjectDiscovery.
+
+
+
+
+Platform growth
+
+2k+ new vulnerability templates
+Identifying nearly 1k high-profile vulnerabilities affecting 600+ unique products—including Atlassian Confluence, GitLab, MLflow, Grafana, GitHub Enterprise, Ivanti, Fortinet, and Palo Alto Networks
+
+50k+ cloud-based scans</description>
+    </item>
+    <item>
+      <title>December 2024 Newsletter</title>
+      <link>https://projectdiscovery.io/blog/december-2024-newsletter</link>
+      <description>It’s almost the end of the year, and the holidays are upon us! 🎄
+
+Before taking a well-earned break though, the ProjectDiscovery team are here to give our last round of 2024 updates.
+
+Along with additions and fixes for a couple of our tools, we’ve expanded Nuclei templates to include a new set of templates focused on Windows Security Hardening and Auditing - find out more on what’s included in this update by reading on!
+
+Alongside our new series of YouTube videos, we’re also shining a spotlight</description>
+    </item>
+    <item>
+      <title>Getting Started with ProjectDiscovery in Linux and Windows</title>
+      <link>https://projectdiscovery.io/blog/getting-started-with-projectdiscovery-in-linux-and-windows</link>
+      <description>"Just for you, we’ve got this brand new blog all about getting started with ProjectDiscovery on Linux AND Windows."</description>
+    </item>
+    <item>
+      <title>Bug Bounty Etiquette: More than Ethical Hacking (part one)</title>
+      <link>https://projectdiscovery.io/blog/bug-bounty-etiquette-more-than-ethical-hacking-part-one</link>
+      <description>This is part one of our two-part series on polite hacking, focusing on what to do. Part two talks about what not to do (link coming soon). 
+
+This blog is not about techniques. It’s not about tools to use, how to find the vulnerability, or anything like that. There are plenty of those out there. It’s much more like an etiquette guide for Bug Bounty reporting, and how working within these social norms can lead to better outcomes for you in your career! Think of it like a cotillion class, or the fa</description>
+    </item>
+    <item>
+      <title>Bug Bounty Etiquette: Our Guide to Polite Hacking (Part Two)</title>
+      <link>https://projectdiscovery.io/blog/bug-bounty-etiquette-2-what-not-to-do</link>
+      <description>This is the second part of our series on bug bounty etiquette. Part one looks at what you should be doing. 
+
+Last month we talked about bug bounty etiquette and how to be a good bug bounty hunter; not in the sense of finding more bugs, but rather in how to be the kind of bug bounty hunter people want to work with. This time, we have some advice about what NOT to while bug bounty hunting. Let's get started.
+
+ 1. Don’t go all out
+ 2. Don’t ignore the rules
+ 3. Don’t report unnecessary stuff
+ 4. Do</description>
+    </item>
+    <item>
+      <title>Nuclei v3.2 Release with Authenticated Scanning, Advanced Fuzzing &amp; more</title>
+      <link>https://projectdiscovery.io/blog/nuclei-3-2</link>
+      <description>We're thrilled to announce the launch of Nuclei v3.2.0. This latest version introduces a host of new features, enhancements, and bug fixes, significantly elevating the Nuclei engine's performance and capabilities. Notably, the inclusion of authentication support and advanced fuzzing support positions this release as a pivotal milestone, further building upon the foundation laid by version 3.0.0.
+
+In this blog, and a number of upcoming feature spotlights, you'll learn a lot more about all that nu</description>
+    </item>
+    <item>
+      <title>Enhancing Asset Discovery: ProjectDiscovery Cloud Platform (v0.8.8)</title>
+      <link>https://projectdiscovery.io/blog/pdcp-0-8-8</link>
+      <description>We're excited to announce the release of version 0.8.8 of the ProjectDiscovery Cloud Platform. This update brings significant enhancements to our asset discovery capabilities, introduces new features for Basic Tier (Free) users, and resolves several critical issues. Our primary focus remains on improving the visibility and analysis of discovered assets and refining the insights available to our users.
+
+
+Empowering Basic Tier (Free) Users
+
+Our mission at ProjectDiscovery is to make advanced secur</description>
+    </item>
+    <item>
+      <title>Advancing Asset Management - PDCP v0.8.9</title>
+      <link>https://projectdiscovery.io/blog/advancing-asset-management-pdcp-v0-8-9-2</link>
+      <description>We're excited to announce the release of version 0.8.9 of the ProjectDiscovery Cloud Platform. This update introduces significant enhancements to our asset management capabilities, focusing on asset inventory, AI-powered search, and improved user experience.
+
+
+Key Features in v0.8.9
+
+
+Asset Inventory and Technologies
+
+The new interface for cataloging and organizing all assets along with their associated technologies in one place represents a significant advancement in asset management. Now, rega</description>
+    </item>
+    <item>
+      <title>Windows Security Hardening and Auditing - Nuclei Templates v10.1.0 🎉</title>
+      <link>https://projectdiscovery.io/blog/windows-security-hardening-and-auditing-nuclei-templates-v10-1-0</link>
+      <description>We're thrilled to introduce Nuclei Templates release v10.1.0! In this update, we are focusing on Windows Security Hardening and Auditing. Our latest release expands your toolkit with new Windows security templates, designed to automate and enhance the security auditing of Windows systems. Here, we'll explore how to use these templates effectively, customize them for your specific security needs, and share results on the PDCP Cloud for review.
+
+Windows operating systems, widely utilized in both e</description>
+    </item>
+    <item>
+      <title>From CVE to Template: The Future of Automating Nuclei Templates with AI</title>
+      <link>https://projectdiscovery.io/blog/future-of-automating-nuclei-templates-with-ai</link>
+      <description>In the fast-paced world of cybersecurity, staying ahead of new vulnerabilities is a constant challenge. Every week, new vulnerabilities are disclosed, and attackers are quick to exploit them. As security teams, we need to be equally swift in identifying and addressing these vulnerabilities to protect our organizations and users.
+
+Your ProjectDiscovery team desires to speed up the creation of Nuclei templates for new CVEs. Creating Nuclei templates manually for every new CVE is time-consuming and</description>
+    </item>
+    <item>
+      <title>Alibaba Cloud - Nuclei Templates v10.1.1 🎉</title>
+      <link>https://projectdiscovery.io/blog/alibaba-cloud-nuclei-templates-v10-1-1-2</link>
+      <description>We're excited to tell you about Nuclei Templates release v10.1.1 ! This new version includes newly added Alibaba Cloud Review templates. In this blog post, we'll discuss automating Alibaba cloud misconfiguration review, creating custom checks, and sharing results on the PDCP Cloud for review.
+
+An Alibaba Cloud Configuration Security Review is essential for assessing and improving the security of your cloud infrastructure. It ensures that your resources are configured correctly, compliant with re</description>
+    </item>
+    <item>
+      <title>Hacking Apple - SQL Injection to Remote Code Execution</title>
+      <link>https://projectdiscovery.io/blog/hacking-apple-with-sql-injection</link>
+      <description>Introduction
+
+In our last blog post, we delved into the inner workings of Lucee and took a look at the source code of Masa/Mura CMS, and the vastness of the potential attack surface struck us. It became evident that investing time in understanding the code could pay off. After dedicating a week to our exploration, we stumbled upon several entry points for exploitation, including a critical SQL injection flaw that we were able to exploit within Apple's Book Travel portal.
+
+In this blog post, we a</description>
+    </item>
+    <item>
+      <title>Ruby-SAML / GitLab Authentication Bypass (CVE-2024-45409)</title>
+      <link>https://projectdiscovery.io/blog/ruby-saml-gitlab-auth-bypass</link>
+      <description>Introduction
+
+In this blog post, we will analyze CVE-2024-45409, a critical vulnerability impacting Ruby-SAML, OmniAuth-SAML libraries, which effectively affects GitLab. This vulnerability allows an attacker to bypass SAML authentication mechanisms and gain unauthorized access by exploiting a flaw in how SAML responses are handled. The issue arises due to weaknesses in the verification of the digital signature used to protect SAML assertions, allowing attackers to manipulate the SAML response a</description>
+    </item>
+    <item>
+      <title>GitHub Enterprise SAML Authentication Bypass (CVE-2024-4985 / CVE-2024-9487)</title>
+      <link>https://projectdiscovery.io/blog/github-enterprise-saml-authentication-bypass</link>
+      <description>Introduction
+
+In light of the recent Ruby-SAML bypass discovered in GitLab, we set out to examine the SAML implementation within GitHub Enterprise. During our research, we identified a significant vulnerability that enabled bypassing GitHub’s SAML authentication when encrypted assertions were in use.
+
+This blog post will provide an in-depth look at GitHub Enterprise’s SAML implementation and analyze the specific code issue that permitted this bypass. Although we uncovered this vulnerability inde</description>
+    </item>
+    <item>
+      <title>GitHub Enterprise SAML Authentication Bypass (CVE-2024-4985 / CVE-2024-9487)</title>
+      <link>https://projectdiscovery.io/blog/github-enterprise-saml-authentication-bypass</link>
+      <description>Introduction
+
+In light of the recent Ruby-SAML bypass discovered in GitLab, we set out to examine the SAML implementation within GitHub Enterprise. During our research, we identified a significant vulnerability that enabled bypassing GitHub’s SAML authentication when encrypted assertions were in use.
+
+This blog post will provide an in-depth look at GitHub Enterprise’s SAML implementation and analyze the specific code issue that permitted this bypass. Although we uncovered this vulnerability inde</description>
+    </item>
+    <item>
+      <title>Windows Security Hardening and Auditing - Nuclei Templates v10.1.0 🎉</title>
+      <link>https://projectdiscovery.io/blog/windows-security-hardening-and-auditing-nuclei-templates-v10-1-0</link>
+      <description>We're thrilled to introduce Nuclei Templates release v10.1.0! In this update, we are focusing on Windows Security Hardening and Auditing. Our latest release expands your toolkit with new Windows security templates, designed to automate and enhance the security auditing of Windows systems. Here, we'll explore how to use these templates effectively, customize them for your specific security needs, and share results on the PDCP Cloud for review.
+
+Windows operating systems, widely utilized in both e</description>
+    </item>
+    <item>
+      <title>From CVE to Template: The Future of Automating Nuclei Templates with AI</title>
+      <link>https://projectdiscovery.io/blog/future-of-automating-nuclei-templates-with-ai</link>
+      <description>In the fast-paced world of cybersecurity, staying ahead of new vulnerabilities is a constant challenge. Every week, new vulnerabilities are disclosed, and attackers are quick to exploit them. As security teams, we need to be equally swift in identifying and addressing these vulnerabilities to protect our organizations and users.
+
+Your ProjectDiscovery team desires to speed up the creation of Nuclei templates for new CVEs. Creating Nuclei templates manually for every new CVE is time-consuming and</description>
+    </item>
+  </channel>
+</rss>

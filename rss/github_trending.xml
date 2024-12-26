@@ -6,7 +6,7 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Dec 2024 01:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 10:18:12 +0000</lastBuildDate>
     <item>
       <title>microg /GmsCore</title>
       <link>https://github.com/microg/GmsCore</link>
@@ -43,11 +43,6 @@
       <description>OpenAPI specification for the OpenAI API</description>
     </item>
     <item>
-      <title>2dust /v2rayNG</title>
-      <link>https://github.com/2dust/v2rayNG</link>
-      <description>A V2Ray client for Android, support Xray core and v2fly core</description>
-    </item>
-    <item>
       <title>lobehub /lobe-chat</title>
       <link>https://github.com/lobehub/lobe-chat</link>
       <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
@@ -61,11 +56,6 @@
       <title>anti-work /shortest</title>
       <link>https://github.com/anti-work/shortest</link>
       <description>QA via natural language AI tests</description>
-    </item>
-    <item>
-      <title>Shubhamsaboo /awesome-llm-apps</title>
-      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-      <description>Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</description>
     </item>
   </channel>
 </rss>
