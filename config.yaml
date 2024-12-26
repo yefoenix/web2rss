@@ -116,3 +116,12 @@ sites:
     description_css: div.PostCard_post-info__gybiy.PostList_post-info__vrL_u
     link_css: 
     use_headless_browser: true
+
+  - name: projectdiscovery
+    follow_desc: 
+    url: https://projectdiscovery.io/blog
+    block_css: div.rounded-lg
+    title_css: h3
+    description_css: p.line-clamp-3.text-sm.text-fog
+    link_css: a
+    use_headless_browser: false
