@@ -6,16 +6,21 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Dec 2024 10:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 01:26:32 +0000</lastBuildDate>
     <item>
-      <title>microg /GmsCore</title>
-      <link>https://github.com/microg/GmsCore</link>
-      <description>Free implementation of Play Services</description>
+      <title>practical-tutorials /project-based-learning</title>
+      <link>https://github.com/practical-tutorials/project-based-learning</link>
+      <description>Curated list of project-based tutorials</description>
     </item>
     <item>
-      <title>langchain-ai /langchain</title>
-      <link>https://github.com/langchain-ai/langchain</link>
-      <description>🦜🔗 Build context-aware reasoning applications</description>
+      <title>2dust /v2rayN</title>
+      <link>https://github.com/2dust/v2rayN</link>
+      <description>A GUI client for Windows and Linux, support Xray core and sing-box-core and others</description>
+    </item>
+    <item>
+      <title>ruanyf /weekly</title>
+      <link>https://github.com/ruanyf/weekly</link>
+      <description>科技爱好者周刊，每周五发布</description>
     </item>
     <item>
       <title>OpenSPG /KAG</title>
@@ -23,19 +28,34 @@
       <description>KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</description>
     </item>
     <item>
-      <title>nammayatri /nammayatri</title>
-      <link>https://github.com/nammayatri/nammayatri</link>
-      <description>A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</description>
+      <title>ziglang /zig</title>
+      <link>https://github.com/ziglang/zig</link>
+      <description>General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</description>
     </item>
     <item>
-      <title>IceWhaleTech /CasaOS</title>
-      <link>https://github.com/IceWhaleTech/CasaOS</link>
-      <description>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</description>
+      <title>Significant-Gravitas /AutoGPT</title>
+      <link>https://github.com/Significant-Gravitas/AutoGPT</link>
+      <description>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</description>
     </item>
     <item>
-      <title>donnemartin /system-design-primer</title>
-      <link>https://github.com/donnemartin/system-design-primer</link>
-      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+      <title>3b1b /manim</title>
+      <link>https://github.com/3b1b/manim</link>
+      <description>Animation engine for explanatory math videos</description>
+    </item>
+    <item>
+      <title>kamranahmedse /developer-roadmap</title>
+      <link>https://github.com/kamranahmedse/developer-roadmap</link>
+      <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
+    </item>
+    <item>
+      <title>gitroomhq /postiz-app</title>
+      <link>https://github.com/gitroomhq/postiz-app</link>
+      <description>📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</description>
+    </item>
+    <item>
+      <title>apache /echarts</title>
+      <link>https://github.com/apache/echarts</link>
+      <description>Apache ECharts is a powerful, interactive charting and data visualization library for browser</description>
     </item>
     <item>
       <title>openai /openai-openapi</title>
@@ -43,14 +63,14 @@
       <description>OpenAPI specification for the OpenAI API</description>
     </item>
     <item>
+      <title>imputnet /cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>best way to save what you love</description>
+    </item>
+    <item>
       <title>lobehub /lobe-chat</title>
       <link>https://github.com/lobehub/lobe-chat</link>
       <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
-    </item>
-    <item>
-      <title>practical-tutorials /project-based-learning</title>
-      <link>https://github.com/practical-tutorials/project-based-learning</link>
-      <description>Curated list of project-based tutorials</description>
     </item>
     <item>
       <title>anti-work /shortest</title>
