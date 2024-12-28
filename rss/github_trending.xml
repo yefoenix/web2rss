@@ -6,51 +6,26 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Dec 2024 01:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 01:26:10 +0000</lastBuildDate>
     <item>
-      <title>practical-tutorials /project-based-learning</title>
-      <link>https://github.com/practical-tutorials/project-based-learning</link>
-      <description>Curated list of project-based tutorials</description>
+      <title>microg /GmsCore</title>
+      <link>https://github.com/microg/GmsCore</link>
+      <description>Free implementation of Play Services</description>
     </item>
     <item>
-      <title>2dust /v2rayN</title>
-      <link>https://github.com/2dust/v2rayN</link>
-      <description>A GUI client for Windows and Linux, support Xray core and sing-box-core and others</description>
+      <title>teableio /teable</title>
+      <link>https://github.com/teableio/teable</link>
+      <description>✨ The Next Gen Airtable Alternative: No-Code Postgres</description>
     </item>
     <item>
-      <title>ruanyf /weekly</title>
-      <link>https://github.com/ruanyf/weekly</link>
-      <description>科技爱好者周刊，每周五发布</description>
+      <title>phidatahq /phidata</title>
+      <link>https://github.com/phidatahq/phidata</link>
+      <description>Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.</description>
     </item>
     <item>
-      <title>OpenSPG /KAG</title>
-      <link>https://github.com/OpenSPG/KAG</link>
-      <description>KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</description>
-    </item>
-    <item>
-      <title>ziglang /zig</title>
-      <link>https://github.com/ziglang/zig</link>
-      <description>General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</description>
-    </item>
-    <item>
-      <title>Significant-Gravitas /AutoGPT</title>
-      <link>https://github.com/Significant-Gravitas/AutoGPT</link>
-      <description>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</description>
-    </item>
-    <item>
-      <title>3b1b /manim</title>
-      <link>https://github.com/3b1b/manim</link>
-      <description>Animation engine for explanatory math videos</description>
-    </item>
-    <item>
-      <title>kamranahmedse /developer-roadmap</title>
-      <link>https://github.com/kamranahmedse/developer-roadmap</link>
-      <description>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</description>
-    </item>
-    <item>
-      <title>gitroomhq /postiz-app</title>
-      <link>https://github.com/gitroomhq/postiz-app</link>
-      <description>📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</description>
+      <title>dair-ai /Prompt-Engineering-Guide</title>
+      <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+      <description>🐙 Guides, papers, lecture, notebooks and resources for prompt engineering</description>
     </item>
     <item>
       <title>apache /echarts</title>
@@ -58,19 +33,44 @@
       <description>Apache ECharts is a powerful, interactive charting and data visualization library for browser</description>
     </item>
     <item>
-      <title>openai /openai-openapi</title>
-      <link>https://github.com/openai/openai-openapi</link>
-      <description>OpenAPI specification for the OpenAI API</description>
+      <title>shadps4-emu /shadPS4</title>
+      <link>https://github.com/shadps4-emu/shadPS4</link>
+      <description>PS4 emulator for Windows,Linux,MacOS</description>
     </item>
     <item>
-      <title>imputnet /cobalt</title>
-      <link>https://github.com/imputnet/cobalt</link>
-      <description>best way to save what you love</description>
+      <title>codecrafters-io /build-your-own-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
+    </item>
+    <item>
+      <title>langchain-ai /langchain</title>
+      <link>https://github.com/langchain-ai/langchain</link>
+      <description>🦜🔗 Build context-aware reasoning applications</description>
+    </item>
+    <item>
+      <title>siyuan-note /siyuan</title>
+      <link>https://github.com/siyuan-note/siyuan</link>
+      <description>A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.</description>
+    </item>
+    <item>
+      <title>n8n-io /n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <description>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</description>
+    </item>
+    <item>
+      <title>OpenSPG /KAG</title>
+      <link>https://github.com/OpenSPG/KAG</link>
+      <description>KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</description>
     </item>
     <item>
       <title>lobehub /lobe-chat</title>
       <link>https://github.com/lobehub/lobe-chat</link>
       <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
+    </item>
+    <item>
+      <title>imputnet /cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>best way to save what you love</description>
     </item>
     <item>
       <title>anti-work /shortest</title>
