@@ -6,11 +6,16 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Dec 2024 01:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 01:41:15 +0000</lastBuildDate>
     <item>
-      <title>shadps4-emu /shadPS4</title>
-      <link>https://github.com/shadps4-emu/shadPS4</link>
-      <description>PS4 emulator for Windows,Linux,MacOS</description>
+      <title>ManimCommunity /manim</title>
+      <link>https://github.com/ManimCommunity/manim</link>
+      <description>A community-maintained Python framework for creating mathematical animations.</description>
+    </item>
+    <item>
+      <title>crewAIInc /crewAI</title>
+      <link>https://github.com/crewAIInc/crewAI</link>
+      <description>Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</description>
     </item>
     <item>
       <title>3b1b /manim</title>
@@ -18,19 +23,34 @@
       <description>Animation engine for explanatory math videos</description>
     </item>
     <item>
-      <title>libretro /RetroArch</title>
-      <link>https://github.com/libretro/RetroArch</link>
-      <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
+      <title>activepieces /activepieces</title>
+      <link>https://github.com/activepieces/activepieces</link>
+      <description>Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative</description>
     </item>
     <item>
-      <title>Shpota /github-activity-generator</title>
-      <link>https://github.com/Shpota/github-activity-generator</link>
-      <description>A script that helps generate a rich GitHub Contribution Graph for your account 🤖</description>
+      <title>CopilotKit /CopilotKit</title>
+      <link>https://github.com/CopilotKit/CopilotKit</link>
+      <description>React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁</description>
     </item>
     <item>
-      <title>teableio /teable</title>
-      <link>https://github.com/teableio/teable</link>
-      <description>✨ The Next Gen Airtable Alternative: No-Code Postgres</description>
+      <title>erigontech /erigon</title>
+      <link>https://github.com/erigontech/erigon</link>
+      <description>Ethereum implementation on the efficiency frontierhttps://docs.erigon.tech</description>
+    </item>
+    <item>
+      <title>janhq /jan</title>
+      <link>https://github.com/janhq/jan</link>
+      <description>Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)</description>
+    </item>
+    <item>
+      <title>trimstray /the-book-of-secret-knowledge</title>
+      <link>https://github.com/trimstray/the-book-of-secret-knowledge</link>
+      <description>A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.</description>
+    </item>
+    <item>
+      <title>Hannibal046 /Awesome-LLM</title>
+      <link>https://github.com/Hannibal046/Awesome-LLM</link>
+      <description>Awesome-LLM: a curated list of Large Language Model</description>
     </item>
     <item>
       <title>elizaOS /eliza</title>
@@ -38,64 +58,9 @@
       <description>Autonomous agents for everyone</description>
     </item>
     <item>
-      <title>0xPlaygrounds /rig</title>
-      <link>https://github.com/0xPlaygrounds/rig</link>
-      <description>⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</description>
-    </item>
-    <item>
-      <title>pathwaycom /llm-app</title>
-      <link>https://github.com/pathwaycom/llm-app</link>
-      <description>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</description>
-    </item>
-    <item>
-      <title>mikage-emu /mikage-dev</title>
-      <link>https://github.com/mikage-emu/mikage-dev</link>
-      <description>Mikage Developer Edition</description>
-    </item>
-    <item>
-      <title>ManimCommunity /manim</title>
-      <link>https://github.com/ManimCommunity/manim</link>
-      <description>A community-maintained Python framework for creating mathematical animations.</description>
-    </item>
-    <item>
-      <title>MervinPraison /PraisonAI</title>
-      <link>https://github.com/MervinPraison/PraisonAI</link>
-      <description>PraisonAI is an AI Agents Framework with Self Reflection. PraisonAI application combines PraisonAI Agents, AutoGen, and CrewAI into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human–agent collaboration.</description>
-    </item>
-    <item>
-      <title>public-apis /public-apis</title>
-      <link>https://github.com/public-apis/public-apis</link>
-      <description>A collective list of free APIs</description>
-    </item>
-    <item>
-      <title>pathwaycom /pathway</title>
-      <link>https://github.com/pathwaycom/pathway</link>
-      <description>Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.</description>
-    </item>
-    <item>
-      <title>fish-shell /fish-shell</title>
-      <link>https://github.com/fish-shell/fish-shell</link>
-      <description>The user-friendly command line shell.</description>
-    </item>
-    <item>
-      <title>imputnet /cobalt</title>
-      <link>https://github.com/imputnet/cobalt</link>
-      <description>best way to save what you love</description>
-    </item>
-    <item>
-      <title>Stirling-Tools /Stirling-PDF</title>
-      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
-      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
-    </item>
-    <item>
-      <title>kovidgoyal /kitty</title>
-      <link>https://github.com/kovidgoyal/kitty</link>
-      <description>Cross-platform, fast, feature-rich, GPU based terminal</description>
-    </item>
-    <item>
-      <title>DrewThomasson /ebook2audiobook</title>
-      <link>https://github.com/DrewThomasson/ebook2audiobook</link>
-      <description>Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!</description>
+      <title>deepseek-ai /DeepSeek-Coder-V2</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-Coder-V2</link>
+      <description>DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence</description>
     </item>
     <item>
       <title>WerWolv /ImHex</title>
@@ -103,9 +68,34 @@
       <description>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</description>
     </item>
     <item>
+      <title>pathwaycom /llm-app</title>
+      <link>https://github.com/pathwaycom/llm-app</link>
+      <description>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</description>
+    </item>
+    <item>
+      <title>Stirling-Tools /Stirling-PDF</title>
+      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
+      <description>#1 Locally hosted web application that allows you to perform various operations on PDF files</description>
+    </item>
+    <item>
+      <title>public-apis /public-apis</title>
+      <link>https://github.com/public-apis/public-apis</link>
+      <description>A collective list of free APIs</description>
+    </item>
+    <item>
+      <title>DrewThomasson /ebook2audiobook</title>
+      <link>https://github.com/DrewThomasson/ebook2audiobook</link>
+      <description>Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!</description>
+    </item>
+    <item>
       <title>EbookFoundation /free-programming-books</title>
       <link>https://github.com/EbookFoundation/free-programming-books</link>
       <description>📚 Freely available programming books</description>
+    </item>
+    <item>
+      <title>pathwaycom /pathway</title>
+      <link>https://github.com/pathwaycom/pathway</link>
+      <description>Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.</description>
     </item>
   </channel>
 </rss>
