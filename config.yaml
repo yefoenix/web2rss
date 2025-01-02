@@ -125,3 +125,12 @@ sites:
     description_css: p.line-clamp-3.text-sm.text-fog
     link_css: a
     use_headless_browser: false
+
+  - name: lycee.ai
+    follow_desc: 
+    url: https://www.lycee.ai/blog
+    block_css: a.flex.flex-col.space-y-4.mb-4
+    title_css: p.text-neutral-900
+    description_css: div
+    link_css: 
+    use_headless_browser: false
