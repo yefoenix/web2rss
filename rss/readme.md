@@ -70,3 +70,8 @@
 - 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/projectdiscovery.xml
 - Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/projectdiscovery.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/projectdiscovery.xml)
 
+## lycee.ai
+- 原网址：https://www.lycee.ai/blog
+- 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/lycee.ai.xml
+- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/lycee.ai.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/lycee.ai.xml)
+

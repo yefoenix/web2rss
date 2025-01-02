@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>lycee.ai</title>
+    <link>https://www.lycee.ai/blog</link>
+    <description>Latest posts from https://www.lycee.ai/blog. follow.is: None</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Thu, 02 Jan 2025 10:56:52 +0000</lastBuildDate>
+    <item>
+      <title>Why There Will Be No AGI</title>
+      <link>https://www.lycee.ai/blog/why-no-agi-openai</link>
+      <description>August 4, 2023Why There Will Be No AGI</description>
+    </item>
+    <item>
+      <title>Mistral AI Strategy To Beat OpenAI</title>
+      <link>https://www.lycee.ai/blog/mistral-ai-strategy-openai</link>
+      <description>December 12, 2023Mistral AI Strategy To Beat OpenAI</description>
+    </item>
+    <item>
+      <title>LLMs : The Noise And The Value</title>
+      <link>https://www.lycee.ai/blog/llm-noise-value-openai</link>
+      <description>December 12, 2023LLMs : The Noise And The Value</description>
+    </item>
+    <item>
+      <title>Why You Should Add A Classification Step In Your Retrieval Augmented Generation System</title>
+      <link>https://www.lycee.ai/blog/classification-retrieval-augmented-generation</link>
+      <description>February 26, 2024Why You Should Add A Classification Step In Your Retrieval Augmented Generation System</description>
+    </item>
+    <item>
+      <title>DSPy: Building a Logical Reasoner</title>
+      <link>https://www.lycee.ai/blog/logical-reasoner-dspy</link>
+      <description>April 9, 2024DSPy: Building a Logical Reasoner</description>
+    </item>
+    <item>
+      <title>Building an AI Agent That Has Access to the Internet Using LangChain and Tavily’s API</title>
+      <link>https://www.lycee.ai/blog/ai-agent-langchain-tavily</link>
+      <description>April 20, 2024Building an AI Agent That Has Access to the Internet Using LangChain and Tavily’s API</description>
+    </item>
+    <item>
+      <title>DSPy: Learn how to program (not prompt) language models</title>
+      <link>https://www.lycee.ai/blog/getting-started-with-dspy</link>
+      <description>May 4, 2024DSPy: Learn how to program (not prompt) language models</description>
+    </item>
+    <item>
+      <title>Advanced DSPy Tutorials</title>
+      <link>https://www.lycee.ai/blog/advanced-dspy-for-ai-applications</link>
+      <description>May 6, 2024Advanced DSPy Tutorials</description>
+    </item>
+    <item>
+      <title>Jensen Huang and the Rise of the GPU</title>
+      <link>https://www.lycee.ai/blog/jensen-huang-and-the-rise-of-the-gpu</link>
+      <description>May 7, 2024Jensen Huang and the Rise of the GPU</description>
+    </item>
+    <item>
+      <title>Towards LangChain Mastery: Full Course 2024</title>
+      <link>https://www.lycee.ai/blog/getting-started-with-langchain-ai</link>
+      <description>May 11, 2024Towards LangChain Mastery: Full Course 2024</description>
+    </item>
+    <item>
+      <title>Pure DSPy-based Synthetic Prompt Optimization</title>
+      <link>https://www.lycee.ai/blog/dspy-synthetic-prompt-optimisation</link>
+      <description>May 11, 2024Pure DSPy-based Synthetic Prompt Optimization</description>
+    </item>
+    <item>
+      <title>Build an Audio AI Assistant</title>
+      <link>https://www.lycee.ai/blog/audio-ai-assistant-openai</link>
+      <description>May 13, 2024Build an Audio AI Assistant</description>
+    </item>
+    <item>
+      <title>Replit's Strategic Moves: Layoffs, Headquarters Relocation, and Financial Efficiency Measures</title>
+      <link>https://www.lycee.ai/blog/replit-ai-layoffs</link>
+      <description>May 16, 2024Replit's Strategic Moves: Layoffs, Headquarters Relocation, and Financial Efficiency Measures</description>
+    </item>
+    <item>
+      <title>Building a Decision-Making AI Agent with DSPy and Finite State Machines for Complex Queries</title>
+      <link>https://www.lycee.ai/blog/decision-making-ai-agent-dspy</link>
+      <description>May 16, 2024Building a Decision-Making AI Agent with DSPy and Finite State Machines for Complex Queries</description>
+    </item>
+    <item>
+      <title>What did Ilya see?</title>
+      <link>https://www.lycee.ai/blog/what-ilya-saw</link>
+      <description>May 17, 2024What did Ilya see?</description>
+    </item>
+    <item>
+      <title>Building a Retrieval Augmented Generation System Using FastAPI</title>
+      <link>https://www.lycee.ai/blog/rag-fastapi-postgresql-pgvector</link>
+      <description>May 21, 2024Building a Retrieval Augmented Generation System Using FastAPI</description>
+    </item>
+    <item>
+      <title>Why Open Source Is The Solution To AI Safety</title>
+      <link>https://www.lycee.ai/blog/ai-safety-open-source-openai</link>
+      <description>May 22, 2024Why Open Source Is The Solution To AI Safety</description>
+    </item>
+    <item>
+      <title>Strategy is Easy, Execution is Hard.</title>
+      <link>https://www.lycee.ai/blog/strategy-is-easy</link>
+      <description>May 27, 2024Strategy is Easy, Execution is Hard.</description>
+    </item>
+    <item>
+      <title>You don't need MVC for Indie Hacking</title>
+      <link>https://www.lycee.ai/blog/indie-hacking-mvc</link>
+      <description>June 1, 2024You don't need MVC for Indie Hacking</description>
+    </item>
+    <item>
+      <title>AI Won’t Replace Software Engineers</title>
+      <link>https://www.lycee.ai/blog/ai-replace-software-engineer</link>
+      <description>June 1, 2024AI Won’t Replace Software Engineers</description>
+    </item>
+    <item>
+      <title>Prime Polynomial Approximation</title>
+      <link>https://www.lycee.ai/blog/ai-prime-numbers-numpy</link>
+      <description>June 5, 2024Prime Polynomial Approximation</description>
+    </item>
+    <item>
+      <title>ChatGPT et les IA génératives: bulle ou pas bulle?</title>
+      <link>https://www.lycee.ai/blog/nvidia-ai-hype</link>
+      <description>June 6, 2024ChatGPT et les IA génératives: bulle ou pas bulle?</description>
+    </item>
+    <item>
+      <title>La promesse des agents IA</title>
+      <link>https://www.lycee.ai/blog/ai-agents-automation-fr</link>
+      <description>June 7, 2024La promesse des agents IA</description>
+    </item>
+    <item>
+      <title>The Promise of AI Agents</title>
+      <link>https://www.lycee.ai/blog/ai-agents-automation-eng</link>
+      <description>June 7, 2024The Promise of AI Agents</description>
+    </item>
+    <item>
+      <title>Tests d'incrémentalité pour publicité 'always on': défis et perspectives</title>
+      <link>https://www.lycee.ai/blog/incrementality-tests-marketing-measurement</link>
+      <description>June 10, 2024Tests d'incrémentalité pour publicité 'always on': défis et perspectives</description>
+    </item>
+    <item>
+      <title>Incrementality Tests for ‘Always On’ Advertising: Challenges and Perspectives</title>
+      <link>https://www.lycee.ai/blog/incrementality-tests-marketing-measurement-eng</link>
+      <description>June 10, 2024Incrementality Tests for ‘Always On’ Advertising: Challenges and Perspectives</description>
+    </item>
+    <item>
+      <title>On Apple Intelligence</title>
+      <link>https://www.lycee.ai/blog/on-apple-intelligence-ai-openai</link>
+      <description>June 11, 2024On Apple Intelligence</description>
+    </item>
+    <item>
+      <title>Modern knowledge workers are tool users.</title>
+      <link>https://www.lycee.ai/blog/knowledge-work-tool-use-ai</link>
+      <description>June 18, 2024Modern knowledge workers are tool users.</description>
+    </item>
+    <item>
+      <title>The Challenge of AI is Reliability</title>
+      <link>https://www.lycee.ai/blog/ai-reliability-challenge</link>
+      <description>June 18, 2024The Challenge of AI is Reliability</description>
+    </item>
+    <item>
+      <title>For AI Agents, Drop LangChain and Use Instructor</title>
+      <link>https://www.lycee.ai/blog/for-ai-agents-drop-langchain-use-instructor</link>
+      <description>July 26, 2024For AI Agents, Drop LangChain and Use Instructor</description>
+    </item>
+    <item>
+      <title>Why Small Language Models are the Future</title>
+      <link>https://www.lycee.ai/blog/why-small-language-models-are-the-future</link>
+      <description>July 27, 2024Why Small Language Models are the Future</description>
+    </item>
+    <item>
+      <title>Building the Killer App of Generative AI</title>
+      <link>https://www.lycee.ai/blog/build-killer-app-of-generative-ai</link>
+      <description>July 28, 2024Building the Killer App of Generative AI</description>
+    </item>
+    <item>
+      <title>The Era of Big Player Consolidation in the Generative AI Space</title>
+      <link>https://www.lycee.ai/blog/the-era-of-big-player-consolidation-in-the-generative-ai-space</link>
+      <description>August 3, 2024The Era of Big Player Consolidation in the Generative AI Space</description>
+    </item>
+    <item>
+      <title>Why Large Language Models Are A Commodity Now And What It Means For The AI Space</title>
+      <link>https://www.lycee.ai/blog/why-large-language-models-are-a-commodity-now</link>
+      <description>August 5, 2024Why Large Language Models Are A Commodity Now And What It Means For The AI Space</description>
+    </item>
+    <item>
+      <title>Large Language Models, Productivity, and Profits</title>
+      <link>https://www.lycee.ai/blog/large-language-models-productivity-and-profits</link>
+      <description>August 6, 2024Large Language Models, Productivity, and Profits</description>
+    </item>
+    <item>
+      <title>RAG Made Simple with EmbedChain</title>
+      <link>https://www.lycee.ai/blog/rag-retrieval-augmented-generation-made-simple-with-embedchain</link>
+      <description>August 20, 2024RAG Made Simple with EmbedChain</description>
+    </item>
+    <item>
+      <title>How I Made Money On The Stock Market Using AI</title>
+      <link>https://www.lycee.ai/blog/how-made-money-stock-market-ai</link>
+      <description>August 20, 2024How I Made Money On The Stock Market Using AI</description>
+    </item>
+    <item>
+      <title>Building a Retrieval Augmented Generation System Using FastAPI</title>
+      <link>https://www.lycee.ai/blog/build-retrieval-augmented-generation-using-fastapi</link>
+      <description>August 20, 2024Building a Retrieval Augmented Generation System Using FastAPI</description>
+    </item>
+    <item>
+      <title>Building LLM-Based Applications Using Instructor</title>
+      <link>https://www.lycee.ai/blog/build-llm-based-applications-using-instructor</link>
+      <description>August 20, 2024Building LLM-Based Applications Using Instructor</description>
+    </item>
+    <item>
+      <title>Building AI Applications with Flask</title>
+      <link>https://www.lycee.ai/blog/build-ai-applications-with-flask</link>
+      <description>August 20, 2024Building AI Applications with Flask</description>
+    </item>
+    <item>
+      <title>Develop a RAG App Using DSPy, Weaviate, and FastAPI</title>
+      <link>https://www.lycee.ai/blog/build-a-retrieval-augmented-gen-app-weaviate-dspy</link>
+      <description>August 20, 2024Develop a RAG App Using DSPy, Weaviate, and FastAPI</description>
+    </item>
+    <item>
+      <title>Thoughts About the AI Mayor in the U.S.</title>
+      <link>https://www.lycee.ai/blog/thoughts-about-the-ai-mayor-in-the-us</link>
+      <description>August 21, 2024Thoughts About the AI Mayor in the U.S.</description>
+    </item>
+    <item>
+      <title>Levelsio and the Dilemma of Premature Optimization</title>
+      <link>https://www.lycee.ai/blog/levelsio-and-the-dilemma-of-premature-optimization</link>
+      <description>August 22, 2024Levelsio and the Dilemma of Premature Optimization</description>
+    </item>
+    <item>
+      <title>The Death of Local LLMs</title>
+      <link>https://www.lycee.ai/blog/the-death-of-local-llms</link>
+      <description>August 28, 2024The Death of Local LLMs</description>
+    </item>
+    <item>
+      <title>How I Finetuned Aya 😲🤫</title>
+      <link>https://www.lycee.ai/blog/how-i-finetuned-aya</link>
+      <description>August 28, 2024How I Finetuned Aya 😲🤫</description>
+    </item>
+    <item>
+      <title>Understanding the MIPro Optimizer in Dspy</title>
+      <link>https://www.lycee.ai/blog/understanding-mipro-optimizer-dspy</link>
+      <description>August 30, 2024Understanding the MIPro Optimizer in Dspy</description>
+    </item>
+    <item>
+      <title>Safe Superintelligence Raises $1 Billion in Funding</title>
+      <link>https://www.lycee.ai/blog/ssi-ai-startup-raises-1-billion</link>
+      <description>September 4, 2024Safe Superintelligence Raises $1 Billion in Funding</description>
+    </item>
+    <item>
+      <title>California and EU Lead Global Efforts in Comprehensive AI Regulation</title>
+      <link>https://www.lycee.ai/blog/ai-act-comprehensive-regulation-sep-2024</link>
+      <description>September 4, 2024California and EU Lead Global Efforts in Comprehensive AI Regulation</description>
+    </item>
+    <item>
+      <title>Samsung's Dr. Jung Bae Lee Highlights Memory Bottleneck as Key Challenge for Future AI Models Like GPT-5</title>
+      <link>https://www.lycee.ai/blog/2024-09-04-samsung-memory-bottleneck-gpt5</link>
+      <description>September 4, 2024Samsung's Dr. Jung Bae Lee Highlights Memory Bottleneck as Key Challenge for Future AI Models Like GPT-5</description>
+    </item>
+    <item>
+      <title>The Rise of the Verifier Economy: How AI is Shifting Our Roles from Creators to Verifiers</title>
+      <link>https://www.lycee.ai/blog/the-rise-of-the-verifier-economy</link>
+      <description>September 5, 2024The Rise of the Verifier Economy: How AI is Shifting Our Roles from Creators to Verifiers</description>
+    </item>
+    <item>
+      <title>ColPaLi: Efficient Document Retrieval with Contextualized Language Model</title>
+      <link>https://www.lycee.ai/blog/colpali-efficient-document-retrieval</link>
+      <description>September 5, 2024ColPaLi: Efficient Document Retrieval with Contextualized Language Model</description>
+    </item>
+    <item>
+      <title>OpenAI's Data Acquisition Strategy Drives Model Improvement Amid Competition in Generative AI</title>
+      <link>https://www.lycee.ai/blog/openai-secret-advantage</link>
+      <description>September 6, 2024OpenAI's Data Acquisition Strategy Drives Model Improvement Amid Competition in Generative AI</description>
+    </item>
+    <item>
+      <title>Google DeepMind Unveils AlphaProteo</title>
+      <link>https://www.lycee.ai/blog/google_deepmind_alpha_proteo_announcement_sept_2024</link>
+      <description>September 6, 2024Google DeepMind Unveils AlphaProteo</description>
+    </item>
+    <item>
+      <title>AI Adoption Hasn't Led to Significant Job Cuts, NY Fed Survey Reveals</title>
+      <link>https://www.lycee.ai/blog/ai-adoption-labor-market-ny-fed-survey</link>
+      <description>September 6, 2024AI Adoption Hasn't Led to Significant Job Cuts, NY Fed Survey Reveals</description>
+    </item>
+    <item>
+      <title>Walmart Uses Generative AI to Transform Product Catalog, Boosting Efficiency and Personalization</title>
+      <link>https://www.lycee.ai/blog/walmart-generative-ai-product-catalog</link>
+      <description>September 7, 2024Walmart Uses Generative AI to Transform Product Catalog, Boosting Efficiency and Personalization</description>
+    </item>
+    <item>
+      <title>Generative AI's Impact on High-Skilled Work: Mixed Results for Software Developers</title>
+      <link>https://www.lycee.ai/blog/effects-of-gen-ai-on-software-developers</link>
+      <description>September 7, 2024Generative AI's Impact on High-Skilled Work: Mixed Results for Software Developers</description>
+    </item>
+    <item>
+      <title>AI Startups to Watch in 2024</title>
+      <link>https://www.lycee.ai/blog/ai-startups-2024-report</link>
+      <description>September 7, 2024AI Startups to Watch in 2024</description>
+    </item>
+    <item>
+      <title>The Rise of Data-Driven Automation</title>
+      <link>https://www.lycee.ai/blog/the-rise-of-data-driven-automation</link>
+      <description>September 8, 2024The Rise of Data-Driven Automation</description>
+    </item>
+    <item>
+      <title>Can LLMs Generate Novel Research Ideas?</title>
+      <link>https://www.lycee.ai/blog/can-llms-generate-novel-research-ideas</link>
+      <description>September 9, 2024Can LLMs Generate Novel Research Ideas?</description>
+    </item>
+    <item>
+      <title>Apple Set to Unveil AI-Powered iPhone 16 Lineup, Highlighting Edge AI and Exclusivity of Features</title>
+      <link>https://www.lycee.ai/blog/apple-ai-iphone-16-launch</link>
+      <description>September 9, 2024Apple Set to Unveil AI-Powered iPhone 16 Lineup, Highlighting Edge AI and Exclusivity of Features</description>
+    </item>
+    <item>
+      <title>Can We Ever Get Rid of Hallucinations in LLMs?</title>
+      <link>https://www.lycee.ai/blog/llm-hallucinations-report</link>
+      <description>September 10, 2024Can We Ever Get Rid of Hallucinations in LLMs?</description>
+    </item>
+    <item>
+      <title>Building an Optimized Question-Answering System with MIPRO and DSPY (1)</title>
+      <link>https://www.lycee.ai/blog/dspy-prompt-optimization-example-mipro</link>
+      <description>September 11, 2024Building an Optimized Question-Answering System with MIPRO and DSPY (1)</description>
+    </item>
+    <item>
+      <title>AI is not a platform</title>
+      <link>https://www.lycee.ai/blog/ai-is-not-a-platform</link>
+      <description>September 11, 2024AI is not a platform</description>
+    </item>
+    <item>
+      <title>Openai o1: Is this AGI ?</title>
+      <link>https://www.lycee.ai/blog/openai-o1-release-agi-reasoning</link>
+      <description>September 12, 2024Openai o1: Is this AGI ?</description>
+    </item>
+    <item>
+      <title>Building an Optimized Question-Answering System with MIPRO and DSPY (2)</title>
+      <link>https://www.lycee.ai/blog/dspy-prompt-optimization-example-mipro-bleu</link>
+      <description>September 14, 2024Building an Optimized Question-Answering System with MIPRO and DSPY (2)</description>
+    </item>
+    <item>
+      <title>Everything You Need To Know About Openai o1</title>
+      <link>https://www.lycee.ai/blog/openai-o1-model-summary</link>
+      <description>September 18, 2024Everything You Need To Know About Openai o1</description>
+    </item>
+    <item>
+      <title>A Pessimistic View of Generative AI</title>
+      <link>https://www.lycee.ai/blog/generative-ai-analysis-hype-or-success</link>
+      <description>September 18, 2024A Pessimistic View of Generative AI</description>
+    </item>
+    <item>
+      <title>On Long-Term Thinking</title>
+      <link>https://www.lycee.ai/blog/on-long-term-thinking</link>
+      <description>September 21, 2024On Long-Term Thinking</description>
+    </item>
+    <item>
+      <title>Why Sam Altman is Wrong</title>
+      <link>https://www.lycee.ai/blog/why-sam-altman-is-wrong</link>
+      <description>September 24, 2024Why Sam Altman is Wrong</description>
+    </item>
+    <item>
+      <title>There Are Indeed Artificial Intelligences</title>
+      <link>https://www.lycee.ai/blog/there-are-indeed-artificial-intelligences</link>
+      <description>September 29, 2024There Are Indeed Artificial Intelligences</description>
+    </item>
+    <item>
+      <title>Il existe bel et bien des intelligences artificielles</title>
+      <link>https://www.lycee.ai/blog/il-existe-bel-et-bien-des-intelligences-artificielles</link>
+      <description>September 29, 2024Il existe bel et bien des intelligences artificielles</description>
+    </item>
+    <item>
+      <title>OpenAI O1-Preview Vs. Stockfish Engine</title>
+      <link>https://www.lycee.ai/blog/openai_o1_preview_vs_stockfish</link>
+      <description>October 4, 2024OpenAI O1-Preview Vs. Stockfish Engine</description>
+    </item>
+    <item>
+      <title>Advanced SQL for 10x Data Analysts: Part 1</title>
+      <link>https://www.lycee.ai/blog/advanced-sql-for-10x-data-analysts-part-1</link>
+      <description>October 8, 2024Advanced SQL for 10x Data Analysts: Part 1</description>
+    </item>
+    <item>
+      <title>Advanced SQL for 10x Data Analysts: Part 2</title>
+      <link>https://www.lycee.ai/blog/advanced-sql-for-10x-data-analysts-part-2</link>
+      <description>October 10, 2024Advanced SQL for 10x Data Analysts: Part 2</description>
+    </item>
+    <item>
+      <title>Rag, Ragallucinations, and How to Fight Them</title>
+      <link>https://www.lycee.ai/blog/rag-ragallucinations-and-how-to-fight-them</link>
+      <description>October 14, 2024Rag, Ragallucinations, and How to Fight Them</description>
+    </item>
+    <item>
+      <title>Drop o1 Preview, Try This Alternative</title>
+      <link>https://www.lycee.ai/blog/drop-o1-preview-try-this-alternative</link>
+      <description>October 18, 2024Drop o1 Preview, Try This Alternative</description>
+    </item>
+    <item>
+      <title>Can Africa Leapfrog Its Way to AI Relevance?</title>
+      <link>https://www.lycee.ai/blog/can-africa-leapfrog-its-way-to-ai-relevance</link>
+      <description>October 19, 2024Can Africa Leapfrog Its Way to AI Relevance?</description>
+    </item>
+    <item>
+      <title>Prompts Are Not Programs</title>
+      <link>https://www.lycee.ai/blog/prompts-are-not-programs</link>
+      <description>October 23, 2024Prompts Are Not Programs</description>
+    </item>
+    <item>
+      <title>Can LLMs Think Strategically and Tactically? A Chess-Based Evaluation</title>
+      <link>https://www.lycee.ai/blog/llm-strategic-planning-tactical-intelligence-chess-evaluation</link>
+      <description>October 26, 2024Can LLMs Think Strategically and Tactically? A Chess-Based Evaluation</description>
+    </item>
+    <item>
+      <title>Se familiariser aux IA génératives en trois étapes</title>
+      <link>https://www.lycee.ai/blog/se-familiariser-aux-ia-generatives-en-trois-etapes</link>
+      <description>November 4, 2024Se familiariser aux IA génératives en trois étapes</description>
+    </item>
+    <item>
+      <title>Open-source vs. Proprietary AI models: Pros and cons for developers</title>
+      <link>https://www.lycee.ai/blog/open-vs-proprietary-ai-models-pros-cons</link>
+      <description>November 8, 2024Open-source vs. Proprietary AI models: Pros and cons for developers</description>
+    </item>
+    <item>
+      <title>What happens when LLMs play chess ?</title>
+      <link>https://www.lycee.ai/blog/what-happens-when-llms-play-chess</link>
+      <description>November 10, 2024What happens when LLMs play chess ?</description>
+    </item>
+    <item>
+      <title>The Truth About Few-Shot Prompting.</title>
+      <link>https://www.lycee.ai/blog/the-truth-about-few-shot-prompting</link>
+      <description>November 11, 2024The Truth About Few-Shot Prompting.</description>
+    </item>
+    <item>
+      <title>Structured Outputs from Open Source LLMs: Techniques and Best Practices</title>
+      <link>https://www.lycee.ai/blog/structured-outputs-from-open-source-models</link>
+      <description>November 18, 2024Structured Outputs from Open Source LLMs: Techniques and Best Practices</description>
+    </item>
+    <item>
+      <title>Langchain’s state of AI agents report is mostly bullshit.</title>
+      <link>https://www.lycee.ai/blog/langchain-ai-agent-report-is-bullshit</link>
+      <description>November 18, 2024Langchain’s state of AI agents report is mostly bullshit.</description>
+    </item>
+    <item>
+      <title>Building Entropix: An Open-Source Perplexity AI Demo</title>
+      <link>https://www.lycee.ai/blog/building-open-source-perplexity-ai</link>
+      <description>November 18, 2024Building Entropix: An Open-Source Perplexity AI Demo</description>
+    </item>
+    <item>
+      <title>Drop LangChain and Instructor: Use This Alternative for Structured Output Generation</title>
+      <link>https://www.lycee.ai/blog/drop-langchain-instructor-use-this-structured-outputs</link>
+      <description>December 8, 2024Drop LangChain and Instructor: Use This Alternative for Structured Output Generation</description>
+    </item>
+  </channel>
+</rss>
