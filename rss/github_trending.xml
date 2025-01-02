@@ -6,66 +6,91 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Dec 2024 01:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 01:25:56 +0000</lastBuildDate>
     <item>
-      <title>microg /GmsCore</title>
-      <link>https://github.com/microg/GmsCore</link>
-      <description>Free implementation of Play Services</description>
+      <title>activepieces /activepieces</title>
+      <link>https://github.com/activepieces/activepieces</link>
+      <description>Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative</description>
     </item>
     <item>
-      <title>langchain-ai /langchain</title>
-      <link>https://github.com/langchain-ai/langchain</link>
-      <description>🦜🔗 Build context-aware reasoning applications</description>
+      <title>crewAIInc /crewAI</title>
+      <link>https://github.com/crewAIInc/crewAI</link>
+      <description>Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</description>
     </item>
     <item>
-      <title>OpenSPG /KAG</title>
-      <link>https://github.com/OpenSPG/KAG</link>
-      <description>KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&amp;A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.</description>
+      <title>goauthentik /authentik</title>
+      <link>https://github.com/goauthentik/authentik</link>
+      <description>The authentication glue you need.</description>
     </item>
     <item>
-      <title>nammayatri /nammayatri</title>
-      <link>https://github.com/nammayatri/nammayatri</link>
-      <description>A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</description>
+      <title>QwenLM /Qwen-Agent</title>
+      <link>https://github.com/QwenLM/Qwen-Agent</link>
+      <description>Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.</description>
     </item>
     <item>
-      <title>IceWhaleTech /CasaOS</title>
-      <link>https://github.com/IceWhaleTech/CasaOS</link>
-      <description>CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</description>
+      <title>Byaidu /PDFMathTranslate</title>
+      <link>https://github.com/Byaidu/PDFMathTranslate</link>
+      <description>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</description>
     </item>
     <item>
-      <title>donnemartin /system-design-primer</title>
-      <link>https://github.com/donnemartin/system-design-primer</link>
-      <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+      <title>0xPlaygrounds /rig</title>
+      <link>https://github.com/0xPlaygrounds/rig</link>
+      <description>⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</description>
     </item>
     <item>
-      <title>openai /openai-openapi</title>
-      <link>https://github.com/openai/openai-openapi</link>
-      <description>OpenAPI specification for the OpenAI API</description>
+      <title>RVC-Boss /GPT-SoVITS</title>
+      <link>https://github.com/RVC-Boss/GPT-SoVITS</link>
+      <description>1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</description>
     </item>
     <item>
-      <title>2dust /v2rayNG</title>
-      <link>https://github.com/2dust/v2rayNG</link>
-      <description>A V2Ray client for Android, support Xray core and v2fly core</description>
+      <title>pathwaycom /pathway</title>
+      <link>https://github.com/pathwaycom/pathway</link>
+      <description>Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.</description>
     </item>
     <item>
-      <title>lobehub /lobe-chat</title>
-      <link>https://github.com/lobehub/lobe-chat</link>
-      <description>🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.</description>
+      <title>elizaOS /eliza</title>
+      <link>https://github.com/elizaOS/eliza</link>
+      <description>Autonomous agents for everyone</description>
     </item>
     <item>
-      <title>practical-tutorials /project-based-learning</title>
-      <link>https://github.com/practical-tutorials/project-based-learning</link>
-      <description>Curated list of project-based tutorials</description>
+      <title>codecrafters-io /build-your-own-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
     </item>
     <item>
-      <title>anti-work /shortest</title>
-      <link>https://github.com/anti-work/shortest</link>
-      <description>QA via natural language AI tests</description>
+      <title>janhq /jan</title>
+      <link>https://github.com/janhq/jan</link>
+      <description>Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)</description>
     </item>
     <item>
-      <title>Shubhamsaboo /awesome-llm-apps</title>
-      <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-      <description>Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.</description>
+      <title>krahets /hello-algo</title>
+      <link>https://github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</description>
+    </item>
+    <item>
+      <title>CopilotKit /CopilotKit</title>
+      <link>https://github.com/CopilotKit/CopilotKit</link>
+      <description>React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁</description>
+    </item>
+    <item>
+      <title>EbookFoundation /free-programming-books</title>
+      <link>https://github.com/EbookFoundation/free-programming-books</link>
+      <description>📚 Freely available programming books</description>
+    </item>
+    <item>
+      <title>DrewThomasson /ebook2audiobook</title>
+      <link>https://github.com/DrewThomasson/ebook2audiobook</link>
+      <description>Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!</description>
+    </item>
+    <item>
+      <title>deepseek-ai /DeepSeek-Coder</title>
+      <link>https://github.com/deepseek-ai/DeepSeek-Coder</link>
+      <description>DeepSeek Coder: Let the Code Write Itself</description>
+    </item>
+    <item>
+      <title>bytedance /monolith</title>
+      <link>https://github.com/bytedance/monolith</link>
+      <description>A Lightweight Recommendation System</description>
     </item>
   </channel>
 </rss>

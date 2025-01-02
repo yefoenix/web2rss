@@ -6,7 +6,12 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Dec 2024 01:25:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 01:26:09 +0000</lastBuildDate>
+    <item>
+      <title>Google Cloud's commitment to responsible AI is now ISO/IEC certified</title>
+      <link>https://cloud.google.com/blog/products/identity-security/google-clouds-commitment-to-responsible-ai-is-now-iso-iec-certified</link>
+      <description>Security &amp; IdentityGoogle Cloud's commitment to responsible AI is now ISO/IEC certifiedBy Jeanette Manfra  • 3-minute read</description>
+    </item>
     <item>
       <title>Google Cloud and SAP: Powering AI with enterprise data</title>
       <link>https://cloud.google.com/blog/products/sap-google-cloud/the-case-for-running-rise-with-sap-on-google-cloud</link>
@@ -43,19 +48,14 @@
       <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
     </item>
     <item>
-      <title>Calling all devs: Code the future of baseball with Google Cloud and MLB</title>
-      <link>https://cloud.google.com/blog/products/application-development/google-cloud-mlb-hackathon-powered-by-gemini</link>
-      <description>Application DevelopmentCalling all devs: Code the future of baseball with Google Cloud and MLBBy Richard Seroter • 3-minute read</description>
-    </item>
-    <item>
-      <title>Cloud CISO Perspectives: From gen AI to threat intelligence: 2024 in review</title>
-      <link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-from-gen-AI-to-threat-intelligence-2024-in-review</link>
-      <description>Security &amp; IdentityCloud CISO Perspectives: From gen AI to threat intelligence: 2024 in reviewBy Phil Venables • 5-minute read</description>
-    </item>
-    <item>
       <title>Google is a Leader, positioned furthest in vision in the 2024 Gartner Magic Quadrant for Cloud Database Management Systems</title>
       <link>https://cloud.google.com/blog/products/databases/2024-gartner-magic-quadrant-for-cloud-database-management-systems</link>
       <description>DatabasesGoogle is a Leader, positioned furthest in vision in the 2024 Gartner Magic Quadrant for Cloud Database Management SystemsBy Andi Gutmans • 8-minute read</description>
+    </item>
+    <item>
+      <title>A Look Back at the AI Innovations Transforming the Public Sector</title>
+      <link>https://cloud.google.com/blog/topics/public-sector/a-look-back-at-the-ai-innovations-transforming-the-public-sector</link>
+      <description>Public SectorA Look Back at the AI Innovations Transforming the Public SectorBy Karen Dahut • 4-minute read</description>
     </item>
   </channel>
 </rss>
