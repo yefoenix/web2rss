@@ -6,12 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jan 2025 01:27:09 +0000</lastBuildDate>
-    <item>
-      <title>Google Cloud's commitment to responsible AI is now ISO/IEC certified</title>
-      <link>https://cloud.google.com/blog/products/identity-security/google-clouds-commitment-to-responsible-ai-is-now-iso-iec-certified</link>
-      <description>Security &amp; IdentityGoogle Cloud's commitment to responsible AI is now ISO/IEC certifiedBy Jeanette Manfra  • 3-minute read</description>
-    </item>
+    <lastBuildDate>Sat, 04 Jan 2025 01:25:11 +0000</lastBuildDate>
     <item>
       <title>Google Cloud and SAP: Powering AI with enterprise data</title>
       <link>https://cloud.google.com/blog/products/sap-google-cloud/the-case-for-running-rise-with-sap-on-google-cloud</link>
@@ -38,6 +33,11 @@
       <description>DatabasesWhat’s new for Google Cloud databases — December 2024By Joey Lynne Hernandez • 9-minute read</description>
     </item>
     <item>
+      <title>Spanner in 2024: A year of innovation</title>
+      <link>https://cloud.google.com/blog/products/databases/spanner-innovations-in-2024</link>
+      <description>DatabasesSpanner in 2024: A year of innovationBy Piyush Mathur • 6-minute read</description>
+    </item>
+    <item>
       <title>Database Center: Now with support for Bigtable, Firestore, and Memorystore</title>
       <link>https://cloud.google.com/blog/products/databases/database-centers-supports-bigtable-memorystore-and-firestore</link>
       <description>DatabasesDatabase Center: Now with support for Bigtable, Firestore, and MemorystoreBy Kiran Shenoy • 3-minute read</description>
@@ -48,9 +48,9 @@
       <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
     </item>
     <item>
-      <title>Google is a Leader, positioned furthest in vision in the 2024 Gartner Magic Quadrant for Cloud Database Management Systems</title>
-      <link>https://cloud.google.com/blog/products/databases/2024-gartner-magic-quadrant-for-cloud-database-management-systems</link>
-      <description>DatabasesGoogle is a Leader, positioned furthest in vision in the 2024 Gartner Magic Quadrant for Cloud Database Management SystemsBy Andi Gutmans • 8-minute read</description>
+      <title>Cloud CISO Perspectives: From gen AI to threat intelligence: 2024 in review</title>
+      <link>https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-from-gen-AI-to-threat-intelligence-2024-in-review</link>
+      <description>Security &amp; IdentityCloud CISO Perspectives: From gen AI to threat intelligence: 2024 in reviewBy Phil Venables • 5-minute read</description>
     </item>
     <item>
       <title>A Look Back at the AI Innovations Transforming the Public Sector</title>
