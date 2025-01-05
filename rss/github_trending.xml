@@ -6,56 +6,16 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jan 2025 01:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 01:40:28 +0000</lastBuildDate>
+    <item>
+      <title>GitHubDaily /GitHubDaily</title>
+      <link>https://github.com/GitHubDaily/GitHubDaily</link>
+      <description>坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.</description>
+    </item>
     <item>
       <title>codecrafters-io /build-your-own-x</title>
       <link>https://github.com/codecrafters-io/build-your-own-x</link>
       <description>Master programming by recreating your favorite technologies from scratch.</description>
-    </item>
-    <item>
-      <title>Byaidu /PDFMathTranslate</title>
-      <link>https://github.com/Byaidu/PDFMathTranslate</link>
-      <description>PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</description>
-    </item>
-    <item>
-      <title>gitroomhq /postiz-app</title>
-      <link>https://github.com/gitroomhq/postiz-app</link>
-      <description>📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</description>
-    </item>
-    <item>
-      <title>loco-rs /loco</title>
-      <link>https://github.com/loco-rs/loco</link>
-      <description>🚂 🦀 The one-person framework for Rust for side-projects and startups</description>
-    </item>
-    <item>
-      <title>elizaOS /eliza</title>
-      <link>https://github.com/elizaOS/eliza</link>
-      <description>Autonomous agents for everyone</description>
-    </item>
-    <item>
-      <title>hashicorp /terraform</title>
-      <link>https://github.com/hashicorp/terraform</link>
-      <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
-    </item>
-    <item>
-      <title>f /awesome-chatgpt-prompts</title>
-      <link>https://github.com/f/awesome-chatgpt-prompts</link>
-      <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
-    </item>
-    <item>
-      <title>louis-e /arnis</title>
-      <link>https://github.com/louis-e/arnis</link>
-      <description>Generate any location from the real world in Minecraft Java Edition with a high level of detail.</description>
-    </item>
-    <item>
-      <title>janhq /jan</title>
-      <link>https://github.com/janhq/jan</link>
-      <description>Jan is an open source alternative to ChatGPT that runs 100% offline on your computer</description>
-    </item>
-    <item>
-      <title>nvm-sh /nvm</title>
-      <link>https://github.com/nvm-sh/nvm</link>
-      <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
     </item>
     <item>
       <title>spaceandtimelabs /sxt-proof-of-sql</title>
@@ -63,24 +23,69 @@
       <description>Space and Time | Proof of SQL</description>
     </item>
     <item>
-      <title>bytedance /monolith</title>
-      <link>https://github.com/bytedance/monolith</link>
-      <description>A Lightweight Recommendation System</description>
+      <title>caddyserver /caddy</title>
+      <link>https://github.com/caddyserver/caddy</link>
+      <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
     </item>
     <item>
-      <title>deepseek-ai /DeepSeek-Coder</title>
-      <link>https://github.com/deepseek-ai/DeepSeek-Coder</link>
-      <description>DeepSeek Coder: Let the Code Write Itself</description>
+      <title>f /awesome-chatgpt-prompts</title>
+      <link>https://github.com/f/awesome-chatgpt-prompts</link>
+      <description>This repo includes ChatGPT prompt curation to use ChatGPT better.</description>
     </item>
     <item>
-      <title>QwenLM /Qwen-Agent</title>
-      <link>https://github.com/QwenLM/Qwen-Agent</link>
-      <description>Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.</description>
+      <title>microsoft /terminal</title>
+      <link>https://github.com/microsoft/terminal</link>
+      <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
+    </item>
+    <item>
+      <title>louis-e /arnis</title>
+      <link>https://github.com/louis-e/arnis</link>
+      <description>Generate any location from the real world in Minecraft Java Edition with a high level of detail.</description>
+    </item>
+    <item>
+      <title>kyegomez /swarms</title>
+      <link>https://github.com/kyegomez/swarms</link>
+      <description>The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community:https://discord.com/servers/agora-999382051935506503</description>
+    </item>
+    <item>
+      <title>nvm-sh /nvm</title>
+      <link>https://github.com/nvm-sh/nvm</link>
+      <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</description>
+    </item>
+    <item>
+      <title>OpenXiangShan /XiangShan</title>
+      <link>https://github.com/OpenXiangShan/XiangShan</link>
+      <description>Open-source high-performance RISC-V processor</description>
+    </item>
+    <item>
+      <title>gitroomhq /postiz-app</title>
+      <link>https://github.com/gitroomhq/postiz-app</link>
+      <description>📨 The ultimate social media scheduling tool, with a bunch of AI 🤖</description>
+    </item>
+    <item>
+      <title>alufers /mitmproxy2swagger</title>
+      <link>https://github.com/alufers/mitmproxy2swagger</link>
+      <description>Automagically reverse-engineer REST APIs via capturing traffic</description>
+    </item>
+    <item>
+      <title>loco-rs /loco</title>
+      <link>https://github.com/loco-rs/loco</link>
+      <description>🚂 🦀 The one-person framework for Rust for side-projects and startups</description>
     </item>
     <item>
       <title>Cinnamon /kotaemon</title>
       <link>https://github.com/Cinnamon/kotaemon</link>
       <description>An open-source RAG-based tool for chatting with your documents.</description>
+    </item>
+    <item>
+      <title>flutter /flutter</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
+    </item>
+    <item>
+      <title>BerriAI /litellm</title>
+      <link>https://github.com/BerriAI/litellm</link>
+      <description>Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</description>
     </item>
     <item>
       <title>stanford-oval /storm</title>
