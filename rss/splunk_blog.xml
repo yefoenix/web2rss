@@ -6,22 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jan 2025 01:40:22 +0000</lastBuildDate>
-    <item>
-      <title>What Is ITOps? IT Operations Defined</title>
-      <link>https://www.splunk.com/en_us/blog/learn/it-operations-itops.html</link>
-      <description>Explore the evolving landscape of IT Operations (ITOps) in the modern tech era. Learn how ITOps, DevOps, and AIOps intersect to ensure stable, efficient IT ecosystems for business success.</description>
-    </item>
-    <item>
-      <title>The Observability Center of Excellence: Measuring &amp; Improving Observability-as-Service(OaaS)</title>
-      <link>https://www.splunk.com/en_us/blog/observability/measuring-improving-observability-as-service-oaas.html</link>
-      <description>Learn to define and measure Observability-as-a-Service (OaaS) with actionable KPIs in this Observability Center of Excellence blog. Explore key KPI categories, avoid common pitfalls, and align KPIs with OKRs for measurable success.</description>
-    </item>
-    <item>
-      <title>What’s CaaS? Containers as a Service Explained</title>
-      <link>https://www.splunk.com/en_us/blog/learn/containers-as-a-service-caas.html</link>
-      <description>Containers are popular for software development, and now they’re even easier: using CaaS. Learn all about CaaS and how it works in this in-depth article.</description>
-    </item>
+    <lastBuildDate>Mon, 06 Jan 2025 01:38:41 +0000</lastBuildDate>
     <item>
       <title>What’s SaaS Monitoring? Why You Need To Monitor SaaS Apps</title>
       <link>https://www.splunk.com/en_us/blog/learn/saas-monitoring.html</link>
@@ -51,6 +36,21 @@
       <title>Splunk AppDynamics 24.10 Accelerates Deployment And MTTR</title>
       <link>https://www.splunk.com/en_us/blog/observability/splunk-appdynamics-accelerates-deployment-and-mttr.html</link>
       <description>Splunk AppDynamics, now part of the Splunk Observability portfolio, provides critical observability for traditional 3-tier/n-tier applications and helps IT Operations teams quickly discover root causes of issues before end-users even notice.</description>
+    </item>
+    <item>
+      <title>Scaling Anomaly Detection with MLTK 5.5</title>
+      <link>https://www.splunk.com/en_us/blog/artificial-intelligence/scaling-anomaly-detection-with-mltk-5-5.html</link>
+      <description>Who doesn’t love a bit of anomaly detection with Splunk? As someone who has spent far too long talking about cyclical statistical forecasts and anomalies, you’ll be relieved that this is a topic that we don’t get tired of here at Splunk! In this blog post we will be taking you through some of the recent changes to the Machine Learning Toolkit, where we have released a more scalable version of our users most favorite algorithm.</description>
+    </item>
+    <item>
+      <title>Top 6 Data Analysis Techniques Used by Pro Data Analysts</title>
+      <link>https://www.splunk.com/en_us/blog/learn/data-analysis-techniques.html</link>
+      <description>Data analysis is important, but how do you get started? These top techniques, used by professional data analysts, will help you get the most value out of your data.</description>
+    </item>
+    <item>
+      <title>IT/ITIL Problem Management</title>
+      <link>https://www.splunk.com/en_us/blog/learn/problem-management.html</link>
+      <description>Discover ITIL Problem Management: Learn how to reduce incidents, improve service, and boost IT maturity with proactive problem-solving strategies.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
