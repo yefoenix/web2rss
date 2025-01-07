@@ -6,7 +6,12 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jan 2025 01:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 01:28:08 +0000</lastBuildDate>
+    <item>
+      <title>Google Cloud's commitment to responsible AI is now ISO/IEC certified</title>
+      <link>https://cloud.google.com/blog/products/identity-security/google-clouds-commitment-to-responsible-ai-is-now-iso-iec-certified</link>
+      <description>Security &amp; IdentityGoogle Cloud's commitment to responsible AI is now ISO/IEC certifiedBy Jeanette Manfra  • 3-minute read</description>
+    </item>
     <item>
       <title>Google Cloud and SAP: Powering AI with enterprise data</title>
       <link>https://cloud.google.com/blog/products/sap-google-cloud/the-case-for-running-rise-with-sap-on-google-cloud</link>
@@ -16,16 +21,6 @@
       <title>Optimizing RAG retrieval: Test, tune, succeed</title>
       <link>https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval</link>
       <description>AI &amp; Machine LearningOptimizing RAG retrieval: Test, tune, succeedBy Hugo Selbie • 9-minute read</description>
-    </item>
-    <item>
-      <title>Find sensitive data faster (but safely) with Google Distributed Cloud’s gen AI search solution</title>
-      <link>https://cloud.google.com/blog/topics/hybrid-cloud/on-prem-generative-ai-search-with-google-distributed-cloud-rag</link>
-      <description>Hybrid &amp; MulticloudFind sensitive data faster (but safely) with Google Distributed Cloud’s gen AI search solutionBy Antoine Haas • 3-minute read</description>
-    </item>
-    <item>
-      <title>How Google Cloud can help customers achieve compliance with NIS2</title>
-      <link>https://cloud.google.com/blog/products/identity-security/how-google-cloud-can-help-customers-achieve-compliance-with-nis2</link>
-      <description>Security &amp; IdentityHow Google Cloud can help customers achieve compliance with NIS2By Tara Brady • 9-minute read</description>
     </item>
     <item>
       <title>What’s new for Google Cloud databases — December 2024</title>
@@ -38,11 +33,6 @@
       <description>DatabasesSpanner in 2024: A year of innovationBy Piyush Mathur • 6-minute read</description>
     </item>
     <item>
-      <title>Database Center: Now with support for Bigtable, Firestore, and Memorystore</title>
-      <link>https://cloud.google.com/blog/products/databases/database-centers-supports-bigtable-memorystore-and-firestore</link>
-      <description>DatabasesDatabase Center: Now with support for Bigtable, Firestore, and MemorystoreBy Kiran Shenoy • 3-minute read</description>
-    </item>
-    <item>
       <title>What’s new with Google Cloud</title>
       <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
       <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
@@ -53,9 +43,19 @@
       <description>Security &amp; IdentityCloud CISO Perspectives: From gen AI to threat intelligence: 2024 in reviewBy Phil Venables • 5-minute read</description>
     </item>
     <item>
+      <title>The overwhelmed person’s guide to Google Cloud: week of December 19</title>
+      <link>https://cloud.google.com/blog/products/gcp/the-overwhelmed-persons-guide-to-google-cloud</link>
+      <description>Google CloudThe overwhelmed person’s guide to Google Cloud: week of December 19By Richard Seroter • 4-minute read</description>
+    </item>
+    <item>
       <title>A Look Back at the AI Innovations Transforming the Public Sector</title>
       <link>https://cloud.google.com/blog/topics/public-sector/a-look-back-at-the-ai-innovations-transforming-the-public-sector</link>
       <description>Public SectorA Look Back at the AI Innovations Transforming the Public SectorBy Karen Dahut • 4-minute read</description>
+    </item>
+    <item>
+      <title>Toward faster incident resolution at Palo Alto Networks with Personalized Service Health</title>
+      <link>https://cloud.google.com/blog/products/management-tools/personalized-service-health-at-palo-alto-networks</link>
+      <description>Management ToolsToward faster incident resolution at Palo Alto Networks with Personalized Service HealthBy Sabitha Muppuri • 4-minute read</description>
     </item>
   </channel>
 </rss>

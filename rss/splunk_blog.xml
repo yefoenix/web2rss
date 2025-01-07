@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jan 2025 01:38:41 +0000</lastBuildDate>
-    <item>
-      <title>What’s SaaS Monitoring? Why You Need To Monitor SaaS Apps</title>
-      <link>https://www.splunk.com/en_us/blog/learn/saas-monitoring.html</link>
-      <description>The SaaS delivery model comes with many conveniences for organizations. But you have less visibility to answer questions, and that’s where SaaS monitoring comes in.</description>
-    </item>
-    <item>
-      <title>SLA Templates: How To Create Service Level Agreements</title>
-      <link>https://www.splunk.com/en_us/blog/learn/service-level-agreements-sla-template.html</link>
-      <description>SLAs power the digital world: they define what users can expect from a service and what happens when a service provider fails to meet those expectations.</description>
-    </item>
+    <lastBuildDate>Tue, 07 Jan 2025 01:27:48 +0000</lastBuildDate>
     <item>
       <title>Kubernetes Monitoring: The Ultimate Guide</title>
       <link>https://www.splunk.com/en_us/blog/learn/kubernetes-monitoring.html</link>
@@ -28,14 +18,14 @@
       <description>Uncover Meduza Stealer, a 2023 malware targeting credentials and crypto wallets. Explore its evasion tactics, attack methods, and Splunk’s expert insights for enhanced security.</description>
     </item>
     <item>
-      <title>Website Security: Tips &amp; Best Practices for Securing Websites</title>
-      <link>https://www.splunk.com/en_us/blog/learn/website-security.html</link>
-      <description>Protect your website with essential security tips and best practices. Learn how to defend against cyber threats, safeguard data, and build customer trust.</description>
-    </item>
-    <item>
       <title>Splunk AppDynamics 24.10 Accelerates Deployment And MTTR</title>
       <link>https://www.splunk.com/en_us/blog/observability/splunk-appdynamics-accelerates-deployment-and-mttr.html</link>
       <description>Splunk AppDynamics, now part of the Splunk Observability portfolio, provides critical observability for traditional 3-tier/n-tier applications and helps IT Operations teams quickly discover root causes of issues before end-users even notice.</description>
+    </item>
+    <item>
+      <title>Website Security: Tips &amp; Best Practices for Securing Websites</title>
+      <link>https://www.splunk.com/en_us/blog/learn/website-security.html</link>
+      <description>Protect your website with essential security tips and best practices. Learn how to defend against cyber threats, safeguard data, and build customer trust.</description>
     </item>
     <item>
       <title>Scaling Anomaly Detection with MLTK 5.5</title>
@@ -51,6 +41,16 @@
       <title>IT/ITIL Problem Management</title>
       <link>https://www.splunk.com/en_us/blog/learn/problem-management.html</link>
       <description>Discover ITIL Problem Management: Learn how to reduce incidents, improve service, and boost IT maturity with proactive problem-solving strategies.</description>
+    </item>
+    <item>
+      <title>Data Science vs. Data Analytics: Key Differences</title>
+      <link>https://www.splunk.com/en_us/blog/learn/data-science-vs-data-analytics.html</link>
+      <description>Don’t be confused! Data science and data analytics are different concepts. Learn all about it here, so you’ll know exactly how they can work together.</description>
+    </item>
+    <item>
+      <title>Models for Time Series Forecasting</title>
+      <link>https://www.splunk.com/en_us/blog/learn/time-series-forecasting.html</link>
+      <description>Understand time series forecasting — a way to or predict behaviors based on historical, timestamped data — with anomaly detection to prevent IT problems.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

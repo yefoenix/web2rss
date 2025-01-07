@@ -6,26 +6,11 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jan 2025 01:38:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 01:27:54 +0000</lastBuildDate>
     <item>
-      <title>freqtrade /freqtrade</title>
-      <link>https://github.com/freqtrade/freqtrade</link>
-      <description>Free, open source crypto trading bot</description>
-    </item>
-    <item>
-      <title>chroma-core /chroma</title>
-      <link>https://github.com/chroma-core/chroma</link>
-      <description>the AI-native open-source embedding database</description>
-    </item>
-    <item>
-      <title>codecrafters-io /build-your-own-x</title>
-      <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description>Master programming by recreating your favorite technologies from scratch.</description>
-    </item>
-    <item>
-      <title>spaceandtimelabs /sxt-proof-of-sql</title>
-      <link>https://github.com/spaceandtimelabs/sxt-proof-of-sql</link>
-      <description>Space and Time | Proof of SQL</description>
+      <title>srbhr /Resume-Matcher</title>
+      <link>https://github.com/srbhr/Resume-Matcher</link>
+      <description>Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.</description>
     </item>
     <item>
       <title>stephansturges /WALDO</title>
@@ -33,44 +18,14 @@
       <description>Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!</description>
     </item>
     <item>
-      <title>louis-e /arnis</title>
-      <link>https://github.com/louis-e/arnis</link>
-      <description>Generate any location from the real world in Minecraft Java Edition with a high level of detail.</description>
+      <title>chroma-core /chroma</title>
+      <link>https://github.com/chroma-core/chroma</link>
+      <description>the AI-native open-source embedding database</description>
     </item>
     <item>
-      <title>intuitem /ciso-assistant-community</title>
-      <link>https://github.com/intuitem/ciso-assistant-community</link>
-      <description>CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more</description>
-    </item>
-    <item>
-      <title>All-Hands-AI /OpenHands</title>
-      <link>https://github.com/All-Hands-AI/OpenHands</link>
-      <description>🙌 OpenHands: Code Less, Make More</description>
-    </item>
-    <item>
-      <title>bitcoin /bitcoin</title>
-      <link>https://github.com/bitcoin/bitcoin</link>
-      <description>Bitcoin Core integration/staging tree</description>
-    </item>
-    <item>
-      <title>home-assistant /core</title>
-      <link>https://github.com/home-assistant/core</link>
-      <description>🏡 Open source home automation that puts local control and privacy first.</description>
-    </item>
-    <item>
-      <title>kyegomez /swarms</title>
-      <link>https://github.com/kyegomez/swarms</link>
-      <description>The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community:https://discord.com/servers/agora-999382051935506503</description>
-    </item>
-    <item>
-      <title>loco-rs /loco</title>
-      <link>https://github.com/loco-rs/loco</link>
-      <description>🚂 🦀 The one-person framework for Rust for side-projects and startups</description>
-    </item>
-    <item>
-      <title>Cinnamon /kotaemon</title>
-      <link>https://github.com/Cinnamon/kotaemon</link>
-      <description>An open-source RAG-based tool for chatting with your documents.</description>
+      <title>freqtrade /freqtrade</title>
+      <link>https://github.com/freqtrade/freqtrade</link>
+      <description>Free, open source crypto trading bot</description>
     </item>
     <item>
       <title>unclecode /crawl4ai</title>
@@ -78,9 +33,44 @@
       <description>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper</description>
     </item>
     <item>
+      <title>f /awesome-chatgpt-prompts</title>
+      <link>https://github.com/f/awesome-chatgpt-prompts</link>
+      <description>This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.</description>
+    </item>
+    <item>
+      <title>godotengine /godot</title>
+      <link>https://github.com/godotengine/godot</link>
+      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+    </item>
+    <item>
+      <title>codecrafters-io /build-your-own-x</title>
+      <link>https://github.com/codecrafters-io/build-your-own-x</link>
+      <description>Master programming by recreating your favorite technologies from scratch.</description>
+    </item>
+    <item>
+      <title>zaidmukaddam /miniperplx</title>
+      <link>https://github.com/zaidmukaddam/miniperplx</link>
+      <description>A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.</description>
+    </item>
+    <item>
       <title>stanford-oval /storm</title>
       <link>https://github.com/stanford-oval/storm</link>
       <description>An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</description>
+    </item>
+    <item>
+      <title>intuitem /ciso-assistant-community</title>
+      <link>https://github.com/intuitem/ciso-assistant-community</link>
+      <description>CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more</description>
+    </item>
+    <item>
+      <title>kyegomez /swarms</title>
+      <link>https://github.com/kyegomez/swarms</link>
+      <description>The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community:https://discord.com/servers/agora-999382051935506503</description>
+    </item>
+    <item>
+      <title>khoj-ai /khoj</title>
+      <link>https://github.com/khoj-ai/khoj</link>
+      <description>Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.</description>
     </item>
   </channel>
 </rss>
