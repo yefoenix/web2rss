@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 01:27:48 +0000</lastBuildDate>
-    <item>
-      <title>Kubernetes Monitoring: The Ultimate Guide</title>
-      <link>https://www.splunk.com/en_us/blog/learn/kubernetes-monitoring.html</link>
-      <description>Monitoring Kubernetes is a complicated but critical practice. Learn why and how you need to do it in this comprehensive, hands-on guide to K8s monitoring.</description>
-    </item>
-    <item>
-      <title>Meduza Stealer Analysis: A Closer Look at its Techniques and Attack Vector</title>
-      <link>https://www.splunk.com/en_us/blog/security/meduza-stealer-analysis.html</link>
-      <description>Uncover Meduza Stealer, a 2023 malware targeting credentials and crypto wallets. Explore its evasion tactics, attack methods, and Splunk’s expert insights for enhanced security.</description>
-    </item>
+    <lastBuildDate>Wed, 08 Jan 2025 01:27:07 +0000</lastBuildDate>
     <item>
       <title>Splunk AppDynamics 24.10 Accelerates Deployment And MTTR</title>
       <link>https://www.splunk.com/en_us/blog/observability/splunk-appdynamics-accelerates-deployment-and-mttr.html</link>
@@ -51,6 +41,16 @@
       <title>Models for Time Series Forecasting</title>
       <link>https://www.splunk.com/en_us/blog/learn/time-series-forecasting.html</link>
       <description>Understand time series forecasting — a way to or predict behaviors based on historical, timestamped data — with anomaly detection to prevent IT problems.</description>
+    </item>
+    <item>
+      <title>Business Intelligence (BI): What It Means for Your Organization</title>
+      <link>https://www.splunk.com/en_us/blog/learn/business-intelligence.html</link>
+      <description>Learn how BI transforms raw data into actionable insights to drive decisions, boost efficiency, and enhance ROI.</description>
+    </item>
+    <item>
+      <title>Learn SPL command types: Efficient search execution order and how to investigate them</title>
+      <link>https://www.splunk.com/en_us/blog/tips-and-tricks/learn-spl-command-types-efficient-search-execution-order-and-how-to-investigate-them.html</link>
+      <description>When performing searches, Splunk uses its own language, SPL (Search Processing Language). In this article, we will explain each type of SPL and show you the efficient order in which to run searches and how to use the Search Job Inspector, an investigative tool.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>

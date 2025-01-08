@@ -6,16 +6,11 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 01:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 01:27:12 +0000</lastBuildDate>
     <item>
-      <title>srbhr /Resume-Matcher</title>
-      <link>https://github.com/srbhr/Resume-Matcher</link>
-      <description>Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.</description>
-    </item>
-    <item>
-      <title>stephansturges /WALDO</title>
-      <link>https://github.com/stephansturges/WALDO</link>
-      <description>Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!</description>
+      <title>rectorphp /rector</title>
+      <link>https://github.com/rectorphp/rector</link>
+      <description>Instant Upgrades and Automated Refactoring of any PHP 5.3+ code</description>
     </item>
     <item>
       <title>chroma-core /chroma</title>
@@ -23,29 +18,54 @@
       <description>the AI-native open-source embedding database</description>
     </item>
     <item>
-      <title>freqtrade /freqtrade</title>
-      <link>https://github.com/freqtrade/freqtrade</link>
-      <description>Free, open source crypto trading bot</description>
+      <title>firebase /firebase-ios-sdk</title>
+      <link>https://github.com/firebase/firebase-ios-sdk</link>
+      <description>Firebase SDK for Apple App Development</description>
     </item>
     <item>
-      <title>unclecode /crawl4ai</title>
-      <link>https://github.com/unclecode/crawl4ai</link>
-      <description>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper</description>
+      <title>commaai /openpilot</title>
+      <link>https://github.com/commaai/openpilot</link>
+      <description>openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.</description>
     </item>
     <item>
-      <title>f /awesome-chatgpt-prompts</title>
-      <link>https://github.com/f/awesome-chatgpt-prompts</link>
-      <description>This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.</description>
+      <title>mudler /LocalAI</title>
+      <link>https://github.com/mudler/LocalAI</link>
+      <description>🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</description>
     </item>
     <item>
-      <title>godotengine /godot</title>
-      <link>https://github.com/godotengine/godot</link>
-      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+      <title>zigbee2mqtt /hassio-zigbee2mqtt</title>
+      <link>https://github.com/zigbee2mqtt/hassio-zigbee2mqtt</link>
+      <description>Official Zigbee2MQTT Home Assistant add-on</description>
     </item>
     <item>
-      <title>codecrafters-io /build-your-own-x</title>
-      <link>https://github.com/codecrafters-io/build-your-own-x</link>
-      <description>Master programming by recreating your favorite technologies from scratch.</description>
+      <title>CorentinTh /it-tools</title>
+      <link>https://github.com/CorentinTh/it-tools</link>
+      <description>Collection of handy online tools for developers, with great UX.</description>
+    </item>
+    <item>
+      <title>projectdiscovery /nuclei</title>
+      <link>https://github.com/projectdiscovery/nuclei</link>
+      <description>Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</description>
+    </item>
+    <item>
+      <title>practical-tutorials /project-based-learning</title>
+      <link>https://github.com/practical-tutorials/project-based-learning</link>
+      <description>Curated list of project-based tutorials</description>
+    </item>
+    <item>
+      <title>All-Hands-AI /OpenHands</title>
+      <link>https://github.com/All-Hands-AI/OpenHands</link>
+      <description>🙌 OpenHands: Code Less, Make More</description>
+    </item>
+    <item>
+      <title>prometheus /prometheus</title>
+      <link>https://github.com/prometheus/prometheus</link>
+      <description>The Prometheus monitoring system and time series database.</description>
+    </item>
+    <item>
+      <title>serengil /deepface</title>
+      <link>https://github.com/serengil/deepface</link>
+      <description>A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python</description>
     </item>
     <item>
       <title>zaidmukaddam /miniperplx</title>
@@ -53,24 +73,14 @@
       <description>A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.</description>
     </item>
     <item>
-      <title>stanford-oval /storm</title>
-      <link>https://github.com/stanford-oval/storm</link>
-      <description>An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</description>
-    </item>
-    <item>
-      <title>intuitem /ciso-assistant-community</title>
-      <link>https://github.com/intuitem/ciso-assistant-community</link>
-      <description>CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more</description>
-    </item>
-    <item>
-      <title>kyegomez /swarms</title>
-      <link>https://github.com/kyegomez/swarms</link>
-      <description>The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community:https://discord.com/servers/agora-999382051935506503</description>
-    </item>
-    <item>
       <title>khoj-ai /khoj</title>
       <link>https://github.com/khoj-ai/khoj</link>
       <description>Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.</description>
+    </item>
+    <item>
+      <title>unclecode /crawl4ai</title>
+      <link>https://github.com/unclecode/crawl4ai</link>
+      <description>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper</description>
     </item>
   </channel>
 </rss>

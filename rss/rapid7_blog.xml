@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 01:27:52 +0000</lastBuildDate>
-    <item>
-      <title>Lorex 2K Indoor Wi-Fi Security Camera: Multiple Vulnerabilities (FIXED)</title>
-      <link>https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/</link>
-      <description>The Lorex 2K Indoor Wi-Fi Security Camera is a consumer security device that provides cloud-based video camera surveillance capabilities. This device was a target at the 2024 Pwn2Own IoT competition. As of December 3, 2024, we are disclosing these issues publicly in coordination with the vendor.</description>
-    </item>
+    <lastBuildDate>Wed, 08 Jan 2025 01:27:12 +0000</lastBuildDate>
     <item>
       <title>Black Basta Ransomware Campaign Drops Zbot, DarkGate, and Custom Malware</title>
       <link>https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/</link>
@@ -125,6 +120,11 @@ was the privilege of working with the contributors and friends we made alo</desc
       <title>Out With the Old, In With the New: Securely Disposing of Smart Devices</title>
       <link>https://www.rapid7.com/blog/post/2025/01/06/out-with-the-old-in-with-the-new-securely-disposing-of-smart-devices/</link>
       <description>Hopefully you received some cool smart technology, or maybe you just upgraded your smart camera or voice assistant to a newer model or version. If you upgraded to a new model or version, what is your plan for the old device? Is it still working or is it broken?</description>
+    </item>
+    <item>
+      <title>Rapid7 Recognized with Top Score of 100 in 2025 Corporate Equality Index</title>
+      <link>https://www.rapid7.com/blog/post/2025/01/07/rapid7-recognized-with-top-score-of-100-in-2025-corporate-equality-index/</link>
+      <description>On January 7, the Human Rights Campaign Foundation released their 2025 Corporate Equality Index (CEI), where Rapid7 earned a top score of 100.</description>
     </item>
   </channel>
 </rss>
