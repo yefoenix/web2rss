@@ -129,7 +129,7 @@ asyncio.run(orch.start_problem(max_steps=10))
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085508">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1085496">
 		
 
 		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
@@ -138,20 +138,20 @@ asyncio.run(orch.start_problem(max_steps=10))
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/medfuzz-exploring-the-robustness-of-llms-on-medical-challenge-problems/" aria-label="MedFuzz: Exploring the robustness of LLMs on medical challenge problems" data-bi-cN="MedFuzz: Exploring the robustness of LLMs on medical challenge problems" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/MedFuzz-BlogHeroFeature-1400x788-1.jpg" alt="MedFuzz blog hero (decorative)" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/eureka-evaluating-and-understanding-progress-in-ai/" aria-label="Eureka: Evaluating and understanding progress in AI" data-bi-cN="Eureka: Evaluating and understanding progress in AI" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/09/NEWEureka-2024-BlogHeroFeature-1400x788-1-66e90c195464d.jpg" alt="White icons representing the Eureka Experiment Pipeline -- PromptProcessing, Inference, PromptProcessing, Inference, DataProcessing, EvalReporting -- on blue to green gradient background." />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">MedFuzz: Exploring the robustness of LLMs on medical challenge problems</h2>
+									<h2 class="h4">Eureka: Evaluating and understanding progress in AI</h2>
 				
-								<p class="large">Medfuzz tests LLMs by breaking benchmark assumptions, exposing vulnerabilities to bolster real-world accuracy.</p>
+								<p class="large">How can we rigorously evaluate and understand state-of-the-art progress in AI? Eureka is an open-source framework for standardizing evaluations of large foundation models, beyond single-score reporting and rankings. Learn more about the extended findings. </p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/medfuzz-exploring-the-robustness-of-llms-on-medical-challenge-problems/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="MedFuzz: Exploring the robustness of LLMs on medical challenge problems" target="_blank">
+						<a href="https://www.microsoft.com/en-us/research/blog/eureka-evaluating-and-understanding-progress-in-ai/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="Eureka: Evaluating and understanding progress in AI" target="_blank">
 							Read more						</a>
 					</div>
 				</div>
@@ -1132,27 +1132,30 @@ get_logs(<span style="color:red;">"compose-post-service"</span>, <span style="co
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1061244">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1115766">
 		
 
+		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
+		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft research blog</span>
+	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/about-microsoft-research/" aria-label="About Microsoft Research" data-bi-cN="About Microsoft Research" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/07/About-page-promo_1066x600.jpg" alt="" />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/promptwizard-the-future-of-prompt-optimization-through-feedback-driven-self-evolving-prompts/" aria-label="PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts" data-bi-cN="PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/PromptWizard-BlogHeroFeature-1400x788-1.png" alt="A diagram illustrating the joint optimization process of instructions and in-context examples in PromptWizard. The figure demonstrates how the framework iteratively refines both components, integrating feedback to enhance the overall prompt effectiveness and adaptability across tasks." />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">About Microsoft Research</h2>
+									<h2 class="h4">PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts</h2>
 				
-								<p class="large">Advancing science and technology to benefit humanity</p>
+								<p class="large">PromptWizard from Microsoft Research is now open source. It is designed to automate and simplify AI prompt optimization, combining iterative LLM feedback with efficient exploration and refinement techniques to create highly effective prompts in minutes.</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/about-microsoft-research/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="View our story" data-bi-cN="About Microsoft Research" target="_blank">
-							View our story						</a>
+						<a href="https://www.microsoft.com/en-us/research/blog/promptwizard-the-future-of-prompt-optimization-through-feedback-driven-self-evolving-prompts/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="PromptWizard: The future of prompt optimization through feedback-driven self-evolving prompts" target="_blank">
+							Read more						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
@@ -1771,30 +1774,27 @@ get_logs(<span style="color:red;">"compose-post-service"</span>, <span style="co
 
 
 
-	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1115763">
+	<div class="border-bottom border-top border-gray-300 mt-5 mb-5 msr-promo text-center text-md-left alignwide" data-bi-aN="promo" data-bi-id="1061244">
 		
 
-		<p class="msr-promo__label text-gray-800 text-center text-uppercase">
-		<span class="px-4 bg-white display-inline-block font-weight-semibold small">Microsoft Research Blog</span>
-	</p>
 	
 	<div class="row pt-3 pb-4 align-items-center">
 						<div class="msr-promo__media col-12 col-md-5">
-				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/blog/aiopslab-building-ai-agents-for-autonomous-clouds/" aria-label="AIOpsLab: Building AI agents for autonomous clouds" data-bi-cN="AIOpsLab: Building AI agents for autonomous clouds" target="_blank">
-					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/12/AIOps-Lab-BlogHeroFeature-1400x788-1.png" alt="White outline illustrations for AIOps on a blue and green gradient background." />
+				<a class="bg-gray-300" href="https://www.microsoft.com/en-us/research/about-microsoft-research/" aria-label="About Microsoft Research" data-bi-cN="About Microsoft Research" target="_blank">
+					<img decoding="async" class="w-100 display-block" src="https://www.microsoft.com/en-us/research/uploads/prod/2024/07/About-page-promo_1066x600.jpg" alt="" />
 				</a>
 			</div>
 			
 			<div class="msr-promo__content p-3 px-5 col-12 col-md">
 
-									<h2 class="h4">AIOpsLab: Building AI agents for autonomous clouds</h2>
+									<h2 class="h4">About Microsoft Research</h2>
 				
-								<p class="large">AIOpsLab is an open-source framework designed to evaluate and improve AI agents for cloud operations, offering standardized, scalable benchmarks for real-world testing, enhancing cloud system reliability.</p>
+								<p class="large">Advancing science and technology to benefit humanity</p>
 				
 								<div class="wp-block-buttons justify-content-center justify-content-md-start">
 					<div class="wp-block-button">
-						<a href="https://www.microsoft.com/en-us/research/blog/aiopslab-building-ai-agents-for-autonomous-clouds/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="Read more" data-bi-cN="AIOpsLab: Building AI agents for autonomous clouds" target="_blank">
-							Read more						</a>
+						<a href="https://www.microsoft.com/en-us/research/about-microsoft-research/" class="btn btn-brand glyph-append glyph-append-chevron-right" aria-label="View our story" data-bi-cN="About Microsoft Research" target="_blank">
+							View our story						</a>
 					</div>
 				</div>
 							</div><!--/.msr-promo__content-->
