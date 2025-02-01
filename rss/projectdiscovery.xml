@@ -6,14 +6,7 @@
     <description>Latest posts from https://projectdiscovery.io/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jan 2025 01:25:42 +0000</lastBuildDate>
-    <item>
-      <title>November 2024 Newsletter</title>
-      <link>https://projectdiscovery.io/blog/november-2024-newsletter</link>
-      <description>Welcome to the November edition of the PD community newsletter - and Happy Thanksgiving to everyone who celebrated! 🦃
-
-As we’re moving over into the holiday season, not only are we starting to look back on all the amazing work that both the ProjectDiscovery team and the wider community have completed this year, but we also haven’t stopped creating. Plenty of bug fixes and enhancements have been added to our tools and templates this month, along with the exciting announcement of some brand new t</description>
-    </item>
+    <lastBuildDate>Sat, 01 Feb 2025 01:36:51 +0000</lastBuildDate>
     <item>
       <title>Celebrating 2024: Securing your infrastructure with ProjectDiscovery</title>
       <link>https://projectdiscovery.io/blog/celebrating-2024-securing-your-infrastructure-with-projectdiscovery</link>
@@ -39,6 +32,17 @@ Before taking a well-earned break though, the ProjectDiscovery team are here to 
 Along with additions and fixes for a couple of our tools, we’ve expanded Nuclei templates to include a new set of templates focused on Windows Security Hardening and Auditing - find out more on what’s included in this update by reading on!
 
 Alongside our new series of YouTube videos, we’re also shining a spotlight</description>
+    </item>
+    <item>
+      <title>January 2025 Newsletter</title>
+      <link>https://projectdiscovery.io/blog/january-2025-newsletter</link>
+      <description>Happy New Year, ProjectDiscovery community - we hope you’ve had a great start to 2025 so far! 🎆 🥂
+
+Team PD has been hard at work with releases and fixes, and as always, we aim to round up the best of the latest updates in newsletter form.
+
+In between all of this, our AppSec Researcher Dhiyaneshwaran Balasubramaniam held an informative session at Hack The Box Mumbai’s monthly meetup this January, covering the essentials of ‘Getting Started with Nuclei DAST and Global Templates’.
+
+Alongside our</description>
     </item>
     <item>
       <title>Getting Started with ProjectDiscovery in Linux and Windows</title>
