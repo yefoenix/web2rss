@@ -6,7 +6,7 @@
     <description>Latest posts from https://projectdiscovery.io/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Feb 2025 01:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 01:27:13 +0000</lastBuildDate>
     <item>
       <title>Celebrating 2024: Securing your infrastructure with ProjectDiscovery</title>
       <link>https://projectdiscovery.io/blog/celebrating-2024-securing-your-infrastructure-with-projectdiscovery</link>
@@ -122,15 +122,6 @@ Imagine having a single template that automatically hunts for specific patterns 
 In this post, we</description>
     </item>
     <item>
-      <title>Hacking Apple - SQL Injection to Remote Code Execution</title>
-      <link>https://projectdiscovery.io/blog/hacking-apple-with-sql-injection</link>
-      <description>Introduction
-
-In our last blog post, we delved into the inner workings of Lucee and took a look at the source code of Masa/Mura CMS, and the vastness of the potential attack surface struck us. It became evident that investing time in understanding the code could pay off. After dedicating a week to our exploration, we stumbled upon several entry points for exploitation, including a critical SQL injection flaw that we were able to exploit within Apple's Book Travel portal.
-
-In this blog post, we a</description>
-    </item>
-    <item>
       <title>Ruby-SAML / GitLab Authentication Bypass (CVE-2024-45409)</title>
       <link>https://projectdiscovery.io/blog/ruby-saml-gitlab-auth-bypass</link>
       <description>Introduction
@@ -147,11 +138,11 @@ In light of the recent Ruby-SAML bypass discovered in GitLab, we set out to exam
 This blog post will provide an in-depth look at GitHub Enterprise’s SAML implementation and analyze the specific code issue that permitted this bypass. Although we uncovered this vulnerability inde</description>
     </item>
     <item>
-      <title>Alibaba Cloud - Nuclei Templates v10.1.1 🎉</title>
-      <link>https://projectdiscovery.io/blog/alibaba-cloud-nuclei-templates-v10-1-1-2</link>
-      <description>We're excited to tell you about Nuclei Templates release v10.1.1 ! This new version includes newly added Alibaba Cloud Review templates. In this blog post, we'll discuss automating Alibaba cloud misconfiguration review, creating custom checks, and sharing results on the PDCP Cloud for review.
+      <title>DeepSeek’s Data Breach: Could ProjectDiscovery’s Cloud Have Prevented the Hack?</title>
+      <link>https://projectdiscovery.io/blog/deepseeks-data-breach-could-projectdiscoverys-cloud-have-prevented-the-hack-2</link>
+      <description>Last week, DeepSeek made headlines with R1, an open-source model positioned as a competitor to OpenAI’s Model o1. What set R1 apart wasn’t just its capabilities - it was the claim that DeepSeek trained it with significantly fewer GPUs. It challenged conventional wisdom around the compute requirements for large-scale model training and even caused a small stock market selloff.
 
-An Alibaba Cloud Configuration Security Review is essential for assessing and improving the security of your cloud infrastructure. It ensures that your resources are configured correctly, compliant with re</description>
+Amid the hype, a security incident surfaced: researchers gained access to DeepSeek’s internal databases. The breach repo</description>
     </item>
     <item>
       <title>Crafting DAST Nuclei Templates for OOB Template Engines Injection: A Practical Guide</title>
@@ -164,6 +155,15 @@ For those particularly interested i</description>
       <title>How Paddle Strengthened Its Security Posture with ProjectDiscovery</title>
       <link>https://projectdiscovery.io/blog/how-paddle-strengthened-its-security-posture-with-projectdiscovery</link>
       <description>Modern SaaS companies like Paddle face growing security challenges as their platforms expand. To gain full visibility into their attack surface and automate vulnerability detection, Paddle adopted ProjectDiscovery, an open-source security platform that streamlined their security operations.</description>
+    </item>
+    <item>
+      <title>Effortless Passive Detection Using Global Matchers in Nuclei</title>
+      <link>https://projectdiscovery.io/blog/introducing-global-matchers-in-nuclei</link>
+      <description>If you've ever found yourself repeatedly setting up the same matchers in multiple Nuclei templates, it's time to break free from that cycle. Meet global matchers, a killer feature in Nuclei that simplifies your detection workflow.
+
+Imagine having a single template that automatically hunts for specific patterns (like private keys, sensitive tokens, or webhooks) across every HTTP response from all your other templates. That's what global matchers do — and they do it effortlessly.
+
+In this post, we</description>
     </item>
   </channel>
 </rss>
