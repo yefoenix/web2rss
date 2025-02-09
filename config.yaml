@@ -134,3 +134,12 @@ sites:
     description_css: div
     link_css: 
     use_headless_browser: false
+
+  - name: enkryptai
+    follow_desc: 
+    url: https://www.enkryptai.com/company/blog
+    block_css: div.filter_item.w-dyn-item
+    title_css: h3
+    description_css: div.filter_padding
+    link_css: a
+    use_headless_browser: false
