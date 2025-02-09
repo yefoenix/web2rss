@@ -60,3 +60,8 @@
 - 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/lycee.ai.xml
 - Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/lycee.ai.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/lycee.ai.xml)
 
+## enkryptai
+- 原网址：https://www.enkryptai.com/company/blog
+- 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/enkryptai.xml
+- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/enkryptai.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/enkryptai.xml)
+
