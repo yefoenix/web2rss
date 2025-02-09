@@ -6,56 +6,56 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 10:56:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 01:37:05 +0000</lastBuildDate>
     <item>
-      <title>Google Cloud's commitment to responsible AI is now ISO/IEC certified</title>
-      <link>https://cloud.google.com/blog/products/identity-security/google-clouds-commitment-to-responsible-ai-is-now-iso-iec-certified</link>
-      <description>Security &amp; IdentityGoogle Cloud's commitment to responsible AI is now ISO/IEC certifiedBy Jeanette Manfra  • 3-minute read</description>
+      <title>Announcing partner-delivered professional services on Google Cloud Marketplace</title>
+      <link>https://cloud.google.com/blog/topics/partners/purchase-professional-services-on-google-cloud-marketplace</link>
+      <description>PartnersAnnouncing partner-delivered professional services on Google Cloud MarketplaceBy Dai Vu • 6-minute read</description>
     </item>
     <item>
-      <title>Google Cloud and SAP: Powering AI with enterprise data</title>
-      <link>https://cloud.google.com/blog/products/sap-google-cloud/the-case-for-running-rise-with-sap-on-google-cloud</link>
-      <description>SAP on Google CloudGoogle Cloud and SAP: Powering AI with enterprise dataBy Dinesh Vandayar • 7-minute read</description>
+      <title>Getting started with Swift’s Alliance Connect Virtual on Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/financial-services/deploying-swifts-alliance-connect-virtual-on-google-cloud</link>
+      <description>Financial ServicesGetting started with Swift’s Alliance Connect Virtual on Google CloudBy Maria Alejandra Emmanuelli • 11-minute read</description>
     </item>
     <item>
-      <title>Optimizing RAG retrieval: Test, tune, succeed</title>
-      <link>https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval</link>
-      <description>AI &amp; Machine LearningOptimizing RAG retrieval: Test, tune, succeedBy Hugo Selbie • 9-minute read</description>
+      <title>Helping our partners co-market faster with AI</title>
+      <link>https://cloud.google.com/blog/topics/partners/google-clouds-partner-marketing-studio-now-features-gemini</link>
+      <description>PartnersHelping our partners co-market faster with AIBy Aimee Catalano • 6-minute read</description>
     </item>
     <item>
-      <title>Find sensitive data faster (but safely) with Google Distributed Cloud’s gen AI search solution</title>
-      <link>https://cloud.google.com/blog/topics/hybrid-cloud/on-prem-generative-ai-search-with-google-distributed-cloud-rag</link>
-      <description>Hybrid &amp; MulticloudFind sensitive data faster (but safely) with Google Distributed Cloud’s gen AI search solutionBy Antoine Haas • 3-minute read</description>
+      <title>5 AI trends shaping the future of the public sector in 2025</title>
+      <link>https://cloud.google.com/blog/topics/public-sector/5-ai-trends-shaping-the-future-of-the-public-sector-in-2025</link>
+      <description>Public Sector5 AI trends shaping the future of the public sector in 2025By Elizabeth Moon • 4-minute read</description>
     </item>
     <item>
-      <title>How Google Cloud can help customers achieve compliance with NIS2</title>
-      <link>https://cloud.google.com/blog/products/identity-security/how-google-cloud-can-help-customers-achieve-compliance-with-nis2</link>
-      <description>Security &amp; IdentityHow Google Cloud can help customers achieve compliance with NIS2By Tara Brady • 9-minute read</description>
+      <title>Solve database bottlenecks faster with the latest query insights for Cloud SQL Enterprise Plus</title>
+      <link>https://cloud.google.com/blog/products/databases/new-query-insights-capabilities-for-cloud-sql-enterprise-plus</link>
+      <description>DatabasesSolve database bottlenecks faster with the latest query insights for Cloud SQL Enterprise PlusBy Karan Thapar • 3-minute read</description>
     </item>
     <item>
-      <title>What’s new for Google Cloud databases — December 2024</title>
-      <link>https://cloud.google.com/blog/products/databases/whats-new-for-databases-december-2024</link>
-      <description>DatabasesWhat’s new for Google Cloud databases — December 2024By Joey Lynne Hernandez • 9-minute read</description>
+      <title>Empowering federal agencies with a more secure and efficient developer experience</title>
+      <link>https://cloud.google.com/blog/topics/public-sector/empowering-federal-agencies-with-a-more-secure-and-efficient-developer-experience</link>
+      <description>Public SectorEmpowering federal agencies with a more secure and efficient developer experienceBy Nate Avery • 2-minute read</description>
     </item>
     <item>
-      <title>Database Center: Now with support for Bigtable, Firestore, and Memorystore</title>
-      <link>https://cloud.google.com/blog/products/databases/database-centers-supports-bigtable-memorystore-and-firestore</link>
-      <description>DatabasesDatabase Center: Now with support for Bigtable, Firestore, and MemorystoreBy Kiran Shenoy • 3-minute read</description>
+      <title>Empowering women with cloud and AI skills: Register for the Google Launchpad for Women series</title>
+      <link>https://cloud.google.com/blog/topics/training-certifications/register-for-the-google-launchpad-for-women-series-today</link>
+      <description>Training and CertificationsEmpowering women with cloud and AI skills: Register for the Google Launchpad for Women seriesBy Erin Rifkin • 3-minute read</description>
+    </item>
+    <item>
+      <title>Using capa Rules for Android Malware Detection</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/capa-rules-android-malware-detection</link>
+      <description>Threat IntelligenceUsing capa Rules for Android Malware DetectionBy Lin Chen • 13-minute read</description>
     </item>
     <item>
       <title>What’s new with Google Cloud</title>
       <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
-      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 2-minute read</description>
     </item>
     <item>
-      <title>Google is a Leader, positioned furthest in vision in the 2024 Gartner Magic Quadrant for Cloud Database Management Systems</title>
-      <link>https://cloud.google.com/blog/products/databases/2024-gartner-magic-quadrant-for-cloud-database-management-systems</link>
-      <description>DatabasesGoogle is a Leader, positioned furthest in vision in the 2024 Gartner Magic Quadrant for Cloud Database Management SystemsBy Andi Gutmans • 8-minute read</description>
-    </item>
-    <item>
-      <title>A Look Back at the AI Innovations Transforming the Public Sector</title>
-      <link>https://cloud.google.com/blog/topics/public-sector/a-look-back-at-the-ai-innovations-transforming-the-public-sector</link>
-      <description>Public SectorA Look Back at the AI Innovations Transforming the Public SectorBy Karen Dahut • 4-minute read</description>
+      <title>News you can use: What we announced in AI this month</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month</link>
+      <description>AI &amp; Machine LearningNews you can use: What we announced in AI this monthBy Google Cloud Content &amp; Editorial  • 4-minute read</description>
     </item>
   </channel>
 </rss>

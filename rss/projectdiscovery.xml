@@ -6,14 +6,7 @@
     <description>Latest posts from https://projectdiscovery.io/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 10:56:51 +0000</lastBuildDate>
-    <item>
-      <title>November 2024 Newsletter</title>
-      <link>https://projectdiscovery.io/blog/november-2024-newsletter</link>
-      <description>Welcome to the November edition of the PD community newsletter - and Happy Thanksgiving to everyone who celebrated! 🦃
-
-As we’re moving over into the holiday season, not only are we starting to look back on all the amazing work that both the ProjectDiscovery team and the wider community have completed this year, but we also haven’t stopped creating. Plenty of bug fixes and enhancements have been added to our tools and templates this month, along with the exciting announcement of some brand new t</description>
-    </item>
+    <lastBuildDate>Sun, 09 Feb 2025 01:37:21 +0000</lastBuildDate>
     <item>
       <title>Celebrating 2024: Securing your infrastructure with ProjectDiscovery</title>
       <link>https://projectdiscovery.io/blog/celebrating-2024-securing-your-infrastructure-with-projectdiscovery</link>
@@ -39,6 +32,17 @@ Before taking a well-earned break though, the ProjectDiscovery team are here to 
 Along with additions and fixes for a couple of our tools, we’ve expanded Nuclei templates to include a new set of templates focused on Windows Security Hardening and Auditing - find out more on what’s included in this update by reading on!
 
 Alongside our new series of YouTube videos, we’re also shining a spotlight</description>
+    </item>
+    <item>
+      <title>January 2025 Newsletter</title>
+      <link>https://projectdiscovery.io/blog/january-2025-newsletter</link>
+      <description>Happy New Year, ProjectDiscovery community - we hope you’ve had a great start to 2025 so far! 🎆 🥂
+
+Team PD has been hard at work with releases and fixes, and as always, we aim to round up the best of the latest updates in newsletter form.
+
+In between all of this, our AppSec Researcher Dhiyaneshwaran Balasubramaniam held an informative session at Hack The Box Mumbai’s monthly meetup this January, covering the essentials of ‘Getting Started with Nuclei DAST and Global Templates’.
+
+Alongside our</description>
     </item>
     <item>
       <title>Getting Started with ProjectDiscovery in Linux and Windows</title>
@@ -95,20 +99,6 @@ Asset Inventory and Technologies
 The new interface for cataloging and organizing all assets along with their associated technologies in one place represents a significant advancement in asset management. Now, rega</description>
     </item>
     <item>
-      <title>Windows Security Hardening and Auditing - Nuclei Templates v10.1.0 🎉</title>
-      <link>https://projectdiscovery.io/blog/windows-security-hardening-and-auditing-nuclei-templates-v10-1-0</link>
-      <description>We're thrilled to introduce Nuclei Templates release v10.1.0! In this update, we are focusing on Windows Security Hardening and Auditing. Our latest release expands your toolkit with new Windows security templates, designed to automate and enhance the security auditing of Windows systems. Here, we'll explore how to use these templates effectively, customize them for your specific security needs, and share results on the PDCP Cloud for review.
-
-Windows operating systems, widely utilized in both e</description>
-    </item>
-    <item>
-      <title>From CVE to Template: The Future of Automating Nuclei Templates with AI</title>
-      <link>https://projectdiscovery.io/blog/future-of-automating-nuclei-templates-with-ai</link>
-      <description>In the fast-paced world of cybersecurity, staying ahead of new vulnerabilities is a constant challenge. Every week, new vulnerabilities are disclosed, and attackers are quick to exploit them. As security teams, we need to be equally swift in identifying and addressing these vulnerabilities to protect our organizations and users.
-
-Your ProjectDiscovery team desires to speed up the creation of Nuclei templates for new CVEs. Creating Nuclei templates manually for every new CVE is time-consuming and</description>
-    </item>
-    <item>
       <title>Alibaba Cloud - Nuclei Templates v10.1.1 🎉</title>
       <link>https://projectdiscovery.io/blog/alibaba-cloud-nuclei-templates-v10-1-1-2</link>
       <description>We're excited to tell you about Nuclei Templates release v10.1.1 ! This new version includes newly added Alibaba Cloud Review templates. In this blog post, we'll discuss automating Alibaba cloud misconfiguration review, creating custom checks, and sharing results on the PDCP Cloud for review.
@@ -116,13 +106,20 @@ Your ProjectDiscovery team desires to speed up the creation of Nuclei templates 
 An Alibaba Cloud Configuration Security Review is essential for assessing and improving the security of your cloud infrastructure. It ensures that your resources are configured correctly, compliant with re</description>
     </item>
     <item>
-      <title>Hacking Apple - SQL Injection to Remote Code Execution</title>
-      <link>https://projectdiscovery.io/blog/hacking-apple-with-sql-injection</link>
-      <description>Introduction
+      <title>Crafting DAST Nuclei Templates for OOB Template Engines Injection: A Practical Guide</title>
+      <link>https://projectdiscovery.io/blog/crafting-dast-nuclei-templates-for-oob-template-engines-injection-a-practical-guide</link>
+      <description>We’re thrilled to announce the release of new DAST Out-of-Band Template Injection Templates tailored for various templating engines and programming frameworks. This update empowers us to assess vulnerabilities and misconfigurations in diverse tech stacks effectively. In this post, we’ll explore automating Out-of-Band Template Injection Testing, crafting custom vulnerability checks, and sharing the findings through the PDCP Cloud for streamlined collaboration.
 
-In our last blog post, we delved into the inner workings of Lucee and took a look at the source code of Masa/Mura CMS, and the vastness of the potential attack surface struck us. It became evident that investing time in understanding the code could pay off. After dedicating a week to our exploration, we stumbled upon several entry points for exploitation, including a critical SQL injection flaw that we were able to exploit within Apple's Book Travel portal.
+For those particularly interested i</description>
+    </item>
+    <item>
+      <title>Effortless Passive Detection Using Global Matchers in Nuclei</title>
+      <link>https://projectdiscovery.io/blog/introducing-global-matchers-in-nuclei</link>
+      <description>If you've ever found yourself repeatedly setting up the same matchers in multiple Nuclei templates, it's time to break free from that cycle. Meet global matchers, a killer feature in Nuclei that simplifies your detection workflow.
 
-In this blog post, we a</description>
+Imagine having a single template that automatically hunts for specific patterns (like private keys, sensitive tokens, or webhooks) across every HTTP response from all your other templates. That's what global matchers do — and they do it effortlessly.
+
+In this post, we</description>
     </item>
     <item>
       <title>Ruby-SAML / GitLab Authentication Bypass (CVE-2024-45409)</title>
@@ -141,27 +138,32 @@ In light of the recent Ruby-SAML bypass discovered in GitLab, we set out to exam
 This blog post will provide an in-depth look at GitHub Enterprise’s SAML implementation and analyze the specific code issue that permitted this bypass. Although we uncovered this vulnerability inde</description>
     </item>
     <item>
-      <title>GitHub Enterprise SAML Authentication Bypass (CVE-2024-4985 / CVE-2024-9487)</title>
-      <link>https://projectdiscovery.io/blog/github-enterprise-saml-authentication-bypass</link>
-      <description>Introduction
+      <title>DeepSeek’s Data Breach: Could ProjectDiscovery’s Cloud Have Prevented the Hack?</title>
+      <link>https://projectdiscovery.io/blog/deepseeks-data-breach-could-projectdiscoverys-cloud-have-prevented-the-hack-2</link>
+      <description>Last week, DeepSeek made headlines with R1, an open-source model positioned as a competitor to OpenAI’s Model o1. What set R1 apart wasn’t just its capabilities - it was the claim that DeepSeek trained it with significantly fewer GPUs. It challenged conventional wisdom around the compute requirements for large-scale model training and even caused a small stock market selloff.
 
-In light of the recent Ruby-SAML bypass discovered in GitLab, we set out to examine the SAML implementation within GitHub Enterprise. During our research, we identified a significant vulnerability that enabled bypassing GitHub’s SAML authentication when encrypted assertions were in use.
-
-This blog post will provide an in-depth look at GitHub Enterprise’s SAML implementation and analyze the specific code issue that permitted this bypass. Although we uncovered this vulnerability inde</description>
+Amid the hype, a security incident surfaced: researchers gained access to DeepSeek’s internal databases. The breach repo</description>
     </item>
     <item>
-      <title>Windows Security Hardening and Auditing - Nuclei Templates v10.1.0 🎉</title>
-      <link>https://projectdiscovery.io/blog/windows-security-hardening-and-auditing-nuclei-templates-v10-1-0</link>
-      <description>We're thrilled to introduce Nuclei Templates release v10.1.0! In this update, we are focusing on Windows Security Hardening and Auditing. Our latest release expands your toolkit with new Windows security templates, designed to automate and enhance the security auditing of Windows systems. Here, we'll explore how to use these templates effectively, customize them for your specific security needs, and share results on the PDCP Cloud for review.
+      <title>Crafting DAST Nuclei Templates for OOB Template Engines Injection: A Practical Guide</title>
+      <link>https://projectdiscovery.io/blog/crafting-dast-nuclei-templates-for-oob-template-engines-injection-a-practical-guide</link>
+      <description>We’re thrilled to announce the release of new DAST Out-of-Band Template Injection Templates tailored for various templating engines and programming frameworks. This update empowers us to assess vulnerabilities and misconfigurations in diverse tech stacks effectively. In this post, we’ll explore automating Out-of-Band Template Injection Testing, crafting custom vulnerability checks, and sharing the findings through the PDCP Cloud for streamlined collaboration.
 
-Windows operating systems, widely utilized in both e</description>
+For those particularly interested i</description>
     </item>
     <item>
-      <title>From CVE to Template: The Future of Automating Nuclei Templates with AI</title>
-      <link>https://projectdiscovery.io/blog/future-of-automating-nuclei-templates-with-ai</link>
-      <description>In the fast-paced world of cybersecurity, staying ahead of new vulnerabilities is a constant challenge. Every week, new vulnerabilities are disclosed, and attackers are quick to exploit them. As security teams, we need to be equally swift in identifying and addressing these vulnerabilities to protect our organizations and users.
+      <title>How Paddle Strengthened Its Security Posture with ProjectDiscovery</title>
+      <link>https://projectdiscovery.io/blog/how-paddle-strengthened-its-security-posture-with-projectdiscovery</link>
+      <description>Modern SaaS companies like Paddle face growing security challenges as their platforms expand. To gain full visibility into their attack surface and automate vulnerability detection, Paddle adopted ProjectDiscovery, an open-source security platform that streamlined their security operations.</description>
+    </item>
+    <item>
+      <title>Effortless Passive Detection Using Global Matchers in Nuclei</title>
+      <link>https://projectdiscovery.io/blog/introducing-global-matchers-in-nuclei</link>
+      <description>If you've ever found yourself repeatedly setting up the same matchers in multiple Nuclei templates, it's time to break free from that cycle. Meet global matchers, a killer feature in Nuclei that simplifies your detection workflow.
 
-Your ProjectDiscovery team desires to speed up the creation of Nuclei templates for new CVEs. Creating Nuclei templates manually for every new CVE is time-consuming and</description>
+Imagine having a single template that automatically hunts for specific patterns (like private keys, sensitive tokens, or webhooks) across every HTTP response from all your other templates. That's what global matchers do — and they do it effortlessly.
+
+In this post, we</description>
     </item>
   </channel>
 </rss>

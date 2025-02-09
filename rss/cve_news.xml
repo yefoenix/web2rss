@@ -6,56 +6,56 @@
     <description>Latest posts from https://www.cve.org/Media/News/AllNews. follow.is: feedId:72158581942748160+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 10:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 01:37:01 +0000</lastBuildDate>
     <item>
-      <title>Delta Electronics Added as CVE Numbering Authority (CNA)</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/12/10/Delta-Electronics-Added-as-CNA</link>
-      <description>Delta Electronics Added as CVE Numbering Authority (CNA)newsDecember 10, 2024Delta Electronics, Inc.is now aCVE Numbering Authority (CNA)for Delta Electronics products as listed onwww.deltaww.com.</description>
+      <title>VulnCon 2025Call for Papers Closes January 15 (EXTENDED TO JANUARY 31)</title>
+      <link>https://www.cve.org/Media/News/item/blog/2025/01/07/VulnCon-2025-Call-Papers-Closes-January-15</link>
+      <description>VulnCon 2025Call for Papers Closes January 15 (EXTENDED TO JANUARY 31)blogBy CVE Program|January 7, 2025TheCVE ProgramandFIRSTwill co-hostVulnCon 2025at the McKimmon Center in Raleigh, North Carolina, USA, on April 7-10, 2025. TheCall for Paperscloses on January 15, 2025 (EXTENDED TO JANUARY 31). See detailshere.IMPORTANT:The VulnCon 2025 Call for Papersdeadline has been extended until January 31, 2025.</description>
     </item>
     <item>
-      <title>“CVE List Keyword Search” Now Available on CVE.ORG Website</title>
-      <link>https://www.cve.org/Media/News/item/blog/2024/12/11/CVE-List-Keyword-Search-Now-Available</link>
-      <description>“CVE List Keyword Search” Now Available on CVE.ORG WebsiteblogBy CVE Program|December 11, 2024The ability to searchCVE Recordsby keyword is now available onCVE.ORG. Keywords may include aCVE ID(e.g., CVE-2024-1234), or one or more keywords separated by a space (e.g., authorization, SQL Injection, cross site scripting, etc.).</description>
+      <title>CVE Program Expands Partnership with Thales Group</title>
+      <link>https://www.cve.org/Media/News/item/blog/2025/01/07/CVE-Program-Expands-Partnership-with-Thales-Group</link>
+      <description>CVE Program Expands Partnership with Thales GroupblogBy CVE Program|January 7, 2025TheCVE® Programis expanding its partnership withThales Groupfor managing the assignment ofCVE Identifiers (CVE IDs)and publication ofCVE Recordsfor the CVE Program.</description>
     </item>
     <item>
-      <title>Minutes from CVE Board Teleconference Meeting on November 13 Now Available</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/12/17/CVE-Board-Minutes-from-November-13</link>
-      <description>Minutes from CVE Board Teleconference Meeting on November 13 Now AvailablenewsDecember 17, 2024TheCVE Boardheld a teleconference meeting on November 13, 2024. Read themeeting minutes summary.</description>
+      <title>Vulnerability Data Enrichment for CVE Records: 236 CNAs on the Enrichment Recognition List for January 13, 2025</title>
+      <link>https://www.cve.org/Media/News/item/blog/2025/01/14/CNA-Enrichment-Recognition-List-Update</link>
+      <description>Vulnerability Data Enrichment for CVE Records: 236 CNAs on the Enrichment Recognition List for January 13, 2025blogBy CVE Program|January 14, 2025The “CNA Enrichment Recognition List” for January 13, 2025, is now available with 236 CNAs listed. Published every two weeks on the CVE website, the list recognizes thoseCVE Numbering Authorities (CNAs)that are actively providing enhanced vulnerability data in theirCVE Records. CNAs are added to the list if they provideCommon Vulnerability Scoring System (CVSS)andCommon Weakness Enumeration (CWE™)information 98% of the time or more within the two-week period of their last published CVE Record.</description>
     </item>
     <item>
-      <title>CVE Program’s 25th Anniversary Is Main Topic of “Below the Surface” Podcast</title>
-      <link>https://www.cve.org/Media/News/item/blog/2024/12/17/CVE-Below-the-Surface-Podcast</link>
-      <description>CVE Program’s 25th Anniversary Is Main Topic of “Below the Surface” PodcastblogBy CVE Program|December 17, 2024The25th anniversary of the Common Vulnerabilities and Exposures (CVE®) Programis the main topic of the “BTS #43 — CVE Turns 25” episode of Eclypsium’s “Below the Surface” podcast.</description>
+      <title>New Call for Papers Deadline forVulnCon 2025— January 31, 2025</title>
+      <link>https://www.cve.org/Media/News/item/blog/2025/01/21/VulnCon-2025-Call-Papers-Closes-January-31</link>
+      <description>New Call for Papers Deadline forVulnCon 2025— January 31, 2025blogBy CVE Program|January 21, 2025TheCVE ProgramandFIRSTwill co-hostVulnCon 2025at the McKimmon Center in Raleigh, North Carolina, USA, on April 7-10, 2025. TheCall for Papersdeadlinehas been extended until January 31, 2025. See detailshere.</description>
     </item>
     <item>
-      <title>Vulnerability Data Enrichment for CVE Records: 233 CNAs on the Enrichment Recognition List for December 16, 2024</title>
-      <link>https://www.cve.org/Media/News/item/blog/2024/12/17/CNA-Enrichment-Recognition-List-Update</link>
-      <description>Vulnerability Data Enrichment for CVE Records: 233 CNAs on the Enrichment Recognition List for December 16, 2024blogBy CVE Program|December 17, 2024The “CNA Enrichment Recognition List” for December 16, 2024, is now available with 233 CNAs listed. Published every two weeks on the CVE website, the list recognizes thoseCVE Numbering Authorities (CNAs)that are actively providing enhanced vulnerability data in theirCVE Records. CNAs are added to the list if they provideCommon Vulnerability Scoring System (CVSS)andCommon Weakness Enumeration (CWE™)information 98% of the time or more within the two-week period of their last published CVE Record.</description>
+      <title>Vulnerability Data Enrichment for CVE Records: 242 CNAs on the Enrichment Recognition List for January 27, 2025</title>
+      <link>https://www.cve.org/Media/News/item/blog/2025/01/28/CNA-Enrichment-Recognition-List-Update</link>
+      <description>Vulnerability Data Enrichment for CVE Records: 242 CNAs on the Enrichment Recognition List for January 27, 2025blogBy CVE Program|January 28, 2025The “CNA Enrichment Recognition List” for January 27, 2025, is now available with 242 CNAs listed. Published every two weeks on the CVE website, the list recognizes thoseCVE Numbering Authorities (CNAs)that are actively providing enhanced vulnerability data in theirCVE Records. CNAs are added to the list if they provideCommon Vulnerability Scoring System (CVSS)andCommon Weakness Enumeration (CWE™)information 98% of the time or more within the two-week period of their last published CVE Record.</description>
     </item>
     <item>
-      <title>Automox Added as CVE Numbering Authority (CNA)</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/12/17/Automox-Added-as-CNA</link>
-      <description>Automox Added as CVE Numbering Authority (CNA)newsDecember 17, 2024Automox Inc.is now aCVE Numbering Authority (CNA)for all products created by Automox.</description>
+      <title>Guide for Including CPE Applicability Statements in CVE Records Now Available for CNAs</title>
+      <link>https://www.cve.org/Media/News/item/blog/2025/01/28/Guide-for-Including-CPE-in-CVE-Records</link>
+      <description>Guide for Including CPE Applicability Statements in CVE Records Now Available for CNAsblogBy CVE Program|January 28, 2025TheCVE® Programis pleased to announce that a “Quick Start Guide for CPE Applicability Statements in the CVE Record Format” (PDF, 3.1MB) is now available forCVE Numbering Authorities (CNAs)on the CVE website. A “live” version of this document isavailable for CNAs on Google Docs, which will be updated over time as needed.</description>
     </item>
     <item>
-      <title>Delinea Added as CVE Numbering Authority (CNA)</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/12/17/Delinea-Added-as-CNA</link>
-      <description>Delinea Added as CVE Numbering Authority (CNA)newsDecember 17, 2024Delinea, Inc.is now aCVE Numbering Authority (CNA)for vulnerabilities in Delinea products or services listed ondelinea.com, or vulnerabilities in third-party products or services discovered by or reported to Delinea, unless covered by the scope of another CNA.</description>
+      <title>Minutes from CVE Board Teleconference Meeting on January 8 Now Available</title>
+      <link>https://www.cve.org/Media/News/item/news/2025/02/04/CVE-Board-Minutes-from-January-8</link>
+      <description>Minutes from CVE Board Teleconference Meeting on January 8 Now AvailablenewsFebruary 4, 2025TheCVE Boardheld a teleconference meeting on January 8, 2025. Read themeeting minutes summary.</description>
     </item>
     <item>
-      <title>Cepheid Added as CVE Numbering Authority (CNA)</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/12/17/CEPHEID-Added-as-CNA</link>
-      <description>Cepheid Added as CVE Numbering Authority (CNA)newsDecember 17, 2024Cepheidis now aCVE Numbering Authority (CNA)for Cepheid products.</description>
+      <title>25 Years of CVE and What’s Next</title>
+      <link>https://www.cve.org/Media/News/item/podcast/2025/02/04/25-Years-of-CVE-and-Whats-Next</link>
+      <description>25 Years of CVE and What’s NextpodcastFebruary 4, 2025Host Shannon Sabens speaks with fellowCVE Boardmembers Kent Landfield and Madison Oliver andCVE ProgramLead Alec Summers about the25th anniversary of the CVE Program. Topics include the history of the program, the program today, and what’s next.</description>
     </item>
     <item>
-      <title>S21sec Cyber Solutions by Thales Added as CVE Numbering Authority (CNA)</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/12/17/S21sec-Added-as-CNA</link>
-      <description>S21sec Cyber Solutions by Thales Added as CVE Numbering Authority (CNA)newsDecember 17, 2024S21sec Cyber Solutions by Thalesis now aCVE Numbering Authority (CNA)for vulnerabilities discovered by S21sec that are not within another CNA’s scope.</description>
+      <title>Register Now forCVE/FIRST VulnCon 2025on April 7-10, 2025!</title>
+      <link>https://www.cve.org/Media/News/item/blog/2025/02/04/Register-Now-for-CVE-FIRST-VulnCon-2025</link>
+      <description>Register Now forCVE/FIRST VulnCon 2025on April 7-10, 2025!blogBy CVE Program|February 4, 2025CVE/FIRST VulnCon 2025</description>
     </item>
     <item>
-      <title>Roche Diagnostics Added as CVE Numbering Authority (CNA)</title>
-      <link>https://www.cve.org/Media/News/item/news/2024/12/17/Roche-Diagnostics-Added-as-CNA</link>
-      <description>Roche Diagnostics Added as CVE Numbering Authority (CNA)newsDecember 17, 2024Roche Diagnosticsis now aCVE Numbering Authority (CNA)for Roche’s medical technology products.</description>
+      <title>HemoCue Added as CVE Numbering Authority (CNA)</title>
+      <link>https://www.cve.org/Media/News/item/news/2025/02/04/HemoCue-Added-as-CNA</link>
+      <description>HemoCue Added as CVE Numbering Authority (CNA)newsFebruary 4, 2025HemoCue ABis now aCVE Numbering Authority (CNA)for HemoCue branded products and technologies only.</description>
     </item>
   </channel>
 </rss>

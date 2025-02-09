@@ -5,11 +5,6 @@
 - 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/splunk_blog.xml
 - Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/splunk_blog.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/splunk_blog.xml)
 
-## sonarsource_blog
-- 原网址：https://www.sonarsource.com/blog/tag/security/
-- 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/sonarsource_blog.xml
-- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/sonarsource_blog.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/sonarsource_blog.xml)
-
 ## rapid7_blog
 - 原网址：https://www.rapid7.com/blog/posts/
 - 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/rapid7_blog.xml
@@ -19,11 +14,6 @@
 - 原网址：https://github.com/trending
 - 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/github_trending.xml
 - Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/github_trending.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/github_trending.xml)
-
-## anthropic_news
-- 原网址：https://www.anthropic.com/news
-- 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/anthropic_news.xml
-- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/anthropic_news.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/anthropic_news.xml)
 
 ## cve_news
 - 原网址：https://www.cve.org/Media/News/AllNews
@@ -59,11 +49,6 @@
 - 原网址：https://vulners.com/blog/
 - 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/VulnersBlog.xml
 - Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/VulnersBlog.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/VulnersBlog.xml)
-
-## AnthropicResearch
-- 原网址：https://www.anthropic.com/research
-- 订阅源：https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/AnthropicResearch.xml
-- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/AnthropicResearch.xml](follow://add?url=https://raw.githubusercontent.com/xxcdd/web2rss/refs/heads/master/rss/AnthropicResearch.xml)
 
 ## projectdiscovery
 - 原网址：https://projectdiscovery.io/blog
