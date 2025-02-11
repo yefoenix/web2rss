@@ -6,22 +6,7 @@
     <description>Latest posts from https://projectdiscovery.io/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 01:28:17 +0000</lastBuildDate>
-    <item>
-      <title>Celebrating 2024: Securing your infrastructure with ProjectDiscovery</title>
-      <link>https://projectdiscovery.io/blog/celebrating-2024-securing-your-infrastructure-with-projectdiscovery</link>
-      <description>As 2024 comes to a close, we want to celebrate the milestones we’ve achieved together with our ProjectDiscovery community. Thanks to your trust and collaboration, here’s what we’ve accomplished this year on ProjectDiscovery.
-
-
-
-
-Platform growth
-
-2k+ new vulnerability templates
-Identifying nearly 1k high-profile vulnerabilities affecting 600+ unique products—including Atlassian Confluence, GitLab, MLflow, Grafana, GitHub Enterprise, Ivanti, Fortinet, and Palo Alto Networks
-
-50k+ cloud-based scans</description>
-    </item>
+    <lastBuildDate>Tue, 11 Feb 2025 01:26:37 +0000</lastBuildDate>
     <item>
       <title>December 2024 Newsletter</title>
       <link>https://projectdiscovery.io/blog/december-2024-newsletter</link>
@@ -43,6 +28,11 @@ Team PD has been hard at work with releases and fixes, and as always, we aim to 
 In between all of this, our AppSec Researcher Dhiyaneshwaran Balasubramaniam held an informative session at Hack The Box Mumbai’s monthly meetup this January, covering the essentials of ‘Getting Started with Nuclei DAST and Global Templates’.
 
 Alongside our</description>
+    </item>
+    <item>
+      <title>The new way to discover your exposure</title>
+      <link>https://projectdiscovery.io/blog/the-new-way-to-discover-your-exposure</link>
+      <description>We've completely rebuilt our infrastructure for exposure discovery and management at the internet level, introducing new tools and AI workflows. This major update is designed for our entire community - from individual users to large security teams.</description>
     </item>
     <item>
       <title>Getting Started with ProjectDiscovery in Linux and Windows</title>
@@ -145,13 +135,6 @@ This blog post will provide an in-depth look at GitHub Enterprise’s SAML imple
 Amid the hype, a security incident surfaced: researchers gained access to DeepSeek’s internal databases. The breach repo</description>
     </item>
     <item>
-      <title>Crafting DAST Nuclei Templates for OOB Template Engines Injection: A Practical Guide</title>
-      <link>https://projectdiscovery.io/blog/crafting-dast-nuclei-templates-for-oob-template-engines-injection-a-practical-guide</link>
-      <description>We’re thrilled to announce the release of new DAST Out-of-Band Template Injection Templates tailored for various templating engines and programming frameworks. This update empowers us to assess vulnerabilities and misconfigurations in diverse tech stacks effectively. In this post, we’ll explore automating Out-of-Band Template Injection Testing, crafting custom vulnerability checks, and sharing the findings through the PDCP Cloud for streamlined collaboration.
-
-For those particularly interested i</description>
-    </item>
-    <item>
       <title>How Paddle Strengthened Its Security Posture with ProjectDiscovery</title>
       <link>https://projectdiscovery.io/blog/how-paddle-strengthened-its-security-posture-with-projectdiscovery</link>
       <description>Modern SaaS companies like Paddle face growing security challenges as their platforms expand. To gain full visibility into their attack surface and automate vulnerability detection, Paddle adopted ProjectDiscovery, an open-source security platform that streamlined their security operations.</description>
@@ -164,6 +147,13 @@ For those particularly interested i</description>
 Imagine having a single template that automatically hunts for specific patterns (like private keys, sensitive tokens, or webhooks) across every HTTP response from all your other templates. That's what global matchers do — and they do it effortlessly.
 
 In this post, we</description>
+    </item>
+    <item>
+      <title>DeepSeek’s Data Breach: Could ProjectDiscovery’s Cloud Have Prevented the Hack?</title>
+      <link>https://projectdiscovery.io/blog/deepseeks-data-breach-could-projectdiscoverys-cloud-have-prevented-the-hack-2</link>
+      <description>Last week, DeepSeek made headlines with R1, an open-source model positioned as a competitor to OpenAI’s Model o1. What set R1 apart wasn’t just its capabilities - it was the claim that DeepSeek trained it with significantly fewer GPUs. It challenged conventional wisdom around the compute requirements for large-scale model training and even caused a small stock market selloff.
+
+Amid the hype, a security incident surfaced: researchers gained access to DeepSeek’s internal databases. The breach repo</description>
     </item>
   </channel>
 </rss>
