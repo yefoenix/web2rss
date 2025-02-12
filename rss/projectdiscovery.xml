@@ -6,18 +6,7 @@
     <description>Latest posts from https://projectdiscovery.io/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 01:26:37 +0000</lastBuildDate>
-    <item>
-      <title>December 2024 Newsletter</title>
-      <link>https://projectdiscovery.io/blog/december-2024-newsletter</link>
-      <description>It’s almost the end of the year, and the holidays are upon us! 🎄
-
-Before taking a well-earned break though, the ProjectDiscovery team are here to give our last round of 2024 updates.
-
-Along with additions and fixes for a couple of our tools, we’ve expanded Nuclei templates to include a new set of templates focused on Windows Security Hardening and Auditing - find out more on what’s included in this update by reading on!
-
-Alongside our new series of YouTube videos, we’re also shining a spotlight</description>
-    </item>
+    <lastBuildDate>Wed, 12 Feb 2025 01:31:27 +0000</lastBuildDate>
     <item>
       <title>January 2025 Newsletter</title>
       <link>https://projectdiscovery.io/blog/january-2025-newsletter</link>
@@ -33,6 +22,13 @@ Alongside our</description>
       <title>The new way to discover your exposure</title>
       <link>https://projectdiscovery.io/blog/the-new-way-to-discover-your-exposure</link>
       <description>We've completely rebuilt our infrastructure for exposure discovery and management at the internet level, introducing new tools and AI workflows. This major update is designed for our entire community - from individual users to large security teams.</description>
+    </item>
+    <item>
+      <title>Scaling for the enterprise</title>
+      <link>https://projectdiscovery.io/blog/scaling-for-the-enterprise</link>
+      <description>Large organizations manage a complex web of internet exposures, spanning subsidiaries, multi-cloud environments, and distributed deployments. Security teams need visibility, collaboration, and control to manage their digital footprint at scale.
+
+With this launch, we’re introducing a suite of new enterprise-focused features: an improved free experience, streamlined onboarding, advanced reporting, and essential controls like SAML SSO and audit logs. These updates make it easier for enterprises to</description>
     </item>
     <item>
       <title>Getting Started with ProjectDiscovery in Linux and Windows</title>
@@ -135,11 +131,6 @@ This blog post will provide an in-depth look at GitHub Enterprise’s SAML imple
 Amid the hype, a security incident surfaced: researchers gained access to DeepSeek’s internal databases. The breach repo</description>
     </item>
     <item>
-      <title>How Paddle Strengthened Its Security Posture with ProjectDiscovery</title>
-      <link>https://projectdiscovery.io/blog/how-paddle-strengthened-its-security-posture-with-projectdiscovery</link>
-      <description>Modern SaaS companies like Paddle face growing security challenges as their platforms expand. To gain full visibility into their attack surface and automate vulnerability detection, Paddle adopted ProjectDiscovery, an open-source security platform that streamlined their security operations.</description>
-    </item>
-    <item>
       <title>Effortless Passive Detection Using Global Matchers in Nuclei</title>
       <link>https://projectdiscovery.io/blog/introducing-global-matchers-in-nuclei</link>
       <description>If you've ever found yourself repeatedly setting up the same matchers in multiple Nuclei templates, it's time to break free from that cycle. Meet global matchers, a killer feature in Nuclei that simplifies your detection workflow.
@@ -154,6 +145,11 @@ In this post, we</description>
       <description>Last week, DeepSeek made headlines with R1, an open-source model positioned as a competitor to OpenAI’s Model o1. What set R1 apart wasn’t just its capabilities - it was the claim that DeepSeek trained it with significantly fewer GPUs. It challenged conventional wisdom around the compute requirements for large-scale model training and even caused a small stock market selloff.
 
 Amid the hype, a security incident surfaced: researchers gained access to DeepSeek’s internal databases. The breach repo</description>
+    </item>
+    <item>
+      <title>The new way to discover your exposure</title>
+      <link>https://projectdiscovery.io/blog/the-new-way-to-discover-your-exposure</link>
+      <description>We've completely rebuilt our infrastructure for exposure discovery and management at the internet level, introducing new tools and AI workflows. This major update is designed for our entire community - from individual users to large security teams.</description>
     </item>
   </channel>
 </rss>
