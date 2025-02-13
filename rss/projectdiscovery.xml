@@ -6,18 +6,7 @@
     <description>Latest posts from https://projectdiscovery.io/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 01:31:27 +0000</lastBuildDate>
-    <item>
-      <title>January 2025 Newsletter</title>
-      <link>https://projectdiscovery.io/blog/january-2025-newsletter</link>
-      <description>Happy New Year, ProjectDiscovery community - we hope you’ve had a great start to 2025 so far! 🎆 🥂
-
-Team PD has been hard at work with releases and fixes, and as always, we aim to round up the best of the latest updates in newsletter form.
-
-In between all of this, our AppSec Researcher Dhiyaneshwaran Balasubramaniam held an informative session at Hack The Box Mumbai’s monthly meetup this January, covering the essentials of ‘Getting Started with Nuclei DAST and Global Templates’.
-
-Alongside our</description>
-    </item>
+    <lastBuildDate>Thu, 13 Feb 2025 01:27:06 +0000</lastBuildDate>
     <item>
       <title>The new way to discover your exposure</title>
       <link>https://projectdiscovery.io/blog/the-new-way-to-discover-your-exposure</link>
@@ -29,6 +18,11 @@ Alongside our</description>
       <description>Large organizations manage a complex web of internet exposures, spanning subsidiaries, multi-cloud environments, and distributed deployments. Security teams need visibility, collaboration, and control to manage their digital footprint at scale.
 
 With this launch, we’re introducing a suite of new enterprise-focused features: an improved free experience, streamlined onboarding, advanced reporting, and essential controls like SAML SSO and audit logs. These updates make it easier for enterprises to</description>
+    </item>
+    <item>
+      <title>Engineering the future of vulnerability detection</title>
+      <link>https://projectdiscovery.io/blog/engineering-the-future-of-vulnerability-detection</link>
+      <description>We’re building the future of Nuclei-powered scanning - 35x faster, with automated scheduling, smart alerts, and streamlined triaging. With built-in internal scanning, it’s designed for modern security teams who need speed, scale, and precision.</description>
     </item>
     <item>
       <title>Getting Started with ProjectDiscovery in Linux and Windows</title>
@@ -131,15 +125,6 @@ This blog post will provide an in-depth look at GitHub Enterprise’s SAML imple
 Amid the hype, a security incident surfaced: researchers gained access to DeepSeek’s internal databases. The breach repo</description>
     </item>
     <item>
-      <title>Effortless Passive Detection Using Global Matchers in Nuclei</title>
-      <link>https://projectdiscovery.io/blog/introducing-global-matchers-in-nuclei</link>
-      <description>If you've ever found yourself repeatedly setting up the same matchers in multiple Nuclei templates, it's time to break free from that cycle. Meet global matchers, a killer feature in Nuclei that simplifies your detection workflow.
-
-Imagine having a single template that automatically hunts for specific patterns (like private keys, sensitive tokens, or webhooks) across every HTTP response from all your other templates. That's what global matchers do — and they do it effortlessly.
-
-In this post, we</description>
-    </item>
-    <item>
       <title>DeepSeek’s Data Breach: Could ProjectDiscovery’s Cloud Have Prevented the Hack?</title>
       <link>https://projectdiscovery.io/blog/deepseeks-data-breach-could-projectdiscoverys-cloud-have-prevented-the-hack-2</link>
       <description>Last week, DeepSeek made headlines with R1, an open-source model positioned as a competitor to OpenAI’s Model o1. What set R1 apart wasn’t just its capabilities - it was the claim that DeepSeek trained it with significantly fewer GPUs. It challenged conventional wisdom around the compute requirements for large-scale model training and even caused a small stock market selloff.
@@ -150,6 +135,13 @@ Amid the hype, a security incident surfaced: researchers gained access to DeepSe
       <title>The new way to discover your exposure</title>
       <link>https://projectdiscovery.io/blog/the-new-way-to-discover-your-exposure</link>
       <description>We've completely rebuilt our infrastructure for exposure discovery and management at the internet level, introducing new tools and AI workflows. This major update is designed for our entire community - from individual users to large security teams.</description>
+    </item>
+    <item>
+      <title>Scaling for the enterprise</title>
+      <link>https://projectdiscovery.io/blog/scaling-for-the-enterprise</link>
+      <description>Large organizations manage a complex web of internet exposures, spanning subsidiaries, multi-cloud environments, and distributed deployments. Security teams need visibility, collaboration, and control to manage their digital footprint at scale.
+
+With this launch, we’re introducing a suite of new enterprise-focused features: an improved free experience, streamlined onboarding, advanced reporting, and essential controls like SAML SSO and audit logs. These updates make it easier for enterprises to</description>
     </item>
   </channel>
 </rss>

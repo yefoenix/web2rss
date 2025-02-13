@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.enkryptai.com/company/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 01:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 01:27:08 +0000</lastBuildDate>
     <item>
       <title>Ensuring Unparalleled Security for Your Proprietary AI Models: The Solution for Enterprise Data Privacy</title>
       <link>https://www.enkryptai.com/blog/ensuring-unparalleled-security-for-your-proprietary-ai-models-the-solution-for-enterprise-data-privacy</link>
@@ -181,6 +181,11 @@
       <title>Pre-Packaged AI Guardrail Solutions for Life Sciences</title>
       <link>https://www.enkryptai.com/blog/pre-packaged-ai-guardrail-solutions-for-life-sciences</link>
       <description>February 6, 2025This is some text inside of a div block.Pre-Packaged AI Guardrail Solutions for Life SciencesProduct Updates</description>
+    </item>
+    <item>
+      <title>Securing Voice-Based Gen AI Applications Using AI Guardrails</title>
+      <link>https://www.enkryptai.com/blog/securing-voice-based-gen-ai-applications-using-ai-guardrails</link>
+      <description>February 11, 2025This is some text inside of a div block.Securing Voice-Based Gen AI Applications Using AI GuardrailsIndustry Trends</description>
     </item>
   </channel>
 </rss>
