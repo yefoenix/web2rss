@@ -6,12 +6,7 @@
     <description>Latest posts from https://projectdiscovery.io/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Feb 2025 01:27:06 +0000</lastBuildDate>
-    <item>
-      <title>The new way to discover your exposure</title>
-      <link>https://projectdiscovery.io/blog/the-new-way-to-discover-your-exposure</link>
-      <description>We've completely rebuilt our infrastructure for exposure discovery and management at the internet level, introducing new tools and AI workflows. This major update is designed for our entire community - from individual users to large security teams.</description>
-    </item>
+    <lastBuildDate>Fri, 14 Feb 2025 01:26:57 +0000</lastBuildDate>
     <item>
       <title>Scaling for the enterprise</title>
       <link>https://projectdiscovery.io/blog/scaling-for-the-enterprise</link>
@@ -23,6 +18,11 @@ With this launch, we’re introducing a suite of new enterprise-focused features
       <title>Engineering the future of vulnerability detection</title>
       <link>https://projectdiscovery.io/blog/engineering-the-future-of-vulnerability-detection</link>
       <description>We’re building the future of Nuclei-powered scanning - 35x faster, with automated scheduling, smart alerts, and streamlined triaging. With built-in internal scanning, it’s designed for modern security teams who need speed, scale, and precision.</description>
+    </item>
+    <item>
+      <title>Reinventing custom detections and vulnerability management</title>
+      <link>https://projectdiscovery.io/blog/reinventing-custom-detections-and-vulnerability-management</link>
+      <description>We’re making custom vulnerability detection easier with an AI-powered template editor, full-text search, and auto-regressions. These additions help security teams create, refine, and validate detections faster, staying ahead of threats with less manual work.</description>
     </item>
     <item>
       <title>Getting Started with ProjectDiscovery in Linux and Windows</title>
@@ -125,13 +125,6 @@ This blog post will provide an in-depth look at GitHub Enterprise’s SAML imple
 Amid the hype, a security incident surfaced: researchers gained access to DeepSeek’s internal databases. The breach repo</description>
     </item>
     <item>
-      <title>DeepSeek’s Data Breach: Could ProjectDiscovery’s Cloud Have Prevented the Hack?</title>
-      <link>https://projectdiscovery.io/blog/deepseeks-data-breach-could-projectdiscoverys-cloud-have-prevented-the-hack-2</link>
-      <description>Last week, DeepSeek made headlines with R1, an open-source model positioned as a competitor to OpenAI’s Model o1. What set R1 apart wasn’t just its capabilities - it was the claim that DeepSeek trained it with significantly fewer GPUs. It challenged conventional wisdom around the compute requirements for large-scale model training and even caused a small stock market selloff.
-
-Amid the hype, a security incident surfaced: researchers gained access to DeepSeek’s internal databases. The breach repo</description>
-    </item>
-    <item>
       <title>The new way to discover your exposure</title>
       <link>https://projectdiscovery.io/blog/the-new-way-to-discover-your-exposure</link>
       <description>We've completely rebuilt our infrastructure for exposure discovery and management at the internet level, introducing new tools and AI workflows. This major update is designed for our entire community - from individual users to large security teams.</description>
@@ -142,6 +135,11 @@ Amid the hype, a security incident surfaced: researchers gained access to DeepSe
       <description>Large organizations manage a complex web of internet exposures, spanning subsidiaries, multi-cloud environments, and distributed deployments. Security teams need visibility, collaboration, and control to manage their digital footprint at scale.
 
 With this launch, we’re introducing a suite of new enterprise-focused features: an improved free experience, streamlined onboarding, advanced reporting, and essential controls like SAML SSO and audit logs. These updates make it easier for enterprises to</description>
+    </item>
+    <item>
+      <title>Engineering the future of vulnerability detection</title>
+      <link>https://projectdiscovery.io/blog/engineering-the-future-of-vulnerability-detection</link>
+      <description>We’re building the future of Nuclei-powered scanning - 35x faster, with automated scheduling, smart alerts, and streamlined triaging. With built-in internal scanning, it’s designed for modern security teams who need speed, scale, and precision.</description>
     </item>
   </channel>
 </rss>
