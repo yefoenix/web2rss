@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.enkryptai.com/company/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 01:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 01:27:37 +0000</lastBuildDate>
     <item>
       <title>Ensuring Unparalleled Security for Your Proprietary AI Models: The Solution for Enterprise Data Privacy</title>
       <link>https://www.enkryptai.com/blog/ensuring-unparalleled-security-for-your-proprietary-ai-models-the-solution-for-enterprise-data-privacy</link>
@@ -191,6 +191,11 @@
       <title>How to Navigate the EU AI Act</title>
       <link>https://www.enkryptai.com/blog/how-to-navigate-the-eu-ai-act</link>
       <description>February 17, 2025This is some text inside of a div block.How to Navigate the EU AI ActIndustry Trends</description>
+    </item>
+    <item>
+      <title>Automated Red Teaming for Generative AI:  Strengthening AI Security at Scale</title>
+      <link>https://www.enkryptai.com/blog/automated-red-teaming-for-generative-ai-strengthening-ai-security-at-scale</link>
+      <description>February 18, 2025This is some text inside of a div block.Automated Red Teaming for Generative AI:  Strengthening AI Security at ScaleProduct Updates</description>
     </item>
   </channel>
 </rss>
