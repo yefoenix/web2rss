@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.enkryptai.com/company/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Feb 2025 01:37:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 01:29:01 +0000</lastBuildDate>
     <item>
       <title>Ensuring Unparalleled Security for Your Proprietary AI Models: The Solution for Enterprise Data Privacy</title>
       <link>https://www.enkryptai.com/blog/ensuring-unparalleled-security-for-your-proprietary-ai-models-the-solution-for-enterprise-data-privacy</link>
@@ -216,6 +216,11 @@
       <title>LLM-Based Agents: The Benefits and the Risks</title>
       <link>https://www.enkryptai.com/blog/llm-agents-benefits-risks</link>
       <description>February 24, 2025This is some text inside of a div block.LLM-Based Agents: The Benefits and the RisksThought Leadership</description>
+    </item>
+    <item>
+      <title>Deploying Enkrypt AI’s Safer DeepSeek R1 on Amazon Bedrock: A Step-by-Step Guide for Secure AI Deployment</title>
+      <link>https://www.enkryptai.com/blog/deploying-enkryptai-safer-deepseek-r1-on-amazon-bedrock-a-step-by-step-guide-for-secure-ai-deployment</link>
+      <description>February 25, 2025This is some text inside of a div block.Deploying Enkrypt AI’s Safer DeepSeek R1 on Amazon Bedrock: A Step-by-Step Guide for Secure AI DeploymentIndustry Trends</description>
     </item>
   </channel>
 </rss>
