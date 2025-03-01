@@ -6,7 +6,7 @@
     <description>Latest posts from https://www.enkryptai.com/company/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Feb 2025 01:37:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 01:42:33 +0000</lastBuildDate>
     <item>
       <title>Ensuring Unparalleled Security for Your Proprietary AI Models: The Solution for Enterprise Data Privacy</title>
       <link>https://www.enkryptai.com/blog/ensuring-unparalleled-security-for-your-proprietary-ai-models-the-solution-for-enterprise-data-privacy</link>
@@ -221,6 +221,11 @@
       <title>Deploying Enkrypt AI’s Safer DeepSeek R1 on Amazon Bedrock: A Step-by-Step Guide for Secure AI Deployment</title>
       <link>https://www.enkryptai.com/blog/deploying-enkryptai-safer-deepseek-r1-on-amazon-bedrock-a-step-by-step-guide-for-secure-ai-deployment</link>
       <description>February 25, 2025This is some text inside of a div block.Deploying Enkrypt AI’s Safer DeepSeek R1 on Amazon Bedrock: A Step-by-Step Guide for Secure AI DeploymentIndustry Trends</description>
+    </item>
+    <item>
+      <title>How To Comply with the February 2025 EU AI Literacy Act</title>
+      <link>https://www.enkryptai.com/blog/how-to-comply-with-the-february-2025-eu-ai-literacy-act</link>
+      <description>February 28, 2025This is some text inside of a div block.How To Comply with the February 2025 EU AI Literacy ActThought Leadership</description>
     </item>
   </channel>
 </rss>

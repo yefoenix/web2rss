@@ -6,14 +6,7 @@
     <description>Latest posts from https://projectdiscovery.io/blog. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Feb 2025 01:37:47 +0000</lastBuildDate>
-    <item>
-      <title>Scaling for the enterprise</title>
-      <link>https://projectdiscovery.io/blog/scaling-for-the-enterprise</link>
-      <description>Large organizations manage a complex web of internet exposures, spanning subsidiaries, multi-cloud environments, and distributed deployments. Security teams need visibility, collaboration, and control to manage their digital footprint at scale.
-
-With this launch, we’re introducing a suite of new enterprise-focused features: an improved free experience, streamlined onboarding, advanced reporting, and essential controls like SAML SSO and audit logs. These updates make it easier for enterprises to</description>
-    </item>
+    <lastBuildDate>Sat, 01 Mar 2025 01:42:32 +0000</lastBuildDate>
     <item>
       <title>Engineering the future of vulnerability detection</title>
       <link>https://projectdiscovery.io/blog/engineering-the-future-of-vulnerability-detection</link>
@@ -23,6 +16,11 @@ With this launch, we’re introducing a suite of new enterprise-focused features
       <title>Reinventing custom detections and vulnerability management</title>
       <link>https://projectdiscovery.io/blog/reinventing-custom-detections-and-vulnerability-management</link>
       <description>We’re making custom vulnerability detection easier with an AI-powered template editor, full-text search, and auto-regressions. These additions help security teams create, refine, and validate detections faster, staying ahead of threats with less manual work.</description>
+    </item>
+    <item>
+      <title>February 2025 Newsletter</title>
+      <link>https://projectdiscovery.io/blog/february-2025-newsletter</link>
+      <description>First, we’re so excited to announce that we’ve reached 100,000 GitHub stars across our OSS projects! This wouldn’t have been possible without everyone who’s contributed, used our tools, and offered their support along the way. Thank you, and we can’t wait to keep building with you! 🎉</description>
     </item>
     <item>
       <title>Getting Started with ProjectDiscovery in Linux and Windows</title>
