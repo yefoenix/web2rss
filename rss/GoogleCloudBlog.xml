@@ -6,7 +6,7 @@
     <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Mar 2025 01:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 01:19:03 +0000</lastBuildDate>
     <item>
       <title>African super app Yassir delivers on data with BigQuery migration</title>
       <link>https://cloud.google.com/blog/products/data-analytics/african-super-app-delivers-on-data-with-bigquery-migration</link>
