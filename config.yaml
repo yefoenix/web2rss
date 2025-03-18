@@ -1,7 +1,15 @@
 sites:
-  - name: Buyer Opinin
+  - name: Buyer-Opinin
     follow_desc: 
     url: "https://www.the-buyer.net/opinion"
+    block_css: " main  div  a"  # 父元素的 CSS 选择器
+    title_css: "h3"  # 在父元素内部的标题选择器
+    description_css: "h3"
+    link_css: 
+    use_headless_browser: true
+  - name: Buyer-insight
+    follow_desc: 
+    url: "https://www.the-buyer.net/insight"
     block_css: " main  div  a"  # 父元素的 CSS 选择器
     title_css: "h3"  # 在父元素内部的标题选择器
     description_css: "h3"
