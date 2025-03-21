@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 01:45:16 +0000</lastBuildDate>
-    <item>
-      <title>Why new Trade Only Tasting can be breakthrough for buyers &amp; suppliers</title>
-      <link>https://www.the-buyer.net/insight/ross-carter-why-trade-only-tasting-can-be-breakthrough-for-buyers-and-producers</link>
-      <description>Why new Trade Only Tasting can be breakthrough for buyers &amp; suppliers</description>
-    </item>
+    <lastBuildDate>Fri, 21 Mar 2025 01:47:06 +0000</lastBuildDate>
     <item>
       <title>Wine Paris 2: Richard Siddle on the suppliers solving buyers' problems</title>
       <link>https://www.the-buyer.net/insight/wine-paris-2-richard-siddle-on-the-suppliers-solving-buyers-problems</link>
@@ -66,6 +61,11 @@
       <title>How Top Selection has become a sommelier’s go to supplier</title>
       <link>https://www.the-buyer.net/insight/how-top-selection-has-become-a-sommelier-s-go-to-supplier</link>
       <description>How Top Selection has become a sommelier’s go to supplier</description>
+    </item>
+    <item>
+      <title>Peter McAtamney on winners &amp; losers on UK restaurant wine lists</title>
+      <link>https://www.the-buyer.net/insight/peter-mcatamney-on-the-winners-and-losers-on-uk-restaurant-wine-lists</link>
+      <description>Peter McAtamney on winners &amp; losers on UK restaurant wine lists</description>
     </item>
   </channel>
 </rss>
