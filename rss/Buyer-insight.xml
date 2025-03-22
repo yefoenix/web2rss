@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Mar 2025 01:47:06 +0000</lastBuildDate>
-    <item>
-      <title>Wine Paris 2: Richard Siddle on the suppliers solving buyers' problems</title>
-      <link>https://www.the-buyer.net/insight/wine-paris-2-richard-siddle-on-the-suppliers-solving-buyers-problems</link>
-      <description>Wine Paris 2: Richard Siddle on the suppliers solving buyers' problems</description>
-    </item>
+    <lastBuildDate>Sat, 22 Mar 2025 01:44:03 +0000</lastBuildDate>
     <item>
       <title>Andrew Shaw: Coterie Holdings wants to be top power in fine wine</title>
       <link>https://www.the-buyer.net/insight/andrew-shaw-how-coterie-holdings-wants-to-be-the-leading-power-in-fine-wine</link>
@@ -66,6 +61,11 @@
       <title>Peter McAtamney on winners &amp; losers on UK restaurant wine lists</title>
       <link>https://www.the-buyer.net/insight/peter-mcatamney-on-the-winners-and-losers-on-uk-restaurant-wine-lists</link>
       <description>Peter McAtamney on winners &amp; losers on UK restaurant wine lists</description>
+    </item>
+    <item>
+      <title>How new national training scheme will help plug UK wine skills gap</title>
+      <link>https://www.the-buyer.net/insight/how-new-plumpton-training-initiatve-will-help-plug-uk-wine-skills-gap</link>
+      <description>How new national training scheme will help plug UK wine skills gap</description>
     </item>
   </channel>
 </rss>
