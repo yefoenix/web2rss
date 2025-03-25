@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 01:50:34 +0000</lastBuildDate>
-    <item>
-      <title>Andrew Shaw: Coterie Holdings wants to be top power in fine wine</title>
-      <link>https://www.the-buyer.net/insight/andrew-shaw-how-coterie-holdings-wants-to-be-the-leading-power-in-fine-wine</link>
-      <description>Andrew Shaw: Coterie Holdings wants to be top power in fine wine</description>
-    </item>
+    <lastBuildDate>Tue, 25 Mar 2025 01:47:31 +0000</lastBuildDate>
     <item>
       <title>Wine Paris 3: Is the UK still the place to do business for global producers?</title>
       <link>https://www.the-buyer.net/insight/wine-paris-3-is-the-uk-still-the-place-to-do-business-for-global-producers</link>
@@ -66,6 +61,11 @@
       <title>How new national training scheme will help plug UK wine skills gap</title>
       <link>https://www.the-buyer.net/insight/how-new-plumpton-training-initiatve-will-help-plug-uk-wine-skills-gap</link>
       <description>How new national training scheme will help plug UK wine skills gap</description>
+    </item>
+    <item>
+      <title>Richard Siddle analyses the ins, outs &amp; fallout from a smaller ProWein</title>
+      <link>https://www.the-buyer.net/insight/richard-siddle-analyses-the-ins-outs-and-fallout-from-a-smaller-prowein</link>
+      <description>Richard Siddle analyses the ins, outs &amp; fallout from a smaller ProWein</description>
     </item>
   </channel>
 </rss>
