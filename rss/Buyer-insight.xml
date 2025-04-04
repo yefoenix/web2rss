@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 01:47:29 +0000</lastBuildDate>
-    <item>
-      <title>How M&amp;S’s new AI wine finder tool from Preferabli is going to work</title>
-      <link>https://www.the-buyer.net/insight/how-m-and-s-s-new-ai-wine-finder-tool-from-preferabli-is-going-to-work</link>
-      <description>How M&amp;S’s new AI wine finder tool from Preferabli is going to work</description>
-    </item>
+    <lastBuildDate>Fri, 04 Apr 2025 01:47:06 +0000</lastBuildDate>
     <item>
       <title>Argentina Report 4: How Argentina is making world class white wines</title>
       <link>https://www.the-buyer.net/insight/argentina-report-4-how-argentina-is-now-making-world-class-white-wines</link>
@@ -66,6 +61,11 @@
       <title>Areni Global on the new skills the wine industry needs to attract</title>
       <link>https://www.the-buyer.net/insight/areni-global-on-the-new-skills-the-wine-industry-urgently-needs-to-attract</link>
       <description>Areni Global on the new skills the wine industry needs to attract</description>
+    </item>
+    <item>
+      <title>How duty &amp; EPR is stretching buyers &amp; producers to breaking point</title>
+      <link>https://www.the-buyer.net/insight/analysis-how-duty-and-epr-is-stretching-buyers-and-producers-to-breaking-point</link>
+      <description>How duty &amp; EPR is stretching buyers &amp; producers to breaking point</description>
     </item>
   </channel>
 </rss>
