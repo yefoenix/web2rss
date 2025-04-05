@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 01:47:06 +0000</lastBuildDate>
-    <item>
-      <title>Argentina Report 4: How Argentina is making world class white wines</title>
-      <link>https://www.the-buyer.net/insight/argentina-report-4-how-argentina-is-now-making-world-class-white-wines</link>
-      <description>Argentina Report 4: How Argentina is making world class white wines</description>
-    </item>
+    <lastBuildDate>Sat, 05 Apr 2025 01:45:29 +0000</lastBuildDate>
     <item>
       <title>Andrew Bewes on how Coterie deal takes Hallgarten to a new level</title>
       <link>https://www.the-buyer.net/insight/andrew-bewes-on-how-coterie-deal-takes-hallgarten-to-a-new-level</link>
@@ -66,6 +61,11 @@
       <title>How duty &amp; EPR is stretching buyers &amp; producers to breaking point</title>
       <link>https://www.the-buyer.net/insight/analysis-how-duty-and-epr-is-stretching-buyers-and-producers-to-breaking-point</link>
       <description>How duty &amp; EPR is stretching buyers &amp; producers to breaking point</description>
+    </item>
+    <item>
+      <title>How Drinklusive wants to "smash glass ceiling" for inclusivity</title>
+      <link>https://www.the-buyer.net/insight/how-drinklusive-wants-to-smash-sector-s-glass-ceiling-for-inclusivity</link>
+      <description>How Drinklusive wants to "smash glass ceiling" for inclusivity</description>
     </item>
   </channel>
 </rss>
