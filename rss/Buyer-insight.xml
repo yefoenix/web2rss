@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 01:48:17 +0000</lastBuildDate>
-    <item>
-      <title>Peter Gago &amp; Caroline Frey on how they created Grange La Chapelle</title>
-      <link>https://www.the-buyer.net/insight/peter-gago-and-caroline-frey-on-how-they-have-created-grange-la-chapelle</link>
-      <description>Peter Gago &amp; Caroline Frey on how they created Grange La Chapelle</description>
-    </item>
+    <lastBuildDate>Thu, 10 Apr 2025 01:48:16 +0000</lastBuildDate>
     <item>
       <title>Why the Federalist is flying high with craft wine branding re-launch</title>
       <link>https://www.the-buyer.net/insight/why-the-federalist-is-flying-high-with-craft-wine-branding-re-launch</link>
@@ -66,6 +61,11 @@
       <title>Tim Wildman on his innovative 'Blue Planet' sustainability films</title>
       <link>https://www.the-buyer.net/insight/tim-wildman-on-cutting-through-with-blue-planet-sustainability-films-for-wine</link>
       <description>Tim Wildman on his innovative 'Blue Planet' sustainability films</description>
+    </item>
+    <item>
+      <title>How Kingdom of Bhutan has made the first wine in its history</title>
+      <link>https://www.the-buyer.net/insight/how-kingdom-of-bhutan-has-made-the-first-wine-in-its-history</link>
+      <description>How Kingdom of Bhutan has made the first wine in its history</description>
     </item>
   </channel>
 </rss>
