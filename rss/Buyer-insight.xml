@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Apr 2025 01:48:40 +0000</lastBuildDate>
-    <item>
-      <title>Why the Federalist is flying high with craft wine branding re-launch</title>
-      <link>https://www.the-buyer.net/insight/why-the-federalist-is-flying-high-with-craft-wine-branding-re-launch</link>
-      <description>Why the Federalist is flying high with craft wine branding re-launch</description>
-    </item>
+    <lastBuildDate>Sun, 13 Apr 2025 03:14:37 +0000</lastBuildDate>
     <item>
       <title>How Macedonia wants Vranec to represent the best wines it makes</title>
       <link>https://www.the-buyer.net/insight/how-macedonia-wants-vranec-to-represent-the-best-wines-it-can-produce</link>
@@ -66,6 +61,11 @@
       <title>How Kingdom of Bhutan has made the first wine in its history</title>
       <link>https://www.the-buyer.net/insight/how-kingdom-of-bhutan-has-made-the-first-wine-in-its-history</link>
       <description>How Kingdom of Bhutan has made the first wine in its history</description>
+    </item>
+    <item>
+      <title>How Ukraine has tamed the "wild horse” Odesa Black grape variety</title>
+      <link>https://www.the-buyer.net/insight/how-ukraine-has-tamed-wild-horse-odesa-black-to-make-quality-wines</link>
+      <description>How Ukraine has tamed the "wild horse” Odesa Black grape variety</description>
     </item>
   </channel>
 </rss>
