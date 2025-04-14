@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Apr 2025 03:14:37 +0000</lastBuildDate>
-    <item>
-      <title>How Macedonia wants Vranec to represent the best wines it makes</title>
-      <link>https://www.the-buyer.net/insight/how-macedonia-wants-vranec-to-represent-the-best-wines-it-can-produce</link>
-      <description>How Macedonia wants Vranec to represent the best wines it makes</description>
-    </item>
+    <lastBuildDate>Mon, 14 Apr 2025 03:28:24 +0000</lastBuildDate>
     <item>
       <title>How Top Selection has become a sommelier’s go to supplier</title>
       <link>https://www.the-buyer.net/insight/how-top-selection-has-become-a-sommelier-s-go-to-supplier</link>
@@ -66,6 +61,11 @@
       <title>How Ukraine has tamed the "wild horse” Odesa Black grape variety</title>
       <link>https://www.the-buyer.net/insight/how-ukraine-has-tamed-wild-horse-odesa-black-to-make-quality-wines</link>
       <description>How Ukraine has tamed the "wild horse” Odesa Black grape variety</description>
+    </item>
+    <item>
+      <title>Amanda Barnes on 10 top Tannats to try for official Tannat Day</title>
+      <link>https://www.the-buyer.net/insight/amanda-barnes-on-10-top-tannats-to-try-for-tannat-day</link>
+      <description>Amanda Barnes on 10 top Tannats to try for official Tannat Day</description>
     </item>
   </channel>
 </rss>
