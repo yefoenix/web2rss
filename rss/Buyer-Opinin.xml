@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 01:50:16 +0000</lastBuildDate>
-    <item>
-      <title>Tom Planer: Why we spend more time buying wine than a house</title>
-      <link>https://www.the-buyer.net/insight/tom-planer-why-buying-wine-is-the-most-important-decision-you-ll-ever-make</link>
-      <description>Tom Planer: Why we spend more time buying wine than a house</description>
-    </item>
+    <lastBuildDate>Wed, 23 Apr 2025 01:50:32 +0000</lastBuildDate>
     <item>
       <title>Tom Planer: how to help people buy wines they want to drink</title>
       <link>https://www.the-buyer.net/opinion/tom-planer-how-to-make-sure-people-buy-wines-they-want-to-drink</link>
@@ -66,6 +61,11 @@
       <title>Mike Turner asks: Which Nebbiolo style suits your wine list the best?</title>
       <link>https://www.the-buyer.net/opinion/nebbiolo-wine-list-turner</link>
       <description>Mike Turner asks: Which Nebbiolo style suits your wine list the best?</description>
+    </item>
+    <item>
+      <title>Farr’s Stephen Browett: the quality and pricing of Bordeaux 2024</title>
+      <link>https://www.the-buyer.net/opinion/farr-stephen-browett-bordeaux-2024</link>
+      <description>Farr’s Stephen Browett: the quality and pricing of Bordeaux 2024</description>
     </item>
   </channel>
 </rss>
