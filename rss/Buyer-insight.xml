@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 01:51:13 +0000</lastBuildDate>
-    <item>
-      <title>Richard Siddle analyses the ins, outs &amp; fallout from a smaller ProWein</title>
-      <link>https://www.the-buyer.net/insight/richard-siddle-analyses-the-ins-outs-and-fallout-from-a-smaller-prowein</link>
-      <description>Richard Siddle analyses the ins, outs &amp; fallout from a smaller ProWein</description>
-    </item>
+    <lastBuildDate>Fri, 25 Apr 2025 01:51:45 +0000</lastBuildDate>
     <item>
       <title>Areni Global on the new skills the wine industry needs to attract</title>
       <link>https://www.the-buyer.net/insight/areni-global-on-the-new-skills-the-wine-industry-urgently-needs-to-attract</link>
@@ -66,6 +61,11 @@
       <title>Anne Krebiehl on German trends &amp; 31 Days of German Wine campaign</title>
       <link>https://www.the-buyer.net/insight/anne-krebiehl-key-german-trends-driving-31-days-of-german-wine-campaign</link>
       <description>Anne Krebiehl on German trends &amp; 31 Days of German Wine campaign</description>
+    </item>
+    <item>
+      <title>How tariff talk failed to douse buzz at Découvertes en Vallée du Rhône</title>
+      <link>https://www.the-buyer.net/insight/decouvertes-en-vallee-du-rhone</link>
+      <description>How tariff talk failed to douse buzz at Découvertes en Vallée du Rhône</description>
     </item>
   </channel>
 </rss>
