@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 May 2025 02:00:43 +0000</lastBuildDate>
-    <item>
-      <title>Priscilla Hennekam: Why wine education needs a revolution</title>
-      <link>https://www.the-buyer.net/opinion/priscilla-hennekam-why-wine-education-needs-a-revolution</link>
-      <description>Priscilla Hennekam: Why wine education needs a revolution</description>
-    </item>
+    <lastBuildDate>Fri, 02 May 2025 01:52:37 +0000</lastBuildDate>
     <item>
       <title>Tom Planer: why the wine industry is still so hooked on discounts</title>
       <link>https://www.the-buyer.net/opinion/tom-planer-on-why-the-wine-industry-is-still-so-hooked-on-discounts</link>
@@ -66,6 +61,11 @@
       <title>Ben Witchell: how Charmat breaks the myth of expensive English fizz</title>
       <link>https://www.the-buyer.net/opinion/ben-witchell-how-charmat-breaks-the-myth-of-expensive-english-fizz</link>
       <description>Ben Witchell: how Charmat breaks the myth of expensive English fizz</description>
+    </item>
+    <item>
+      <title>Will Trump’s tariffs derail or help reset fine wine invesment market?</title>
+      <link>https://www.the-buyer.net/opinion/andrew-lofthouse-trump-s-tariffs-and-their-impact-on-fine-wine-investing-market</link>
+      <description>Will Trump’s tariffs derail or help reset fine wine invesment market?</description>
     </item>
   </channel>
 </rss>
