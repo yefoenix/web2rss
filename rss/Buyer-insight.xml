@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 May 2025 01:58:02 +0000</lastBuildDate>
-    <item>
-      <title>How Ukraine has tamed the "wild horse” Odesa Black grape variety</title>
-      <link>https://www.the-buyer.net/insight/how-ukraine-has-tamed-wild-horse-odesa-black-to-make-quality-wines</link>
-      <description>How Ukraine has tamed the "wild horse” Odesa Black grape variety</description>
-    </item>
+    <lastBuildDate>Tue, 13 May 2025 01:55:43 +0000</lastBuildDate>
     <item>
       <title>Amanda Barnes on 10 top Tannats to try for official Tannat Day</title>
       <link>https://www.the-buyer.net/insight/amanda-barnes-on-10-top-tannats-to-try-for-tannat-day</link>
@@ -66,6 +61,11 @@
       <title>How Wine Services’ insights helps put fine wines in the right markets</title>
       <link>https://www.the-buyer.net/insight/how-wine-services-intelligence-helps-put-fine-wines-in-the-right-markets</link>
       <description>How Wine Services’ insights helps put fine wines in the right markets</description>
+    </item>
+    <item>
+      <title>How Wines Unearthed is ready to do business at London Wine Fair</title>
+      <link>https://www.the-buyer.net/insight/getting-ready-for-wines-unearthed-s-10th-anniversay-at-lonodn-wine-fair</link>
+      <description>How Wines Unearthed is ready to do business at London Wine Fair</description>
     </item>
   </channel>
 </rss>
