@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 May 2025 01:59:57 +0000</lastBuildDate>
-    <item>
-      <title>Priscilla Hennekam: we're scaring consumers with 'good' or 'bad' wine</title>
-      <link>https://www.the-buyer.net/opinion/priscilla-hennekam-why-there-is-no-such-thing-as-good-and-bad-wine</link>
-      <description>Priscilla Hennekam: we're scaring consumers with 'good' or 'bad' wine</description>
-    </item>
+    <lastBuildDate>Tue, 20 May 2025 01:56:21 +0000</lastBuildDate>
     <item>
       <title>Burgundy 2023: Charmed by the wines perplexed by the prices</title>
       <link>https://www.the-buyer.net/opinion/burgundy-2023-prices-dean</link>
@@ -66,6 +61,11 @@
       <title>Wirra Wirra’s Matt Deller on how we must embrace era of 'drinking less'</title>
       <link>https://www.the-buyer.net/opinion/wirra-wirra-s-matt-deller-on-why-we-need-to-embrace-the-era-of-drinking-less</link>
       <description>Wirra Wirra’s Matt Deller on how we must embrace era of 'drinking less'</description>
+    </item>
+    <item>
+      <title>Why popularity of big wine styles is the trade’s ‘elephant in the room'</title>
+      <link>https://www.the-buyer.net/opinion/popularity-big-wine-styles-keay</link>
+      <description>Why popularity of big wine styles is the trade’s ‘elephant in the room'</description>
     </item>
   </channel>
 </rss>
