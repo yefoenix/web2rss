@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 May 2025 01:55:09 +0000</lastBuildDate>
-    <item>
-      <title>IWSC judges put Franciacorta’s quality ambitions to the test</title>
-      <link>https://www.the-buyer.net/insight/iwsc-judges-put-franciacorta-s-quality-ambitions-to-the-test</link>
-      <description>IWSC judges put Franciacorta’s quality ambitions to the test</description>
-    </item>
+    <lastBuildDate>Fri, 23 May 2025 01:55:22 +0000</lastBuildDate>
     <item>
       <title>Anne Krebiehl on German trends &amp; 31 Days of German Wine campaign</title>
       <link>https://www.the-buyer.net/insight/anne-krebiehl-key-german-trends-driving-31-days-of-german-wine-campaign</link>
@@ -66,6 +61,11 @@
       <title>Ramón Bilbao &amp; Mar de Frades look to Jascots for premium wine sales</title>
       <link>https://www.the-buyer.net/insight/ramon-bilbao-s-mar-de-frades-look-to-target-premium-on-trade-with-jascots</link>
       <description>Ramón Bilbao &amp; Mar de Frades look to Jascots for premium wine sales</description>
+    </item>
+    <item>
+      <title>WSTA’s Miles Beale sets out vision for change at London Wine Fair</title>
+      <link>https://www.the-buyer.net/insight/wsta-s-miles-beale-sets-out-vision-for-change-at-london-wine-fair</link>
+      <description>WSTA’s Miles Beale sets out vision for change at London Wine Fair</description>
     </item>
   </channel>
 </rss>
