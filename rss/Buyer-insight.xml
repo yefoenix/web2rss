@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 01:58:08 +0000</lastBuildDate>
-    <item>
-      <title>Tariff talk failed to douse buzz at Découvertes en Vallée du Rhône</title>
-      <link>https://www.the-buyer.net/insight/decouvertes-en-vallee-du-rhone</link>
-      <description>Tariff talk failed to douse buzz at Découvertes en Vallée du Rhône</description>
-    </item>
+    <lastBuildDate>Fri, 30 May 2025 01:53:22 +0000</lastBuildDate>
     <item>
       <title>How the Douro Valley is driving Sogevinus’ still wines strategy</title>
       <link>https://www.the-buyer.net/insight/how-sogevinus-wines-shine-the-light-on-what-the-douro-valley-can-make</link>
@@ -66,6 +61,11 @@
       <title>Top importers on why Provence continues to drive rosé sales</title>
       <link>https://www.the-buyer.net/insight/top-buyers-and-importers-on-why-provence-continues-to-drive-rose-sales</link>
       <description>Top importers on why Provence continues to drive rosé sales</description>
+    </item>
+    <item>
+      <title>Why the “100 AWEsome Wines” list can be your go-to buying guide</title>
+      <link>https://www.the-buyer.net/insight/why-the-100-awesome-wines-list-can-be-your-go-to-buying-guide</link>
+      <description>Why the “100 AWEsome Wines” list can be your go-to buying guide</description>
     </item>
   </channel>
 </rss>
