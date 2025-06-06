@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 01:56:57 +0000</lastBuildDate>
-    <item>
-      <title>What to expect at Cape Wine and South Africa's showcase event</title>
-      <link>https://www.the-buyer.net/insight/what-to-expect-at-cape-wine-and-south-africa-s-showcase-event</link>
-      <description>What to expect at Cape Wine and South Africa's showcase event</description>
-    </item>
+    <lastBuildDate>Fri, 06 Jun 2025 01:56:17 +0000</lastBuildDate>
     <item>
       <title>Vinca on why the future's bright, the future's aluminium bottles</title>
       <link>https://www.the-buyer.net/insight/vinca-on-why-it-is-placing-its-future-on-aluminium-bottles</link>
@@ -66,6 +61,11 @@
       <title>How Great Greek Wines Awards picks best of the best in Greek wine</title>
       <link>https://www.the-buyer.net/insight/how-the-great-greek-wines-awards-only-rewards-best-of-the-best-in-greek-wine</link>
       <description>How Great Greek Wines Awards picks best of the best in Greek wine</description>
+    </item>
+    <item>
+      <title>How The Ivy Collection is working with MDCV UK on bespoke cuvées</title>
+      <link>https://www.the-buyer.net/insight/how-the-ivy-collection-is-working-with-mdcv-uk-to-create-bespoke-cuvees</link>
+      <description>How The Ivy Collection is working with MDCV UK on bespoke cuvées</description>
     </item>
   </channel>
 </rss>
