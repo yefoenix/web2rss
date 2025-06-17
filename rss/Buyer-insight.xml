@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 02:02:24 +0000</lastBuildDate>
-    <item>
-      <title>How Wine Services’ insights helps put fine wines in the right markets</title>
-      <link>https://www.the-buyer.net/insight/how-wine-services-intelligence-helps-put-fine-wines-in-the-right-markets</link>
-      <description>How Wine Services’ insights helps put fine wines in the right markets</description>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 01:59:04 +0000</lastBuildDate>
     <item>
       <title>How Wines Unearthed is ready to do business at London Wine Fair</title>
       <link>https://www.the-buyer.net/insight/getting-ready-for-wines-unearthed-s-10th-anniversay-at-lonodn-wine-fair</link>
@@ -66,6 +61,11 @@
       <title>What potential &amp; point of difference does Prosecco DOC Rosé have?</title>
       <link>https://www.the-buyer.net/insight/debate-what-potential-and-point-of-difference-does-prosecco-doc-rose-have</link>
       <description>What potential &amp; point of difference does Prosecco DOC Rosé have?</description>
+    </item>
+    <item>
+      <title>How Asahi’s Nectar has become a powerful supplier to the on-trade</title>
+      <link>https://www.the-buyer.net/insight/how-asahi-s-nectar-has-become-a-powerful-distributor-to-the-premium-on-trade</link>
+      <description>How Asahi’s Nectar has become a powerful supplier to the on-trade</description>
     </item>
   </channel>
 </rss>
