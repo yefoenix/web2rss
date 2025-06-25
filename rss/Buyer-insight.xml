@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 01:59:37 +0000</lastBuildDate>
-    <item>
-      <title>Top importers on why Provence continues to drive rosé sales</title>
-      <link>https://www.the-buyer.net/insight/top-buyers-and-importers-on-why-provence-continues-to-drive-rose-sales</link>
-      <description>Top importers on why Provence continues to drive rosé sales</description>
-    </item>
+    <lastBuildDate>Wed, 25 Jun 2025 02:00:11 +0000</lastBuildDate>
     <item>
       <title>Why the “100 AWEsome Wines” list can be your go-to buying guide</title>
       <link>https://www.the-buyer.net/insight/why-the-100-awesome-wines-list-can-be-your-go-to-buying-guide</link>
@@ -66,6 +61,11 @@
       <title>How Schenk Family UK has 'huge ambition' for its brands &amp; customers</title>
       <link>https://www.the-buyer.net/insight/schenk-family-uk-s-huge-ambition-for-its-brands-and-customers</link>
       <description>How Schenk Family UK has 'huge ambition' for its brands &amp; customers</description>
+    </item>
+    <item>
+      <title>David Kermode on how Provence has written the script for rosé</title>
+      <link>https://www.the-buyer.net/insight/david-kermode-on-how-provence-has-written-the-script-for-rose</link>
+      <description>David Kermode on how Provence has written the script for rosé</description>
     </item>
   </channel>
 </rss>
