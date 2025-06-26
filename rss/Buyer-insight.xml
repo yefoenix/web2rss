@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 02:00:11 +0000</lastBuildDate>
-    <item>
-      <title>Why the “100 AWEsome Wines” list can be your go-to buying guide</title>
-      <link>https://www.the-buyer.net/insight/why-the-100-awesome-wines-list-can-be-your-go-to-buying-guide</link>
-      <description>Why the “100 AWEsome Wines” list can be your go-to buying guide</description>
-    </item>
+    <lastBuildDate>Thu, 26 Jun 2025 01:58:50 +0000</lastBuildDate>
     <item>
       <title>Debate: What Prosecco DOC needs to do next to grow the category</title>
       <link>https://www.the-buyer.net/insight/debate-what-prosecco-doc-needs-to-do-next-to-secure-and-grow-the-category</link>
@@ -66,6 +61,11 @@
       <title>David Kermode on how Provence has written the script for rosé</title>
       <link>https://www.the-buyer.net/insight/david-kermode-on-how-provence-has-written-the-script-for-rose</link>
       <description>David Kermode on how Provence has written the script for rosé</description>
+    </item>
+    <item>
+      <title>Analysis: How wine buyers and importers are tackling duty and EPR</title>
+      <link>https://www.the-buyer.net/insight/lwf-analysis-how-wine-buyers-and-importers-are-tackling-duty-epr-and-more</link>
+      <description>Analysis: How wine buyers and importers are tackling duty and EPR</description>
     </item>
   </channel>
 </rss>
