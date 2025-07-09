@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 02:00:27 +0000</lastBuildDate>
-    <item>
-      <title>What potential &amp; point of difference does Prosecco DOC Rosé have?</title>
-      <link>https://www.the-buyer.net/insight/debate-what-potential-and-point-of-difference-does-prosecco-doc-rose-have</link>
-      <description>What potential &amp; point of difference does Prosecco DOC Rosé have?</description>
-    </item>
+    <lastBuildDate>Wed, 09 Jul 2025 02:02:18 +0000</lastBuildDate>
     <item>
       <title>How Asahi’s Nectar has become a powerful supplier to the on-trade</title>
       <link>https://www.the-buyer.net/insight/how-asahi-s-nectar-has-become-a-powerful-distributor-to-the-premium-on-trade</link>
@@ -66,6 +61,11 @@
       <title>Packamama chiefs on how they want to transform wine packaging</title>
       <link>https://www.the-buyer.net/insight/packamama-chiefs-on-how-they-want-to-help-transform-wine-packaging</link>
       <description>Packamama chiefs on how they want to transform wine packaging</description>
+    </item>
+    <item>
+      <title>How Sonoma's AVAs can deliver diversity, complexity and quality</title>
+      <link>https://www.the-buyer.net/insight/brad-horne-on-the-diversity-complexity-and-quality-of-sonoma-wines</link>
+      <description>How Sonoma's AVAs can deliver diversity, complexity and quality</description>
     </item>
   </channel>
 </rss>
