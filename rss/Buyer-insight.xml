@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 02:09:08 +0000</lastBuildDate>
-    <item>
-      <title>Introducing Italy’s Marche and Umani Ronchi to top UK sommeliers</title>
-      <link>https://www.the-buyer.net/insight/on-tour-introducing-italy-s-marche-and-umani-ronchi-to-top-uk-sommeliers</link>
-      <description>Introducing Italy’s Marche and Umani Ronchi to top UK sommeliers</description>
-    </item>
+    <lastBuildDate>Tue, 15 Jul 2025 02:08:20 +0000</lastBuildDate>
     <item>
       <title>Villa Maria’s consumer focus opens way for canned &amp; sparkling wines</title>
       <link>https://www.the-buyer.net/insight/villa-maria-s-consumer-driven-focus-opens-way-for-canned-and-sparkling-wines</link>
@@ -66,6 +61,11 @@
       <title>Lessons craft beers can take from indie bands signing for majors</title>
       <link>https://www.the-buyer.net/insight/lessons-craft-beers-can-take-from-indie-bands-when-singing-for-majors</link>
       <description>Lessons craft beers can take from indie bands signing for majors</description>
+    </item>
+    <item>
+      <title>Les Producteurs et Vignerons de France on its one stop French shop</title>
+      <link>https://www.the-buyer.net/insight/les-producteurs-et-vignerons-de-france-on-uniting-buyers-and-french-producers</link>
+      <description>Les Producteurs et Vignerons de France on its one stop French shop</description>
     </item>
   </channel>
 </rss>
