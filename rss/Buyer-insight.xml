@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Jul 2025 02:08:20 +0000</lastBuildDate>
-    <item>
-      <title>Villa Maria’s consumer focus opens way for canned &amp; sparkling wines</title>
-      <link>https://www.the-buyer.net/insight/villa-maria-s-consumer-driven-focus-opens-way-for-canned-and-sparkling-wines</link>
-      <description>Villa Maria’s consumer focus opens way for canned &amp; sparkling wines</description>
-    </item>
+    <lastBuildDate>Wed, 16 Jul 2025 02:05:28 +0000</lastBuildDate>
     <item>
       <title>Take Coravin &amp; The Buyer's by-the-glass survey &amp; win £650 Coravin kit</title>
       <link>https://www.the-buyer.net/insight/take-coravin-and-the-buyer-s-wine-btg-survey-and-win-gbp650-of-coravin-kit</link>
@@ -66,6 +61,11 @@
       <title>Les Producteurs et Vignerons de France on its one stop French shop</title>
       <link>https://www.the-buyer.net/insight/les-producteurs-et-vignerons-de-france-on-uniting-buyers-and-french-producers</link>
       <description>Les Producteurs et Vignerons de France on its one stop French shop</description>
+    </item>
+    <item>
+      <title>How Tiny Wine has big plans to shake up fine wine sales &amp; sampling</title>
+      <link>https://www.the-buyer.net/insight/how-tiny-wine-has-big-plans-to-shake-up-fine-wine-sales-and-sampling</link>
+      <description>How Tiny Wine has big plans to shake up fine wine sales &amp; sampling</description>
     </item>
   </channel>
 </rss>
