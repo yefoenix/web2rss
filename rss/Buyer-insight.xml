@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 02:12:30 +0000</lastBuildDate>
-    <item>
-      <title>Take Coravin &amp; The Buyer's by-the-glass survey &amp; win £650 Coravin kit</title>
-      <link>https://www.the-buyer.net/insight/take-coravin-and-the-buyer-s-wine-btg-survey-and-win-gbp650-of-coravin-kit</link>
-      <description>Take Coravin &amp; The Buyer's by-the-glass survey &amp; win £650 Coravin kit</description>
-    </item>
+    <lastBuildDate>Tue, 22 Jul 2025 02:06:56 +0000</lastBuildDate>
     <item>
       <title>How Schenk Family UK has 'huge ambition' for its brands &amp; customers</title>
       <link>https://www.the-buyer.net/insight/schenk-family-uk-s-huge-ambition-for-its-brands-and-customers</link>
@@ -66,6 +61,11 @@
       <title>How Tiny Wine has big plans to shake up fine wine sales &amp; sampling</title>
       <link>https://www.the-buyer.net/insight/how-tiny-wine-has-big-plans-to-shake-up-fine-wine-sales-and-sampling</link>
       <description>How Tiny Wine has big plans to shake up fine wine sales &amp; sampling</description>
+    </item>
+    <item>
+      <title>On Tour: Introducing New York State to top UK buyers &amp; importers</title>
+      <link>https://www.the-buyer.net/insight/on-tour-introducing-new-york-state-and-its-wines-to-top-uk-buyers-and-importers</link>
+      <description>On Tour: Introducing New York State to top UK buyers &amp; importers</description>
     </item>
   </channel>
 </rss>
