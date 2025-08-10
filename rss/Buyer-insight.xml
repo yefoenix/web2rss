@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 01:58:52 +0000</lastBuildDate>
-    <item>
-      <title>How Great Greek Wines Awards picks best of the best in Greek wine</title>
-      <link>https://www.the-buyer.net/insight/how-the-great-greek-wines-awards-only-rewards-best-of-the-best-in-greek-wine</link>
-      <description>How Great Greek Wines Awards picks best of the best in Greek wine</description>
-    </item>
+    <lastBuildDate>Sun, 10 Aug 2025 02:20:23 +0000</lastBuildDate>
     <item>
       <title>How The Ivy Collection is working with MDCV UK on bespoke cuvées</title>
       <link>https://www.the-buyer.net/insight/how-the-ivy-collection-is-working-with-mdcv-uk-to-create-bespoke-cuvees</link>
@@ -126,6 +121,11 @@
       <title>Does Bordeaux still have its wow factor &amp; has en primeur had its day?</title>
       <link>https://www.the-buyer.net/insight/does-bordeaux-still-have-its-wow-factor-and-has-en-primeur-had-its-day</link>
       <description>Does Bordeaux still have its wow factor &amp; has en primeur had its day?</description>
+    </item>
+    <item>
+      <title>We are family! The rise and rise of the inspirational Languedoc Family</title>
+      <link>https://www.the-buyer.net/insight/languedoc-family-gayda-dean</link>
+      <description>We are family! The rise and rise of the inspirational Languedoc Family</description>
     </item>
   </channel>
 </rss>
