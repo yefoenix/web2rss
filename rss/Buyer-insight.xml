@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 01:55:17 +0000</lastBuildDate>
-    <item>
-      <title>Villa Maria’s consumer focus opens way for canned &amp; sparkling wines</title>
-      <link>https://www.the-buyer.net/insight/villa-maria-s-consumer-driven-focus-opens-way-for-canned-and-sparkling-wines</link>
-      <description>Villa Maria’s consumer focus opens way for canned &amp; sparkling wines</description>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 02:04:42 +0000</lastBuildDate>
     <item>
       <title>Take Coravin &amp; The Buyer's by-the-glass survey &amp; win £650 Coravin kit</title>
       <link>https://www.the-buyer.net/insight/take-coravin-and-the-buyer-s-wine-btg-survey-and-win-gbp650-of-coravin-kit</link>
@@ -126,6 +121,11 @@
       <title>Global sustainability award backs Santa Rita's environmental actions</title>
       <link>https://www.the-buyer.net/insight/how-global-sustainability-award-backs-santa-rita-estates-environmental-actions</link>
       <description>Global sustainability award backs Santa Rita's environmental actions</description>
+    </item>
+    <item>
+      <title>Robert Joseph on Le Grand Noir &amp; building a global French wine brand</title>
+      <link>https://www.the-buyer.net/insight/robert-joseph-on-le-grand-noir-and-building-a-global-wine-brand</link>
+      <description>Robert Joseph on Le Grand Noir &amp; building a global French wine brand</description>
     </item>
   </channel>
 </rss>
