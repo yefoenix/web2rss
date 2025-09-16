@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 01:52:58 +0000</lastBuildDate>
-    <item>
-      <title>David Kermode on how Provence has written the script for rosé</title>
-      <link>https://www.the-buyer.net/insight/david-kermode-on-how-provence-has-written-the-script-for-rose</link>
-      <description>David Kermode on how Provence has written the script for rosé</description>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 01:44:39 +0000</lastBuildDate>
     <item>
       <title>Analysis: How wine buyers and importers are tackling duty and EPR</title>
       <link>https://www.the-buyer.net/insight/lwf-analysis-how-wine-buyers-and-importers-are-tackling-duty-epr-and-more</link>
@@ -126,6 +121,11 @@
       <title>Fizzy Fest &amp; promoting fine wine future for Prosecco Superiore DOCG</title>
       <link>https://www.the-buyer.net/insight/fine-wine-future-for-consegliano-valdobbiadene-prosecco-superiore-docg</link>
       <description>Fizzy Fest &amp; promoting fine wine future for Prosecco Superiore DOCG</description>
+    </item>
+    <item>
+      <title>How Coterie deal has propelled Hallgarten's offer to a new level</title>
+      <link>https://www.the-buyer.net/insight/how-coterie-deal-has-propelled-hallgarten-s-customer-offer-to-a-new-level</link>
+      <description>How Coterie deal has propelled Hallgarten's offer to a new level</description>
     </item>
   </channel>
 </rss>
