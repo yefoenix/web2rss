@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Sep 2025 01:44:03 +0000</lastBuildDate>
-    <item>
-      <title>Wine Services: London on-trade report by country, producer &amp; price</title>
-      <link>https://www.the-buyer.net/insight/wine-services-london-on-trade-report-by-country-producer-and-price</link>
-      <description>Wine Services: London on-trade report by country, producer &amp; price</description>
-    </item>
+    <lastBuildDate>Sun, 21 Sep 2025 01:55:16 +0000</lastBuildDate>
     <item>
       <title>How Sommify’s AI solution can help on-trade &amp; suppliers sell more wine</title>
       <link>https://www.the-buyer.net/insight/how-sommify-s-ai-solution-can-help-the-on-trade-and-its-suppliers-sell-more-wine</link>
@@ -126,6 +121,11 @@
       <title>Arsen Khachaturyants: How bold labels are the disruptors of wine</title>
       <link>https://www.the-buyer.net/insight/arsen-khachaturyants-how-bold-labels-are-the-true-disruptors-of-wine</link>
       <description>Arsen Khachaturyants: How bold labels are the disruptors of wine</description>
+    </item>
+    <item>
+      <title>How top on-trade teams are taking sherry food pairings to a new level</title>
+      <link>https://www.the-buyer.net/insight/how-top-on-trade-teams-are-taking-sherry-food-pairings-to-a-new-level</link>
+      <description>How top on-trade teams are taking sherry food pairings to a new level</description>
     </item>
   </channel>
 </rss>
