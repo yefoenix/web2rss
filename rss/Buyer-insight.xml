@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 01:45:50 +0000</lastBuildDate>
-    <item>
-      <title>On Tour: Introducing New York State to top UK buyers &amp; importers</title>
-      <link>https://www.the-buyer.net/insight/on-tour-introducing-new-york-state-and-its-wines-to-top-uk-buyers-and-importers</link>
-      <description>On Tour: Introducing New York State to top UK buyers &amp; importers</description>
-    </item>
+    <lastBuildDate>Thu, 09 Oct 2025 01:46:47 +0000</lastBuildDate>
     <item>
       <title>UK buyers &amp; importers assess potential for New York State wines</title>
       <link>https://www.the-buyer.net/insight/uk-buyers-and-importers-assess-potential-for-new-york-state-and-its-wines</link>
@@ -126,6 +121,11 @@
       <title>Wine Owners’ Hublink to transform how wine businesses work together</title>
       <link>https://www.the-buyer.net/insight/how-wine-owners-hublink-transforms-how-wine-businesses-work-together</link>
       <description>Wine Owners’ Hublink to transform how wine businesses work together</description>
+    </item>
+    <item>
+      <title>How Ferovinum offers finance the drinks industry has not seen before</title>
+      <link>https://www.the-buyer.net/insight/how-ferovinum-offers-finance-solutions-the-drinks-industry-has-not-seen-before</link>
+      <description>How Ferovinum offers finance the drinks industry has not seen before</description>
     </item>
   </channel>
 </rss>
