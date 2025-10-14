@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 01:54:05 +0000</lastBuildDate>
-    <item>
-      <title>UK buyers &amp; importers assess potential for New York State wines</title>
-      <link>https://www.the-buyer.net/insight/uk-buyers-and-importers-assess-potential-for-new-york-state-and-its-wines</link>
-      <description>UK buyers &amp; importers assess potential for New York State wines</description>
-    </item>
+    <lastBuildDate>Tue, 14 Oct 2025 01:47:10 +0000</lastBuildDate>
     <item>
       <title>Planeta, Boschis and Rivetti on the current state of Italian winemaking</title>
       <link>https://www.the-buyer.net/insight/millar-essenza-italiana-italian-wine</link>
@@ -126,6 +121,11 @@
       <title>How Ferovinum offers finance the drinks industry has not seen before</title>
       <link>https://www.the-buyer.net/insight/how-ferovinum-offers-finance-solutions-the-drinks-industry-has-not-seen-before</link>
       <description>How Ferovinum offers finance the drinks industry has not seen before</description>
+    </item>
+    <item>
+      <title>Cape Wine: Are buyers ready to back the full force of South Africa?</title>
+      <link>https://www.the-buyer.net/insight/cape-wine-are-buyers-ready-to-back-the-full-force-of-south-african-wine</link>
+      <description>Cape Wine: Are buyers ready to back the full force of South Africa?</description>
     </item>
   </channel>
 </rss>
