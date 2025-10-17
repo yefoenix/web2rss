@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 01:48:24 +0000</lastBuildDate>
-    <item>
-      <title>Planeta, Boschis and Rivetti on the current state of Italian winemaking</title>
-      <link>https://www.the-buyer.net/insight/millar-essenza-italiana-italian-wine</link>
-      <description>Planeta, Boschis and Rivetti on the current state of Italian winemaking</description>
-    </item>
+    <lastBuildDate>Fri, 17 Oct 2025 01:47:52 +0000</lastBuildDate>
     <item>
       <title>What Jeroboams’ exclusive agency model can deliver for its customers</title>
       <link>https://www.the-buyer.net/insight/what-jeroboams-exclusive-agency-model-can-deliver-the-premium-on-trade</link>
@@ -126,6 +121,11 @@
       <title>Cape Wine: Are buyers ready to back the full force of South Africa?</title>
       <link>https://www.the-buyer.net/insight/cape-wine-are-buyers-ready-to-back-the-full-force-of-south-african-wine</link>
       <description>Cape Wine: Are buyers ready to back the full force of South Africa?</description>
+    </item>
+    <item>
+      <title>Cape Wine 2: How South Africa is taking its wines to a new level</title>
+      <link>https://www.the-buyer.net/insight/cape-wine-2-how-brand-south-africa-is-taking-its-wines-to-a-new-level</link>
+      <description>Cape Wine 2: How South Africa is taking its wines to a new level</description>
     </item>
   </channel>
 </rss>
