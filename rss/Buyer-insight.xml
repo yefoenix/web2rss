@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 01:47:52 +0000</lastBuildDate>
-    <item>
-      <title>What Jeroboams’ exclusive agency model can deliver for its customers</title>
-      <link>https://www.the-buyer.net/insight/what-jeroboams-exclusive-agency-model-can-deliver-the-premium-on-trade</link>
-      <description>What Jeroboams’ exclusive agency model can deliver for its customers</description>
-    </item>
+    <lastBuildDate>Sat, 18 Oct 2025 01:42:58 +0000</lastBuildDate>
     <item>
       <title>What a 'restless' Jeroboams plans to do next to increase sales &amp; profits</title>
       <link>https://www.the-buyer.net/insight/what-a-restless-jeroboams-plans-to-do-next-to-increase-sales-and-profits</link>
@@ -126,6 +121,11 @@
       <title>Cape Wine 2: How South Africa is taking its wines to a new level</title>
       <link>https://www.the-buyer.net/insight/cape-wine-2-how-brand-south-africa-is-taking-its-wines-to-a-new-level</link>
       <description>Cape Wine 2: How South Africa is taking its wines to a new level</description>
+    </item>
+    <item>
+      <title>What to expect from the UK's second Swiss Wine Week</title>
+      <link>https://www.the-buyer.net/insight/what-to-expect-from-the-uk-s-second-swiss-wine-week</link>
+      <description>What to expect from the UK's second Swiss Wine Week</description>
     </item>
   </channel>
 </rss>
