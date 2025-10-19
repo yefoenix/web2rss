@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 01:42:58 +0000</lastBuildDate>
-    <item>
-      <title>What a 'restless' Jeroboams plans to do next to increase sales &amp; profits</title>
-      <link>https://www.the-buyer.net/insight/what-a-restless-jeroboams-plans-to-do-next-to-increase-sales-and-profits</link>
-      <description>What a 'restless' Jeroboams plans to do next to increase sales &amp; profits</description>
-    </item>
+    <lastBuildDate>Sun, 19 Oct 2025 02:00:05 +0000</lastBuildDate>
     <item>
       <title>Does Bordeaux still have its wow factor &amp; has en primeur had its day?</title>
       <link>https://www.the-buyer.net/insight/does-bordeaux-still-have-its-wow-factor-and-has-en-primeur-had-its-day</link>
@@ -126,6 +121,11 @@
       <title>What to expect from the UK's second Swiss Wine Week</title>
       <link>https://www.the-buyer.net/insight/what-to-expect-from-the-uk-s-second-swiss-wine-week</link>
       <description>What to expect from the UK's second Swiss Wine Week</description>
+    </item>
+    <item>
+      <title>Alentejo 101: from bread basket to cradle of regenerative viticulture</title>
+      <link>https://www.the-buyer.net/insight/alentejo-regenerative-viticulture</link>
+      <description>Alentejo 101: from bread basket to cradle of regenerative viticulture</description>
     </item>
   </channel>
 </rss>
