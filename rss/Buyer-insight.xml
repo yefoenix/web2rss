@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 01:45:18 +0000</lastBuildDate>
-    <item>
-      <title>We are family! The rise and rise of the inspirational Languedoc Family</title>
-      <link>https://www.the-buyer.net/insight/languedoc-family-gayda-dean</link>
-      <description>We are family! The rise and rise of the inspirational Languedoc Family</description>
-    </item>
+    <lastBuildDate>Sat, 25 Oct 2025 01:47:15 +0000</lastBuildDate>
     <item>
       <title>How Ferovinum has tech &amp; funding to transform the drinks industry</title>
       <link>https://www.the-buyer.net/insight/how-ferovinum-has-tech-and-funding-to-transform-the-drinks-industry</link>
@@ -126,6 +121,11 @@
       <title>How WBWE is the 'bridge' for buyers to find right bulk partners</title>
       <link>https://www.the-buyer.net/insight/how-wbwe-is-the-platform-for-bulk-buyers-and-producers-to-do-business</link>
       <description>How WBWE is the 'bridge' for buyers to find right bulk partners</description>
+    </item>
+    <item>
+      <title>Discovering Austrian winemaking in Vienna, Wagram and Carnuntum</title>
+      <link>https://www.the-buyer.net/insight/michael-walker-on-austria-s-roter-vetliners-and-winemaking-in-vienna</link>
+      <description>Discovering Austrian winemaking in Vienna, Wagram and Carnuntum</description>
     </item>
   </channel>
 </rss>
