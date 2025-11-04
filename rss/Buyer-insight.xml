@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 01:58:05 +0000</lastBuildDate>
-    <item>
-      <title>Tom Khan-Lavin’s drinks marketing guide to telling your brand’s story</title>
-      <link>https://www.the-buyer.net/insight/tom-khan-lavin-s-drinks-marketing-guide-to-telling-your-brand-s-story</link>
-      <description>Tom Khan-Lavin’s drinks marketing guide to telling your brand’s story</description>
-    </item>
+    <lastBuildDate>Tue, 04 Nov 2025 01:53:19 +0000</lastBuildDate>
     <item>
       <title>Global sustainability award backs Santa Rita's environmental actions</title>
       <link>https://www.the-buyer.net/insight/how-global-sustainability-award-backs-santa-rita-estates-environmental-actions</link>
@@ -126,6 +121,11 @@
       <title>How wine is central to Amathus’ expanding retail &amp; wine bar offer</title>
       <link>https://www.the-buyer.net/insight/how-wine-is-central-to-amathus-expanding-retail-and-new-wine-bar-offer</link>
       <description>How wine is central to Amathus’ expanding retail &amp; wine bar offer</description>
+    </item>
+    <item>
+      <title>Sustainability in Drinks captures a spirit of innovation &amp; collaboration</title>
+      <link>https://www.the-buyer.net/insight/sustainability-in-drinks-captures-a-spirit-of-innovation-and-industry-collaboration</link>
+      <description>Sustainability in Drinks captures a spirit of innovation &amp; collaboration</description>
     </item>
   </channel>
 </rss>
