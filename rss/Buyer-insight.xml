@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 01:54:38 +0000</lastBuildDate>
-    <item>
-      <title>Global sustainability award backs Santa Rita's environmental actions</title>
-      <link>https://www.the-buyer.net/insight/how-global-sustainability-award-backs-santa-rita-estates-environmental-actions</link>
-      <description>Global sustainability award backs Santa Rita's environmental actions</description>
-    </item>
+    <lastBuildDate>Thu, 06 Nov 2025 01:55:05 +0000</lastBuildDate>
     <item>
       <title>Robert Joseph on Le Grand Noir &amp; building a global French wine brand</title>
       <link>https://www.the-buyer.net/insight/robert-joseph-on-le-grand-noir-and-building-a-global-wine-brand</link>
@@ -126,6 +121,11 @@
       <title>Sustainability in Drinks captures a spirit of innovation &amp; collaboration</title>
       <link>https://www.the-buyer.net/insight/sustainability-in-drinks-captures-a-spirit-of-innovation-and-industry-collaboration</link>
       <description>Sustainability in Drinks captures a spirit of innovation &amp; collaboration</description>
+    </item>
+    <item>
+      <title>Hungary Summit: how a confident nation is finding its voice in wine</title>
+      <link>https://www.the-buyer.net/insight/hungary-summit-how-a-confident-nation-is-finding-its-voice-through-its-wines</link>
+      <description>Hungary Summit: how a confident nation is finding its voice in wine</description>
     </item>
   </channel>
 </rss>
