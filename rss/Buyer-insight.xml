@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 01:55:01 +0000</lastBuildDate>
-    <item>
-      <title>Hallgarten's Andrew Bewes on how ED&amp;I is now a commercial necessity</title>
-      <link>https://www.the-buyer.net/insight/hallgarten-s-andrew-bewes-on-how-an-ed-and-i-strategy-is-a-commercial-necessity</link>
-      <description>Hallgarten's Andrew Bewes on how ED&amp;I is now a commercial necessity</description>
-    </item>
+    <lastBuildDate>Thu, 13 Nov 2025 01:56:20 +0000</lastBuildDate>
     <item>
       <title>Arsen Khachaturyants: How bold labels are the disruptors of wine</title>
       <link>https://www.the-buyer.net/insight/arsen-khachaturyants-how-bold-labels-are-the-true-disruptors-of-wine</link>
@@ -126,6 +121,11 @@
       <title>On-trade potential: our report from the Alto Adige Wine Summit 2025</title>
       <link>https://www.the-buyer.net/insight/dougherty-alto-adige-wine-summit</link>
       <description>On-trade potential: our report from the Alto Adige Wine Summit 2025</description>
+    </item>
+    <item>
+      <title>Shirley Kumar: 'Toxic' Britain's impact on people of colour in drinks</title>
+      <link>https://www.the-buyer.net/insight/shirley-kumar-toxic-britain-s-impact-on-people-of-colour-in-drinks-industry</link>
+      <description>Shirley Kumar: 'Toxic' Britain's impact on people of colour in drinks</description>
     </item>
   </channel>
 </rss>
