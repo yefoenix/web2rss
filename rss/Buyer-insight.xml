@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 01:53:58 +0000</lastBuildDate>
-    <item>
-      <title>How Bibendum has transformed itself into a "different business"</title>
-      <link>https://www.the-buyer.net/insight/how-bibendum-has-transformed-itself-into-a-fundamentally-different-business</link>
-      <description>How Bibendum has transformed itself into a "different business"</description>
-    </item>
+    <lastBuildDate>Sat, 22 Nov 2025 01:50:09 +0000</lastBuildDate>
     <item>
       <title>How Bibendum says it's got prices, range &amp; service to be UK's No. 1</title>
       <link>https://www.the-buyer.net/insight/how-bibendum-claims-its-got-prices-range-and-service-to-be-number-1-in-uk</link>
@@ -126,6 +121,11 @@
       <title>Impact &amp; benefits of Silverhand Estate's golf sponsorship with PGA</title>
       <link>https://www.the-buyer.net/insight/impact-and-benefits-of-silverhand-estate-s-golf-sponsorship-with-the-pga</link>
       <description>Impact &amp; benefits of Silverhand Estate's golf sponsorship with PGA</description>
+    </item>
+    <item>
+      <title>How Central Europe's Grašac white wine variety has been reborn</title>
+      <link>https://www.the-buyer.net/insight/how-central-europe-s-grasac-white-wine-variety-has-been-reborn</link>
+      <description>How Central Europe's Grašac white wine variety has been reborn</description>
     </item>
   </channel>
 </rss>
