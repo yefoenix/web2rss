@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 01:56:10 +0000</lastBuildDate>
-    <item>
-      <title>Harry Crowther on Bardolino &amp; the fresh reds &amp; rosés of Lake Garda</title>
-      <link>https://www.the-buyer.net/insight/harry-crowther-on-bardolino-and-fresh-faced-reds-and-roses-of-lake-garda</link>
-      <description>Harry Crowther on Bardolino &amp; the fresh reds &amp; rosés of Lake Garda</description>
-    </item>
+    <lastBuildDate>Thu, 27 Nov 2025 01:54:26 +0000</lastBuildDate>
     <item>
       <title>How Corney &amp; Barrow has made logistics the pride of its business</title>
       <link>https://www.the-buyer.net/insight/how-corney-and-barrow-has-made-logistics-the-pride-of-its-business</link>
@@ -126,6 +121,11 @@
       <title>Lilla O'Connor on the lessons learned at second Cava Meeting</title>
       <link>https://www.the-buyer.net/insight/second-cava-meeting-politics</link>
       <description>Lilla O'Connor on the lessons learned at second Cava Meeting</description>
+    </item>
+    <item>
+      <title>What Spain's fast growing Murcia region can offer UK wine buyers</title>
+      <link>https://www.the-buyer.net/insight/what-spain-s-fast-growing-murcia-wine-rgion-can-offer-uk-wine-buyers</link>
+      <description>What Spain's fast growing Murcia region can offer UK wine buyers</description>
     </item>
   </channel>
 </rss>
