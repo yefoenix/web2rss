@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 01:58:59 +0000</lastBuildDate>
-    <item>
-      <title>How Corney &amp; Barrow has made logistics the pride of its business</title>
-      <link>https://www.the-buyer.net/insight/how-corney-and-barrow-has-made-logistics-the-pride-of-its-business</link>
-      <description>How Corney &amp; Barrow has made logistics the pride of its business</description>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 01:57:54 +0000</lastBuildDate>
     <item>
       <title>Top wine buyers on the potential of Lake Garda’s Custoza DOC</title>
       <link>https://www.the-buyer.net/insight/top-wine-buyers-on-the-potential-of-lake-garda-s-custoza-doc</link>
@@ -126,6 +121,11 @@
       <title>What Spain's fast growing Murcia region can offer UK wine buyers</title>
       <link>https://www.the-buyer.net/insight/what-spain-s-fast-growing-murcia-wine-rgion-can-offer-uk-wine-buyers</link>
       <description>What Spain's fast growing Murcia region can offer UK wine buyers</description>
+    </item>
+    <item>
+      <title>On Tour: Top UK buyers on the value &amp; quality of Rhône’s Duché d’Uzès</title>
+      <link>https://www.the-buyer.net/insight/on-tour-top-uk-buyers-on-the-value-and-quality-of-rhone-s-duche-d-uzes</link>
+      <description>On Tour: Top UK buyers on the value &amp; quality of Rhône’s Duché d’Uzès</description>
     </item>
   </channel>
 </rss>
