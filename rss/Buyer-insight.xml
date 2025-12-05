@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 01:59:26 +0000</lastBuildDate>
-    <item>
-      <title>Top wine buyers on the potential of Lake Garda’s Custoza DOC</title>
-      <link>https://www.the-buyer.net/insight/top-wine-buyers-on-the-potential-of-lake-garda-s-custoza-doc</link>
-      <description>Top wine buyers on the potential of Lake Garda’s Custoza DOC</description>
-    </item>
+    <lastBuildDate>Fri, 05 Dec 2025 01:59:08 +0000</lastBuildDate>
     <item>
       <title>Wine Owners’ Hublink to transform how wine businesses work together</title>
       <link>https://www.the-buyer.net/insight/how-wine-owners-hublink-transforms-how-wine-businesses-work-together</link>
@@ -126,6 +121,11 @@
       <title>On Tour: Top UK buyers on the value &amp; quality of Rhône’s Duché d’Uzès</title>
       <link>https://www.the-buyer.net/insight/on-tour-top-uk-buyers-on-the-value-and-quality-of-rhone-s-duche-d-uzes</link>
       <description>On Tour: Top UK buyers on the value &amp; quality of Rhône’s Duché d’Uzès</description>
+    </item>
+    <item>
+      <title>Why regenerative viticulture is the soil story winemakers need to tell</title>
+      <link>https://www.the-buyer.net/insight/why-regenerative-viticulture-is-the-soil-story-the-wine-industry-needs-to-tell</link>
+      <description>Why regenerative viticulture is the soil story winemakers need to tell</description>
     </item>
   </channel>
 </rss>
