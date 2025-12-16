@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 02:06:02 +0000</lastBuildDate>
-    <item>
-      <title>How Ferovinum offers finance the drinks industry has not seen before</title>
-      <link>https://www.the-buyer.net/insight/how-ferovinum-offers-finance-solutions-the-drinks-industry-has-not-seen-before</link>
-      <description>How Ferovinum offers finance the drinks industry has not seen before</description>
-    </item>
+    <lastBuildDate>Tue, 16 Dec 2025 02:02:23 +0000</lastBuildDate>
     <item>
       <title>Cape Wine: Are buyers ready to back the full force of South Africa?</title>
       <link>https://www.the-buyer.net/insight/cape-wine-are-buyers-ready-to-back-the-full-force-of-south-african-wine</link>
@@ -126,6 +121,11 @@
       <title>How IGP Méditerranée offers buyers variety, quality and choice</title>
       <link>https://www.the-buyer.net/insight/how-igp-mediterranee-offers-buyers-variety-quality-and-choice</link>
       <description>How IGP Méditerranée offers buyers variety, quality and choice</description>
+    </item>
+    <item>
+      <title>Precarious position of global wine industry laid bare at WBWE</title>
+      <link>https://www.the-buyer.net/insight/analysis-precarious-position-of-global-wine-industry-laid-bare-at-wbwe</link>
+      <description>Precarious position of global wine industry laid bare at WBWE</description>
     </item>
   </channel>
 </rss>
