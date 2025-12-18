@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 01:58:08 +0000</lastBuildDate>
-    <item>
-      <title>Cape Wine: Are buyers ready to back the full force of South Africa?</title>
-      <link>https://www.the-buyer.net/insight/cape-wine-are-buyers-ready-to-back-the-full-force-of-south-african-wine</link>
-      <description>Cape Wine: Are buyers ready to back the full force of South Africa?</description>
-    </item>
+    <lastBuildDate>Thu, 18 Dec 2025 01:58:43 +0000</lastBuildDate>
     <item>
       <title>Cape Wine 2: How South Africa is taking its wines to a new level</title>
       <link>https://www.the-buyer.net/insight/cape-wine-2-how-brand-south-africa-is-taking-its-wines-to-a-new-level</link>
@@ -126,6 +121,11 @@
       <title>Precarious position of global wine industry laid bare at WBWE</title>
       <link>https://www.the-buyer.net/insight/analysis-precarious-position-of-global-wine-industry-laid-bare-at-wbwe</link>
       <description>Precarious position of global wine industry laid bare at WBWE</description>
+    </item>
+    <item>
+      <title>With Abruzzo at a crossroads can Cerasuolo give it a new direction?</title>
+      <link>https://www.the-buyer.net/insight/abruzzo-cerasuolo-millar</link>
+      <description>With Abruzzo at a crossroads can Cerasuolo give it a new direction?</description>
     </item>
   </channel>
 </rss>
