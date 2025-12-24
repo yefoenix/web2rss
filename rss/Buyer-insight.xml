@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 02:02:33 +0000</lastBuildDate>
-    <item>
-      <title>Cape Wine 2: How South Africa is taking its wines to a new level</title>
-      <link>https://www.the-buyer.net/insight/cape-wine-2-how-brand-south-africa-is-taking-its-wines-to-a-new-level</link>
-      <description>Cape Wine 2: How South Africa is taking its wines to a new level</description>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 02:00:50 +0000</lastBuildDate>
     <item>
       <title>What to expect from the UK's second Swiss Wine Week</title>
       <link>https://www.the-buyer.net/insight/what-to-expect-from-the-uk-s-second-swiss-wine-week</link>
@@ -126,6 +121,11 @@
       <title>With Abruzzo at a crossroads can Cerasuolo give it a new direction?</title>
       <link>https://www.the-buyer.net/insight/abruzzo-cerasuolo-millar</link>
       <description>With Abruzzo at a crossroads can Cerasuolo give it a new direction?</description>
+    </item>
+    <item>
+      <title>How Bordeaux is tackling its trials and maximising opportunities</title>
+      <link>https://www.the-buyer.net/insight/civb-s-allan-sichel-on-how-bordeaux-is-tackling-its-challenges-and-opportunities</link>
+      <description>How Bordeaux is tackling its trials and maximising opportunities</description>
     </item>
   </channel>
 </rss>
