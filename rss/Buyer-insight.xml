@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 02:05:15 +0000</lastBuildDate>
-    <item>
-      <title>Alentejo 101: from bread basket to cradle of regenerative viticulture</title>
-      <link>https://www.the-buyer.net/insight/alentejo-regenerative-viticulture</link>
-      <description>Alentejo 101: from bread basket to cradle of regenerative viticulture</description>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 02:06:26 +0000</lastBuildDate>
     <item>
       <title>How WBWE is the 'bridge' for buyers to find right bulk partners</title>
       <link>https://www.the-buyer.net/insight/how-wbwe-is-the-platform-for-bulk-buyers-and-producers-to-do-business</link>
@@ -126,6 +121,11 @@
       <title>Why Austria’s Wachau is a region all wine buyers should worship</title>
       <link>https://www.the-buyer.net/insight/why-austria-s-wachau-is-a-wine-region-every-wine-buyer-should-worship</link>
       <description>Why Austria’s Wachau is a region all wine buyers should worship</description>
+    </item>
+    <item>
+      <title>Analysis: How Wine Paris wants to build on its Number 1 world status</title>
+      <link>https://www.the-buyer.net/insight/-how-wine-paris-wants-to-build-on-its-number-one-world-status</link>
+      <description>Analysis: How Wine Paris wants to build on its Number 1 world status</description>
     </item>
   </channel>
 </rss>
