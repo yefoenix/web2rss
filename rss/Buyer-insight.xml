@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 02:02:59 +0000</lastBuildDate>
-    <item>
-      <title>10 reasons why buyers should attend IBWSS 2025 in London</title>
-      <link>https://www.the-buyer.net/insight/10-reasons-why-buyers-should-attend-international-bulk-wine-and-spirits-show</link>
-      <description>10 reasons why buyers should attend IBWSS 2025 in London</description>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 02:10:10 +0000</lastBuildDate>
     <item>
       <title>How wine is central to Amathus’ expanding retail &amp; wine bar offer</title>
       <link>https://www.the-buyer.net/insight/how-wine-is-central-to-amathus-expanding-retail-and-new-wine-bar-offer</link>
@@ -126,6 +121,11 @@
       <title>How Wines of Hungary’s UK tour connected buyers with producers</title>
       <link>https://www.the-buyer.net/insight/how-wines-of-hungary-s-tasting-tour-brought-buyers-and-producers-together</link>
       <description>How Wines of Hungary’s UK tour connected buyers with producers</description>
+    </item>
+    <item>
+      <title>How Alliance Wine is bucking the market to drive fine wines sales</title>
+      <link>https://www.the-buyer.net/insight/how-alliance-wine-is-bucking-the-market-to-drive-fine-wines-sales</link>
+      <description>How Alliance Wine is bucking the market to drive fine wines sales</description>
     </item>
   </channel>
 </rss>
