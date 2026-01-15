@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 02:10:10 +0000</lastBuildDate>
-    <item>
-      <title>How wine is central to Amathus’ expanding retail &amp; wine bar offer</title>
-      <link>https://www.the-buyer.net/insight/how-wine-is-central-to-amathus-expanding-retail-and-new-wine-bar-offer</link>
-      <description>How wine is central to Amathus’ expanding retail &amp; wine bar offer</description>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 02:07:51 +0000</lastBuildDate>
     <item>
       <title>Sustainability in Drinks captures a spirit of innovation &amp; collaboration</title>
       <link>https://www.the-buyer.net/insight/sustainability-in-drinks-captures-a-spirit-of-innovation-and-industry-collaboration</link>
@@ -126,6 +121,11 @@
       <title>How Alliance Wine is bucking the market to drive fine wines sales</title>
       <link>https://www.the-buyer.net/insight/how-alliance-wine-is-bucking-the-market-to-drive-fine-wines-sales</link>
       <description>How Alliance Wine is bucking the market to drive fine wines sales</description>
+    </item>
+    <item>
+      <title>Why Kylie's &amp; Elton’s wines are on a level big brands can’t match</title>
+      <link>https://www.the-buyer.net/insight/why-kylie-and-elton-s-wines-are-on-a-level-big-brands-can-t-match</link>
+      <description>Why Kylie's &amp; Elton’s wines are on a level big brands can’t match</description>
     </item>
   </channel>
 </rss>
