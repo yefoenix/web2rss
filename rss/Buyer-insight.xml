@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 02:39:59 +0000</lastBuildDate>
-    <item>
-      <title>Sustainability in Drinks captures a spirit of innovation &amp; collaboration</title>
-      <link>https://www.the-buyer.net/insight/sustainability-in-drinks-captures-a-spirit-of-innovation-and-industry-collaboration</link>
-      <description>Sustainability in Drinks captures a spirit of innovation &amp; collaboration</description>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 02:34:41 +0000</lastBuildDate>
     <item>
       <title>Hungary Summit: how a confident nation is finding its voice in wine</title>
       <link>https://www.the-buyer.net/insight/hungary-summit-how-a-confident-nation-is-finding-its-voice-through-its-wines</link>
@@ -126,6 +121,11 @@
       <title>Why Kylie's &amp; Elton’s wines are on a level big brands can’t match</title>
       <link>https://www.the-buyer.net/insight/why-kylie-and-elton-s-wines-are-on-a-level-big-brands-can-t-match</link>
       <description>Why Kylie's &amp; Elton’s wines are on a level big brands can’t match</description>
+    </item>
+    <item>
+      <title>The changing face of Koshu and the move towards terroir-driven wines</title>
+      <link>https://www.the-buyer.net/insight/koshu-terroir-driven-pasquale</link>
+      <description>The changing face of Koshu and the move towards terroir-driven wines</description>
     </item>
   </channel>
 </rss>
