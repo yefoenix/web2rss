@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 02:41:03 +0000</lastBuildDate>
-    <item>
-      <title>Hungary Summit: how a confident nation is finding its voice in wine</title>
-      <link>https://www.the-buyer.net/insight/hungary-summit-how-a-confident-nation-is-finding-its-voice-through-its-wines</link>
-      <description>Hungary Summit: how a confident nation is finding its voice in wine</description>
-    </item>
+    <lastBuildDate>Tue, 24 Feb 2026 02:37:21 +0000</lastBuildDate>
     <item>
       <title>Rooted in Change: setting the big sustainability steps forward for wine</title>
       <link>https://www.the-buyer.net/insight/rooted-in-change-the-big-sustainability-steps-forward-for-wine</link>
@@ -126,6 +121,11 @@
       <title>The changing face of Koshu and the move towards terroir-driven wines</title>
       <link>https://www.the-buyer.net/insight/koshu-terroir-driven-pasquale</link>
       <description>The changing face of Koshu and the move towards terroir-driven wines</description>
+    </item>
+    <item>
+      <title>Wine Paris analysis: A changing drinks world looking for answers</title>
+      <link>https://www.the-buyer.net/insight/wine-paris-analysis-a-changing-drinks-wine-world-looking-for-answers</link>
+      <description>Wine Paris analysis: A changing drinks world looking for answers</description>
     </item>
   </channel>
 </rss>
