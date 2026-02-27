@@ -6,7 +6,12 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 02:34:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 02:32:58 +0000</lastBuildDate>
+    <item>
+      <title>Rooted in Change: setting the big sustainability steps forward for wine</title>
+      <link>https://www.the-buyer.net/insight/rooted-in-change-the-big-sustainability-steps-forward-for-wine</link>
+      <description>Rooted in Change: setting the big sustainability steps forward for wine</description>
+    </item>
     <item>
       <title>Tim Atkin MW on chance to taste the best of Ribera del Duero wines</title>
       <link>https://www.the-buyer.net/insight/tim-atkin-mw-on-chance-to-taste-the-best-of-ribera-del-duero-wines</link>
@@ -121,11 +126,6 @@
       <title>Wine Paris analysis: A changing drinks world looking for answers</title>
       <link>https://www.the-buyer.net/insight/wine-paris-analysis-a-changing-drinks-wine-world-looking-for-answers</link>
       <description>Wine Paris analysis: A changing drinks world looking for answers</description>
-    </item>
-    <item>
-      <title>What Wine Paris' success now means for the future of ProWein</title>
-      <link>https://www.the-buyer.net/insight/what-wine-paris-success-means-for-the-future-of-prowein</link>
-      <description>What Wine Paris' success now means for the future of ProWein</description>
     </item>
   </channel>
 </rss>
