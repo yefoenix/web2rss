@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 02:52:12 +0000</lastBuildDate>
-    <item>
-      <title>Burgundy 2023: Charmed by the wines perplexed by the prices</title>
-      <link>https://www.the-buyer.net/opinion/burgundy-2023-prices-dean</link>
-      <description>Burgundy 2023: Charmed by the wines perplexed by the prices</description>
-    </item>
+    <lastBuildDate>Thu, 09 Apr 2026 02:47:06 +0000</lastBuildDate>
     <item>
       <title>Robert Joseph on why some wines ARE better than others</title>
       <link>https://www.the-buyer.net/opinion/robert-joseph-on-why-some-wines-are-better-than-others</link>
@@ -126,6 +121,11 @@
       <title>Emma Hodges on understanding &amp; helping ADHD in the workplace</title>
       <link>https://www.the-buyer.net/opinion/emma-hodges-on-understanding-adhd-and-neurodiversity-in-the-workplace</link>
       <description>Emma Hodges on understanding &amp; helping ADHD in the workplace</description>
+    </item>
+    <item>
+      <title>Matt Mckee on why the on-trade is still vital for challenger brands</title>
+      <link>https://www.the-buyer.net/opinion/matt-mckee-on-why-the-on-trade-is-still-vital-for-challenger-brands</link>
+      <description>Matt Mckee on why the on-trade is still vital for challenger brands</description>
     </item>
   </channel>
 </rss>
