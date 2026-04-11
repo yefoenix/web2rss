@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 03:18:18 +0000</lastBuildDate>
-    <item>
-      <title>Impact &amp; benefits of Silverhand Estate's golf sponsorship with PGA</title>
-      <link>https://www.the-buyer.net/insight/impact-and-benefits-of-silverhand-estate-s-golf-sponsorship-with-the-pga</link>
-      <description>Impact &amp; benefits of Silverhand Estate's golf sponsorship with PGA</description>
-    </item>
+    <lastBuildDate>Sat, 11 Apr 2026 02:43:37 +0000</lastBuildDate>
     <item>
       <title>How Central Europe's Grašac white wine variety has been reborn</title>
       <link>https://www.the-buyer.net/insight/how-central-europe-s-grasac-white-wine-variety-has-been-reborn</link>
@@ -126,6 +121,11 @@
       <title>Joanna Dabrowska on how to stop fearing AI and start embracing it</title>
       <link>https://www.the-buyer.net/insight/joanna-dabrowska-on-how-to-stop-fearing-ai-and-start-embracing-it</link>
       <description>Joanna Dabrowska on how to stop fearing AI and start embracing it</description>
+    </item>
+    <item>
+      <title>How Emilia-Romagna is a region still striving to find its own identity</title>
+      <link>https://www.the-buyer.net/insight/part-one-emilia-romagna-between-shadow-and-discovery</link>
+      <description>How Emilia-Romagna is a region still striving to find its own identity</description>
     </item>
   </channel>
 </rss>
