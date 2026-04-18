@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 03:19:29 +0000</lastBuildDate>
-    <item>
-      <title>Lilla O'Connor on the lessons learned at second Cava Meeting</title>
-      <link>https://www.the-buyer.net/insight/second-cava-meeting-politics</link>
-      <description>Lilla O'Connor on the lessons learned at second Cava Meeting</description>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 02:51:25 +0000</lastBuildDate>
     <item>
       <title>What Spain's fast growing Murcia region can offer UK wine buyers</title>
       <link>https://www.the-buyer.net/insight/what-spain-s-fast-growing-murcia-wine-rgion-can-offer-uk-wine-buyers</link>
@@ -126,6 +121,11 @@
       <title>Analysis: Why global drinks industry is opening up like never before</title>
       <link>https://www.the-buyer.net/insight/analysis-why-the-global-drinks-industry-is-opening-up-like-never-before</link>
       <description>Analysis: Why global drinks industry is opening up like never before</description>
+    </item>
+    <item>
+      <title>How Vinitaly came at right time to protect &amp; grow Italy’s global sales</title>
+      <link>https://www.the-buyer.net/insight/how-vinitaly-was-the-perfect-time-to-protect-and-grow-italy-s-global-sales</link>
+      <description>How Vinitaly came at right time to protect &amp; grow Italy’s global sales</description>
     </item>
   </channel>
 </rss>
