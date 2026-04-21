@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 03:28:42 +0000</lastBuildDate>
-    <item>
-      <title>What Spain's fast growing Murcia region can offer UK wine buyers</title>
-      <link>https://www.the-buyer.net/insight/what-spain-s-fast-growing-murcia-wine-rgion-can-offer-uk-wine-buyers</link>
-      <description>What Spain's fast growing Murcia region can offer UK wine buyers</description>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 03:20:16 +0000</lastBuildDate>
     <item>
       <title>On Tour: Top UK buyers on the value &amp; quality of Rhône’s Duché d’Uzès</title>
       <link>https://www.the-buyer.net/insight/on-tour-top-uk-buyers-on-the-value-and-quality-of-rhone-s-duche-d-uzes</link>
@@ -126,6 +121,11 @@
       <title>How Vinitaly came at right time to protect &amp; grow Italy’s global sales</title>
       <link>https://www.the-buyer.net/insight/how-vinitaly-was-the-perfect-time-to-protect-and-grow-italy-s-global-sales</link>
       <description>How Vinitaly came at right time to protect &amp; grow Italy’s global sales</description>
+    </item>
+    <item>
+      <title>Analysis: How to maximise sales in world's emerging drinks markets</title>
+      <link>https://www.the-buyer.net/insight/analysis-how-to-make-the-most-of-the-world-s-emerging-drinks-markets</link>
+      <description>Analysis: How to maximise sales in world's emerging drinks markets</description>
     </item>
   </channel>
 </rss>
