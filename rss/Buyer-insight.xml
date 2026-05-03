@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 03:39:26 +0000</lastBuildDate>
-    <item>
-      <title>Why regenerative viticulture is the soil story winemakers need to tell</title>
-      <link>https://www.the-buyer.net/insight/why-regenerative-viticulture-is-the-soil-story-the-wine-industry-needs-to-tell</link>
-      <description>Why regenerative viticulture is the soil story winemakers need to tell</description>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 03:43:26 +0000</lastBuildDate>
     <item>
       <title>How IGP Méditerranée offers buyers variety, quality and choice</title>
       <link>https://www.the-buyer.net/insight/how-igp-mediterranee-offers-buyers-variety-quality-and-choice</link>
@@ -126,6 +121,11 @@
       <title>How to break into the complex but fast emerging Indian wine market</title>
       <link>https://www.the-buyer.net/insight/how-to-break-into-the-complex-but-fast-emerging-indian-wine-market</link>
       <description>How to break into the complex but fast emerging Indian wine market</description>
+    </item>
+    <item>
+      <title>How Halo Drinks helps brands succeed in Indian drinks market</title>
+      <link>https://www.the-buyer.net/insight/how-halo-drinks-is-helping-brands-break-into-the-complex-indian-market</link>
+      <description>How Halo Drinks helps brands succeed in Indian drinks market</description>
     </item>
   </channel>
 </rss>
