@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 03:28:02 +0000</lastBuildDate>
-    <item>
-      <title>How IGP Méditerranée offers buyers variety, quality and choice</title>
-      <link>https://www.the-buyer.net/insight/how-igp-mediterranee-offers-buyers-variety-quality-and-choice</link>
-      <description>How IGP Méditerranée offers buyers variety, quality and choice</description>
-    </item>
-    <item>
-      <title>Precarious position of global wine industry laid bare at WBWE</title>
-      <link>https://www.the-buyer.net/insight/analysis-precarious-position-of-global-wine-industry-laid-bare-at-wbwe</link>
-      <description>Precarious position of global wine industry laid bare at WBWE</description>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 03:38:32 +0000</lastBuildDate>
     <item>
       <title>With Abruzzo at a crossroads can Cerasuolo give it a new direction?</title>
       <link>https://www.the-buyer.net/insight/abruzzo-cerasuolo-millar</link>
@@ -126,6 +116,16 @@
       <title>How Halo Drinks helps brands succeed in Indian drinks market</title>
       <link>https://www.the-buyer.net/insight/how-halo-drinks-is-helping-brands-break-into-the-complex-indian-market</link>
       <description>How Halo Drinks helps brands succeed in Indian drinks market</description>
+    </item>
+    <item>
+      <title>Hallgarten &amp; Terlato Wines on their successful on-trade sales strategy</title>
+      <link>https://www.the-buyer.net/insight/hallgarten-and-terlato-wines-on-their-successful-on-trade-sales-strategy</link>
+      <description>Hallgarten &amp; Terlato Wines on their successful on-trade sales strategy</description>
+    </item>
+    <item>
+      <title>Warmer, riper, different: chefs de caves on Champagne's new reality</title>
+      <link>https://www.the-buyer.net/insight/warmer-riper-different-champagne</link>
+      <description>Warmer, riper, different: chefs de caves on Champagne's new reality</description>
     </item>
   </channel>
 </rss>
