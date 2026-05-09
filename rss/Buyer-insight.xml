@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 03:33:33 +0000</lastBuildDate>
-    <item>
-      <title>How Bordeaux is tackling trials and maximising opportunities</title>
-      <link>https://www.the-buyer.net/insight/civb-s-allan-sichel-on-how-bordeaux-is-tackling-its-challenges-and-opportunities</link>
-      <description>How Bordeaux is tackling trials and maximising opportunities</description>
-    </item>
+    <lastBuildDate>Sat, 09 May 2026 03:33:33 +0000</lastBuildDate>
     <item>
       <title>Why Austria’s Wachau is a region all wine buyers should worship</title>
       <link>https://www.the-buyer.net/insight/why-austria-s-wachau-is-a-wine-region-every-wine-buyer-should-worship</link>
@@ -126,6 +121,11 @@
       <title>Corvezzo &amp; Beyond Wines' 'shared dream' for sparkling success in UK</title>
       <link>https://www.the-buyer.net/insight/corvezzo-and-beyond-wines-shared-dream-for-sparkling-success-in-uk</link>
       <description>Corvezzo &amp; Beyond Wines' 'shared dream' for sparkling success in UK</description>
+    </item>
+    <item>
+      <title>Croatia’s long game: why the UK trade should pay attention now</title>
+      <link>https://www.the-buyer.net/insight/croatia-wines-uk-trade</link>
+      <description>Croatia’s long game: why the UK trade should pay attention now</description>
     </item>
   </channel>
 </rss>
