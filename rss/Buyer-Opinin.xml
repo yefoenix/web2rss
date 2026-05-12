@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 03:59:01 +0000</lastBuildDate>
-    <item>
-      <title>Robert Joseph on why some wines ARE better than others</title>
-      <link>https://www.the-buyer.net/opinion/robert-joseph-on-why-some-wines-are-better-than-others</link>
-      <description>Robert Joseph on why some wines ARE better than others</description>
-    </item>
+    <lastBuildDate>Tue, 12 May 2026 03:42:03 +0000</lastBuildDate>
     <item>
       <title>Keith Webb: can Allan Leighton revive beleagured Asda again?</title>
       <link>https://www.the-buyer.net/opinion/keith-webb-on-allan-leighton-and-its-bring-revive-asda-is</link>
@@ -126,6 +121,11 @@
       <title>Matt Mckee on why the on-trade is still vital for challenger brands</title>
       <link>https://www.the-buyer.net/opinion/matt-mckee-on-why-the-on-trade-is-still-vital-for-challenger-brands</link>
       <description>Matt Mckee on why the on-trade is still vital for challenger brands</description>
+    </item>
+    <item>
+      <title>Fero’s Mitch Fowler on galvanising young drinks leaders of the future</title>
+      <link>https://www.the-buyer.net/opinion/fero-s-mitch-fowler-how-we-galvanise-the-young-drinks-leaders-of-the-future</link>
+      <description>Fero’s Mitch Fowler on galvanising young drinks leaders of the future</description>
     </item>
   </channel>
 </rss>
