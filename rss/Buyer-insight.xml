@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 May 2026 03:42:07 +0000</lastBuildDate>
-    <item>
-      <title>Why Austria’s Wachau is a region all wine buyers should worship</title>
-      <link>https://www.the-buyer.net/insight/why-austria-s-wachau-is-a-wine-region-every-wine-buyer-should-worship</link>
-      <description>Why Austria’s Wachau is a region all wine buyers should worship</description>
-    </item>
+    <lastBuildDate>Wed, 13 May 2026 03:52:09 +0000</lastBuildDate>
     <item>
       <title>Analysis: How Wine Paris wants to build on its Number 1 world status</title>
       <link>https://www.the-buyer.net/insight/-how-wine-paris-wants-to-build-on-its-number-one-world-status</link>
@@ -126,6 +121,11 @@
       <title>Croatia’s long game: why the UK trade should pay attention now</title>
       <link>https://www.the-buyer.net/insight/croatia-wines-uk-trade</link>
       <description>Croatia’s long game: why the UK trade should pay attention now</description>
+    </item>
+    <item>
+      <title>How Inside Etna gave UK buyers the first dedicated 'inside track'</title>
+      <link>https://www.the-buyer.net/insight/inside-etna-inside-track</link>
+      <description>How Inside Etna gave UK buyers the first dedicated 'inside track'</description>
     </item>
   </channel>
 </rss>
