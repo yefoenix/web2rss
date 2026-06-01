@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 04:18:31 +0000</lastBuildDate>
-    <item>
-      <title>Why Kylie's &amp; Elton’s wines are on a level big brands can’t match</title>
-      <link>https://www.the-buyer.net/insight/why-kylie-and-elton-s-wines-are-on-a-level-big-brands-can-t-match</link>
-      <description>Why Kylie's &amp; Elton’s wines are on a level big brands can’t match</description>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 04:46:46 +0000</lastBuildDate>
     <item>
       <title>The changing face of Koshu and the move towards terroir-driven wines</title>
       <link>https://www.the-buyer.net/insight/koshu-terroir-driven-pasquale</link>
@@ -126,6 +121,11 @@
       <title>How AI Search will decide if your brand or business is relevant online</title>
       <link>https://www.the-buyer.net/insight/how-ai-is-transforming-if-brands-and-businesses-are-relevant-online</link>
       <description>How AI Search will decide if your brand or business is relevant online</description>
+    </item>
+    <item>
+      <title>Beyond Riesling: How German wine is future-proofing itself</title>
+      <link>https://www.the-buyer.net/insight/riesling-germany-future-wine</link>
+      <description>Beyond Riesling: How German wine is future-proofing itself</description>
     </item>
   </channel>
 </rss>
