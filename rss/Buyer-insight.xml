@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 04:13:43 +0000</lastBuildDate>
-    <item>
-      <title>The changing face of Koshu and the move towards terroir-driven wines</title>
-      <link>https://www.the-buyer.net/insight/koshu-terroir-driven-pasquale</link>
-      <description>The changing face of Koshu and the move towards terroir-driven wines</description>
-    </item>
+    <lastBuildDate>Sat, 06 Jun 2026 03:56:53 +0000</lastBuildDate>
     <item>
       <title>Wine Paris analysis: A changing drinks world looking for answers</title>
       <link>https://www.the-buyer.net/insight/wine-paris-analysis-a-changing-drinks-wine-world-looking-for-answers</link>
@@ -126,6 +121,11 @@
       <title>Beyond Riesling: How German wine is future-proofing itself</title>
       <link>https://www.the-buyer.net/insight/riesling-germany-future-wine</link>
       <description>Beyond Riesling: How German wine is future-proofing itself</description>
+    </item>
+    <item>
+      <title>SOWINE reveals major consumer shifts shaping UK drinks market</title>
+      <link>https://www.the-buyer.net/insight/sowine-reveals-the-major-consumer-shifts-shaping-uk-drinks-market</link>
+      <description>SOWINE reveals major consumer shifts shaping UK drinks market</description>
     </item>
   </channel>
 </rss>
