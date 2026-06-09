@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 04:27:30 +0000</lastBuildDate>
-    <item>
-      <title>Wine Paris analysis: A changing drinks world looking for answers</title>
-      <link>https://www.the-buyer.net/insight/wine-paris-analysis-a-changing-drinks-wine-world-looking-for-answers</link>
-      <description>Wine Paris analysis: A changing drinks world looking for answers</description>
-    </item>
+    <lastBuildDate>Tue, 09 Jun 2026 03:59:25 +0000</lastBuildDate>
     <item>
       <title>What Wine Paris' success now means for the future of ProWein</title>
       <link>https://www.the-buyer.net/insight/what-wine-paris-success-means-for-the-future-of-prowein</link>
@@ -126,6 +121,11 @@
       <title>SOWINE reveals major consumer shifts shaping UK drinks market</title>
       <link>https://www.the-buyer.net/insight/sowine-reveals-the-major-consumer-shifts-shaping-uk-drinks-market</link>
       <description>SOWINE reveals major consumer shifts shaping UK drinks market</description>
+    </item>
+    <item>
+      <title>Restaurant Tour: Exploring Gavi DOCG and Liverpool’s dining scene</title>
+      <link>https://www.the-buyer.net/insight/buyer-restaurant-tour-exploring-gavi-through-liverpool-s-restaurant-scene</link>
+      <description>Restaurant Tour: Exploring Gavi DOCG and Liverpool’s dining scene</description>
     </item>
   </channel>
 </rss>
