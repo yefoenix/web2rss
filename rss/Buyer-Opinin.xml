@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 04:23:26 +0000</lastBuildDate>
-    <item>
-      <title>Keith Webb: the art of the deal &amp; getting right price for your business</title>
-      <link>https://www.the-buyer.net/opinion/keith-webb-the-art-of-the-deal-and-why-business-valuations-can-be-nonsense</link>
-      <description>Keith Webb: the art of the deal &amp; getting right price for your business</description>
-    </item>
+    <lastBuildDate>Fri, 12 Jun 2026 04:26:19 +0000</lastBuildDate>
     <item>
       <title>Mike Turner asks: Which Nebbiolo style suits your wine list the best?</title>
       <link>https://www.the-buyer.net/opinion/nebbiolo-wine-list-turner</link>
@@ -126,6 +121,11 @@
       <title>Pam Dillon: Why drinks industry is strongly positioned in an AI world</title>
       <link>https://www.the-buyer.net/opinion/pam-dillon-software-is-getting-smarter-what-that-means-for-wine-and-spirits</link>
       <description>Pam Dillon: Why drinks industry is strongly positioned in an AI world</description>
+    </item>
+    <item>
+      <title>Graeme Sutherland: why indie wine merchants are future of wine retail</title>
+      <link>https://www.the-buyer.net/opinion/graeme-sutherland-on-why-independents-are-the-future-of-wine-retail</link>
+      <description>Graeme Sutherland: why indie wine merchants are future of wine retail</description>
     </item>
   </channel>
 </rss>
