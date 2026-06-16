@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 04:56:45 +0000</lastBuildDate>
-    <item>
-      <title>Mike Turner asks: Which Nebbiolo style suits your wine list the best?</title>
-      <link>https://www.the-buyer.net/opinion/nebbiolo-wine-list-turner</link>
-      <description>Mike Turner asks: Which Nebbiolo style suits your wine list the best?</description>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 04:53:47 +0000</lastBuildDate>
     <item>
       <title>Bordeaux 2024: Farr’s Stephen Browett on its quality and pricing</title>
       <link>https://www.the-buyer.net/opinion/farr-stephen-browett-bordeaux-2024</link>
@@ -126,6 +121,11 @@
       <title>Graeme Sutherland: why indie wine merchants are future of wine retail</title>
       <link>https://www.the-buyer.net/opinion/graeme-sutherland-on-why-independents-are-the-future-of-wine-retail</link>
       <description>Graeme Sutherland: why indie wine merchants are future of wine retail</description>
+    </item>
+    <item>
+      <title>Bruce Jack on why he fears staring down the barrel of 0% alcohol wines</title>
+      <link>https://www.the-buyer.net/opinion/bruce-jack-on-why-he-fears-staring-down-the-barrel-of-0-alcohol-wines</link>
+      <description>Bruce Jack on why he fears staring down the barrel of 0% alcohol wines</description>
     </item>
   </channel>
 </rss>
