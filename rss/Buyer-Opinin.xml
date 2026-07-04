@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 03:42:55 +0000</lastBuildDate>
-    <item>
-      <title>Roger Jones hails the return of the UK’s Definitive Champagne Tasting</title>
-      <link>https://www.the-buyer.net/opinion/jones-definitive-champagne-tasting</link>
-      <description>Roger Jones hails the return of the UK’s Definitive Champagne Tasting</description>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 03:35:58 +0000</lastBuildDate>
     <item>
       <title>Ben Witchell: how Charmat breaks the myth of expensive English fizz</title>
       <link>https://www.the-buyer.net/opinion/ben-witchell-how-charmat-breaks-the-myth-of-expensive-english-fizz</link>
@@ -126,6 +121,11 @@
       <title>Ashley Saunders on how to make the most of English wine tourism</title>
       <link>https://www.the-buyer.net/opinion/ashley-saunders-on-how-to-make-the-most-of-english-wine-tourism</link>
       <description>Ashley Saunders on how to make the most of English wine tourism</description>
+    </item>
+    <item>
+      <title>Ewan Lacey on how true leaders can see beyond business storms</title>
+      <link>https://www.the-buyer.net/opinion/ewan-lacey-on-how-true-leaders-can-see-beyond-business-storms</link>
+      <description>Ewan Lacey on how true leaders can see beyond business storms</description>
     </item>
   </channel>
 </rss>
