@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 03:28:25 +0000</lastBuildDate>
-    <item>
-      <title>Shock of the new - how Centennial event showed Rioja's reinvention</title>
-      <link>https://www.the-buyer.net/insight/centennial-celebration-rioja-dean</link>
-      <description>Shock of the new - how Centennial event showed Rioja's reinvention</description>
-    </item>
-    <item>
-      <title>How Wine Paris saw birth of drinks industry’s era of 'anything goes'</title>
-      <link>https://www.the-buyer.net/insight/wine-paris-and-the-birth-of-drinks-industry-s-roaring-twenty-twenties</link>
-      <description>How Wine Paris saw birth of drinks industry’s era of 'anything goes'</description>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 02:49:34 +0000</lastBuildDate>
     <item>
       <title>Clara Rubin on why the hospitality supply chain needs a major reset</title>
       <link>https://www.the-buyer.net/insight/clara-rubin-on-why-the-hospitality-supply-chain-needs-a-structural-reset</link>
@@ -126,6 +116,16 @@
       <title>Visiting Armenia – the 'oldest newest' wine country in the world</title>
       <link>https://www.the-buyer.net/insight/armenia-oldest-newest-wine-country</link>
       <description>Visiting Armenia – the 'oldest newest' wine country in the world</description>
+    </item>
+    <item>
+      <title>Wines of Alentejo Sustainability Programme: what it teaches us all</title>
+      <link>https://www.the-buyer.net/insight/wines-alentejo-sustainability-programme</link>
+      <description>Wines of Alentejo Sustainability Programme: what it teaches us all</description>
+    </item>
+    <item>
+      <title>Insight: Why Australia’s future lies in its premium wines and styles</title>
+      <link>https://www.the-buyer.net/insight/insight-why-australia-s-future-lies-in-its-premium-wines-and-styles</link>
+      <description>Insight: Why Australia’s future lies in its premium wines and styles</description>
     </item>
   </channel>
 </rss>
