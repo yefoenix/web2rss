@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 02:19:57 +0000</lastBuildDate>
-    <item>
-      <title>Ben Witchell: how Charmat breaks the myth of expensive English fizz</title>
-      <link>https://www.the-buyer.net/opinion/ben-witchell-how-charmat-breaks-the-myth-of-expensive-english-fizz</link>
-      <description>Ben Witchell: how Charmat breaks the myth of expensive English fizz</description>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 02:21:53 +0000</lastBuildDate>
     <item>
       <title>Will Trump’s tariffs derail or help reset fine wine investment market?</title>
       <link>https://www.the-buyer.net/opinion/andrew-lofthouse-trump-s-tariffs-and-their-impact-on-fine-wine-investing-market</link>
@@ -126,6 +121,11 @@
       <title>Ewan Lacey on how true leaders can see beyond business storms</title>
       <link>https://www.the-buyer.net/opinion/ewan-lacey-on-how-true-leaders-can-see-beyond-business-storms</link>
       <description>Ewan Lacey on how true leaders can see beyond business storms</description>
+    </item>
+    <item>
+      <title>How to prepare for and safeguard AI-driven online alcohol sales</title>
+      <link>https://www.the-buyer.net/opinion/how-to-prepare-for-and-protect-ai-driven-online-alcohol-sales</link>
+      <description>How to prepare for and safeguard AI-driven online alcohol sales</description>
     </item>
   </channel>
 </rss>
