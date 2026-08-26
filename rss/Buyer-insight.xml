@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 01:28:57 +0000</lastBuildDate>
-    <item>
-      <title>How Emilia-Romagna is a region still striving to find its own identity</title>
-      <link>https://www.the-buyer.net/insight/part-one-emilia-romagna-between-shadow-and-discovery</link>
-      <description>How Emilia-Romagna is a region still striving to find its own identity</description>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 01:39:11 +0000</lastBuildDate>
     <item>
       <title>Analysis: Why global drinks industry is opening up like never before</title>
       <link>https://www.the-buyer.net/insight/analysis-why-the-global-drinks-industry-is-opening-up-like-never-before</link>
@@ -126,6 +121,11 @@
       <title>The vineyard or the winery? Where is Cabernet Sauvignon really made?</title>
       <link>https://www.the-buyer.net/insight/vineyard-winery-cabernet-sauvignon</link>
       <description>The vineyard or the winery? Where is Cabernet Sauvignon really made?</description>
+    </item>
+    <item>
+      <title>Why Patagonia is finding its place in a changing Pinot Noir market</title>
+      <link>https://www.the-buyer.net/insight/why-patagonia-is-finding-its-place-in-a-changing-pinot-noir-market</link>
+      <description>Why Patagonia is finding its place in a changing Pinot Noir market</description>
     </item>
   </channel>
 </rss>
