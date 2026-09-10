@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 03:59:51 +0000</lastBuildDate>
-    <item>
-      <title>Emma Hodges on understanding &amp; helping ADHD in the workplace</title>
-      <link>https://www.the-buyer.net/opinion/emma-hodges-on-understanding-adhd-and-neurodiversity-in-the-workplace</link>
-      <description>Emma Hodges on understanding &amp; helping ADHD in the workplace</description>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 03:58:53 +0000</lastBuildDate>
     <item>
       <title>Matt Mckee on why the on-trade is still vital for challenger brands</title>
       <link>https://www.the-buyer.net/opinion/matt-mckee-on-why-the-on-trade-is-still-vital-for-challenger-brands</link>
@@ -66,6 +61,11 @@
       <title>Ross Sleet: why wine is misreading a vastly changing consumer</title>
       <link>https://www.the-buyer.net/opinion/ross-sleet-on-why-wine-is-misreading-a-vastly-changing-consumer</link>
       <description>Ross Sleet: why wine is misreading a vastly changing consumer</description>
+    </item>
+    <item>
+      <title>Dr Peter Stanbury on the business case for sustainablity in drinks</title>
+      <link>https://www.the-buyer.net/opinion/peter-stanbury-on-the-business-case-for-sustainablity-in-drinks</link>
+      <description>Dr Peter Stanbury on the business case for sustainablity in drinks</description>
     </item>
   </channel>
 </rss>
