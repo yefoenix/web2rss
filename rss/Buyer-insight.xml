@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 04:14:41 +0000</lastBuildDate>
-    <item>
-      <title>How AI Search will decide if your brand or business is relevant online</title>
-      <link>https://www.the-buyer.net/insight/how-ai-is-transforming-if-brands-and-businesses-are-relevant-online</link>
-      <description>How AI Search will decide if your brand or business is relevant online</description>
-    </item>
+    <lastBuildDate>Wed, 16 Sep 2026 04:10:52 +0000</lastBuildDate>
     <item>
       <title>Beyond Riesling: How German wine is future-proofing itself</title>
       <link>https://www.the-buyer.net/insight/riesling-germany-future-wine</link>
@@ -66,6 +61,11 @@
       <title>Why co-ops could be Italian wine's sustainability superpower</title>
       <link>https://www.the-buyer.net/insight/co-ops-italian-wine-sustainability</link>
       <description>Why co-ops could be Italian wine's sustainability superpower</description>
+    </item>
+    <item>
+      <title>How leading Provence Rosé is adopting fine wine's playbook</title>
+      <link>https://www.the-buyer.net/insight/provence-rose-producers-fine-wine</link>
+      <description>How leading Provence Rosé is adopting fine wine's playbook</description>
     </item>
   </channel>
 </rss>
