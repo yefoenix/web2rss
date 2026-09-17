@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 04:10:52 +0000</lastBuildDate>
-    <item>
-      <title>Beyond Riesling: How German wine is future-proofing itself</title>
-      <link>https://www.the-buyer.net/insight/riesling-germany-future-wine</link>
-      <description>Beyond Riesling: How German wine is future-proofing itself</description>
-    </item>
+    <lastBuildDate>Thu, 17 Sep 2026 04:17:42 +0000</lastBuildDate>
     <item>
       <title>SOWINE reveals major consumer shifts shaping UK drinks market</title>
       <link>https://www.the-buyer.net/insight/sowine-reveals-the-major-consumer-shifts-shaping-uk-drinks-market</link>
@@ -66,6 +61,11 @@
       <title>How leading Provence Rosé is adopting fine wine's playbook</title>
       <link>https://www.the-buyer.net/insight/provence-rose-producers-fine-wine</link>
       <description>How leading Provence Rosé is adopting fine wine's playbook</description>
+    </item>
+    <item>
+      <title>How low can you go? Garda DOC may just have the answer</title>
+      <link>https://www.the-buyer.net/insight/low-no-alcohol-wines-garda</link>
+      <description>How low can you go? Garda DOC may just have the answer</description>
     </item>
   </channel>
 </rss>
