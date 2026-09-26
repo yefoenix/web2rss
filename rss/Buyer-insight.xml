@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 04:17:05 +0000</lastBuildDate>
-    <item>
-      <title>SOWINE reveals major consumer shifts shaping UK drinks market</title>
-      <link>https://www.the-buyer.net/insight/sowine-reveals-the-major-consumer-shifts-shaping-uk-drinks-market</link>
-      <description>SOWINE reveals major consumer shifts shaping UK drinks market</description>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 04:21:31 +0000</lastBuildDate>
     <item>
       <title>Restaurant Tour: Exploring Gavi DOCG and Liverpool’s dining scene</title>
       <link>https://www.the-buyer.net/debates/buyer-restaurant-tour-exploring-gavi-through-liverpool-s-restaurant-scene</link>
@@ -66,6 +61,11 @@
       <title>How low can you go? Garda DOC may just have the answer</title>
       <link>https://www.the-buyer.net/insight/low-no-alcohol-wines-garda</link>
       <description>How low can you go? Garda DOC may just have the answer</description>
+    </item>
+    <item>
+      <title>Cramele Recas on why extreme ‘cranky’ harvests are new normal</title>
+      <link>https://www.the-buyer.net/insight/cramele-recas-on-why-extreme-cranky-harvests-are-the-new-normal</link>
+      <description>Cramele Recas on why extreme ‘cranky’ harvests are new normal</description>
     </item>
   </channel>
 </rss>
