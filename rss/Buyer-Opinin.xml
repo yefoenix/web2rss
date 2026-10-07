@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/opinion. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 05:43:25 +0000</lastBuildDate>
-    <item>
-      <title>Fero’s Mitch Fowler on galvanising young drinks leaders of the future</title>
-      <link>https://www.the-buyer.net/opinion/fero-s-mitch-fowler-how-we-galvanise-the-young-drinks-leaders-of-the-future</link>
-      <description>Fero’s Mitch Fowler on galvanising young drinks leaders of the future</description>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 05:14:38 +0000</lastBuildDate>
     <item>
       <title>Stranger &amp; Stranger’s Kevin Shaw: Dos &amp; don'ts of AI in label design</title>
       <link>https://www.the-buyer.net/opinion/stranger-and-stranger-s-kevin-shaw-can-ai-have-a-role-to-play-in-label-design</link>
@@ -66,6 +61,11 @@
       <title>Zeno’s David Hodgson rallying call to take alcohol-free more seriously</title>
       <link>https://www.the-buyer.net/opinion/zeno-s-david-hodgson-rallying-call-to-take-alcohol-free-more-seriously</link>
       <description>Zeno’s David Hodgson rallying call to take alcohol-free more seriously</description>
+    </item>
+    <item>
+      <title>Anne Jones on what you need to know about sustainability in drinks</title>
+      <link>https://www.the-buyer.net/opinion/anne-jones-on-what-you-need-to-know-about-sustainability</link>
+      <description>Anne Jones on what you need to know about sustainability in drinks</description>
     </item>
   </channel>
 </rss>
