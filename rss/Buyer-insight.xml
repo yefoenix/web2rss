@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 05:16:10 +0000</lastBuildDate>
-    <item>
-      <title>Visiting Armenia – the 'oldest newest' wine country in the world</title>
-      <link>https://www.the-buyer.net/insight/armenia-oldest-newest-wine-country</link>
-      <description>Visiting Armenia – the 'oldest newest' wine country in the world</description>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 06:15:01 +0000</lastBuildDate>
     <item>
       <title>Wines of Alentejo Sustainability Programme: what it teaches us all</title>
       <link>https://www.the-buyer.net/insight/wines-alentejo-sustainability-programme</link>
@@ -66,6 +61,11 @@
       <title>What impact Old Vine Seal can have on world’s oldest vineyards</title>
       <link>https://www.the-buyer.net/insight/what-impact-new-old-vine-seal-can-have-on-world-s-oldest-vineyards</link>
       <description>What impact Old Vine Seal can have on world’s oldest vineyards</description>
+    </item>
+    <item>
+      <title>Sommeliers get business advice they need at Coravin Symposium</title>
+      <link>https://www.the-buyer.net/insight/coravin-symposium-gives-sommeliers-business-advice-they-need</link>
+      <description>Sommeliers get business advice they need at Coravin Symposium</description>
     </item>
   </channel>
 </rss>
