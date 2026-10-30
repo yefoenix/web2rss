@@ -6,12 +6,7 @@
     <description>Latest posts from https://www.the-buyer.net/insight. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 05:07:13 +0000</lastBuildDate>
-    <item>
-      <title>Wines of Alentejo Sustainability Programme: what it teaches us all</title>
-      <link>https://www.the-buyer.net/insight/wines-alentejo-sustainability-programme</link>
-      <description>Wines of Alentejo Sustainability Programme: what it teaches us all</description>
-    </item>
+    <lastBuildDate>Fri, 30 Oct 2026 05:06:37 +0000</lastBuildDate>
     <item>
       <title>Insight: Why Australia’s future lies in its premium wines and styles</title>
       <link>https://www.the-buyer.net/insight/insight-why-australia-s-future-lies-in-its-premium-wines-and-styles</link>
@@ -66,6 +61,11 @@
       <title>Sommeliers get business advice they need at Coravin Symposium</title>
       <link>https://www.the-buyer.net/insight/coravin-symposium-gives-sommeliers-business-advice-they-need</link>
       <description>Sommeliers get business advice they need at Coravin Symposium</description>
+    </item>
+    <item>
+      <title>Light bottle, big ambition: Alentejo takes step towards lighter bottles</title>
+      <link>https://www.the-buyer.net/insight/alentejo-lighter-wine-bottles</link>
+      <description>Light bottle, big ambition: Alentejo takes step towards lighter bottles</description>
     </item>
   </channel>
 </rss>
